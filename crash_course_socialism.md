@@ -61,7 +61,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 [Why are communists against markets?](https://gist.github.com/tchoulihan/a0104a9bd921df21bb71)
 
 [Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/)
-*****
+******
 
 Introductory videos: 
 
@@ -102,6 +102,8 @@ More books / essays:
 
 [Engels - Principles of Communism](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm) (A great glossary of socialist terms)
 
+[Lenin - The Three Sources and Three Component Parts of Marxism](https://www.marxists.org/archive/lenin/works/1913/mar/x01.htm)
+
 [Engels - Socialism: Utopian and Scientific](http://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm)
 
 [Marx/Engels - The Communist Manifesto](http://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
@@ -109,8 +111,6 @@ More books / essays:
 [Marx - Wage Labour and Capital](https://www.marxists.org/archive/marx/works/1847/wage-labour/)
 
 [Rosa Luxemburg - Reform or Revolution](http://www.marxists.org/archive/luxemburg/1900/reform-revolution/index.htm) 
-
-[Lenin - The Three Sources and Three Component Parts of Marxism](https://www.marxists.org/archive/lenin/works/1913/mar/x01.htm)
 
 [Lenin - A liberal professor on Equality](https://www.marxists.org/archive/lenin/works/1914/mar/11.htm)
 
