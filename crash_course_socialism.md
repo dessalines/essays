@@ -58,6 +58,9 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [Branches of socialism](https://en.wikipedia.org/wiki/Types_of_socialism)
 
+
+####FAQ 
+
 [Why are communists against markets?](https://gist.github.com/tchoulihan/a0104a9bd921df21bb71)
 
 [Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/)
@@ -66,9 +69,11 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
 
+[Why do Marxists oppose individual terrorism?](https://www.marxists.org/archive/trotsky/1911/11/tia09.htm)
+
 ******
 
-Introductory videos: 
+####Introductory videos
 
 [3 minute intro to Marxism](https://www.youtube.com/watch?v=Vz3eOb6Yl1s)
 
@@ -92,7 +97,7 @@ Introductory videos:
 
 [Capitalist exploitation explained](https://youtu.be/-w12bkm9g8o?t=3m18s)
 
-Modern introductory books:
+####Modern introductory books
 
 Socialist books starter pack (torrent)
 <magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969>
@@ -101,13 +106,19 @@ Socialist books starter pack (torrent)
 
 [Paul D’Amatto - the meaning of Marxism](https://kat.cr/the-meaning-of-marxism-paul-d-amato-2014-epub-t10406804.html) 
 
-More books / essays: 
+####Essays/Introductions
 
 [Albert Einstein - Why Socialism?](http://monthlyreview.org/2009/05/01/why-socialism/)
 
 [Engels - Principles of Communism](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm) (A great glossary of socialist terms)
 
 [Lenin - The Three Sources and Three Component Parts of Marxism](https://www.marxists.org/archive/lenin/works/1913/mar/x01.htm)
+
+[Lenin - A liberal professor on Equality](https://www.marxists.org/archive/lenin/works/1914/mar/11.htm)
+
+[Eugene Debs - Capitalism and Socialism](https://www.marxists.org/archive/debs/works/1912/1912-capsoc.htm)
+
+####Marxist lit
 
 [Engels - Socialism: Utopian and Scientific](http://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm)
 
@@ -117,22 +128,17 @@ More books / essays:
 
 [Rosa Luxemburg - Reform or Revolution](http://www.marxists.org/archive/luxemburg/1900/reform-revolution/index.htm) 
 
-[Lenin - A liberal professor on Equality](https://www.marxists.org/archive/lenin/works/1914/mar/11.htm)
-
 [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/)
 
 [Lenin - “Left-Wing” Communism: an Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/)
 
 [Lenin - Imperialism, the Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/)
 
-[Eugene Debs - Capitalism and Socialism](https://www.marxists.org/archive/debs/works/1912/1912-capsoc.htm)
-
-
-Academic books on socialist economics:
+####Marxian economics
 
 [Cockshott and Cottrell - Towards a New Socialism](http://ricardo.ecn.wfu.edu/%7Ecottrell/socialism_book/new_socialism.pdf)
 
-History books:
+####History books
 
 [Howard Zinn - A Peoples History of the United States](http://www.historyisaweapon.com/zinnapeopleshistory.html)
 
@@ -146,7 +152,7 @@ History books:
 
 [Huey P. Newton - Revolutionary Suicide](https://www.amazon.com/Revolutionary-Suicide-Penguin-Classics-Deluxe/dp/0143105329)
 
-Socialist films: 
+####Socialist films
 
 [Reds(1981)](http://www.imdb.com/title/tt0082979/?ref_=fn_al_tt_1), [Salt of the Earth(1954)](http://www.imdb.com/title/tt0047443/?ref_=fn_al_tt_1), [Pride(2014)](http://www.imdb.com/title/tt3169706/?ref_=nv_sr_4), [Snowpiercer(2013)](http://www.imdb.com/title/tt1706620/?ref_=nv_sr_1), [Libertarias(1996)](http://www.imdb.com/title/tt0113649/?ref_=fn_al_tt_1), [The Trotsky(2009)](http://www.imdb.com/title/tt1295072/?ref_=fn_al_tt_1), [Battleship Potemkin(1925)](https://en.m.wikipedia.org/wiki/The_Battleship_Potemkin)
 
