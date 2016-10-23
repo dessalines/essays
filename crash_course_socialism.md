@@ -1,3 +1,5 @@
+# Crash Course Socialism
+
 [Socialism](https://en.wikipedia.org/wiki/Socialism) is an economic and social system defined by **social ownership of the means of production**. (Workers democratically own and operate the places in which they work, as opposed to private control of production aka [capitalism](https://en.wikipedia.org/wiki/Capitalism)). 
 
 The [means of production](https://en.wikipedia.org/wiki/Means_of_production) are non-human inputs that help create economic value, such as **factories, industrial machinery, workplaces, large tracts of land**, etc. The means of production are the means of life. Socialists refer to the means of production as *capital*, or private property. Private property in the socialist context shouldn't be confused with [personal property](https://en.wikipedia.org/wiki/Personal_property#Personal_versus_private_property), such as your home, car, computer, and other possessions, which would be protected. Private property is in actuality a weasel-word for *absentee property*, whose ownership is claimed through title only, for the purpose of extracting rent from the actual occupants, workers, or users. 
@@ -100,7 +102,8 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 ####Modern introductory books
 
 Socialist books starter pack (torrent)
-<magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969>
+
+*magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969*
 
 [Danny Katch -  Socialism…. Seriously](https://kat.cr/socialism-seriously-a-brief-guide-to-human-liberation-danny-katch-2015-epub-t11865751.html) 
 
