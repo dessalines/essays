@@ -61,6 +61,11 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 [Why are communists against markets?](https://gist.github.com/tchoulihan/a0104a9bd921df21bb71)
 
 [Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/)
+
+[What's the role of the state in the revolution?](https://whyithinkyourewrong.wordpress.com/2016/06/19/the-state-and-revolution-an-overview/)
+
+[What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
+
 ******
 
 Introductory videos: 
