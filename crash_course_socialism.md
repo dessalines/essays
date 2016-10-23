@@ -69,7 +69,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
 
-[Why do Marxists oppose individual terrorism?](https://www.marxists.org/archive/trotsky/1911/11/tia09.htm)
+[Why do Marxists oppose individual terrorism? (Trotsky)](https://www.marxists.org/archive/trotsky/1911/11/tia09.htm)
 
 ******
 
