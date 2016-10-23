@@ -109,6 +109,8 @@ Socialist books starter pack (torrent)
 
 [Paul D’Amatto - the meaning of Marxism](https://kat.cr/the-meaning-of-marxism-paul-d-amato-2014-epub-t10406804.html) 
 
+[Jacobin - The ABCs of Socialism](https://s3.jacobinmag.com/issues/jacobin-abcs.pdf)
+
 ####Essays/Introductions
 
 [Albert Einstein - Why Socialism?](http://monthlyreview.org/2009/05/01/why-socialism/)
