@@ -4,7 +4,7 @@
 
 # Table of Contents
 1. [What is a Revolution?](#what-is-a-revolution)  
-  1.1 [The Ruling Class](#the-ruling-class)
+  1.1. [The Ruling Class](#the-ruling-class)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 
