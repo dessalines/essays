@@ -1,6 +1,13 @@
-# How to Win a Revolution
+# How to Win a Revolution - A handbook for the 21st century struggle against capitalism.
 
-- Cuban, Haitian, Russian, and French revolutions
+- Cuban, Haitian, Russian, and French revolutions, paris commune, and the spanish revolution
+- Read Che - tactics book
+- Read Mao - tactics book
+- Read that one liberal's book about how to win a non-revolutionary struggle. 
+- Huey P. Newton's
+- Lives of Lenin and trotsky, Marx and Engels, Toussaint L'Overture, Dessalines, Danton, Che, Ho Chi Minh, Mao.
+Look at the lives of successful revolutionaries.
+- NOT influenced by machiavellianism, democratic
 
 # Table of Contents
 1. [What is a Revolution?](#what-is-a-revolution)  
@@ -8,12 +15,16 @@
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 
-
+## The Crisis
+Short description of why capitalism is bad, why reformism doesn't work, and why revolution is necessary. A short description also of the path, as given in Lenin's S+R. We won't know how the world will exactly look without wage slavery, whether it will be a bookchin-like communalism, or TODO include picture fully automated luxury gay space communism.
+## 
 ## What is a Revolution?
-### The Ruling Class
+### The Ruling, and the Ruled
+Property relations. Who controls the means of production, and how this is organized.
 When one group of people overthrows another, to become the new dominant, ruling class. "Political Revolutions" and "Coups" are often not revolutions at all. Replacing one military dictator, with another, without changing the class-nature of the power structure, isn't a revolution. 
 ## Conditions
 ### Dissatisfaction
+What is this pointed at? Minorities? The ruling class? Where is the rage directed at? Where the rage gets directed, is where the guns get pointed.
 ### Solidarity / Class Conciousness
 #### Unified class interests
 #### Comradery, and friendship
@@ -25,10 +36,24 @@ When one group of people overthrows another, to become the new dominant, ruling 
 
 
 ## Strategy
+### Organizing
+Why organizing is necessary. Use trotskys article on why individual terrorism is bad. Need class nature.
+#### Political Parties
+#### Unionism in the 21st century
+#### Spreading the message
+Pablo iglesias video, language and propaganda. Agitprop. Memes.
+### Location
+### Strikes
+Workers councils in the 21st century don't have the same power as they did in earlier times. Automation, and a labor surplus means that workers tactics like strikes, sit-ins, aren't as effective as in earlier times.
+### Arming
 ### Seizing power
+#### When is the right time?
+Too early, and you'll blow it, or be destroyed.
 ### Defeating the counter-revolution
 
-## 
+### Compromises
+
+## What to do next?
 
 
 Extra:
