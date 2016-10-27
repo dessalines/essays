@@ -8,6 +8,10 @@
 - Lives of Lenin and trotsky, Marx and Engels, Toussaint L'Overture, Dessalines, Danton, Che, Ho Chi Minh, Mao.
 Look at the lives of successful revolutionaries.
 - NOT influenced by machiavellianism, democratic
+- Google and read books about guerilla warfare
+- Read David kilcullen - The Coming age of the urban guerilla
+- Less than 50 pages.
+- Like the anarchists cookbook, or how to win a revolution
 
 # Table of Contents
 1. [What is a Revolution?](#what-is-a-revolution)  
@@ -43,9 +47,20 @@ Why organizing is necessary. Use trotskys article on why individual terrorism is
 #### Spreading the message
 Pablo iglesias video, language and propaganda. Agitprop. Memes.
 ### Location
+Why the countryside / forests is no longer a viable 'cover' for guerilla warfare. Guerillas need safety, and protection, IE, cover, can't have meetings and organize, no rifle practice. David Kilcullen video, 45:45. Max Boot on guerilla warfare. Traditionally guerillas weren't successful in cities. Today we have foliage penetrating radar that can see through forests, Drones that can surveil mountain ranges 24 hours a day. No more cover in the rural environment anymore, the cover is in the cities. Governments try to understand the information about cities, knowing who people are, where they live, where they go. These pieces of information can be obfuscated and made confusing. 
+
+The cover areas must be in slums, or 'illegible' territory, IE areas where capital has no vision.
 ### Strikes
 Workers councils in the 21st century don't have the same power as they did in earlier times. Automation, and a labor surplus means that workers tactics like strikes, sit-ins, aren't as effective as in earlier times.
 ### Arming
+### Fighting
+#### Tech
+Syrian rebels using android phones to control mortars. Drones. Self-created armored vehicles, alshams, miniature lightweight, home-made tank. Remote controlled machine gun, with armored video cameras. Consumer electronics, urban environment, democratized military tech. David kilcullen out of the mountains youtube, 26:21. OpenStreetMaps for strategy.
+### Winning the battle of public opinion
+In 2010, Kilcullen brought together his writings in his book Counterinsurgency and developed his understanding of counterinsurgency to address the globalized threat of radical Islam. He argues that successful counterinsurgency is about out-governing the enemy and winning the adaptation battle to provide integrated measures to defeat insurgent tactics through political, administrative, military, economic, psychological and informational means.
+Everything that the city/government does, you have to provide an alternative to do better. Free breakfast, etc.
+
+Che teaching people how to read, giving health care to the campesinos.
 ### Seizing power
 #### When is the right time?
 Too early, and you'll blow it, or be destroyed.
