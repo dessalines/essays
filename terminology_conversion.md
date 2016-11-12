@@ -7,19 +7,19 @@ These are terms for agitating and radicalizing urban and rural wage-workers. Fee
 |Socialist|Urban Workers|Rural Workers|
 |---|---|---|
 |Socialism|Democracy in the workplace|Community self-ownership|
-|Proletariat|Working Class|Wage earners|
-|Ruling Class|Top 1%|Rich decision-makers|
-|Class struggle|Rich vs. Poor||
-|Revolution|Armed overthrow the Rich|Community emancipation|
-|Capital|Private Property|Holy dollar|
-|Surplus value|Profit , IE `value added - wage paid`|Company's take|
+|Proletariat|Working Class|Wage earning class|
+|Ruling Class / Bourgeoisie|Top 1%|Rich overlords|
+|Class struggle|Landlords vs Tenants|Rich vs Poor|
+|Revolution|Armed overthrow|Community emancipation|
+|Capital|Private Property|Rent seeking property|
+|Surplus value|Profit , IE `value added - wage paid`|Company's take / Exploitation|
 |Dialectical Materialism|Historical Evolution of Production|Changes in production|
 |Bourgeois democracy|Democracy for the Rich||
 |Dictatorship of the Bourgeoisie|Police state||
-|Dictatorship of the Proletariet|Worker-controlled state|Control over your community|
-|Vanguard|Organizers|Community|
+|Dictatorship of the Proletariat|Worker-controlled state|Control over your community|
+|Vanguard|Revolutionaries|Community organizers|
 |Liberal|Individualist|Selfish smuggy aristocrats|
-|Imperialism|No war for *X*|Bombing other workers|
+|Imperialism|Colonial exploitation|Bombing other workers|
 
 
 
