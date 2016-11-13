@@ -1,10 +1,31 @@
-# Crash Course Socialism
+#Crash Course Socialism
+
+#### Table of Contents
+1. [Crash Course](#Crash Course Socialism)
+  1. [History, and Human Nature](#history-and-human-nature)
+  2. [Value and Conformity](#value-and-conformity)
+  3. [The State, and revolution](#the-state-and-revolution)
+  4. [Democracy](#democracy)
+  5. [Unsustainable growth](#unsustainable-growth)
+  6. [Defending the Status Quo](#defending-the-status-quo)
+  7. [The Socialist Future](#the-socialist-future)
+2. [FAQ](#faq)
+3. [Introductory videos](#introductory-videos)
+4. [Modern introductory books](#modern-introductory-books)
+5. [Essays/introductions](#essaysintroductions)
+6. [Marxist literature](#marxist-literature)
+7. [Marxian economics](#marxian-economics)
+8. [History books](#history-books)
+9. [Audiobooks](#audiobooks)
+10. [Films](#films)
+11. [Online Communities](#online-communities)
+12. [Organizations](#organizations)
 
 [Socialism](https://en.wikipedia.org/wiki/Socialism) is an economic and social system defined by **social ownership of the means of production**. (Workers democratically own and operate the places in which they work, as opposed to private control of production aka [capitalism](https://en.wikipedia.org/wiki/Capitalism)). 
 
 The [means of production](https://en.wikipedia.org/wiki/Means_of_production) are non-human inputs that help create economic value, such as **factories, industrial machinery, workplaces, large tracts of land**, etc. The means of production are the means of life. Socialists refer to the means of production as *capital*, or private property. Private property in the socialist context shouldn't be confused with [personal property](https://en.wikipedia.org/wiki/Personal_property#Personal_versus_private_property), such as your home, car, computer, and other possessions, which would be protected. Private property is in actuality a weasel-word for *absentee property*, whose ownership is claimed through title only, for the purpose of extracting rent from the *actual* users, occupants, or workers.
 
-In a capitalist society the means of production are owned and controlled privately, by those that can afford them (the capitalist, aka those with capital). Production is carried out to **benefit the capitalist** (production for profit). Workers are paid a wage, and **receive that amount regardless of how much value they produce**. Socialists call this difference the [surplus](https://en.wikipedia.org/wiki/Surplus_value), IE (worker value added - wage paid), or profit. A 1983 report by England national income and expenditures found that on average, 26 minutes of every hour worked(or 43% of labor value added) by English workers across a wide range of industries went to various exploiting or unproductive groups, with workers receiving only 57% of their pre-tax productive output as wages^[1](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/new_socialism.pdf). In other words, at least **40%** of the work you do every day is stolen. 
+In a capitalist society the means of production are owned and controlled privately, by those that can afford them (the capitalist, aka those with capital). Production is carried out to **benefit the capitalist** (production for profit). Workers are paid a wage, and **receive that amount regardless of how much value they produce**. Socialists call this difference the [surplus](https://en.wikipedia.org/wiki/Surplus_value), IE (worker value added - wage paid), or profit. A 1983 report by England national income and expenditures found that on average, 26 minutes of every hour worked(or 43% of labor value added) by English workers across a wide range of industries went to various exploiting or unproductive groups, with workers receiving only 57% of their pre-tax productive output as wages<sup>[1](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/new_socialism.pdf)</sup>. In other words, at least **40%** of the work you do every day is stolen. 
 
 Capitalists use the surplus to [push out competitors](https://en.wikipedia.org/wiki/Anti-competitive_practices) and gain market share, leading to the destruction of most small businesses, with [just a few companies](http://imgur.com/a/xgnEp) controlling our food, media, energy, transportation, and finances. 
 
@@ -45,11 +66,13 @@ The famines and economic hardship typically associated with communism in Russia 
 Socialists view democracy under capitalism to be an unrealistic utopia, better labeled as [Bourgeois Democracy](https://en.wikipedia.org/wiki/Democracy_in_Marxism), or democracy for the rich. Under capitalism, political parties, representatives, infrastructure, and the media **are controlled by capitalists**, who place restrictions and limitations on the ability and choices of the working class. [Bourgeois democracies](https://en.wikipedia.org/wiki/Liberal_democracy#Dictatorship_of_the_bourgeoisie) tend to be highly plutocratic, resulting in legislation [favorable to the wealthy](https://www.youtube.com/watch?v=5tu32CCA_Ig), regardless of the population's actual preferences. Examples of restrictions include the [First Past the Post](https://www.youtube.com/watch?v=s7tWHJfhiyo) voting system(which enforces capitalist two party domination), [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering), long term limits with no way to recall unpopular representatives, restrictions crafted to disenfranchise poor and minority voters, voter suppression, electoral fraud, unverifiable closed source electronic voting systems, capitalist campaign financing, low voter to representative ratios, and inconvienient voting locations and times. In short, political democracy can't exist without economic democracy.
 
 
-####Why does capitalism appear stable?
+####Unsustainable growth
 
-During Capitalisms' growth period, when there are new markets and labor forces to expand to, capitalism can appear stable for the richer consumers whose products are actually being produced by exploited, poorer workforces. Likewise, in a labor shortage, as existed in the newly industrializing US, capitalists have no choice but to keep wages high(and the rate of exploitation low) in order to bring in workers from other countries, and keep them from running off into the interior. In the southern US, African slavery was used to solve the labor shortage, and keep exploitation high(since no wages were paid), and consumer products such as tobacco and cotton cheap. 
+During Capitalisms' growth period, when there are new markets and labor forces to expand to, capitalism can appear stable for the richer consumers whose products are actually being produced by exploited, poorer workforces. Likewise, in a labor shortage, as existed in the newly industrializing US, capitalists have no choice but to keep wages high(and the rate of exploitation low) in order to bring in workers from other countries, and keep them from running off into the interior. In the southern US, African slavery was used to solve the labor shortage, and keep exploitation high(since no wages were paid), and consumer products such as tobacco and cotton cheap. In order to take advantage of cheap labor, capitalists usually build production far away from where those products are actually bought and consumed, meaning that most consumer goods are shipped by ocean-freight, wasting energy and **polluting the environment**. 
 
 In actuality, Capitalism is highly unstable, made up of a series of crises, economic bubbles, booms, and eventual busts, termed [business cycles](https://en.wikipedia.org/wiki/Business_cycle), that occur every few years, with varying intensity, but with most of the resulting burden shifted to the working class. The capitalist state often intervenes to prop up failing businesses, and bail out members of its own class.
+
+####Defending the Status Quo
 
 The reason why most people are reticent to read anti-capitalist literature, and discouraged from participating in the class struggle through unionism and political movements, is due to **capitalist indoctrination** and ideology. In Marxist philosophy, [cultural hegemony](https://en.wikipedia.org/wiki/Cultural_hegemony) is the domination of a culturally diverse society, by the ruling class who manipulate the culture of that society... the beliefs, explanations, perceptions, values, and mores, so that their imposed, ruling-class worldview becomes the accepted cultural norm; the universally valid dominant ideology, which justifies the social, political, and economic status quo as natural and inevitable, perpetual and beneficial for everyone, rather than as artificial social constructs that benefit only the ruling class.
 
@@ -110,13 +133,17 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ####Modern introductory books
 
-Socialist books starter pack (torrent)
+[Socialist books starter pack (torrent)](magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
 
-*magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969*
+<pre>magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 
-[Danny Katch -  Socialism…. Seriously](https://kat.cr/socialism-seriously-a-brief-guide-to-human-liberation-danny-katch-2015-epub-t11865751.html) 
+[Danny Katch -  Socialism…. Seriously](magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc&dn=Socialism Seriously A Brief Guide to Human Liberation Danny Katch (2015) epub&tr=http://tracker.opentrackr.org/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.zer0day.to:1337/announce)
 
-[Paul D’Amatto - the meaning of Marxism](https://kat.cr/the-meaning-of-marxism-paul-d-amato-2014-epub-t10406804.html) 
+<pre>magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc&dn=Socialism Seriously A Brief Guide to Human Liberation Danny Katch (2015) epub&tr=http://tracker.opentrackr.org/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.zer0day.to:1337/announce</pre>
+
+[Paul D’Amatto - the meaning of Marxism](magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
+<pre>magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 
 [Jacobin - The ABCs of Socialism](https://s3.jacobinmag.com/issues/jacobin-abcs.pdf)
 
@@ -132,7 +159,7 @@ Socialist books starter pack (torrent)
 
 [Eugene Debs - Capitalism and Socialism](https://www.marxists.org/archive/debs/works/1912/1912-capsoc.htm)
 
-####Marxist lit
+####Marxist literature
 
 [Engels - Socialism: Utopian and Scientific](http://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm)
 
@@ -150,7 +177,7 @@ Socialist books starter pack (torrent)
 
 ####Marxian economics
 
-[Cockshott and Cottrell - Towards a New Socialism](http://ricardo.ecn.wfu.edu/%7Ecottrell/socialism_book/new_socialism.pdf)
+[Cockshott and Cottrell - Towards a New Socialism](http://ricardo.ecn.wfu.edu/%7Ecottrell/socialism_book/new_socialism.pdf) [epub](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/TNS.epub)
 
 ####History books
 
@@ -166,8 +193,40 @@ Socialist books starter pack (torrent)
 
 [Huey P. Newton - Revolutionary Suicide](https://www.amazon.com/Revolutionary-Suicide-Penguin-Classics-Deluxe/dp/0143105329)
 
-####Socialist films
+####Audiobooks
+
+[Lenin - The State and Revolution](magnet:?xt=urn:btih:bf60338d499a40e4e99ca8edffda9447402a29de&dn=Lenin+-+The+State+and+Revolution+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
+<pre>magnet:?xt=urn:btih:bf60338d499a40e4e99ca8edffda9447402a29de&dn=Lenin+-+The+State+and+Revolution+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
+
+[Trotsky - Fascism - What it is and How to Fight It](magnet:?xt=urn:btih:d1f28f0c1b89ddd9a39205bef0be3715d117f91b&dn=Trotsky+-+Fascism+-+What+it+is+and+How+to+Fight+it+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
+<pre>magnet:?xt=urn:btih:d1f28f0c1b89ddd9a39205bef0be3715d117f91b&dn=Trotsky+-+Fascism+-+What+it+is+and+How+to+Fight+it+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
+
+[Howard Zinn - A People's History of the United States](magnet:?xt=urn:btih:dcd60768a9eb59cfa71eca4f5645ba34a3bebb0b&dn=Howard+Zinn+-+A+People%5C%27s+History+of+the+United+States+%5BUnabridg&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
+<pre>magnet:?xt=urn:btih:dcd60768a9eb59cfa71eca4f5645ba34a3bebb0b&dn=Howard+Zinn+-+A+People%5C%27s+History+of+the+United+States+%5BUnabridg&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
+
+[Marx and Engels - The Communist Manifesto](magnet:?xt=urn:btih:7428b83a5f9a51885e12166c0895a41f7f05396a&dn=Audiobook+The+Communist+Manifesto+by+Karl+Marx+and+Friedrich+Eng&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
+<pre>magnet:?xt=urn:btih:7428b83a5f9a51885e12166c0895a41f7f05396a&dn=Audiobook+The+Communist+Manifesto+by+Karl+Marx+and+Friedrich+Eng&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
+
+
+####Films
 
 [Reds(1981)](http://www.imdb.com/title/tt0082979/?ref_=fn_al_tt_1), [Salt of the Earth(1954)](http://www.imdb.com/title/tt0047443/?ref_=fn_al_tt_1), [Pride(2014)](http://www.imdb.com/title/tt3169706/?ref_=nv_sr_4), [Snowpiercer(2013)](http://www.imdb.com/title/tt1706620/?ref_=nv_sr_1), [Libertarias(1996)](http://www.imdb.com/title/tt0113649/?ref_=fn_al_tt_1), [The Trotsky(2009)](http://www.imdb.com/title/tt1295072/?ref_=fn_al_tt_1), [Battleship Potemkin(1925)](https://en.m.wikipedia.org/wiki/The_Battleship_Potemkin)
+
+
+####Online Communities
+
+[/r/anarchism](https://www.reddit.com/r/Anarchism/), [/r/communism](https://www.reddit.com/r/communism/), [/r/LateStageCapitalism](https://www.reddit.com/r/LateStageCapitalism/), [/r/socialism](https://www.reddit.com/r/socialism/), [/r/socialistprogrammers](https://www.reddit.com/r/socialistprogrammers/), [/r/TheTrotskyists](https://www.reddit.com/r/TheTrotskyists/), [/r/antifa](https://www.reddit.com/r/antifa/)
+
+101s: [/r/socialism_101](https://www.reddit.com/r/Socialism_101/), [/r/anarchy101](https://www.reddit.com/r/Anarchy101/), [/r/communism101](https://www.reddit.com/r/communism101/)
+
+Memes: [/r/FULLCOMMUNISM](https://www.reddit.com/r/FULLCOMMUNISM/), [/r/COMPLETEANARCHY](https://www.reddit.com/r/COMPLETEANARCHY/)
+
+####Organizations
+
+[Industrial Workers of the World (IWW)](https://iww.org/), [Party for Socialism and Liberation (PSL)](http://www.pslweb.org/), [Socialist Alternative (SA)](http://www.socialistalternative.org/), [Committee for a Workers' International (CWI)](http://www.socialistworld.net/)
 
 Credit to /u/gab91, /r/socialism, /r/socialism_101, /r/communism101.
