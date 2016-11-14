@@ -21,6 +21,8 @@
 - [Online Communities](#online-communities)
 - [Organizations](#organizations)
 
+******
+
 [Socialism](https://en.wikipedia.org/wiki/Socialism) is an economic and social system defined by **social ownership of the means of production**. (Workers democratically own and operate the places in which they work, as opposed to private control of production aka [capitalism](https://en.wikipedia.org/wiki/Capitalism)). 
 
 The [means of production](https://en.wikipedia.org/wiki/Means_of_production) are non-human inputs that help create economic value, such as **factories, industrial machinery, workplaces, large tracts of land**, etc. The means of production are the means of life. Socialists refer to the means of production as *capital*, or private property. Private property in the socialist context shouldn't be confused with [personal property](https://en.wikipedia.org/wiki/Personal_property#Personal_versus_private_property), such as your home, car, computer, and other possessions, which would be protected. Private property is in actuality a weasel-word for *absentee property*, whose ownership is claimed through title only, for the purpose of extracting rent from the *actual* users, occupants, or workers.
