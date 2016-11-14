@@ -1,13 +1,13 @@
 #Crash Course Socialism
 
 #### Table of Contents
-- [Crash Course](#Crash Course Socialism)
+- [Crash Course](#crash-course-socialism)
   - [History, and Human Nature](#history-and-human-nature)
   - [Value and Conformity](#value-and-conformity)
-  - [The State, and revolution](#the-state-and-revolution)
   - [Democracy](#democracy)
-  - [Unsustainable growth](#unsustainable-growth)
+  - [Unsustainable Growth](#unsustainable-growth)
   - [Defending the Status Quo](#defending-the-status-quo)
+  - [The State, and Revolution](#the-state-and-revolution)
   - [The Socialist Future](#the-socialist-future)
 - [FAQ](#faq)
 - [Introductory videos](#introductory-videos)
@@ -41,25 +41,11 @@ Socialism as a diverse philosophy arose out of a criticism after the french revo
 
 ####Value and Conformity
 
-Economic systems, such as Capitalism, don't invent, create, or *create* or *build* anything. Workers do. (See [Soviet Space Program](https://en.wikipedia.org/wiki/Soviet_space_program)). 
+Economic systems, such as Capitalism, don't invent, *create* or *build* anything. Workers do. (See [Soviet Space Program](https://en.wikipedia.org/wiki/Soviet_space_program)). 
 
-[The labor theory of value](https://en.wikipedia.org/wiki/Labor_theory_of_value) recognizes that our most valuable resource is time, specifically **socially useful** labor time. Under capitalism, the [subjective theory of value](https://en.wikipedia.org/wiki/Subjective_theory_of_value) allows the mega-rich to justify owning [thousands of lifetimes](https://www.reddit.com/r/socialism/comments/4wxdnb/how_many_lifetimes_of_labor_has_bill_gates_stolen/?ref=search_posts) of stolen labor. 
+[The labor theory of value](https://en.wikipedia.org/wiki/Labor_theory_of_value) recognizes that our most valuable resource is time, specifically **socially useful** labor time. Under capitalism, the [subjective theory of value](https://en.wikipedia.org/wiki/Subjective_theory_of_value) allows the mega-rich to justify owning [thousands of lifetimes](https://www.reddit.com/r/socialism/comments/4wxdnb/how_many_lifetimes_of_labor_has_bill_gates_stolen/?ref=search_posts) of stolen labor.
 
-[Socialism has nothing to do with conformity](https://www.marxists.org/archive/lenin/works/1914/mar/11.htm), restriction of artistic expression, or equality in abilities. It instead proposes economic and political equality through the abolition of classes, placing all citizens on an equal footing *with regard to the means of production*. It is Capitalism, with its inherent authoritarian hierarchies, that imposes conformity on society through [vapid consumerism](https://en.wikipedia.org/wiki/Commodity_fetishism), and through the authoritarian nature of capitalist firms themselves. A [chain of command](https://en.wikipedia.org/wiki/Command_hierarchy) ensures that orders from capitalists drop like a rock, to dominate the actions of every worker. 
-
-####The State, and revolution
-
-Private ownership of the means of production was established through force and [private tyranny](https://www.youtube.com/watch?v=FVt7U2YIgZs), and is only upheld through force. The state is a **special organization of force used for the suppression of one class by another** which (in capitalist society) exercises a monopoly on violence to forcibly maintain the right to private property. The modern state developed alongside the emergent capitalist system as the bourgeoisie seized political and economic control. It arises from the irreconcilable class antagonisms that exist in society.
-
-The State, under capitalist society, which protects private property and upholds the capitalist mode of production, is an instrument wielded by the bourgeoisie to *suppress the proletariat*. So long as there are classes in society, a State must exist.
-
-Marxists aim to replace the dictatorship of the bourgeoisie, with a transitional [dictatorship of the proletariet](https://whyithinkyourewrong.wordpress.com/2016/06/19/the-state-and-revolution-an-overview/), smashing the presently existing bourgeois state apparatus, and replacing it with a new state constructed on the basis of proletarian power, destroying all the elements which exist to oppress workers. Once the proletarian state possesses political power and controls the means of production, it will *wither away* over time as it suppresses the bourgeoisie and moves toward a classless, egalitarian society. Eventually, the use of force is no longer necessary to suppress class antagonisms, because there are no classes, and the oppressive elements of the proletarian state wither away. 
-
-Socialism as an economic system is distinct from [neoliberalism](https://en.wikipedia.org/wiki/Neoliberalism), as well as [social democracy](https://en.wikipedia.org/wiki/Social_democracy)/Welfare [state capitalism](https://en.wikipedia.org/wiki/State_capitalism), which aims to band-aid the ills of capitalism while leaving the exploitation inherent in [wage slavery](https://en.wikipedia.org/wiki/Wage_slavery) intact. Social services provided by the capitalist-controlled state have nothing to do with socialism. 
-
-Many Marxists call the totalitarian regimes typically called socialist, as more correctly defined as [State Capitalism](https://en.wikipedia.org/wiki/State_capitalism), since production was controlled by state bureaucracies who also distributed the surplus, rather than through the democratic input of workers. However, the early stages of the [1917 russian revolution](https://en.m.wikipedia.org/wiki/October_Revolution) were far more progressive than is typically portrayed; Divorce was legalized, **Homosexuality was decriminalized**, land was distributed to the peasantry, banks were nationalized, control of factories was given to worker's councils, **the workday was shortened**, wages were fixed at a higher rate, all elected officials could now be immediately recalled, it created mass literacy drives, free nurseries, communal kitchens, and laundries. Western nations(including the US) [sent troops to russia](https://en.m.wikipedia.org/wiki/Allied_intervention_in_the_Russian_Civil_War) to fight against the gains of the revolution. Most of these revolutionary gains were lost due to a multitude of factors(civil war, a drastic decrease of the numbers of working class (50% decrease in the industrial centers), decimation of russian industry) that merit deeper study. 
-
-The famines and economic hardship typically associated with communism in Russia and China, were a result of the painful process of [industrialization](https://en.wikipedia.org/wiki/Industrialisation), and their transition from agriculture, to industry. It would be the case whether capitalists, communists, or enlightened rulers were in power. During England's rapid industrialization, life expectancy in some of the cities was less than 30 years. This is the case with every country in the process of industrialization. [Lysenkoism](https://en.wikipedia.org/wiki/Lysenkoism), and the [drought of 1959-61](https://en.wikipedia.org/wiki/Great_Chinese_Famine) made the problem worse. 
+[Socialism has nothing to do with conformity](https://www.marxists.org/archive/lenin/works/1914/mar/11.htm), restriction of artistic expression, or equality in abilities. It instead proposes *economic and political equality* through the abolition of classes, placing all citizens on an equal footing *with regard to the means of production*. It is Capitalism, with its inherent authoritarian hierarchies, that imposes conformity on society through [vapid consumerism](https://en.wikipedia.org/wiki/Commodity_fetishism), and through the authoritarian nature of capitalist firms themselves. A [chain of command](https://en.wikipedia.org/wiki/Command_hierarchy) ensures that orders from capitalists drop like a rock, to dominate the actions of every worker. 
 
 ####Democracy
 
@@ -80,18 +66,31 @@ Since the 1960s, there has been a [labor surplus](https://en.wikipedia.org/wiki/
 
 Both feudalism and slavery were thought to be highly stable systems, and even they lasted hundreds of years until their eventual overthrow.
 
+####The State, and revolution
+
+Private ownership of the means of production was established through force and [private tyranny](https://www.youtube.com/watch?v=FVt7U2YIgZs), and is only upheld through force. The state is a **special organization of force used for the suppression of one class by another** which (in capitalist society) exercises a monopoly on violence to forcibly maintain the right to private property. The modern state developed alongside the emergent capitalist system as the bourgeoisie seized political and economic control. It arises from the irreconcilable class antagonisms that exist in society.
+
+The State, under capitalist society, which protects private property and upholds the capitalist mode of production, is an instrument wielded by the bourgeoisie to *suppress the proletariat*. So long as there are classes in society, a State must exist.
+
+Marxists aim to replace the dictatorship of the bourgeoisie, with a transitional [dictatorship of the proletariet](https://whyithinkyourewrong.wordpress.com/2016/06/19/the-state-and-revolution-an-overview/), smashing the presently existing bourgeois state apparatus, and replacing it with a new state constructed on the basis of worker power, destroying all the elements which exist to oppress workers. Once the proletarian state possesses political power and controls the means of production, it will *wither away* over time as it suppresses the bourgeoisie and moves toward a classless, egalitarian society. Eventually, the use of force is no longer necessary to suppress class antagonisms, because there *are no classes*, and the oppressive elements of the proletarian state wither away. 
+
+Socialism as an economic system is distinct from [neoliberalism](https://en.wikipedia.org/wiki/Neoliberalism), as well as [social democracy](https://en.wikipedia.org/wiki/Social_democracy)/Welfare [state capitalism](https://en.wikipedia.org/wiki/State_capitalism), which aims to band-aid the ills of capitalism while leaving the exploitation inherent in [wage slavery](https://en.wikipedia.org/wiki/Wage_slavery) intact. Social services provided by the capitalist-controlled state have nothing to do with socialism. 
+
+Many Marxists call the totalitarian regimes typically called socialist, as more correctly defined as [State Capitalism](https://en.wikipedia.org/wiki/State_capitalism), since production was controlled by state bureaucracies who also distributed the surplus, rather than through the democratic input of workers. However, the early stages of the [1917 russian revolution](https://en.m.wikipedia.org/wiki/October_Revolution) were far more progressive than is typically portrayed; Divorce was legalized, **Homosexuality was decriminalized**, land was distributed to the peasantry, banks were nationalized, control of factories was given to worker's councils, **the workday was shortened**, wages were fixed at a higher rate, all elected officials could now be immediately recalled; it created mass literacy drives, free nurseries, communal kitchens, and laundries. Western nations(including the US) [sent troops to russia](https://en.m.wikipedia.org/wiki/Allied_intervention_in_the_Russian_Civil_War) to fight against the gains of the revolution. Most of these revolutionary gains were lost due to a multitude of factors(civil war, a drastic decrease of the numbers of working class (50% decrease in the industrial centers), decimation of russian industry) that merit deeper study. 
+
+The famines and economic hardship typically associated with communism in Russia and China, were a result of the painful process of [industrialization](https://en.wikipedia.org/wiki/Industrialisation), and the transition from agriculture to industry. It would be the case whether capitalists, communists, or enlightened rulers were in power. During England's rapid industrialization, life expectancy in some cities was less than 30 years. This is the case with every country in the process of industrialization. [Lysenkoism](https://en.wikipedia.org/wiki/Lysenkoism), and [a period of droughts](https://en.wikipedia.org/wiki/Great_Chinese_Famine) made the problem worse. 
+
 ####The Socialist Future
 
 Communism is the highest developed stage of socialism wherein there is no state, no money, no class system. The means of production are owned by all and provide for everyone's needs. There are also presumably high levels of automation so [most do not have to work](http://imgur.com/yQpzb).
 
-Socialism **can't exist within a capitalist system**, much like capitalism can't exist within a socialist system. There is either private ownership of the means of production or there isn't. Many socialists point to [directly democratic](https://en.wikipedia.org/wiki/Direct_democracy) [worker’s councils](https://en.wikipedia.org/wiki/Workers'_council) as an ideal way to organize production, with gift economies for abundant goods, and labor voucher economies for scarce/luxury goods.
+Socialism **can't exist within a capitalist system**, much like capitalism can't exist within a socialist system. There is either private ownership of the means of production, or social and democratic. Many socialists point to [directly democratic](https://en.wikipedia.org/wiki/Direct_democracy) [worker’s councils](https://en.wikipedia.org/wiki/Workers'_council) as an ideal way to organize production, with [gift economies](https://en.wikipedia.org/wiki/Gift_economy) for abundant goods, and [labor voucher](https://en.wikipedia.org/wiki/Labour_voucher) economies for scarce/luxury goods.
 
 Past and present socialist/anarchist societies include - [Revolutionary Catalonia](https://en.wikipedia.org/wiki/Revolutionary_Catalonia), [Anarchist Aragon](https://en.wikipedia.org/wiki/Anarchist_Aragon), Shinmin Province in Korea/Manchuria, [Free Territory of Ukraine](https://en.wikipedia.org/wiki/Free_Territory), The [Bavarian Soviet Republic](https://en.wikipedia.org/wiki/Bavarian_Soviet_Republic), The [Paris Commune](https://en.wikipedia.org/wiki/Paris_commune), The Zapatista controlled areas of Chiapas (current day), [Magonista Baja California](https://en.wikipedia.org/wiki/Magonista_rebellion_of_1911), [Shanghai People's Commune](https://en.wikipedia.org/wiki/Shanghai_People%27s_Commune), [Rojava](https://en.wikipedia.org/wiki/Rojava) (current day), [Communist Marinaleda](http://www.theguardian.com/world/2013/oct/20/marinaleda-spanish-communist-village-utopia), [USSR](https://en.wikipedia.org/wiki/Soviet_Union) (debated) 
 
 [Revolutionary](https://en.wikipedia.org/wiki/Revolutionary_socialism) vs [Evolutionary](https://en.wikipedia.org/wiki/Reformism) socialism, [Economic planning](https://en.wikipedia.org/wiki/Planned_economy) with [labor vouchers](https://en.wikipedia.org/wiki/Labour_voucher) vs. [Market socialism](https://en.wikipedia.org/wiki/Market_socialism), are a few debated topics within socialism. 
 
 [Branches of socialism](https://en.wikipedia.org/wiki/Types_of_socialism)
-
 
 ####FAQ 
 
@@ -214,12 +213,12 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ####Films
 
-[Reds(1981)](http://www.imdb.com/title/tt0082979/?ref_=fn_al_tt_1), [Salt of the Earth(1954)](http://www.imdb.com/title/tt0047443/?ref_=fn_al_tt_1), [Pride(2014)](http://www.imdb.com/title/tt3169706/?ref_=nv_sr_4), [Snowpiercer(2013)](http://www.imdb.com/title/tt1706620/?ref_=nv_sr_1), [Libertarias(1996)](http://www.imdb.com/title/tt0113649/?ref_=fn_al_tt_1), [The Trotsky(2009)](http://www.imdb.com/title/tt1295072/?ref_=fn_al_tt_1), [Battleship Potemkin(1925)](https://en.m.wikipedia.org/wiki/The_Battleship_Potemkin)
+[Pride(2014)](http://www.imdb.com/title/tt3169706/?ref_=nv_sr_4), [Reds(1981)](http://www.imdb.com/title/tt0082979/?ref_=fn_al_tt_1), [Salt of the Earth(1954)](http://www.imdb.com/title/tt0047443/?ref_=fn_al_tt_1), [Snowpiercer(2013)](http://www.imdb.com/title/tt1706620/?ref_=nv_sr_1), [Libertarias(1996)](http://www.imdb.com/title/tt0113649/?ref_=fn_al_tt_1), [The Trotsky(2009)](http://www.imdb.com/title/tt1295072/?ref_=fn_al_tt_1), [Battleship Potemkin(1925)](https://en.m.wikipedia.org/wiki/The_Battleship_Potemkin)
 
 
 ####Online Communities
 
-[/r/anarchism](https://www.reddit.com/r/Anarchism/), [/r/communism](https://www.reddit.com/r/communism/), [/r/LateStageCapitalism](https://www.reddit.com/r/LateStageCapitalism/), [/r/socialism](https://www.reddit.com/r/socialism/), [/r/socialistprogrammers](https://www.reddit.com/r/socialistprogrammers/), [/r/TheTrotskyists](https://www.reddit.com/r/TheTrotskyists/), [/r/antifa](https://www.reddit.com/r/antifa/)
+[/r/LateStageCapitalism](https://www.reddit.com/r/LateStageCapitalism/), [/r/socialism](https://www.reddit.com/r/socialism/), [/r/anarchism](https://www.reddit.com/r/Anarchism/), [/r/communism](https://www.reddit.com/r/communism/), [/r/socialistprogrammers](https://www.reddit.com/r/socialistprogrammers/), [/r/TheTrotskyists](https://www.reddit.com/r/TheTrotskyists/), [/r/antifa](https://www.reddit.com/r/antifa/)
 
 101s: [/r/socialism_101](https://www.reddit.com/r/Socialism_101/), [/r/anarchy101](https://www.reddit.com/r/Anarchy101/), [/r/communism101](https://www.reddit.com/r/communism101/)
 
