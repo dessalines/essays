@@ -11,7 +11,7 @@ These are terms for agitating and radicalizing urban and rural wage-workers. Fee
 |Ruling Class / Bourgeoisie|Top 1%|Rich overlords|
 |Class struggle|Landlords vs Tenants|Rich vs Poor|
 |Revolution|Armed overthrow|Community emancipation|
-|Capital|Private Property|Rent seeking property|
+|Capital|Absentee Property||
 |Surplus value|Profit , IE `value added - wage paid`|Company's take / Exploitation|
 |Dialectical Materialism|Historical Evolution of Production|Changes in production|
 |Bourgeois democracy|Democracy for the Rich||
