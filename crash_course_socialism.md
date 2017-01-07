@@ -206,6 +206,10 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 <pre>magnet:?xt=urn:btih:d1f28f0c1b89ddd9a39205bef0be3715d117f91b&dn=Trotsky+-+Fascism+-+What+it+is+and+How+to+Fight+it+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 
+[Rosa Luxemburg - Reform or Revolution](magnet:?xt=urn:btih:ef5f7d59d0792aedc3a80673b34d0f6b21fd7802&dn=Rosa%20Luxemburg%20-%20Reform%20or%20Revolution%20%5baudiobook%5d%20by%20dessalines&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
+
+<pre>magnet:?xt=urn:btih:ef5f7d59d0792aedc3a80673b34d0f6b21fd7802&dn=Rosa%20Luxemburg%20-%20Reform%20or%20Revolution%20%5baudiobook%5d%20by%20dessalines&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</pre>
+
 [Howard Zinn - A People's History of the United States](magnet:?xt=urn:btih:dcd60768a9eb59cfa71eca4f5645ba34a3bebb0b&dn=Howard+Zinn+-+A+People%5C%27s+History+of+the+United+States+%5BUnabridg&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
 
 <pre>magnet:?xt=urn:btih:dcd60768a9eb59cfa71eca4f5645ba34a3bebb0b&dn=Howard+Zinn+-+A+People%5C%27s+History+of+the+United+States+%5BUnabridg&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
