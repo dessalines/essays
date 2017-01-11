@@ -37,7 +37,7 @@ Capitalists use the surplus to [push out competitors](https://en.wikipedia.org/w
 
 [Wage workers](https://www.youtube.com/watch?v=oztdRo9GLLk) are **completely dependent** on selling their labor power to those in control of production in order to gain access to the necessities of life (money for food, shelter, clothing, etc). Its similarities to chattel slavery has lead many to term wage work as [wage slavery](https://en.wikipedia.org/wiki/Wage_slavery), with voluntary employment being simply a false choice between **one exploiter or another**.
 
-Technological advancements, instead of benefiting workers, result in decreased or stagnant wages, worsening bargaining power, or mass layoffs. For example, a machine that replaces 10 workers results in their firing, resulting in a benefit for the machine owner, and a economic hardship to the fired workers. 
+Technological advancements, instead of benefiting workers, result in decreased or stagnant wages, worsening bargaining power, or **mass layoffs**. For example, a machine that replaces 10 workers results in their firing, resulting in a benefit for the machine owner, and an economic hardship to the fired workers. 
 
 ###History, and Human Nature
 
