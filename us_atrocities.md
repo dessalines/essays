@@ -17,6 +17,7 @@ Potential Sources / Starting points:
 - Google sources
 - Reddit sources
 - Wikipedia sources on FBI, CIA, COINTELPRO, MKULTRA, war crimes
+- Wikipedia on war on terror
 - Capitalism death count, US death count
 - Noam chomsky on presidents video
 
@@ -66,6 +67,8 @@ Backlog:
 
 ### Middle East
 
+- On 3 October 2015, a United States Air Force AC-130U gunship attacked and killed 42 peopled and wounded 30 more in the [Kunduz Trauma Centre](https://en.wikipedia.org/wiki/Kunduz_hospital_airstrike) operated by Doctors Without Borders in the city of Kunduz, in northern Afghanistan. The airstrike constitutes a war crime, as attacks on hospitals are . CNN and the New York Times deliberately obscured the US's responsibility for the bombing, with the headline, "US is blamed after bomb hits afghan hospital". <sup>[1](https://en.wikipedia.org/wiki/Kunduz_hospital_airstrike),[2](https://theintercept.com/2015/10/05/cnn-and-the-nyt-are-deliberately-obscuring-who-perpetrated-the-afghan-hospital-attack/)</sup>
+
 - On May 9, 2006, U.S. troops executed 3 male Iraqi detainees at the Muthana Chemical Complex, called the [Iron Triangle Murders](https://en.wikipedia.org/wiki/Operation_Iron_Triangle#Iron_Triangle_Murders).<sup>[1](https://en.wikipedia.org/wiki/Operation_Iron_Triangle#Iron_Triangle_Murders)</sup>
 
 - On on April 26, 2006 in the [Hamdania incident](https://en.wikipedia.org/wiki/Hamdania_incident), US troops killed an unarmed civilian, staging a fake firefight to cover it up. Members of the squad were shooting the stolen AK-47 rifle into the air to make it sound like a firefight was occurring, and after the Iraqi man was dead, the Marines scattered the expended AK-47 brass next to the body, removed the plastic restraints, and placed the AK-47 rifle next to the body.<sup>[1](https://en.wikipedia.org/wiki/Hamdania_incident)</sup>
@@ -82,9 +85,12 @@ Backlog:
 
 - On November 19, 2005, a group of US marines killed 24 unarmed men, women and children in the [city of Haditha](https://en.wikipedia.org/wiki/Haditha_massacre) in Western Iraq. Staff Sgt. Frank Wuterich admitted to telling his men to "shoot first and ask questions later". The eight marines were found not guilty of voluntary manslaughter. <sup>[1](https://en.wikipedia.org/wiki/Haditha_massacre)</sup>
 
-- In 2004, accounts of physical, psychological, and sexual abuse, including torture, rape, sodomy, and homicide of prisoners held in the [Abu Ghraib prison](https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse) in Iraq came to public attention, revealing a systemic policy of torture during the Iraq war, primarily perpetrated by US Military police, and the CIA. Many of the torture techniques used were developed at Guantánamo detention centre, including prolonged isolation; sensory deprivation to induce psychosis, a sleep deprivation program whereby people were moved from cell to cell every few hours so they couldn’t sleep for days, weeks, even months, short-shackling in painful positions; nudity; extreme use of heat and cold; the use of loud music and noise and preying on phobias. Many, such as [Manadel al-Jamadi](https://en.wikipedia.org/wiki/Death_of_Manadel_al-Jamadi), were tortured to death. <sup>[1](https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse)</sup>
+- In 2004, accounts of physical, psychological, and sexual abuse, including torture(whitewashed as *enhanced interrogation techniques*), rape, sodomy, and homicide of prisoners held in the [Abu Ghraib prison](https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse) in Iraq came to public attention, revealing a systemic policy of torture during the Iraq war, primarily perpetrated by US Military police, and the CIA. Many of the torture techniques used were developed at Guantánamo detention centre, including prolonged isolation; sensory deprivation to induce psychosis, a sleep deprivation program whereby people were moved from cell to cell every few hours so they couldn’t sleep for days, weeks, even months, short-shackling in painful positions; nudity; extreme use of heat and cold; the use of loud music and noise and preying on phobias. Many, such as [Manadel al-Jamadi](https://en.wikipedia.org/wiki/Death_of_Manadel_al-Jamadi), were tortured to death. <sup>[1](https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse)</sup>
 
 - On April 14, 2004, Lieutenant Ilario Pantano of the United States Marine Corps, killed two unarmed captives. Lieutenant Pantano claimed that the captives had advanced on him in a threatening manner. All charges were dropped, and he received an honorable discharge. <sup>[1](https://en.wikipedia.org/wiki/Ilario_Pantano)</sup>
+
+- In april, 2004, the US military lied to the family of [Pat Tillman](https://en.wikipedia.org/wiki/Pat_Tillman), a famous american athlete turned soldier, surrounding his death by friendly fire, and used a fake heroic story about his death as a recruiting poster. The jingoistic media coverage was created by the spin of several top US generals and Bush administration officials, who dictated a memo about how best to handle the embarrassing death of such a high profile soldier. <sup>[1](https://en.wikipedia.org/wiki/The_Tillman_Story)</sup>
+
 
 
 
@@ -97,6 +103,8 @@ Backlog:
 - US soldiers killed 73 unarmed Italian and German prisoners of war in Santo Pietro, Italy on July 1943. The survivors were then shot at close range, directly through the heart. <sup>[1](https://en.wikipedia.org/wiki/Biscari_massacre)</sup>
 
 - The [Rheinwiesenlager](https://en.wikipedia.org/wiki/Rheinwiesenlager) (Rhine meadow camps) were a group of 19 US prison camps built in the Allied-occupied part of Germany to hold captured German soldiers at the close of the Second World War, holding between one and almost two million surrendered Wehrmacht personnel. Prisoners held in the camps were designated Disarmed Enemy Forces not POWs, to avoid international treaty regulations. Between 3,000 to 10,000 died from starvation, dehydration and exposure to the weather elements because no structures were built inside the prison compounds. <sup>[1](https://en.wikipedia.org/wiki/Rheinwiesenlager)</sup>
+
+- A study by Robert J. Lilly estimates that a total of 14,000 civilian women in England, France and Germany were raped by American GIs during World War II.<sup>[1](https://en.wikipedia.org/wiki/United_States_war_crimes#cite_note-66)</sup>. It is estimated that there were around 3,500 rapes by American servicemen in France between June 1944 and the end of the war and one historian has claimed that sexual violence against women in liberated France was common.<sup>[2](https://en.wikipedia.org/wiki/United_States_war_crimes#cite_note-bbcNormandy-68)</sup>
 
 
 ### Asia
@@ -129,6 +137,9 @@ Backlog:
 ### Prisoners
 
 ### Homeless
+
+### Religious minorities
+
 
 
 
