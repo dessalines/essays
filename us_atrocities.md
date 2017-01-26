@@ -1,31 +1,39 @@
-# List of US Atrocities
+# List of Atrocities commited by US authorities
 
 *Definition: An extremely wicked or cruel act, typically one involving physical violence or injury.*
 
+<!-- toc -->
+
+  * [Notes](#notes)
+- [Imperialism](#imperialism)
+  * [Western hemisphere](#western-hemisphere)
+  * [Middle East](#middle-east)
+  * [Africa](#africa)
+  * [Europe](#europe)
+  * [Asia](#asia)
+- [Internal Repression](#internal-repression)
+  * [Native Americans](#native-americans)
+  * [Blacks](#blacks)
+  * [Women](#women)
+  * [Latinos](#latinos)
+  * [Asians](#asians)
+  * [Workers](#workers)
+  * [Prisoners](#prisoners)
+  * [Homeless](#homeless)
+  * [Religious minorities](#religious-minorities)
+  * [Pervasive](#pervasive)
+  * [Sources / Starting points](#sources--starting-points)
+  * [Backlog](#backlog)
+
+<!-- tocstop -->
+
 ### Notes
 
-- Try to convey a sense of moral outrage, not be a factsheet. 
+- Try to convey a sense of moral outrage, not be a factsheet.
 - This is a living document, it will be updated as new atrocities pour in.
 - Feel free to make pull requests(changes), or fork it if you'd like to make your own versions. 
 - Name the specific source and recipient of the atrocity, and provide a source for the claim.
 - Try to do chronologically from recent to past; it should seem like a running log.
-
-### Table of Contents
-- [Imperialism](#imperialism)
-  - [Western Hemisphere](#western-hemisphere)
-  - [Middle East](#middle-east)
-  - [Africa](#africa)
-  - [Europe](#europe)
-  - [Asia](#asia)
-- [Internal Repression](#internal-repression)
-  - [Native Americans](#native-americans)
-  - [Blacks](#blacks)
-  - [Women](#women)
-  - [Latinos](#latinos)
-  - [Asians](#asians)
-  - [Workers](#workers)
-  - [Prisoners](#prisoners)
-  - [Homeless](#homeless)
 
 
 ******
@@ -270,7 +278,4 @@ To date, a neglected aspect of the climate change debate, much less research has
 - US money in Syria, Lebanon
 - Hillary in Honduras
 - war of soviet intervention
-
-
-
-
+- blackwater, nissour squarere
