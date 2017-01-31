@@ -41,7 +41,9 @@ Technological advancements, instead of benefiting workers, result in decreased o
 
 ###History, and Human Nature
 
-Capitalism has nothing to do with human nature. People can be greedy, or cooperative, depending on the incentive structure and ideology of the socioeconomic system they live in, which is usually out of their control. For the vast majority of human history, small groups of people survived by foraging, growing, or hunting for food **as a community**, in a mode of life termed [primitive communism](https://en.wikipedia.org/wiki/Primitive_communism). Communal sharing was essential to the survival of the group. Markets likewise were rare, since communities tended to be self-sufficient. Rituals, harvest festivals, a group of elders deciding fair distribution, or communal decision-making accomplished what markets do today. Private property(and male-dominated societies) came into existence with the growth of large-scale agriculture and animal domestication(A historically male-dominated activity). These tended to be passed on to male descendents(which in turn required strict female sexual control, isolation, and increasing objectification), aggregating into fewer and fewer land-owners, and creating class antagonisms between an owning, and a working class.
+Capitalism has nothing to do with human nature. People can be greedy, or cooperative, depending on the incentive structure and ideology of the socioeconomic system they live in, which is usually out of their control. For the vast majority of human history, small groups of people survived by foraging, growing, or hunting for food **as a community**, in a mode of life termed [primitive communism](https://en.wikipedia.org/wiki/Primitive_communism). Communal sharing was essential to the survival of the group. Markets likewise were rare, since communities tended to be self-sufficient. Rituals, harvest festivals, a group of elders deciding fair distribution, or communal decision-making accomplished what markets do today. Private property(and male-dominated societies) came into existence with the growth of large-scale agriculture and animal domestication(A historically male-dominated activity). These tended to be passed on to male descendents(which in turn required strict female sexual control, isolation, and increasing objectification), aggregating into fewer and fewer land-owners, and creating class antagonisms between an owning, and a working class. 
+
+In the modern day, there is the communism of the family, in which family members share freely with one another. There are  community welfare organizations, food banks, as well as thousands of undocumented and unpublicized acts of kindness which show that cooperation endures even in spite of the individualism of the current dominant economic system.
 
 Capitalism evolved historically out of [feudalism](https://en.wikipedia.org/wiki/Feudalism) and [slave societies](https://en.wikipedia.org/wiki/Slavery), all three being dependent on a dominant [ruling class](https://en.wikipedia.org/wiki/Ruling_class) receiving the surplus of a subordinate class.
 
@@ -116,6 +118,8 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ******
 
+# Media
+
 ###Introductory videos
 
 [3 minute intro to Marxism](https://www.youtube.com/watch?v=Vz3eOb6Yl1s)
@@ -156,6 +160,8 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [Jacobin - The ABCs of Socialism](https://s3.jacobinmag.com/issues/jacobin-abcs.pdf)
 
+[Peter Gelderloos - How Nonviolence Protects the State](https://theanarchistlibrary.org/library/peter-gelderloos-how-nonviolence-protects-the-state)
+
 ###Essays/Introductions
 
 [Albert Einstein - Why Socialism?](http://monthlyreview.org/2009/05/01/why-socialism/)
@@ -184,9 +190,11 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [Lenin - Imperialism, the Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/)
 
+[Kropotkin - The Conquest of Bread](https://theanarchistlibrary.org/library/petr-kropotkin-the-conquest-of-bread)
+
 ###Marxian economics
 
-[Cockshott and Cottrell - Towards a New Socialism](http://ricardo.ecn.wfu.edu/%7Ecottrell/socialism_book/new_socialism.pdf) [epub](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/TNS.epub)
+[Cockshott and Cottrell - Towards a New Socialism (pdf)](http://ricardo.ecn.wfu.edu/%7Ecottrell/socialism_book/new_socialism.pdf) [epub](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/TNS.epub)
 
 ###History books
 
@@ -196,11 +204,15 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [John Reid - The Ten Days that Shook the World](https://www.marxists.org/archive/reed/1919/10days/10days/)
 
+[Eduardo Galeano - Open Veins of Latin America](https://www.amazon.com/Open-Veins-Latin-America-Centuries/dp/0853459916/ref=sr_1_1?ie=UTF8&qid=1485894404&sr=8-1&keywords=open+veins+of+latin+america)
+
 [George Orwell - Homage to Catalonia](https://en.wikipedia.org/wiki/Homage_to_Catalonia)
 
 [Trotsky - History of the Russian Revolution](https://www.marxists.org/archive/trotsky/1930/hrr/)
 
 [Huey P. Newton - Revolutionary Suicide](https://www.amazon.com/Revolutionary-Suicide-Penguin-Classics-Deluxe/dp/0143105329)
+
+[Joshua Bloom - Black Against Empire](https://www.amazon.com/Black-against-Empire-Politics-Foundation/dp/0520293282/ref=sr_1_1?ie=UTF8&qid=1485894343&sr=8-1&keywords=black+against+empire)
 
 ###Audiobooks
 
@@ -236,7 +248,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 101s: [/r/socialism_101](https://www.reddit.com/r/Socialism_101/), [/r/anarchy101](https://www.reddit.com/r/Anarchy101/), [/r/communism101](https://www.reddit.com/r/communism101/)
 
-Memes: [/r/FULLCOMMUNISM](https://www.reddit.com/r/FULLCOMMUNISM/), [/r/COMPLETEANARCHY](https://www.reddit.com/r/COMPLETEANARCHY/)
+Memes: [/r/FULLCOMMUNISM](https://www.reddit.com/r/FULLCOMMUNISM/), [/r/COMPLETEANARCHY](https://www.reddit.com/r/COMPLETEANARCHY/), [/r/ShitLiberalsSay](https://www.reddit.com/r/ShitLiberalsSay/)
 
 ###Organizations
 
