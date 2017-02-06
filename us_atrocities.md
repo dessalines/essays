@@ -282,3 +282,6 @@ Poor
 - Manning leaks
 - Panama papers
 - Tulsa Race Riots
+- dog soldier teletypes aim  
+- Jamal holiday. 
+- Greensboro massacre 
