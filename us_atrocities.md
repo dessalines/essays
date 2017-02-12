@@ -295,7 +295,7 @@
 - [ ] https://en.wikipedia.org/wiki/Category:Wars_involving_the_United_States
 - [x] http://www.huppi.com/kangaroo/CIAtimeline.html
 - [x] http://www.salon.com/2014/03/08/35_countries_the_u_s_has_backed_international_crime_partner/
-- [x] https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2Fg5rVD_TXrjo&h=ATOn5wl2nstVkS8MWFz7l-zyWBfKGzbkYdS5TCc9FvhhCZ_oFaG5ChG8tPdir8-u80_75tx3w7z8Fq_eko7H4kTpzybpvnAdszMTMp0K-oZHcWoCrMbcD_8NhTe0
+- [x] https://www.youtube.com/watch?v=g5rVD_TXrjo
 - [x] http://xpatnation.com/the-cia-operations-that-undermined-latin-american-democracy/
 - [x] http://endgenocide.org/learn/past-genocides/native-americans/
 - [x] http://www.globalresearch.ca/us-has-killed-more-than-20-million-people-in-37-victim-nations-since-world-war-ii/5492051
