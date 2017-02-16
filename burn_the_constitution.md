@@ -9,3 +9,11 @@ now-have tried their best to prevent. Madison feared a "majority faction" and ho
 Constitution would control it. He and his colleagues began the Preamble to the Constitution with
 the words "We the people ...," pretending that the new government stood for everyone, and hoping
 that this myth, accepted as fact, would ensure "domestic tranquility."
+
+
+
+Things that were legal, and enforced by the police:
+
+- Holocaust
+- Slavery
+- Segregation
