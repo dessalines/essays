@@ -1,3 +1,5 @@
+# Crash Course Socialism
+
 ## Contents
 
 <!-- toc -->
@@ -26,8 +28,6 @@
   * [Online Communities](#online-communities)
 
 <!-- tocstop -->
-
-******
 
 # Crash Course Socialism
 
@@ -122,8 +122,6 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 [Why do Marxists oppose individual terrorism? (Trotsky)](https://www.marxists.org/archive/trotsky/1911/11/tia09.htm)
 
 [What are Mao's contributions to Marxism?(MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
-
-******
 
 # Resources
 
