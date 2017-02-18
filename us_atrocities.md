@@ -2,6 +2,8 @@
 
 *Definition: An extremely wicked or cruel act, typically one involving physical violence or injury.*
 
+## Contents
+
 <!-- toc -->
 
 * [Notes](#notes)
