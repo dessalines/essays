@@ -1,4 +1,4 @@
-# List of Atrocities commited by US authorities
+# List of Atrocities committed by US authorities
 
 *Definition: An extremely wicked or cruel act, typically one involving physical violence or injury.*
 
