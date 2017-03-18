@@ -46,6 +46,67 @@ A 1983 report by England national income and expenditures found that on average,
 
 Capitalists use the surplus to [push out competitors](https://en.wikipedia.org/wiki/Anti-competitive_practices) and gain market share, leading to the destruction of most small businesses, with [just a few companies](http://imgur.com/a/xgnEp) controlling our food, media, energy, transportation, and finances.
 
+In the table below, both capital and surplus value are controlled by a company's owners, who usually appoint a board of directors. This owning class(called Capitalists, or the [Bourgeoisie](https://en.wikipedia.org/wiki/Bourgeoisie)) make up a **tiny minority** of the population.
+
+<table>
+  <tr>
+    <th colspan="5">Capitalist firm / Economy</th>
+  </tr>
+  <tr>
+    <td rowspan="12">Total Value</td>
+    <td rowspan="9">Worker value added</td>
+    <td rowspan="8">Surplus Value<br></td>
+    <td rowspan="4">Other wages</td>
+    <td>Owners(includes shareholders)</td>
+  </tr>
+  <tr>
+    <td>Board of Directors</td>
+  </tr>
+  <tr>
+    <td>Managers</td>
+  </tr>
+  <tr>
+    <td>Clerks</td>
+  </tr>
+  <tr>
+    <td>Capital Accumulation</td>
+    <td>Market capture</td>
+  </tr>
+  <tr>
+    <td>Taxes</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Advertising</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Political capture</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Wages</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3">Capital</td>
+    <td>Physical assets</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Intellectual assets</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Money / Finance capital</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 [Wage workers](https://www.youtube.com/watch?v=oztdRo9GLLk) are **completely dependent** on selling their labor power to those in control of production in order to gain access to the necessities of life (money for food, shelter, clothing, etc). Its similarities to chattel slavery has lead many to term wage work as [wage slavery](https://en.wikipedia.org/wiki/Wage_slavery), with voluntary employment being simply a false choice between **one exploiter or another**.
 
 Technological advancements, instead of benefiting workers, result in decreased or stagnant wages, worsening bargaining power, or **mass layoffs**. For example, a machine that replaces 10 workers results in their firing, resulting in a benefit for the machine owner, and an economic hardship to the fired workers. 
