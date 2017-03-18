@@ -21,6 +21,7 @@
     + [Essays/Introductions](#essaysintroductions)
     + [Marxist literature](#marxist-literature)
     + [Marxian economics](#marxian-economics)
+    + [History books](#history-books)
   * [Audiobooks](#audiobooks)
   * [Films](#films)
 - [Organizations](#organizations)
@@ -163,7 +164,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 <pre>magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 
-[Danny Katch -  Socialism…. Seriously](magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc&dn=Socialism Seriously A Brief Guide to Human Liberation Danny Katch (2015) epub&tr=http://tracker.opentrackr.org/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.zer0day.to:1337/announce)
+Danny Katch -  Socialism…. Seriously
 
 <pre>magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc&dn=Socialism Seriously A Brief Guide to Human Liberation Danny Katch (2015) epub&tr=http://tracker.opentrackr.org/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.zer0day.to:1337/announce</pre>
 
@@ -209,7 +210,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [Cockshott and Cottrell - Towards a New Socialism (pdf)](http://ricardo.ecn.wfu.edu/%7Ecottrell/socialism_book/new_socialism.pdf) [epub](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/TNS.epub)
 
-###History books
+### History books
 
 [Howard Zinn - A Peoples History of the United States](http://www.historyisaweapon.com/zinnapeopleshistory.html)
 

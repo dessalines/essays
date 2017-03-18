@@ -6,7 +6,7 @@
 
 <!-- toc -->
 
-* [Notes](#notes)
+  * [Notes](#notes)
 - [Imperialism](#imperialism)
   * [Middle East](#middle-east)
   * [Western hemisphere](#western-hemisphere)
