@@ -181,7 +181,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/)
 
-[What's the role of the state in the revolution?](https://whyithinkyourewrong.wordpress.com/2016/06/19/the-state-and-revolution-an-overview/)
+[What's the role of the state in the revolution, and what is a state?](https://whyithinkyourewrong.wordpress.com/2016/06/19/the-state-and-revolution-an-overview/)
 
 [What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
 
@@ -190,6 +190,8 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 [What are Mao's contributions to Marxism?(MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 
 [Is it true that Socialism has killed X million people, and how many has capitalism killed?](https://www.reddit.com/r/LateStageCapitalism/comments/5q2oak/someone_dies_under_socialism_no_matter_how_its/dcvu8lg/)
+
+[Do communists defend the DPRK(Democratic People's Republic of North Korea)? short answer: no.](https://www.reddit.com/r/FULLDISCOURSE/comments/60voir/lets_talk_about_the_dprk/)
 
 # Resources
 
