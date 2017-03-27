@@ -6,7 +6,7 @@
 
 <!-- toc -->
 
-  * [Notes](#notes)
+* [Notes](#notes)
 - [Imperialism](#imperialism)
   * [Middle East](#middle-east)
   * [Western hemisphere](#western-hemisphere)
@@ -43,6 +43,7 @@
 
 ### Middle East
 
+- On March 17th, A US airstrike killed ~112 civilians in Mosul, Iraq. In response, US Defense Secretary James Mattis said, "There is no military force in the world that is proven more sensitive to civilian casualties." <sup>[1](http://www.cnn.com/2017/03/27/middleeast/mosul-civilian-deaths/)</sup>
 - On February 15th, 2017, US-backed Saudi planes [bombed a funeral](https://www.theguardian.com/world/2017/feb/15/yemen-funeral-saudi-led-airstrike-houthi-insurgents) in Yemen, killing 5 women and wounding dozens more. In the [2015 - Present Yemeni Civil War](https://en.wikipedia.org/wiki/Yemeni_Civil_War_(2015%E2%80%93present)), 16,200 people have been killed including 10,000 civilians, 3 million have been displaced and left homeless, and over 200,000 people are facing shortages of food, water and medicine. The US has used drone bombers in Yemen, and has supported Saudi interests in the region, with military contracts providing weapons and planes. <sup>[1](https://en.wikipedia.org/wiki/Yemeni_Civil_War_(2015%E2%80%93present)),[2](https://www.theguardian.com/world/2017/feb/15/yemen-funeral-saudi-led-airstrike-houthi-insurgents)</sup>
 
 
