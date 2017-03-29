@@ -17,7 +17,7 @@ that this myth, accepted as fact, would ensure "domestic tranquility."
 A constitution is a set of fundamental principles and precedents according to which a state or an organization is governed. As a **foundational document**, it outlines the relationship between its subsections, defines how laws are made, what 
 
 ## The problems
-
+- The cult of the constitution
 ### Who were the framers?
 
 - There is an almost religious devotion to which most citizens hold up both the constitution, and the framers
