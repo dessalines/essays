@@ -107,9 +107,15 @@ In the table below, both capital and surplus value are controlled by a company's
   </tr>
 </table>
 
+
 [Wage workers](https://www.youtube.com/watch?v=oztdRo9GLLk) are **completely dependent** on selling their labor power to those in control of production in order to gain access to the necessities of life (money for food, shelter, clothing, etc). Its similarities to chattel slavery has lead many to term wage work as [wage slavery](https://en.wikipedia.org/wiki/Wage_slavery), with voluntary employment being simply a false choice between **one exploiter or another**.
 
 Technological advancements, instead of benefiting workers, result in decreased or stagnant wages, worsening bargaining power, or **mass layoffs**. For example, a machine that replaces 10 workers results in their firing, resulting in a benefit for the machine owner, and an economic hardship to the fired workers. 
+
+**Increase in profits due primarily to automation**
+![The difference between these two lines is the surplus](http://i.imgur.com/FPr1mCB.png)
+
+*The difference between these two lines is the surplus.*
 
 ## History, and Human Nature
 
