@@ -297,6 +297,12 @@ Danny Katch -  Socialism…. Seriously
 
 [Joshua Bloom - Black Against Empire](https://www.amazon.com/Black-against-Empire-Politics-Foundation/dp/0520293282/ref=sr_1_1?ie=UTF8&qid=1485894343&sr=8-1&keywords=black+against+empire)
 
+### Psychology
+
+[Robert Cialdini - The Psychology of persuasion](magnet:?xt=urn:btih:bad0ad6cca5c00ba8d1f8e8c4e5962f6d611f381&dn=Influence_%20The%20Psychology%20of%20Persuasion%20by%20Robert%20Cialdini&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Feddie4.nl%3A6969&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969&tr=udp%3A%2F%2Fopentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337) (not explicitly Marxist, but a great breakdown of the main psychological tactics used by exploiters to manipulate us)
+
+<pre>magnet:?xt=urn:btih:bad0ad6cca5c00ba8d1f8e8c4e5962f6d611f381&dn=Influence_%20The%20Psychology%20of%20Persuasion%20by%20Robert%20Cialdini&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Feddie4.nl%3A6969&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969&tr=udp%3A%2F%2Fopentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337</pre>
+
 ## Audiobooks
 
 [Lenin - The State and Revolution](magnet:?xt=urn:btih:bf60338d499a40e4e99ca8edffda9447402a29de&dn=Lenin+-+The+State+and+Revolution+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
@@ -318,6 +324,12 @@ Danny Katch -  Socialism…. Seriously
 [Marx and Engels - The Communist Manifesto](magnet:?xt=urn:btih:7428b83a5f9a51885e12166c0895a41f7f05396a&dn=Audiobook+The+Communist+Manifesto+by+Karl+Marx+and+Friedrich+Eng&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
 
 <pre>magnet:?xt=urn:btih:7428b83a5f9a51885e12166c0895a41f7f05396a&dn=Audiobook+The+Communist+Manifesto+by+Karl+Marx+and+Friedrich+Eng&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
+
+[Robert Cialdini - The Psychology of persuasion](magnet:?xt=urn:btih:cf297031c653f986999ca7a978b8e2f55a792ef1&dn=Influence%20The%20Psychology%20of%20Persuasion&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Feddie4.nl%3A6969&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969&tr=udp%3A%2F%2Fopentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337)
+
+<pre>magnet:?xt=urn:btih:cf297031c653f986999ca7a978b8e2f55a792ef1&dn=Influence%20The%20Psychology%20of%20Persuasion&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Feddie4.nl%3A6969&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969&tr=udp%3A%2F%2Fopentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337</pre>
+
+
 
 ## Films
 
