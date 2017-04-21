@@ -1,3 +1,5 @@
+# Why Marxists are against markets
+
 Market socialism is an **extremely fringe view** among socialists. So, why do some people(even socialists) think we need markets?
 
 Remember that this is a **distributional** problem : we have a bunch of goods and services that we need to distribute to people.
