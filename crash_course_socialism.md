@@ -183,7 +183,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ## FAQ
 
-[Why are communists against markets?](https://gist.github.com/tchoulihan/a0104a9bd921df21bb71)
+[Why are communists against markets?](https://github.com/dessalines/essays/blob/master/market_socialism.md)
 
 [Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/)
 
