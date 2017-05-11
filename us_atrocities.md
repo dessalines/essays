@@ -434,6 +434,7 @@
 ## Sources / Starting points
 
 - [x] Skim through [peoples history of the US](http://www.historyisaweapon.com/zinnapeopleshistory.html)
+- [ ] Killing hope
 - [ ] Skim through untold history of the united states
 - [x] Wikipedia sources on FBI, CIA, COINTELPRO, MKULTRA, war crimes
 - [x] Wikipedia on war on terror
