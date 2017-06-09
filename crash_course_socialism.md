@@ -333,6 +333,10 @@ Danny Katch -  Socialism…. Seriously
 
 <pre>magnet:?xt=urn:btih:2325c88304ff645748fafa44768c6a034ea805cd&dn=Marx+-+Critique+of+the+Gotha+Programme+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 
+[Marx - Wage Labour and Capital](magnet:?xt=urn:btih:2687cc65ec3ad46040dd8aec87f710cc2591896f&dn=Karl+Marx+-+Wage+Labour+and+Capital+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
+<pre>magnet:?xt=urn:btih:2687cc65ec3ad46040dd8aec87f710cc2591896f&dn=Karl+Marx+-+Wage+Labour+and+Capital+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
+
 [Paul D'Amato - The Meaning of Marxism](magnet:?xt=urn:btih:ba08fb9a9275892fc6dc2297ccb952ecfc4b4dc7&dn=Paul+D%27Amato+-+The+Meaning+of+Marxism+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
 
 <pre>magnet:?xt=urn:btih:ba08fb9a9275892fc6dc2297ccb952ecfc4b4dc7&dn=Paul+D%27Amato+-+The+Meaning+of+Marxism+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
