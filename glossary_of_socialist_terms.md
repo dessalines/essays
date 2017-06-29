@@ -8,16 +8,16 @@
 |----|----------|
 |[Capitalism](https://en.wikipedia.org/wiki/Capitalism)|A system that allows private individuals to own the means of production, with the goal of extracting a profit from the sale of commodities produced by wage workers.|
 |[Communism](https://en.wikipedia.org/wiki/Communism)|A stateless, moneyless, and classless system where the means of production are democratically owned and controlled by the community, for the benefit of all.|
-|Socialism|The transitional stage between capitalism and communism, sometimes referred to as the dictatorship of the proletariet. It can also be synonymous with communism.|
+|[Socialism](https://en.wikipedia.org/wiki/Socialism)|A range of social and economic systems characterized by social ownership of the means of production. It can also mean the transitional stage between capitalism and communism, sometimes referred to as the dictatorship of the proletariet.|
 |Anarchism||
 |Social Democracy||
 |Welfare State||
 |State Capitalism||
 |Liberalism||
 |[Slavery](https://en.wikipedia.org/wiki/Slavery)|A system that allows individuals to own other human beings, in order to extract a surplus from their labor.|
-|[Feudalism](https://en.wikipedia.org/wiki/Feudalism)|An arrangement predominating in the middle ages, where a local lord would allow serfs to live and sustain themselves on his land, as long as they provided labor and military support when asked. |
+|[Feudalism](https://en.wikipedia.org/wiki/Feudalism)|An arrangement predominating in the middle ages, where a local lord would allow serfs to live and sustain themselves on his land, as long as they provided him labor and military support. |
 |[Fascism]()||
-|Means of Production||
+|Means of Production| Synonymous with Capital.|
 |Private Property||
 |Personal Property||
 |Public Property||
@@ -25,37 +25,45 @@
 |Bourgeoisie||
 |[Class Struggle](https://en.wikipedia.org/wiki/Class_conflict)|A tension that exists between competing classes, caused by contradictory interests, that can only be resolved through violent confrontation. The competing classes are determined by the economic mode of society: In Slavery, the slave and the master. In Feudalism, the lord and the serf. In Capitalism, the capitalist and the wage worker.|
 |Petit Bourgeoisie||
+|Bourgeois Democracy||
+|Reformism||
 |Cultural Hegemony||
 |The State||
 |Imperialism||
-|[Nationalism](https://en.wikipedia.org/wiki/Nationalism)|An ideology which emphasizes nations(and often specific races living in those nations), self-governance, national identity, and patriotism over internationalism. Communists want working-class internationalism, but also defend the rights of nations to be free from imperialism.|
+|[Nationalism](https://en.wikipedia.org/wiki/Nationalism)|An ideology which emphasizes nations(and often specific races living in those nations), self-governance, national identity, and patriotism over internationalism. Communists want working-class internationalism, but also defend the right of nations to be free from imperialism.|
+|Revolution||
 |Praxis||
-|Surplus Value||
+|[Surplus Value](https://en.wikipedia.org/wiki/Surplus_value)| The difference between the value a worker adds, and the value that they receive and are able to use for themselves. This surplus value goes to another leeching party that controls production(capitalists, slavemaster, etc). `Surplus Value = Worker Value Added - Wage Paid`. Synonymous with unpaid labor, profit, exploitation, and wage theft.|
 |Dictatorship of the Proletariet||
 |Dialectical Materialism||
-|Labor theory of value||
+|[Labor theory of value](https://en.wikipedia.org/wiki/Labor_theory_of_value)|A theory of value that argues that the economic value of a good or service is determined by the total amount of average socially necessary labor required to produce it, rather than by the use or pleasure its owner gets from it.|
 |Socialism in one country||
 |Permanent Revolution||
 |Right of nations to self-determination||
+|Democratic Centralism|A tenet of Lenin, described by him as, *diversity in discussion, unity in action.*|
+|[Vanguardism](https://en.wikipedia.org/wiki/Vanguardism)|A strategy whereby the most class-conscious and politically advanced sections of the working class form organizations in order to draw larger sections of the working class towards revolutionary politics and serve as manifestations of proletarian political power against its class enemies.|
 |Mass Line||
 |Mass Strike||
 |Alienation||
-|Branches||
-|Marxism|A socialist tradition created by Karl Marx and Frederick Engels, that places emphasis on the means of production, your relation to them, and the inherent class struggle involved between those who control production, and those who don't.|
-|Leninism||
-|Marxism-Leninism(ML)||
+|**Branches**||
+|[Marxism](https://en.wikipedia.org/wiki/Marxism)|A socialist tradition created by Karl Marx and Frederick Engels, that places emphasis on the means of production, your relation to them, and the inherent class struggle involved between those who control production, and those who don't.|
+|[Leninism](https://en.wikipedia.org/wiki/Leninism)|A branch of Marxism developed by Vladimir Lenin and the Bolsheviks drawn from their experiences in early 20th century Russia. Important concepts include vanguardism, dictatorship of the proletariet(and how to transition to communism), the right of nations to self-determination, imperialism, and democratic centralism. The goal of Leninism is the development of a worker state capable of withstanding capitalist encirclement(often called siege socialism), in order to protect and continue the transition to communism.|
+|[Marxism-Leninism(ML)](https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism)|A term created by Joseph Stalin to refer to the ideology of the USSR, generally synonymous with Leninism.|
 |Maoism||
+|Marxism-Leninism-Maoism(MLM)||
 |Anarcho-communism||
 |Egoist Anarchism||
 |Trotskyism||
-|Luxemburgism||
+|[Luxemburgism](https://en.wikipedia.org/wiki/Luxemburgism)|A branch of Marxism created by Rosa Luxemburg, a leading figure in the German revolution of 1919. Important concepts include Revolutionary Spontanaeity, emphasis on low-level democracy, the mass-strike, opposition to reformism, and her criticism of bolshevism.|
 |Syndicalism||
+|Democratic Socialism||
 |Council Communism||
 |Hoxhaism||
 |Autonomism||
 |Bordigism||
 |Titoism||
 |Communalism||
+|Utopian Socialism||
 
 
 
