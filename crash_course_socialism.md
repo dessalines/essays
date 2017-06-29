@@ -211,6 +211,8 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [10 minute intro to Karl Marx](https://www.youtube.com/watch?v=fSQgCy_iIcc) --- (Reminder for newcomers that private property refers exclusively to the means of production, not your home and other possessions which are considered personal property)
 
+[10 minute intro to Capitalism by Professor Richard D. Wolff](https://www.youtube.com/watch?v=YMdIgGOYKhs)
+
 [Introduction to Marxism by Professor Richard D. Wolff](https://www.youtube.com/watch?v=T9Whccunka4) (absolutely essential, the best video we can show newcomers to socialism)
 
 [Socialism for Dummies by Professor Richard D. Wolff](https://www.youtube.com/watch?v=ysZC0JOYYWw) (necessary for north americans)
