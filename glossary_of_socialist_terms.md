@@ -7,17 +7,17 @@
 |Term|Definition|
 |----|----------|
 |[Capitalism](https://en.wikipedia.org/wiki/Capitalism)|A system that allows private individuals to own the means of production, with the goal of extracting a profit from the sale of commodities produced by wage workers.|
-|[Communism](https://en.wikipedia.org/wiki/Communism)|A stateless, moneyless, and classless system where the means of production are democratically owned and controlled by the community, for the benefit of all.|
+|[Communism](https://en.wikipedia.org/wiki/Communism)|A stateless, moneyless, and classless system where the means of production are democratically owned and controlled by the community, for the benefit of all. Wage labor is non-existent, and production is planned for human needs, rather than private profit.|
 |[Socialism](https://en.wikipedia.org/wiki/Socialism)|A range of social and economic systems characterized by social ownership of the means of production. It can also mean the transitional stage between capitalism and communism, sometimes referred to as the dictatorship of the proletariet.|
-|Anarchism||
-|Social Democracy||
-|Welfare State||
-|State Capitalism||
+|[Anarchism](https://en.wikipedia.org/wiki/Anarchism)|A political philosophy that critiques hierarchical organization, and emphasizes free assocation. The main two branches are social anarchism, and individualist anarchism.|
+|[Social Democracy](https://en.wikipedia.org/wiki/Social_democracy)|Originally synonymous with evolutionary socialism, social democracy is an ideology that supports economic interventionism to promote social justice whilst retaining a capitalist economy. It is often seen by socialists as supporting "welfare-state" band-aids to capitalism.|
+|[Welfare State](https://en.wikipedia.org/wiki/Welfare_state)|A state that provides social services on behalf of the well-being of its citizens, while retaining capitalism. It often refers to Germany, the UK, and the Nordic countries, but can refer to any state with social services.|
+|[State Capitalism](https://en.wikipedia.org/wiki/State_capitalism)|An economic system where some means of production are owned by the state, surplus labor is still extracted, and wage labor still exists. Engels argued that the state form would be the final stage of capitalism.|
 |Liberalism||
 |[Slavery](https://en.wikipedia.org/wiki/Slavery)|A system that allows individuals to own other human beings, in order to extract a surplus from their labor.|
 |[Feudalism](https://en.wikipedia.org/wiki/Feudalism)|An arrangement predominating in the middle ages, where a local lord would allow serfs to live and sustain themselves on his land, as long as they provided him labor and military support. |
-|[Fascism]()||
-|Means of Production| Synonymous with Capital.|
+|[Fascism](https://en.wikipedia.org/wiki/Fascism)|A multi-faceted term generally characterized by hyper-nationalism, racial supremacy, a cult of personality around a "strong" leader as superior to democracy, and an alliance between big and small capitalists.|
+|[Means of Production](https://en.wikipedia.org/wiki/Means_of_production)| Physical, non-human inputs used for the production of economic value, such as workplaces, factories, machinery, or tools. Synonymous with Capital.|
 |Private Property||
 |Personal Property||
 |Public Property||
