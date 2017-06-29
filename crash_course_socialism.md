@@ -159,7 +159,7 @@ Private ownership of the means of production was established through force and [
 
 The State, under capitalist society, which protects private property and upholds the capitalist mode of production, is an instrument wielded by the bourgeoisie to *suppress the proletariat*. So long as there are classes in society, a State must exist.
 
-Marxists aim to replace the dictatorship of the bourgeoisie, with a transitional [dictatorship of the proletariet](https://whyithinkyourewrong.wordpress.com/2016/06/19/the-state-and-revolution-an-overview/), smashing the presently existing bourgeois state apparatus, and replacing it with a new state constructed on the basis of worker power, destroying all the elements which exist to oppress workers, and safeguarding the ones that help workers. Once the proletarian state possesses political power and controls the means of production, it will *wither away* over time as it suppresses the bourgeoisie and moves toward a classless, egalitarian society. Eventually, the use of force is no longer necessary to suppress class antagonisms, because there *are no classes*, and the oppressive elements of the proletarian state wither away.
+Marxists aim to replace the dictatorship of the bourgeoisie, with a transitional [dictatorship of the proletariet](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/), smashing the presently existing bourgeois state apparatus, and replacing it with a new state constructed on the basis of worker power, destroying all the elements which exist to oppress workers, and safeguarding the ones that help workers. Once the proletarian state possesses political power and controls the means of production, it will *wither away* over time as it suppresses the bourgeoisie and moves toward a classless, egalitarian society. Eventually, the use of force is no longer necessary to suppress class antagonisms, because there *are no classes*, and the oppressive elements of the proletarian state wither away.
 
 Socialism as an economic system is distinct from [neoliberalism](https://en.wikipedia.org/wiki/Neoliberalism), as well as [social democracy](https://en.wikipedia.org/wiki/Social_democracy)/Welfare [state capitalism](https://en.wikipedia.org/wiki/State_capitalism), which aims to band-aid the ills of capitalism while leaving the exploitation inherent in [wage slavery](https://en.wikipedia.org/wiki/Wage_slavery) intact. Social services provided by the capitalist-controlled state have nothing to do with socialism.
 
@@ -189,7 +189,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/)
 
-[What's the role of the state in the revolution, and what is a state?](https://whyithinkyourewrong.wordpress.com/2016/06/19/the-state-and-revolution-an-overview/)
+[What's the role of the state in the revolution, and what is a state?](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/)
 
 [What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
 
@@ -210,6 +210,8 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 [3 minute intro to Marxism](https://www.youtube.com/watch?v=Vz3eOb6Yl1s)
 
 [10 minute intro to Karl Marx](https://www.youtube.com/watch?v=fSQgCy_iIcc) --- (Reminder for newcomers that private property refers exclusively to the means of production, not your home and other possessions which are considered personal property)
+
+[10 minute intro to Capitalism by Professor Richard D. Wolff](https://www.youtube.com/watch?v=YMdIgGOYKhs)
 
 [Introduction to Marxism by Professor Richard D. Wolff](https://www.youtube.com/watch?v=T9Whccunka4) (absolutely essential, the best video we can show newcomers to socialism)
 
