@@ -1,7 +1,9 @@
 # Glossary of Socialist Terms
 
-*Try to keep each term to 3 sentences max*
-*Try to keep the definitions as simple as possible, ELI 10 years old*
+### Notes
+
+- Try to keep each term to 3 sentences max.
+- Keep the definitions as simple as possible, ~ELI 10 years old.
 
 
 | Term                                     | Definition                               |
