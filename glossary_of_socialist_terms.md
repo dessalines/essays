@@ -85,7 +85,7 @@
 
 - [Principles of communism](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm)
 - [Crash course socialism](https://github.com/dessalines/essays/blob/master/crash_course_socialism.md)
-- [3 Sources and 3 component parts of marxism]
+- [3 Sources and 3 component parts of marxism](https://www.marxists.org/archive/lenin/works/1913/mar/x01.htm)
 - https://www.reddit.com/r/communism101/wiki/index
 - https://www.reddit.com/r/socialism_101/wiki/index
 - Wikipedia
