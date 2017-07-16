@@ -22,7 +22,6 @@
     + [Marxist literature](#marxist-literature)
     + [Marxian economics](#marxian-economics)
     + [History books](#history-books)
-    + [Psychology](#psychology)
   * [Audiobooks](#audiobooks)
   * [Films](#films)
 - [Organizations](#organizations)
@@ -220,11 +219,13 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [Karl Marx and Marxism - BBC documentary by Stuart Hall](http://www.youtube.com/watch?v=m8bdndigRA8)
 
-[Introduction to Anarchism by Noam Chomsky](https://www.youtube.com/watch?v=7_Bv2MKY7uI)
+[Michael Parenti - Reflections on the overthrow of the Soviet Union](https://www.youtube.com/watch?v=BYVes44hcJg)
 
-[Chomsky on capitalism #1](https://www.youtube.com/watch?v=RUzquEya6Lw)
+[Michael Parenti on US imperialism, and the overthrow of Yugoslavia](https://www.youtube.com/watch?v=ApaMIJiOt-c)
 
-[Chomsky on capitalism #2](https://www.youtube.com/watch?v=_FHNMZbnvYU)
+[Michael Parenti on anti-sovietism in the US media](https://www.youtube.com/watch?v=FUWrgLpazwE)
+
+[Introduction to Anarchism by Noam Chomsky](https://www.youtube.com/watch?v=7_Bv2MKY7uI), [#1](https://www.youtube.com/watch?v=RUzquEya6Lw), [#2](https://www.youtube.com/watch?v=_FHNMZbnvYU)
 
 [Chomsky on american or right-libertarianism](https://www.youtube.com/watch?v=FVt7U2YIgZs)
 
