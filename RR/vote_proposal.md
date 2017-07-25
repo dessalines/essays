@@ -1,7 +1,7 @@
 I have two proposals having to do with the way national holds votes. 
 
-1) Switch away from the representative(grouped) voting that we do now, to individual, low-level voting (direct democracy).
-2) Switch to range voting (probably using either [this site](https://simplevote.ml/#/poll/QL5) that I built, or facebook(approval voting)).
+1. Switch away from the representative(grouped) voting that we do now, to individual, low-level voting (direct democracy).
+2. Switch to range voting (probably using either [this site(a sample poll for us)](https://simplevote.ml/#/poll/QL5) that I built, or facebook).
 
 # 1) Doing away with representative voting
 
@@ -59,5 +59,5 @@ I've built a site that uses it called [simplevote, it might just be easiest to s
 
 To calculate the winner(s), you take the average(s) for each candidate and rank them from highest average to lowest. I've coded different voting systems (STV, IRV), and they're much more difficult to calculate and explain, and less expressive in general. It also beats those even when voters are being dishonest, but for some reason they've found that voters are less likely to be dishonest when using range voting (probably because you have more choices). 
 
-You can learn more about range voting [here](http://rangevoting.org/). 
+You can learn more about range voting at [rangevoting.org](http://rangevoting.org/).
 
