@@ -3,8 +3,8 @@ I have two proposals having to do with the way national holds votes.
 1. Switch away from the representative(grouped) voting that we do now, to individual, low-level voting (direct democracy).
    - Instead of waiting for branch delegates to report that they've received enough, we can simply wait for a quorum of all members(maybe once 1/2 or 2/3rds of all members have voted, then it can pass)
 2. Switch to range or approval voting.
-   - We could either create (or use the one we already have) a private facebook group for approval voting.
-   - Or use [this site called simplevote, I built for us to use(a sample poll)](https://simplevote.ml/#/poll/QL5)
+   - We could either create a private facebook group(or use the one we already have) for approval voting.
+   - Or use [this site for range voting called simplevote, I built for us to use(a sample poll)](https://simplevote.ml/#/poll/QL5)
 
 # 1) Doing away with representative voting
 
@@ -46,9 +46,15 @@ Representative voting **was** used because it made it easier to tally votes with
 
 
 
-# 2) Switching to range voting
+# 2) Switching to range or approval voting
 
-## What is it?
+## Option 1: Facebook
+
+Just use our private national FB group to hold votes. 
+
+## Option 2: Range voting with simplevote
+
+### What is range voting?
 
 I've built a site that uses it called [simplevote, it might just be easiest to see it in action for a poll I set up for us](https://simplevote.ml/#/poll/QL5). We could easily use this for national, and I can tweak it for our needs. 
 
@@ -65,4 +71,4 @@ You can learn more about range voting at [rangevoting.org](http://rangevoting.or
 # Additional issues
 
 - How do we decide when a quorum(minimum # of voters) is reached? Maybe 1/2 of all members, 2/3rds, or 3/4ths, before it gets certified. 
-- How long do the elections last? (1-2 weeks seems like a good default)
+- How long do the elections last? (1-3 weeks seems like a good default)
