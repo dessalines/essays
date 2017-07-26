@@ -42,7 +42,7 @@ This is called the misrepresentation error, ~53% error in this election if we ga
 
 ## Why was it used in the first place?
 
-Representative voting **was** because it made it easier to tally votes with a small number of representatives, traveling across long distances to tally up a vote. So one state's rep could show up at a national convention, instead of every voter in the whole state. This isn't necessary nowadays, where we can place and tally up votes online. 
+Representative voting **was** used because it made it easier to tally votes with a small number of representatives, especially when reps had to travel long distances to tally up a vote. So one state's rep could show up at a national convention, instead of every voter in the whole state. This isn't necessary nowadays, where we can place and tally up votes online. 
 
 
 
