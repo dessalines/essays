@@ -1,6 +1,6 @@
 I have two proposals having to do with the way national holds votes. 
 
-1. Switch away from the representative(grouped) voting that we do now, to individual, low-level voting (direct democracy).
+1. Switch away from the representative(grouped) branch-based voting that we do now, to individual, low-level voting (direct democracy).
    - Instead of waiting for branch delegates to report that they've received enough, we can simply wait for a quorum of all members(maybe once 1/2 or 2/3rds of all members have voted, then it can pass)
 2. Switch to range or approval voting.
    - We could either create a private facebook group(or use the one we already have) for approval voting.
