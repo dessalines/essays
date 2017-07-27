@@ -1,11 +1,12 @@
 I have two proposals having to do with the way national holds votes. 
 
-1. Switch away from the representative(grouped) voting that we do now, to individual, low-level voting (direct democracy).
-2. Switch to range voting (probably using either [this site(a sample poll for us)](https://simplevote.ml/#/poll/QL5) that I built, or facebook).
+1. Switch away from the representative(grouped) branch-based voting that we do now, to individual, low-level voting (direct democracy).
+   - Instead of waiting for branch delegates to report that they've received enough, we can simply wait for a quorum of all members(maybe once 1/2 or 2/3rds of all members have voted, then it can pass)
+2. Switch to range or approval voting.
+   - We could either create a private facebook group(or use the one we already have) for approval voting.
+   - Or use [this site for range voting called simplevote, I built for us to use(a sample poll)](https://simplevote.ml/#/poll/QL5)
 
 # 1) Doing away with representative voting
-
-The main reason to use representative voting **was** because it made it easier to tally votes with a small number of representatives. So one state's rep could show up at a national convention, instead of every voter in the whole state. This isn't necessary nowadays, where we can place and tally up votes online. 
 
 ## Why representative(grouped) voting is bad
 
@@ -39,15 +40,21 @@ This is called the misrepresentation error, ~53% error in this election if we ga
 
 [Here's](https://docs.google.com/spreadsheets/d/1u8EAJWnNGhmOj1CaJyAL_XVXY6vqPGkb7E3Go3ZEoSA/edit#gid=0) an example of the misrepresentation errors for the 2017 UK election.
 
-## Additional issues
+## Why was it used in the first place?
 
-- How do we decide when a quorum(minimum # of voters) is reached? Maybe 1/2 of all members, 2/3rds, or 3/4ths, before it gets certified. 
-- How long do the elections last? (1-2 weeks seems like a good default)
-- Do we hold these through facebook, or [simplevote](https://simplevote.ml). 
+Representative voting **was** used because it made it easier to tally votes with a small number of representatives, especially when reps had to travel long distances to tally up a vote. So one state's rep could show up at a national convention, instead of every voter in the whole state. This isn't necessary nowadays, where we can place and tally up votes online. 
 
-# 2) Switching to range voting
 
-## What is it?
+
+# 2) Switching to range or approval voting
+
+## Option 1: Facebook
+
+Just use our private national FB group to hold votes. 
+
+## Option 2: Range voting with simplevote
+
+### What is range voting?
 
 I've built a site that uses it called [simplevote, it might just be easiest to see it in action for a poll I set up for us](https://simplevote.ml/#/poll/QL5). We could easily use this for national, and I can tweak it for our needs. 
 
@@ -61,3 +68,7 @@ To calculate the winner(s), you take the average(s) for each candidate and rank 
 
 You can learn more about range voting at [rangevoting.org](http://rangevoting.org/).
 
+# Additional issues
+
+- How do we decide when a quorum(minimum # of voters) is reached? Maybe 1/2 of all members, 2/3rds, or 3/4ths, before it gets certified. 
+- How long do the elections last? (1-3 weeks seems like a good default)
