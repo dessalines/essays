@@ -1,7 +1,8 @@
-I have two proposals having to do with the way national holds votes. 
+I have a proposal having to do with the way national holds votes. 
 
-1. Switch away from the representative(grouped) branch-based voting that we do now, to individual, low-level voting (direct democracy).
-   - Instead of waiting for branch delegates to report that they've received enough, we can simply wait for a quorum of all members(maybe once 1/2 or 2/3rds of all members have voted, then it can pass)
+1. Switch away from the representative(grouped), branch-based voting that we do now, to individual, low-level voting (direct democracy).
+   - Wait for a minimum quorum of all members(1/2 or 2/3rds of all members)
+   - Wait for an expiration time (1 week or 2 weeks, etc)
 2. Switch to range or approval voting.
    - We could either create a private facebook group(or use the one we already have) for approval voting.
    - Or use [this site for range voting called simplevote, I built for us to use(a sample poll)](https://simplevote.ml/#/poll/QL5)
@@ -60,7 +61,8 @@ I've built a site that uses it called [simplevote, it might just be easiest to s
 
 - [Range voting](http://rangevoting.org/UniqBest.html) is olympic score voting, so each voter chooses between `0-10` on candidates, with 10 being yes / liking, 5 being neutral, and 0 being no / dislike. 
 - **You don't have to vote for every option**, not voting won't hurt your current votes.
-- Range voting beats out [approval (a subset of it)](http://rangevoting.org/AppExec.html), [IRV](http://rangevoting.org/rangeVirv.html), and [First past the post](http://rangevoting.org/Plurality.html) for [minimizing voter regret.](http://rangevoting.org/UniqBest.html).  
+- Range voting beats out [approval (a subset of it)](http://rangevoting.org/AppExec.html), [IRV](http://rangevoting.org/rangeVirv.html), and [First past the post](http://rangevoting.org/Plurality.html) for [minimizing voter regret.](http://rangevoting.org/UniqBest.html)
+- Votes must pass with an average score greater than say, 5 or 6.
 
 ![](https://miracleon32ndstreet.files.wordpress.com/2010/12/image12.png)
 
