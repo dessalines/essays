@@ -1,4 +1,4 @@
-I have a proposal having to do with the way national holds votes. 
+I have a proposal having to do with changing the way national holds votes.
 
 1. Switch away from the representative(grouped), branch-based voting that we do now, to individual, low-level voting (direct democracy).
    - Wait for a minimum quorum of all members(1/2 or 2/3rds of all members)
