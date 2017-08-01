@@ -30,7 +30,7 @@
 
 ### Notes
 
-- Try to convey a sense of moral outrage, not be a factsheet.
+- Try to convey a sense of moral outrage. 
 - This is a living document, it will be updated as new atrocities pour in.
 - Feel free to make pull requests(changes), or fork it if you'd like to make your own versions. 
 - Name the specific source and recipient of the atrocity, and provide a source for the claim.
