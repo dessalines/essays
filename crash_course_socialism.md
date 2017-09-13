@@ -283,6 +283,8 @@ Danny Katch -  Socialism…. Seriously
 
 [Kropotkin - The Conquest of Bread](https://theanarchistlibrary.org/library/petr-kropotkin-the-conquest-of-bread)
 
+[Trotsky - In Defense of October](https://www.marxists.org/archive/trotsky/1932/11/oct.htm)
+
 ### Marxian economics
 
 [Cockshott and Cottrell - Towards a New Socialism (pdf)](http://ricardo.ecn.wfu.edu/%7Ecottrell/socialism_book/new_socialism.pdf) [epub](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/TNS.epub)
