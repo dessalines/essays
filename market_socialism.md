@@ -21,7 +21,7 @@ Also, **free markets inherently favor those with the most capital**, giving elit
 
 ### What do we replace markets with?
 
-You'll hardly see any Marxist advocating markets as a distribution system, because of that individualistic profit motive. Most of us advocate for **democratically planned economies** with labor vouchers, or **gift economies** in goods that are widely abundant. For a great academic breakdown of how planned economies would work, I suggest [Cottrell -  towards a new socialism](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/new_socialism.pdf).
+You'll hardly see any Socialist advocating markets as a distribution system, because of that individualistic profit motive. Most of us advocate for **democratically planned economies** with labor vouchers, or **gift economies** in goods that are widely abundant. For a great academic breakdown of how planned economies would work, I suggest [Cottrell -  towards a new socialism](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/new_socialism.pdf).
 
 ### What's wrong with market socialism?
 
