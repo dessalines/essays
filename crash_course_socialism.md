@@ -283,6 +283,8 @@ Danny Katch -  Socialism…. Seriously
 
 [Kropotkin - The Conquest of Bread](https://theanarchistlibrary.org/library/petr-kropotkin-the-conquest-of-bread)
 
+[Trotsky - Fascism: What it is and how to Fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm)
+
 [Trotsky - In Defense of October](https://www.marxists.org/archive/trotsky/1932/11/oct.htm)
 
 ### Marxian economics
@@ -357,7 +359,7 @@ Danny Katch -  Socialism…. Seriously
 
 ## Films
 
-[Pride (2014)](http://www.imdb.com/title/tt3169706/?ref_=nv_sr_4), [Reds (1981)](http://www.imdb.com/title/tt0082979/?ref_=fn_al_tt_1), [Salt of the Earth (1954)](http://www.imdb.com/title/tt0047443/?ref_=fn_al_tt_1), [Snowpiercer (2013)](http://www.imdb.com/title/tt1706620/?ref_=nv_sr_1), [Libertarias (1996)](http://www.imdb.com/title/tt0113649/?ref_=fn_al_tt_1), [The Trotsky (2009)](http://www.imdb.com/title/tt1295072/?ref_=fn_al_tt_1), [Battleship Potemkin (1925)](https://en.m.wikipedia.org/wiki/The_Battleship_Potemkin), [Land and Freedom (1995)](http://www.imdb.com/title/tt0114671/?ref_=fn_al_tt_1), [The Spook who sat by the door (1973)](http://www.imdb.com/title/tt0070726/?ref_=fn_al_tt_1), [I, Daniel Blake (2016)](http://www.imdb.com/title/tt5168192/?ref_=fn_al_tt_1), [Tsar to Lenin (1937)](https://www.youtube.com/watch?v=uh-bPPOY1KA)
+[Pride (2014)](http://www.imdb.com/title/tt3169706/?ref_=nv_sr_4), [Reds (1981)](http://www.imdb.com/title/tt0082979/?ref_=fn_al_tt_1), [Salt of the Earth (1954)](http://www.imdb.com/title/tt0047443/?ref_=fn_al_tt_1), [Snowpiercer (2013)](http://www.imdb.com/title/tt1706620/?ref_=nv_sr_1), [Libertarias (1996)](http://www.imdb.com/title/tt0113649/?ref_=fn_al_tt_1), [The Trotsky (2009)](http://www.imdb.com/title/tt1295072/?ref_=fn_al_tt_1), [Battleship Potemkin (1925)](https://en.m.wikipedia.org/wiki/The_Battleship_Potemkin), [Land and Freedom (1995)](http://www.imdb.com/title/tt0114671/?ref_=fn_al_tt_1), [The Spook who sat by the door (1973)](http://www.imdb.com/title/tt0070726/?ref_=fn_al_tt_1), [I, Daniel Blake (2016)](http://www.imdb.com/title/tt5168192/?ref_=fn_al_tt_1), [Tsar to Lenin (1937)](https://www.youtube.com/watch?v=uh-bPPOY1KA), [How Yukong Moved the Mountains](https://www.youtube.com/watch?v=6McbfQeIsC4&t=522s), [Fidel - The Untold Story](https://www.youtube.com/watch?v=ao6VpoZ-Am0). 
 
 # Organizations
 
@@ -367,7 +369,7 @@ Danny Katch -  Socialism…. Seriously
 
 ## Online Communities
 
-[/r/LateStageCapitalism](https://www.reddit.com/r/LateStageCapitalism/), [/r/socialism](https://www.reddit.com/r/socialism/), [/r/anarchism](https://www.reddit.com/r/Anarchism/), [/r/communism](https://www.reddit.com/r/communism/), [/r/socialistprogrammers](https://www.reddit.com/r/socialistprogrammers/), [/r/TheTrotskyists](https://www.reddit.com/r/TheTrotskyists/), [/r/antifa](https://www.reddit.com/r/antifa/)
+[/r/LateStageCapitalism](https://www.reddit.com/r/LateStageCapitalism/), [/r/socialism](https://www.reddit.com/r/socialism/), [/r/anarchism](https://www.reddit.com/r/Anarchism/), [/r/communism](https://www.reddit.com/r/communism/), [/r/socialistRA](https://reddit.com/r/socialistRA), [/r/socialistprogrammers](https://www.reddit.com/r/socialistprogrammers/), [/r/TheTrotskyists](https://www.reddit.com/r/TheTrotskyists/), [/r/militant](https://www.reddit.com/r/militant/)
 
 101s: [/r/socialism_101](https://www.reddit.com/r/Socialism_101/), [/r/anarchy101](https://www.reddit.com/r/Anarchy101/), [/r/communism101](https://www.reddit.com/r/communism101/)
 
