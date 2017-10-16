@@ -163,7 +163,7 @@ Marxists aim to replace the dictatorship of the bourgeoisie, with a transitional
 
 Socialism as an economic system is distinct from [neoliberalism](https://en.wikipedia.org/wiki/Neoliberalism), as well as [social democracy](https://en.wikipedia.org/wiki/Social_democracy)/Welfare [state capitalism](https://en.wikipedia.org/wiki/State_capitalism), which aims to band-aid the ills of capitalism while leaving the exploitation inherent in [wage slavery](https://en.wikipedia.org/wiki/Wage_slavery) intact. Social services provided by the capitalist-controlled state have nothing to do with socialism.
 
-Many Marxists call the totalitarian regimes typically called socialist, as more correctly defined as [State Capitalism](https://en.wikipedia.org/wiki/State_capitalism), since production was controlled by state bureaucracies who also distributed the surplus, rather than through the democratic input of workers. However, the early stages of the [1917 russian revolution](https://en.m.wikipedia.org/wiki/October_Revolution) were far more progressive than is typically portrayed; Divorce was legalized, **Homosexuality was decriminalized**, land was distributed to the peasantry, banks were nationalized, control of factories was given to worker's councils, **the workday was shortened**, wages were fixed at a higher rate, all elected officials could now be immediately recalled; it created mass literacy drives, free nurseries, communal kitchens, and laundries. Western nations (including the US) [sent troops to russia](https://en.m.wikipedia.org/wiki/Allied_intervention_in_the_Russian_Civil_War) to fight against the gains of the revolution. Most of these revolutionary gains were lost due to a multitude of factors (civil war, a drastic decrease of the numbers of working class (50% decrease in the industrial centers), decimation of russian industry) that merit deeper study.
+Many Marxists call the regimes typically called socialist, as more correctly defined as [State Capitalist](https://en.wikipedia.org/wiki/State_capitalism), since production was controlled by state bureaucracies who also distributed the surplus, rather than through the democratic input of workers. Other Marxists call it *siege socialism*, contrasting it with *pure socialism*, stating that [siege socialism is a natural reaction to the external pressures of capitalist encirclement, and that pure socialism is an ideal which is ahistorical and nonfalsifiable.](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/) At the very least, the early stages of the [1917 russian revolution](https://en.m.wikipedia.org/wiki/October_Revolution) were far more progressive than is typically portrayed; Divorce was legalized, **Homosexuality was decriminalized**, land was distributed to the peasantry, banks were nationalized, control of factories was given to worker's councils, **the workday was shortened**, wages were fixed at a higher rate, all elected officials could now be immediately recalled; it created mass literacy drives, free nurseries, communal kitchens, and laundries. Western nations (including the US) [sent troops to russia](https://en.m.wikipedia.org/wiki/Allied_intervention_in_the_Russian_Civil_War) to fight against the gains of the revolution. Most of these revolutionary gains were lost due to a multitude of factors (civil war, a drastic decrease of the numbers of working class (50% decrease in the industrial centers), decimation of russian industry) that merit deeper study.
 
 Many burgeoning socialist attempts seized state power, in order to defend themselves against inevitable [capitalist military intervention](https://github.com/dessalines/essays/blob/master/us_atrocities.md), of which very few have survived US interventionism. [This talk](https://www.youtube.com/watch?v=BYVes44hcJg&feature=youtu.be) by Micheal Parenti is a good reflection and criticism on the soviet experiment.
 
@@ -185,8 +185,6 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ## FAQ
 
-[Why are communists against markets?](https://github.com/dessalines/essays/blob/master/market_socialism.md)
-
 [Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/)
 
 [What's the role of the state in the revolution, and what is a state?](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/)
@@ -195,13 +193,15 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [Why do Marxists oppose individual terrorism? (Trotsky)](https://www.marxists.org/archive/trotsky/1911/11/tia09.htm)
 
+[Why do many socialist attempts end up in an authoritarian state? Watch this brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=BYVes44hcJg&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/).
+
+[Why are communists against markets?](https://github.com/dessalines/essays/blob/master/market_socialism.md)
+
 [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 
 [Is it true that Socialism has killed X million people, and how many has capitalism killed?](https://www.reddit.com/r/LateStageCapitalism/comments/5q2oak/someone_dies_under_socialism_no_matter_how_its/dcvu8lg/)
 
 [Do communists defend the DPRK (Democratic People's Republic of North Korea)? short answer: no.](https://www.reddit.com/r/FULLDISCOURSE/comments/60voir/lets_talk_about_the_dprk/)
-
-[Why do many socialist attempts end up in an authoritarian state? Watch this brilliant talk by Micheal Parenti.](https://www.youtube.com/watch?v=BYVes44hcJg&feature=youtu.be)
 
 # Resources
 
