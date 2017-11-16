@@ -155,7 +155,7 @@ Both feudalism and slavery were thought to be highly stable systems, and even th
 
 ## The State, and Revolution
 
-State and RevolutionPrivate ownership of the means of production was established through force and [private tyranny](https://www.youtube.com/watch?v=FVt7U2YIgZs), and is only upheld through force. The state is a **special organization of force used for the suppression of one class by another** which (in capitalist society) exercises a monopoly on violence to forcibly maintain the right to private property. The modern state developed alongside the emergent capitalist system as the bourgeoisie seized political and economic control. It arises from the irreconcilable class antagonisms that exist in society.
+Private ownership of the means of production was established through force and [private tyranny](https://www.youtube.com/watch?v=FVt7U2YIgZs), and is only upheld through force. The state is a **special organization of force used for the suppression of one class by another** which (in capitalist society) exercises a monopoly on violence to forcibly maintain the right to private property. The modern state developed alongside the emergent capitalist system as the bourgeoisie seized political and economic control. It arises from the irreconcilable class antagonisms that exist in society.
 
 The State, under capitalist society, which protects private property and upholds the capitalist mode of production, is an instrument wielded by the bourgeoisie to *suppress the proletariat*. So long as there are classes in society, a State must exist.
 
