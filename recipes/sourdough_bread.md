@@ -5,22 +5,22 @@
 ### For the leaven:
 
 - 1 Tablespoon sourdough starter
-- 75 grams bread flour
-- 75 grams water
+- 75g bread flour
+- 75g water
 
 ### For the dough
 
-- 14 grams salt + 50 grams water
-- 475 grams water
-- 700 grams bread flour
+- 14g salt + 50g water
+- 475g water
+- 700g bread flour
 - 2 cast iron pots
 
 ## Instructions
 
 1. The night before, combine all the ingredients of the leaven, and mix to form a thick batter. Place in a large bowl and cover overnight.
 - Combine 14g salt and 50g of water in a small bowl, mix, and set aside.
-- Pour 475 grams of water into the leaven, breaking up the clumps.
-- Add the 700 grams of flour to the leaven, mixing until you see no more dry flour, and have a shaggy dough.
+- Pour 475g of water into the leaven, breaking up the clumps.
+- Add the 700g of flour to the leaven, mixing until you see no more dry flour, and have a shaggy dough.
 - Cover the bowl and rest for 2 hours.
 - Pour the salt-water into the bowl, pinching and squeezing into the dough.
 - Fold the dough by lifting it up, pulling it over, then rotating the bowl 90°. Fold it 4 times (rotating 4 times). Repeat these 4 folds every 30 minutes for 2.5 hours.
