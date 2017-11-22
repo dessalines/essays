@@ -18,7 +18,7 @@
 ## Instructions
 
 1. The night before, combine all the ingredients of the leaven, and mix to form a thick batter. Place in a large bowl and cover overnight.
-- Combine salt and 50 grams of water in a small bowl, mix, and set aside.
+- Combine 14g salt and 50g of water in a small bowl, mix, and set aside.
 - Pour 475 grams of water into the leaven, breaking up the clumps.
 - Add the 700 grams of flour to the leaven, mixing until you see no more dry flour, and have a shaggy dough.
 - Cover the bowl and rest for 2 hours.
