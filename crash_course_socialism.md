@@ -233,6 +233,8 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [Against Capitalism by Jerry Cohen](https://www.youtube.com/watch?v=IJtSXkZQf0A)
 
+[Dr Gabor Maté - Why Capitalism Makes Us Sick](https://www.youtube.com/watch?v=AaAJQR_9Dg8)
+
 [Capitalist exploitation explained](https://youtu.be/-w12bkm9g8o?t=3m18s)
 
 ## Literature
