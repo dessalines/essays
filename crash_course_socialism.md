@@ -217,25 +217,19 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [Socialism for Dummies by Professor Richard D. Wolff](https://www.youtube.com/watch?v=ysZC0JOYYWw) (necessary for north americans)
 
-[Karl Marx and Marxism - BBC documentary by Stuart Hall](http://www.youtube.com/watch?v=m8bdndigRA8)
-
 [Michael Parenti - Reflections on the overthrow of the Soviet Union](https://www.youtube.com/watch?v=BYVes44hcJg)
 
 [Michael Parenti on US imperialism, and the overthrow of Yugoslavia](https://www.youtube.com/watch?v=ApaMIJiOt-c)
 
 [Michael Parenti on anti-sovietism in the US media](https://www.youtube.com/watch?v=FUWrgLpazwE)
 
-[Leslie feinberg, on Intersectionality, solidarity, LGBTQ and worker struggles.](https://www.youtube.com/watch?v=yaRF0Ohb1mg)
+[Karl Marx and Marxism - BBC documentary by Stuart Hall](http://www.youtube.com/watch?v=m8bdndigRA8)
 
 [Introduction to Anarchism by Noam Chomsky](https://www.youtube.com/watch?v=7_Bv2MKY7uI), [#1](https://www.youtube.com/watch?v=RUzquEya6Lw), [#2](https://www.youtube.com/watch?v=_FHNMZbnvYU)
 
 [Chomsky on american or right-libertarianism](https://www.youtube.com/watch?v=FVt7U2YIgZs)
 
-[Against Capitalism by Jerry Cohen](https://www.youtube.com/watch?v=IJtSXkZQf0A)
-
 [Dr Gabor Maté - Why Capitalism Makes Us Sick](https://www.youtube.com/watch?v=AaAJQR_9Dg8)
-
-[Capitalist exploitation explained](https://youtu.be/-w12bkm9g8o?t=3m18s)
 
 ## Literature
 
