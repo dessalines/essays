@@ -4,10 +4,10 @@
 
 ### Notes
 
-- Try to convey a sense of moral outrage. 
+- Try to convey a sense of moral outrage.
 - This is a living document, it will be updated as new hate crimes pour in.
-- These are acts **not committed by figures of authority** directly, those should be included the [List of US atrocities](https://github.com/dessalines/essays/blob/master/us_atrocities.md). 
-- Feel free to make pull requests(changes), or fork it if you'd like to make your own versions. 
+- These are acts **not committed by figures of authority** directly, those should be included the [List of US atrocities](https://github.com/dessalines/essays/blob/master/us_atrocities.md).
+- Feel free to make pull requests(changes), or fork it if you'd like to make your own versions.
 - Name the specific source and recipient for the crime, and provide a source for the claim.
 - Try to do chronologically from recent to past; it should seem like a running log.
 
@@ -34,6 +34,7 @@
 - On August 5, 2012, a [massacre](https://en.wikipedia.org/wiki/Wisconsin_Sikh_temple_shooting) took place at the [gurdwara](https://en.wikipedia.org/wiki/Gurdwara) ([Sikh](https://en.wikipedia.org/wiki/Sikhism) temple) in [Oak Creek, Wisconsin](https://en.wikipedia.org/wiki/Oak_Creek,_Wisconsin), where 40-year-old Wade Michael Page fatally shot six people and wounded four others. Page committed suicide by shooting himself in the head after he was shot in the stomach by a responding police officer. Page was a member of the [hammerskins](https://en.wikipedia.org/wiki/Hammerskins), a white nationalist neo-nazi group. Apart from the shooter, all of the dead were members of the [Sikh](https://en.wikipedia.org/wiki/Sikh) faith. <sup>[1](https://en.wikipedia.org/wiki/Wisconsin_Sikh_temple_shooting)</sup>
 - In May 2012, members of the US national socialist movement, and white supremacists lead by [Craig Cobb](https://en.wikipedia.org/wiki/Craig_Cobb) attempted a takeover Leith, a tiny rural town in North Dakota. He published names, photos and addresses of town members and their families, invoking the first amendment when anyone opposed him. The town lived in perpetual fear until he was arrested for terrorizing them with firearms, which after a plea deal was struck that let him off the hook. The affair is shown in the documentary [Welcome to Leith (2015)](https://en.wikipedia.org/wiki/Welcome_to_Leith). 
 - On June 10th, 2009, 89-year-old [white supremacist](https://en.wikipedia.org/wiki/White_supremacist) and holocaust denier [James Wenneker von Brunn](https://en.wikipedia.org/wiki/James_von_Brunn) entered the [United States Holocaust Memorial Museum](https://en.wikipedia.org/wiki/United_States_Holocaust_Memorial_Museum) in [Washington, D.C.](https://en.wikipedia.org/wiki/Washington,_D.C.) with a rifle and[] killed a security guard.](https://en.wikipedia.org/wiki/United_States_Holocaust_Memorial_Museum_shooting) <sup>[1](https://en.wikipedia.org/wiki/United_States_Holocaust_Memorial_Museum_shooting)</sup>
+- On July 4th weekend, 1999, Benjamin Smith, a member of the neo-nazi world church of the creator, [killed 3 people and wounded 10 more](https://en.wikipedia.org/wiki/Benjamin_Nathaniel_Smith) in drive by shootings, then committed suicide. He targeted Jews, black people, and Asians. <sup>[1](https://en.wikipedia.org/wiki/Benjamin_Nathaniel_Smith)</sup>
 
 
 
