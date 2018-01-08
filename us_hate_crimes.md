@@ -37,7 +37,7 @@
 ## Indiscriminate
 
 - On November 5th, 2017, 26-year-old Devin Patrick Kelley [killed 26 people and wounded 20 others](https://en.wikipedia.org/wiki/Sutherland_Springs_church_shooting) in a Baptist Church in Sutherland Springs, Texas. The attack was the deadliest mass shooting by an individual in Texas, the fifth-deadliest mass shooting in the United States, as well as the deadliest shooting in an American place of worship in modern history, surpassing the Charleston church shooting of 2015 and the Waddell Buddhist temple shooting of 1991.<sup>[1](https://en.wikipedia.org/wiki/Sutherland_Springs_church_shooting)</sup>
-
+- On October 1st, 2017, 64-year-old Stephen Paddock opened fire on a crowd of concertgoers at the Route 91 Harvest music festival on the Las Vegas Strip in Nevada, [killing 58 people and injuring another 546](https://en.wikipedia.org/wiki/2017_Las_Vegas_shooting), after firing more than 1,100 rounds from his suite on the 32nd floor of the nearby Mandalay Bay hotel. About an hour after Paddock fired his last shot into the crowd of 22,000, he was found dead in his room from a self-inflicted gunshot wound. His motive is unknown. The incident is the deadliest mass shooting committed by an individual in the United States.<sup>[1](https://en.wikipedia.org/wiki/2017_Las_Vegas_shooting)</sup>
 
 
 ## Sources / Starting points
