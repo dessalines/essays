@@ -11,8 +11,6 @@
 - Name the specific source and recipient for the crime, and provide a source for the claim.
 - Try to do chronologically from recent to past; it should seem like a running log.
 
-
-
 ## White supremacy
 
 - According to hate crimes researcher Brian Levin, hate crimes in nine US metropolitan areas [have risen by 20%](http://www.nbcnews.com/news/us-news/u-s-hate-crimes-20-percent-2016-fueled-election-campaign-n733306) in the year following Trump's election. <sup>[1](http://www.nbcnews.com/news/us-news/u-s-hate-crimes-20-percent-2016-fueled-election-campaign-n733306)</sup>
@@ -36,7 +34,9 @@
 - On June 10th, 2009, 89-year-old [white supremacist](https://en.wikipedia.org/wiki/White_supremacist) and holocaust denier [James Wenneker von Brunn](https://en.wikipedia.org/wiki/James_von_Brunn) entered the [United States Holocaust Memorial Museum](https://en.wikipedia.org/wiki/United_States_Holocaust_Memorial_Museum) in [Washington, D.C.](https://en.wikipedia.org/wiki/Washington,_D.C.) with a rifle and[] killed a security guard.](https://en.wikipedia.org/wiki/United_States_Holocaust_Memorial_Museum_shooting) <sup>[1](https://en.wikipedia.org/wiki/United_States_Holocaust_Memorial_Museum_shooting)</sup>
 - On July 4th weekend, 1999, Benjamin Smith, a member of the neo-nazi world church of the creator, [killed 3 people and wounded 10 more](https://en.wikipedia.org/wiki/Benjamin_Nathaniel_Smith) in drive by shootings, then committed suicide. He targeted Jews, black people, and Asians. <sup>[1](https://en.wikipedia.org/wiki/Benjamin_Nathaniel_Smith)</sup>
 
+## Indiscriminate
 
+- On November 5th, 2017, 26-year-old Devin Patrick Kelley [killed 26 people and wounded 20 others](https://en.wikipedia.org/wiki/Sutherland_Springs_church_shooting) in a Baptist Church in Sutherland Springs, Texas. The attack was the deadliest mass shooting by an individual in Texas, the fifth-deadliest mass shooting in the United States, as well as the deadliest shooting in an American place of worship in modern history, surpassing the Charleston church shooting of 2015 and the Waddell Buddhist temple shooting of 1991.<sup>[1](https://en.wikipedia.org/wiki/Sutherland_Springs_church_shooting)</sup>
 
 
 
