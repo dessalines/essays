@@ -17,3 +17,9 @@
 [Is it true that Socialism has killed X million people, and how many has capitalism killed?](https://www.reddit.com/r/LateStageCapitalism/comments/5q2oak/someone_dies_under_socialism_no_matter_how_its/dcvu8lg/)
 
 [Do communists defend the DPRK (Democratic People's Republic of North Korea)? short answer: no.](https://www.reddit.com/r/FULLDISCOURSE/comments/60voir/lets_talk_about_the_dprk/)
+
+## TODO:
+
+- Bitcoin
+- Elon Musk
+- Bill Gates
