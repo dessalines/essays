@@ -26,8 +26,9 @@
 - Fold the dough by lifting it up, pulling it over, then rotating the bowl 90°. Fold it 4 times (rotating 4 times). Repeat these 4 folds every 30 minutes for 2.5 hours.
 - Let the dough rise another 1 hour.
 - Sprinkle some flour on the counter, pour the dough onto it, and split into two equal loaves with a pastry scraper.
-- Work these into rounds by "turning left while driving", and place them into the iron pots, covered.
-- Let rise for 1.5 hours
+- Work these into rounds by "turning left while driving", and place them into the iron pots, covered. (Place them in an warmed oven, but turn the heat off).
+- Let rise for 1.5 hours.
+- Take them out of the iron pots, and rework them into rounds again. Place back in pots.
 - Score the tops of the loaves with a knife, a cross works.
 - Heat oven to 500°.
 - Put covered pots into oven, cook for 25 minutes.
