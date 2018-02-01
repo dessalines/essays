@@ -11,6 +11,8 @@
 
 [Do Marxists oppose individual terrorism? (Trotsky)](https://www.marxists.org/archive/trotsky/1911/11/tia09.htm)
 
+[What is Antifa? (Olly)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
+
 
 ## Branches
 
