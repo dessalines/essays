@@ -3,9 +3,13 @@
 
 ## Liberalism
 
-[Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/), 
+[Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/)
 
 [What is liberalism? (Olly from Philosophy Tube)](https://www.youtube.com/watch?v=VlLgvSduugI)
+
+## Human Nature
+
+[Doesn't socialism go against human nature?](http://newdemocracyworld.org/culture/human_nature.html)
 
 ## Tactics
 
