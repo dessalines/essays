@@ -88,7 +88,7 @@
 
 * [*Socialism: Utopian and Scientific*](https://www.marxists.org/archive/marx/works/1880/soc-utop/) by Friedrich Engels
 
-## On **Leninist theory
+## On Leninist theory
 
 * [What is the vanguard party? Is one necessary?](http://www.reddit.com/r/communism101/comments/142p1b/what_is_the_vanguard_party_is_one_necessary/)
 
@@ -252,6 +252,8 @@ On **Nationalism and Internationalism**:
 - [Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/)
 
 - [What is liberalism? (Olly from Philosophy Tube)](https://www.youtube.com/watch?v=VlLgvSduugI)
+
+- [What about free speech?](https://www.youtube.com/watch?v=bgwS_FMZ3nQ&t=2398s)
 
 ## Human Nature
 
