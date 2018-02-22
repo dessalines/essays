@@ -285,6 +285,8 @@ On **Nationalism and Internationalism**:
 
 - [Whats so bad about bill gates?](http://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf), [2](https://www.versobooks.com/books/2344-no-such-thing-as-a-free-gift)
 
+- [What's so bad about George Orwell?] (http://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/-/dpyxvnd) 
+
 ## States
 
 - [Is it true that Socialism has killed X million people, and how many has capitalism killed?](https://www.reddit.com/r/LateStageCapitalism/comments/5q2oak/someone_dies_under_socialism_no_matter_how_its/dcvu8lg/)
