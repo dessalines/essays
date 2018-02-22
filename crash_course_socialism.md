@@ -144,6 +144,7 @@ Communists propose to replace bourgeois democracy with **proletarian democracy**
 - Replacement of bourgeois parliamentary bodies with broadly inclusive workers organizations.
 - Represenatives elected by the working class through universal suffrage.
 - All representatives and officials (including police) are revocable at any time.
+- Low-level workplace democracy.
 - Public officials are paid workmen’s wages.
 - Elimination of the standing army, and the substitution for it of armed workers.
 - An emphasis on health-care, child-care, care for the elderly, and human welfare.
