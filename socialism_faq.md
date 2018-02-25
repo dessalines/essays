@@ -269,7 +269,7 @@
 
 * [Suggested reading for an aspiring M-L-M?](http://www.reddit.com/r/communism101/comments/18hgw2/suggested_reading_for_an_aspiring_mlm/c8fod6n)
 
-## On **Nationalism and Internationalism**:
+## On **Nationalism and Internationalism**
 
 * [Nationalism as applied internationalism.](http://www.reddit.com/r/communism101/comments/298jfb/nationalism_as_applied_internationalism/)
 
@@ -338,7 +338,7 @@
 
 - [Whats so bad about bill gates?](http://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf), [2](https://www.versobooks.com/books/2344-no-such-thing-as-a-free-gift)
 
-- [What's so bad about George Orwell?] (http://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/-/dpyxvnd) 
+- [What's so bad about George Orwell?](http://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/-/dpyxvnd) 
 
 ## States
 
