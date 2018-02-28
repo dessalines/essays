@@ -139,6 +139,17 @@ Economic systems, such as Capitalism, don't invent, *create* or *build* anything
 
 Socialists view democracy under capitalism to be an unrealistic utopia, better labeled as [Bourgeois Democracy](https://en.wikipedia.org/wiki/Democracy_in_Marxism), or democracy for the rich, which socialists contrast with proletarian democracy. Under capitalism, political parties, representatives, infrastructure, and the media **are controlled by capitalists**, who place restrictions and limitations on the ability and choices of the working class. [Bourgeois democracies](https://en.wikipedia.org/wiki/Liberal_democracy#Dictatorship_of_the_bourgeoisie) tend to be highly plutocratic, resulting in legislation [favorable to the wealthy](https://www.youtube.com/watch?v=5tu32CCA_Ig), regardless of the population's actual preferences. Examples of restrictions include stacking the candidates before an election, the [First Past the Post](https://www.youtube.com/watch?v=s7tWHJfhiyo) voting system (which enforces capitalist two party domination), [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering), long term limits with no way to recall unpopular representatives, restrictions crafted to disenfranchise poor and minority voters, bills directly crafted by lobbyists and bourgeois lawmakers, voter suppression, electoral fraud, unverifiable closed source electronic voting systems, capitalist campaign financing, low voter to representative ratios, inconvienient voting locations and times, and most pervasive, candidate stacking. **Most elections are performed before we ever get to the polling booth**. In short, political democracy can't exist without economic democracy.
 
+Communists propose to replace bourgeois democracy with **proletarian democracy**, with such measures as:
+
+- Replacement of bourgeois parliamentary bodies with broadly inclusive workers organizations.
+- Represenatives elected by the working class through universal suffrage.
+- All representatives and officials (including police) are revocable at any time.
+- Low-level workplace democracy.
+- Public officials are paid workmen’s wages.
+- Elimination of the standing army, and the substitution for it of armed workers.
+- An emphasis on health-care, child-care, care for the elderly, and human welfare.
+- Low levels of wealth and income inequality, often driven by a system of labor vouchers for compensation.
+
 ## Unsustainable Growth
 
 During Capitalisms' growth period, when there are new markets and labor forces to expand to, capitalism can appear stable for the richer consumers whose products are actually being produced by exploited, poorer workforces. Likewise, in a labor shortage, as existed in the newly industrializing US, capitalists have no choice but to keep wages high (and the rate of exploitation low) in order to bring in workers from other countries, and keep them from running off into the interior. In the southern US, African slavery was used to solve the labor shortage, and keep exploitation high (since no wages were paid), and consumer products such as tobacco and cotton cheap. In order to take advantage of cheap labor, capitalists usually build production far away from where those products are actually bought and consumed, meaning that most consumer goods are shipped by ocean-freight, wasting energy and **polluting the environment**.

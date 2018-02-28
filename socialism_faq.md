@@ -1,8 +1,63 @@
+# Socialism FAQ
+
+## Contents
+
+<!-- toc -->
+
+- [Socialism FAQ](#socialism-faq)
+  * [On **the difference between schools of thought**](#on-the-difference-between-schools-of-thought)
+  * [On **the differences between "socialism" and "communism" (or the "lower" and "higher" stages of communism)**](#on-the-differences-between-socialism-and-communism-or-the-lower-and-higher-stages-of-communism)
+  * [Why do you defend [x] country? Don't you know [y] leader killed [z] people?](#why-do-you-defend-x-country-dont-you-know-y-leader-killed-z-people)
+  * [Didn't communism fail? It works on paper but not in practice.](#didnt-communism-fail-it-works-on-paper-but-not-in-practice)
+  * [Who would sweep the floors under communism?](#who-would-sweep-the-floors-under-communism)
+  * [But what about human nature?](#but-what-about-human-nature)
+  * [Did the planned economies of the socialist countries work?](#did-the-planned-economies-of-the-socialist-countries-work)
+  * [But what about cooperatives?](#but-what-about-cooperatives)
+  * [What would [x] be like under communism?](#what-would-x-be-like-under-communism)
+    + [Further reading](#further-reading)
+  * [On Leninist theory](#on-leninist-theory)
+    + [Further reading](#further-reading-1)
+  * [On Joseph Stalin and the USSR](#on-joseph-stalin-and-the-ussr)
+    + [Further reading](#further-reading-2)
+  * [On Economics and Sociology](#on-economics-and-sociology)
+  * [On Trotsky and Trotskyism](#on-trotsky-and-trotskyism)
+  * [On the DPRK](#on-the-dprk)
+    + [Further reading](#further-reading-3)
+  * [On Mao, Maoism, and Marxism-Leninism-Maoism](#on-mao-maoism-and-marxism-leninism-maoism)
+    + [Further reading](#further-reading-4)
+  * [On **Nationalism and Internationalism**:](#on-nationalism-and-internationalism)
+  * [On Cuba](#on-cuba)
+  * [On Women's Liberation](#on-womens-liberation)
+  * [Liberalism](#liberalism)
+  * [Human Nature](#human-nature)
+  * [Tactics](#tactics)
+  * [Branches](#branches)
+  * [Markets](#markets)
+  * [Other Topics](#other-topics)
+  * [States](#states)
+    + [Soviet Union](#soviet-union)
+      - [Did the Soviet Union repress and kill millions of people?](#did-the-soviet-union-repress-and-kill-millions-of-people)
+      - [Did the Soviet Union and the Warsaw pact nations have functioning democracies?](#did-the-soviet-union-and-the-warsaw-pact-nations-have-functioning-democracies)
+      - [Was Soviet Socialism an economic failure?](#was-soviet-socialism-an-economic-failure)
+      - [Did the citizens of the Soviet Union dislike their government?](#did-the-citizens-of-the-soviet-union-dislike-their-government)
+    + [Peoples Republic of China](#peoples-republic-of-china)
+      - [Did Mao kill millions of people?](#did-mao-kill-millions-of-people)
+      - [Was the PRC a totalitarian dictatorship?](#was-the-prc-a-totalitarian-dictatorship)
+    + [Cuba](#cuba)
+      - [Was Che a murderer and/or a racist?](#was-che-a-murderer-andor-a-racist)
+      - [Is Cuba a functioning democracy or a terrible place to live?](#is-cuba-a-functioning-democracy-or-a-terrible-place-to-live)
+      - [Did the cuban people like Fidel Castro?](#did-the-cuban-people-like-fidel-castro)
+    + [Democratic Peoples Republic of Korea (DPRK)](#democratic-peoples-republic-of-korea-dprk)
+      - [Do North Koreans believe in unicorns and think Kim Jong-Un is immortal?](#do-north-koreans-believe-in-unicorns-and-think-kim-jong-un-is-immortal)
+      - [Is the DPRK a Fascist Monarchy?](#is-the-dprk-a-fascist-monarchy)
+- [TODO](#todo)
+
+<!-- tocstop -->
 
 # Socialism FAQ
 
 
-## On **the difference between schools of thought**:
+## On **the difference between schools of thought**
 
 * [Can someone give us a quick like-we're-five rundown of the distinctions between Trotskyism, Maoism, orthodox Marxism, and so on?](http://www.reddit.com/r/communism101/comments/132d5s/can_someone_give_us_a_quick_likewerefive_rundown/)
 
@@ -12,13 +67,13 @@
 
 * [What are the different forms of Marxism and what are their differences?](http://www.reddit.com/r/communism101/comments/206xtz/what_are_the_different_forms_of_marxism_and_what/)
 
-## On **the differences between "socialism" and "communism" (or the "lower" and "higher" stages of communism)**:
+## On **the differences between "socialism" and "communism" (or the "lower" and "higher" stages of communism)**
 
 * [Did Karl Marx use "socialism" and "communism" interchangeably?](http://www.reddit.com/r/communism101/comments/2msa39/did_karl_marx_use_socialism_and_communism/)
 
 * [Is the revolutionary DotP a separate material stage apart from lower phased communism?](http://www.reddit.com/r/communism101/comments/2mrkkj/is_the_revolutionary_dotp_a_separate_material/)
 
-* [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](http://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_stage_of_communism_or_is/)
+* [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](http://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_staypal , but its lockedage_of_communism_or_is/)
 
 ## Why do you defend [x] country? Don't you know [y] leader killed [z] people?
 
@@ -46,11 +101,13 @@
 
 ## But what about human nature?
 
-* ["What about human nature?" [ANSWER, but add yours, too]](http://www.reddit.com/r/communism101/comments/2yk3xl/what_about_human_nature_answer_but_add_yours_too/)
+* [What about human nature?](http://www.reddit.com/r/communism101/comments/2yk3xl/what_about_human_nature_answer_but_add_yours_too/)
+* [History and human nature.](https://github.com/dessalines/essays/blob/master/crash_course_socialism.md#history-and-human-nature)
 
 ## Did the planned economies of the socialist countries work?
 
 * [My economics teacher said that the planned economies communist countries had are proven failures. Is this true?](https://www.reddit.com/r/communism101/comments/3e68nf/my_economics_teacher_said_that_the_planned/)
+* [Towards a new socialism - Cockshott and Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/)
 
 ## But what about cooperatives?
 
@@ -90,19 +147,15 @@
 
 ## On Leninist theory
 
+* [An overview of Leninism.](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/)
 * [What is the vanguard party? Is one necessary?](http://www.reddit.com/r/communism101/comments/142p1b/what_is_the_vanguard_party_is_one_necessary/)
-
 * [Why is a vanguard party necessary in Leninism?](http://www.reddit.com/r/communism101/comments/2n5xx3/why_is_a_vanguard_party_necessary_in_leninism/)
-
 * [What is Vanguardism and Democratic Centralism?](http://www.reddit.com/r/communism101/comments/2eo0ft/what_is_vanguardism_and_democratic_centralism/)
-
 * [What is a vanguard party supposed to be like? What qualifies and doesn't qualify as a vanguard party?](http://www.reddit.com/r/communism101/comments/1b0r0o/what_is_a_vanguard_party_supposed_to_be_like_what/)
-
 * [Difference between leninism and Marxist-leninism?](http://www.reddit.com/r/communism101/comments/21jk1t/difference_between_leninism_and_marxistleninism/)
-
 * [Why does left communism reject national liberation movements?](http://www.reddit.com/r/communism101/comments/27lbru/why_does_left_communism_reject_national/)
 
-### Further reading:
+### Further reading
 
 * [*The Leninist Theory of Organisation*](http://www.marxists.org/archive/mandel/196x/leninism/index.htm) by Ernest Mandel
 
@@ -138,7 +191,7 @@
 
 * [Forced Deportation Under Stalin](http://www.reddit.com/r/communism101/comments/316tey/forced_deportation_under_stalin/)
 
-### Further reading:
+### Further reading
 
 * [A collection of Soviet history books on Stalin and Stalinism.](http://www.reddit.com/r/communism/comments/1hzwl3/a_collection_of_soviet_history_books_on_stalin/)
 
@@ -194,13 +247,13 @@
 
 * [Can someone explain Songbun (Caste system) of the DPRK to me?](http://www.reddit.com/r/communism101/comments/2dqtn3/can_someone_explain_songbun_caste_system_of_the/)
 
-Further reading:
+### Further reading
 
 * [Essential readings on the Juche idea and the Korean revolution](http://www.reddit.com/r/communism101/comments/2pil0z/what_are_some_essential_readings_on_the_juche_idea/)
 
 * [E-Library on the DPRK](http://www.korea-dpr.com/e_library.html)
 
-On Mao, Maoism, and Marxism-Leninism-Maoism
+## On Mao, Maoism, and Marxism-Leninism-Maoism
 
 * [What is Maoism?](http://www.reddit.com/r/communism101/comments/139sid/what_is_maoism/)
 
@@ -212,11 +265,11 @@ On Mao, Maoism, and Marxism-Leninism-Maoism
 
 * [How many peopled really died during the Great Leap Forward?](http://www.reddit.com/r/communism/comments/39w9w0/how_many_peopled_really_died_during_the_great/)
 
-Further reading:
+### Further reading
 
 * [Suggested reading for an aspiring M-L-M?](http://www.reddit.com/r/communism101/comments/18hgw2/suggested_reading_for_an_aspiring_mlm/c8fod6n)
 
-On **Nationalism and Internationalism**:
+## On **Nationalism and Internationalism**
 
 * [Nationalism as applied internationalism.](http://www.reddit.com/r/communism101/comments/298jfb/nationalism_as_applied_internationalism/)
 
@@ -285,7 +338,7 @@ On **Nationalism and Internationalism**:
 
 - [Whats so bad about bill gates?](http://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf), [2](https://www.versobooks.com/books/2344-no-such-thing-as-a-free-gift)
 
-- [What's so bad about George Orwell?] (http://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/-/dpyxvnd) 
+- [What's so bad about George Orwell?](http://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/-/dpyxvnd) 
 
 - [What's so bad about Winston Churchill?](http://www.reddit.com/r/ShitLiberalsSay/comments/80sxhj/-/duy08zm) 
 
