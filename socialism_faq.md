@@ -338,7 +338,9 @@
 
 - [Whats so bad about bill gates?](http://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf), [2](https://www.versobooks.com/books/2344-no-such-thing-as-a-free-gift)
 
-- [What's so bad about George Orwell?](http://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/-/dpyxvnd) 
+- [What's so bad about George Orwell?](http://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/-/dpyxvnd)
+
+- [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
 
 ## States
 
@@ -468,6 +470,3 @@
 * [*The secret genocide in South Korea you’ve probably never heard of*](https://medium.com/@wolf.aldrich/the-50-s-in-south-korea-what-happened-60f629ac3272)
 
 
-# TODO
-
-- Bill Gates
