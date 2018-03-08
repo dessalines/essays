@@ -336,7 +336,7 @@
 
 - [What's so bad about Elon Musk?](https://www.buzzfeed.com/carolineodonovan/musk-slams-union-drive-in-email-to-employees) [2](http://www.businessinsider.com/tesla-injuries-rates-higher-industry-average-worksafe-2017-5), [3](http://www.detroitnews.com/story/opinion/2016/05/09/elon-musk-tesla-crony/84169496/), [4](https://www.salon.com/2017/10/08/against-mars-a-lago-why-spacexs-mars-colonization-plan-should-terrify-you/), [5](https://jalopnik.com/elon-musk-is-a-jerk-that-once-fired-his-assistant-of-12-1797699824), [6](https://www.reddit.com/r/EnoughMuskSpam/comments/7spkqa/happy_2018_everybody_lets_take_a_moment_to_recall/), [7](https://www.reddit.com/r/EnoughMuskSpam/comments/73eh4m/tracking_elon_musks_visions_promises_and/)
 
-- [Whats so bad about bill gates?](http://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf), [2](https://www.versobooks.com/books/2344-no-such-thing-as-a-free-gift)
+- [Whats so bad about bill gates?](http://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf), [2](https://www.versobooks.com/books/2344-no-such-thing-as-a-free-gift), [3](https://www.liberationnews.org/real-agenda-gates-foundation/)
 
 - [What's so bad about George Orwell?](http://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/-/dpyxvnd)
 
