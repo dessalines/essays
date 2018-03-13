@@ -299,6 +299,9 @@
 
 * [Hello comrades! can anyone explain the idea of marxist-feminism?](http://www.reddit.com/r/communism101/comments/2i1hlp/hello_comrades_can_anyone_explain_the_idea_of/)
 
+## On guns
+
+* [Is it true that gun ownership correlates to increased murders and violence?](http://www.reddit.com/r/bestof/comments/83wax3/-/dvlkxil) 
 
 ## Liberalism
 
