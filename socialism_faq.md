@@ -291,6 +291,7 @@
 ## On Mao, Maoism, and Marxism-Leninism-Maoism, and the PRC
 
 * [What is Maoism?](http://www.reddit.com/r/communism101/comments/139sid/what_is_maoism/)
+* [Did Mao really kill millions of people in the great leap forward?](https://monthlyreview.org/commentary/did-mao-really-kill-millions-in-the-great-leap-forward#.T5wbUSfm_x8.reddit)
 * [Why did Mao launch the Cultural Revolution? What was he trying to achieve as distinct from the Revolution the Chinese Communists had already won? To what extent did he succeed? Does it have any continuing impact? (x-post from /r/AskHistorians)](http://www.reddit.com/r/communism101/comments/23958h/why_did_mao_launch_the_cultural_revolution_what/)
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
@@ -383,7 +384,7 @@
 - [Why are socialists against bitcoin mining?](https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change), [2](https://www.theguardian.com/technology/2017/nov/27/bitcoin-mining-consumes-electricity-ireland)
 - [What's so bad about Elon Musk?](https://www.buzzfeed.com/carolineodonovan/musk-slams-union-drive-in-email-to-employees) [2](http://www.businessinsider.com/tesla-injuries-rates-higher-industry-average-worksafe-2017-5), [3](http://www.detroitnews.com/story/opinion/2016/05/09/elon-musk-tesla-crony/84169496/), [4](https://www.salon.com/2017/10/08/against-mars-a-lago-why-spacexs-mars-colonization-plan-should-terrify-you/), [5](https://jalopnik.com/elon-musk-is-a-jerk-that-once-fired-his-assistant-of-12-1797699824), [6](https://www.reddit.com/r/EnoughMuskSpam/comments/7spkqa/happy_2018_everybody_lets_take_a_moment_to_recall/), [7](https://www.reddit.com/r/EnoughMuskSpam/comments/73eh4m/tracking_elon_musks_visions_promises_and/)
 - [Whats so bad about bill gates?](http://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf), [2](https://www.versobooks.com/books/2344-no-such-thing-as-a-free-gift), [3](https://www.liberationnews.org/real-agenda-gates-foundation/)
-- [What's so bad about George Orwell?][https://bennorton.com/george-orwell-list-leftists-snitch-british-government/] [2](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/)
+- [What's so bad about George Orwell?](https://bennorton.com/george-orwell-list-leftists-snitch-british-government/) [2](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/)
 - [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
 - [What's so bad about Winston Churchill?](http://www.reddit.com/r/ShitLiberalsSay/comments/80sxhj/-/duy08zm) 
 - [What about Jordan Peterson?](https://www.reddit.com/r/Socialism_101/comments/85cuay/thoughts_on_jordan_petersons_criticism_of_marxism/dvwnd25/)
