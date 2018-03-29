@@ -63,7 +63,7 @@
 
 * [Is the revolutionary DotP a separate material stage apart from lower phased communism?](http://www.reddit.com/r/communism101/comments/2mrkkj/is_the_revolutionary_dotp_a_separate_material/)
 
-* [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](http://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_staypal , but its lockedage_of_communism_or_is/)
+* [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](https://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_stage_of_communism_or_is/)
 
 ## Didn't communism fail? It works on paper but not in practice.
 
