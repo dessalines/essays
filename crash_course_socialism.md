@@ -234,6 +234,8 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [Michael Parenti on US imperialism, and the overthrow of Yugoslavia](https://www.youtube.com/watch?v=ApaMIJiOt-c)
 
+[Michael Parenti on Imperialism and Film - Rambo and the Swarthy Hordes](https://www.youtube.com/watch?v=S33DKRcqvkQ)
+
 [Michael Parenti on anti-sovietism in the US media](https://www.youtube.com/watch?v=FUWrgLpazwE)
 
 [Karl Marx and Marxism - BBC documentary by Stuart Hall](http://www.youtube.com/watch?v=m8bdndigRA8)
@@ -382,7 +384,7 @@ Danny Katch -  Socialism…. Seriously
 
 ## Films
 
-[Pride (2014)](http://www.imdb.com/title/tt3169706/?ref_=nv_sr_4), [Reds (1981)](http://www.imdb.com/title/tt0082979/?ref_=fn_al_tt_1), [Salt of the Earth (1954)](http://www.imdb.com/title/tt0047443/?ref_=fn_al_tt_1), [Snowpiercer (2013)](http://www.imdb.com/title/tt1706620/?ref_=nv_sr_1), [Libertarias (1996)](http://www.imdb.com/title/tt0113649/?ref_=fn_al_tt_1), [The Trotsky (2009)](http://www.imdb.com/title/tt1295072/?ref_=fn_al_tt_1), [Battleship Potemkin (1925)](https://en.m.wikipedia.org/wiki/The_Battleship_Potemkin), [Land and Freedom (1995)](http://www.imdb.com/title/tt0114671/?ref_=fn_al_tt_1), [The Spook who sat by the door (1973)](http://www.imdb.com/title/tt0070726/?ref_=fn_al_tt_1), [I, Daniel Blake (2016)](http://www.imdb.com/title/tt5168192/?ref_=fn_al_tt_1), [Tsar to Lenin (1937)](https://www.youtube.com/watch?v=uh-bPPOY1KA), [How Yukong Moved the Mountains](https://www.youtube.com/watch?v=6McbfQeIsC4&t=522s), [Fidel - The Untold Story](https://www.youtube.com/watch?v=ao6VpoZ-Am0), [The Proud Valley (1940)](https://en.m.wikipedia.org/wiki/The_Proud_Valley), [The Young Karl Marx (2017)](https://en.m.wikipedia.org/wiki/Young_Karl_Marx). 
+[Pride (2014)](http://www.imdb.com/title/tt3169706/?ref_=nv_sr_4), [Reds (1981)](http://www.imdb.com/title/tt0082979/?ref_=fn_al_tt_1), [Salt of the Earth (1954)](http://www.imdb.com/title/tt0047443/?ref_=fn_al_tt_1), [Snowpiercer (2013)](http://www.imdb.com/title/tt1706620/?ref_=nv_sr_1), [Libertarias (1996)](http://www.imdb.com/title/tt0113649/?ref_=fn_al_tt_1), [The Trotsky (2009)](http://www.imdb.com/title/tt1295072/?ref_=fn_al_tt_1), [Battleship Potemkin (1925)](https://en.m.wikipedia.org/wiki/The_Battleship_Potemkin), [Land and Freedom (1995)](http://www.imdb.com/title/tt0114671/?ref_=fn_al_tt_1), [The Spook who sat by the door (1973)](http://www.imdb.com/title/tt0070726/?ref_=fn_al_tt_1), [I, Daniel Blake (2016)](http://www.imdb.com/title/tt5168192/?ref_=fn_al_tt_1), [Tsar to Lenin (1937)](https://www.youtube.com/watch?v=uh-bPPOY1KA), [How Yukong Moved the Mountains](https://www.youtube.com/watch?v=6McbfQeIsC4&t=522s), [Fidel - The Untold Story](https://www.youtube.com/watch?v=ao6VpoZ-Am0), [The Proud Valley (1940)](https://en.m.wikipedia.org/wiki/The_Proud_Valley), [The Young Karl Marx (2017)](https://en.m.wikipedia.org/wiki/Young_Karl_Marx).
 
 # Organizations
 
