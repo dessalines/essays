@@ -381,12 +381,40 @@
 
 ## Other Topics
 
-- [Why are socialists against bitcoin mining?](https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change), [2](https://www.theguardian.com/technology/2017/nov/27/bitcoin-mining-consumes-electricity-ireland)
-- [What's so bad about Elon Musk?](https://www.buzzfeed.com/carolineodonovan/musk-slams-union-drive-in-email-to-employees) [2](http://www.businessinsider.com/tesla-injuries-rates-higher-industry-average-worksafe-2017-5), [3](http://www.detroitnews.com/story/opinion/2016/05/09/elon-musk-tesla-crony/84169496/), [4](https://www.salon.com/2017/10/08/against-mars-a-lago-why-spacexs-mars-colonization-plan-should-terrify-you/), [5](https://jalopnik.com/elon-musk-is-a-jerk-that-once-fired-his-assistant-of-12-1797699824), [6](https://www.reddit.com/r/EnoughMuskSpam/comments/7spkqa/happy_2018_everybody_lets_take_a_moment_to_recall/), [7](https://www.reddit.com/r/EnoughMuskSpam/comments/73eh4m/tracking_elon_musks_visions_promises_and/)
-- [Whats so bad about bill gates?](http://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf), [2](https://www.versobooks.com/books/2344-no-such-thing-as-a-free-gift), [3](https://www.liberationnews.org/real-agenda-gates-foundation/)
-- [What's so bad about George Orwell?](https://bennorton.com/george-orwell-list-leftists-snitch-british-government/) [2](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/)
+### Why are socialists against bitcoin mining?
+
+- [A single bitcoin transaction wastes as much energy as your house uses in a week.](https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change)
+- [Bitcoin mining consumes more electricity per year than all of Ireland.](https://www.theguardian.com/technology/2017/nov/27/bitcoin-mining-consumes-electricity-ireland)
+
+### Whats so bad about Elon Musk?
+- [Crushes unionization attempts at tesla factories, promising free frozen yogurt in return.](https://www.buzzfeed.com/carolineodonovan/musk-slams-union-drive-in-email-to-employees) 
+- [Employees at Tesla suffer twice as many serious workplace injuries than the industry average.](http://www.businessinsider.com/tesla-injuries-rates-higher-industry-average-worksafe-2017-5)
+- [Uses public money to fund private ventures, costing taxpayers $4.9B.](http://www.detroitnews.com/story/opinion/2016/05/09/elon-musk-tesla-crony/84169496/)
+- [Wants to privatize space travel, leaving colonization and exploration to to the richest few.](https://www.salon.com/2017/10/08/against-mars-a-lago-why-spacexs-mars-colonization-plan-should-terrify-you/)
+- [Fired his assistance of 12 years for asking for a raise. Divorced his wife after telling her that his life "operated quite smoothly" in her absence.](https://jalopnik.com/elon-musk-is-a-jerk-that-once-fired-his-assistant-of-12-1797699824)
+- [Rocket jesus broken promises #1.](https://www.reddit.com/r/EnoughMuskSpam/comments/73eh4m/tracking_elon_musks_visions_promises_and/)
+- [Rocket jesus broken promises #2.](https://www.reddit.com/r/EnoughMuskSpam/comments/7spkqa/happy_2018_everybody_lets_take_a_moment_to_recall/)
+
+
+### Whats so bad about bill gates?
+
+- [He's a philanthro-capitalist imperialist: using the bill and melinda gates foundation charity as a bargaining chip to work in the interests of billionaire eltes. This impoverishes poorer countries, underming their democracy and independence by making them fully dependent on US aid.](https://www.liberationnews.org/real-agenda-gates-foundation/)
+- [His charities promote corporate interests above health care](http://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf)
+- [Book about the golden handcuffs of the philanthro-capitalism of Bill Gates.](https://www.versobooks.com/books/2344-no-such-thing-as-a-free-gift)
+
+### What's so bad about George Orwell?
+
+- [He snitched out Jews, Black people, Homosexuals, and communists to British Intelligence.](https://bennorton.com/george-orwell-list-leftists-snitch-british-government/) 
+- [He was a rabid anti-communist, so much so that the animated animal farm film was funded by the CIA.](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/)
+- [A reddit thread on George Orwell](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/)
+
+### Others
 - [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
 - [What's so bad about Winston Churchill?](http://www.reddit.com/r/ShitLiberalsSay/comments/80sxhj/-/duy08zm) 
 - [What about Jordan Peterson?](https://www.reddit.com/r/Socialism_101/comments/85cuay/thoughts_on_jordan_petersons_criticism_of_marxism/dvwnd25/)
 - [What is Antifa? (Olly)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
 - [Whats so bad about UBI (universal basic income)?](https://thenewinquiry.com/universal-basic-bullshit/),[2](https://www.dissentmagazine.org/article/false-promise-universal-basic-income-andy-stern-ruger-bregman),[3](https://youtu.be/J10jKdPRN9A)
+
+### Did the atom bombs really end WW2?
+
+ - [No, the entrance of the USSR into the war against Japan was the cause of Japan's surrender, which the US fully knew about since they were intercepting Japan's communications. The Atom bombing of Japanese civilians was in reality a display of military power against the USSR, and the first act of the cold war.](http://foreignpolicy.com/2013/05/30/the-bomb-didnt-beat-japan-stalin-did/)
