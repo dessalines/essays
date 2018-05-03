@@ -194,6 +194,7 @@
 - [On Feminism](http://www.reddit.com/r/communism101/comments/1hyu6n/on_feminism/)
 - [What is proletarian/marxian feminism?](http://www.reddit.com/r/communism101/comments/18dfco/what_is_proletarianmarxian_feminism/)
 - [Hello comrades! can anyone explain the idea of marxist-feminism?](http://www.reddit.com/r/communism101/comments/2i1hlp/hello_comrades_can_anyone_explain_the_idea_of/)
+- [Were the nazis socialist? What about national socialism, the national socialist movement (NSM), and the national front?](https://www.reddit.com/r/Socialism_101/comments/79kvin/what_is_the_difference_between_socialists_here/)
 
 ## On Guns / Firearms / Violence
 
