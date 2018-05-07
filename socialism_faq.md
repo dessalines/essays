@@ -41,6 +41,12 @@
     + [Is the DPRK a Fascist Monarchy?](#is-the-dprk-a-fascist-monarchy)
     + [Further reading](#further-reading-4)
   * [Other Topics](#other-topics)
+    + [Why are socialists against bitcoin mining?](#why-are-socialists-against-bitcoin-mining)
+    + [Whats so bad about Elon Musk?](#whats-so-bad-about-elon-musk)
+    + [Whats so bad about bill gates?](#whats-so-bad-about-bill-gates)
+    + [What's so bad about George Orwell?](#whats-so-bad-about-george-orwell)
+    + [Others](#others)
+    + [Did the atom bombs really end WW2?](#did-the-atom-bombs-really-end-ww2)
 
 <!-- tocstop -->
 
