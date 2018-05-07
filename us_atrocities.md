@@ -6,7 +6,6 @@
 
 <!-- toc -->
 
-* [Notes](#notes)
 - [Imperialism](#imperialism)
   * [Middle East](#middle-east)
   * [Western hemisphere](#western-hemisphere)
@@ -28,7 +27,7 @@
 
 <!-- tocstop -->
 
-### Notes
+Notes :
 
 - Try to convey a sense of moral outrage. 
 - This is a living document, it will be updated as new atrocities pour in.

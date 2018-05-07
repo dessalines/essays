@@ -22,6 +22,7 @@
     + [Marxist literature](#marxist-literature)
     + [Marxian economics](#marxian-economics)
     + [History books](#history-books)
+    + [Psychology](#psychology)
   * [Audiobooks](#audiobooks)
   * [Films](#films)
 - [Organizations](#organizations)
