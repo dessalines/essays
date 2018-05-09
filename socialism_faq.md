@@ -234,7 +234,7 @@
 * [Why did Lenin abolish factory committees established by workers?](http://www.reddit.com/r/communism101/comments/1ypaur/why_did_lenin_abolish_factory_committees/)
 * [How much of the USSR's "dark history" under Stalin can actually be attributed to Yezhov?](http://www.reddit.com/r/communism101/comments/2qlm9z/how_much_of_the_ussrs_dark_history_under_stalin/)
 * [Forced Deportation Under Stalin](http://www.reddit.com/r/communism101/comments/316tey/forced_deportation_under_stalin/)
-* [Did the Soviet Union manufacture a famine in Ukraine?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_the_soviet_union_manufactured_a_famine_in_ukraine)
+* [Did the Soviet Union manufacture a famine in Ukraine? What about the Holodomor?](https://www.reddit.com/r/communism101/comments/1c4to0/is_there_a_different_aspectpov_to_the_holodomor/),[2](https://www.reddit.com/r/communism101/comments/79nmdh/red_famine_by_anne_applebaum_what_is_this_all/),[3](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_the_soviet_union_manufactured_a_famine_in_ukraine)
 
 - [*Fraud, Famine, and Fascism*](http://rationalrevolution.net/special/library/tottlefraud.pdf) by Douglas Tottle
 - [*The 1932 Harvest and the Famine of 1933*](https://drive.google.com/file/d/0B-eTgjCs2lzpQllPVzQ2UFd3aWM/view?usp=sharing) by Mark Tauger
