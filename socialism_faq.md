@@ -421,6 +421,8 @@
 - [What about Jordan Peterson?](https://www.reddit.com/r/Socialism_101/comments/85cuay/thoughts_on_jordan_petersons_criticism_of_marxism/dvwnd25/)
 - [What is Antifa? (Olly)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
 - [Whats so bad about UBI (universal basic income)?](https://thenewinquiry.com/universal-basic-bullshit/),[2](https://www.dissentmagazine.org/article/false-promise-universal-basic-income-andy-stern-ruger-bregman),[3](https://youtu.be/J10jKdPRN9A)
+- [Why are socialists against Israel / Zionism?](https://www.youtube.com/watch?v=BT5L4YU_Fl4&feature=youtu.be)
+
 
 ### Did the atom bombs really end WW2?
 
