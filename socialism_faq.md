@@ -331,6 +331,7 @@
 * [In defence of (and questions about) Cuba](http://www.reddit.com/r/communism/comments/x3qtw/in_defence_of_and_questions_about_cuba/)
 * [Multiple questions about Cuba](http://www.reddit.com/r/communism101/comments/2pg82b/multiple_questions_about_cuba/)
 * [Did the US really think Castro was a dictator? Answer: No.](https://www.reddit.com/r/ShitLiberalsSay/comments/87tto3/i_submitted_a_til_about_fidel_castros_hatred_for/dwgpg7d/)
+* [Did Fidel Castro persecute gay / LGBT people? What about the UMAP prisons?](https://www.reddit.com/r/Anarchy101/comments/8kxgul/what_do_anarchists_think_of_the_castro_regime/dzc2wp8/)
 
 ### [Was Che a murderer and/or a racist?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_che_was_a_bloodthirsty_butcher)
 
