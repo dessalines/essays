@@ -11,7 +11,7 @@
 
 - ISPs watch what you download.
 - Hides your traffic from your ISP.
-- Protects you using [tunneling and encryption](https://www.youtube.com/watch?v=yB1KiboEWC4)
+- Protects you using [tunneling and encryption](https://www.youtube.com/watch?v=yB1KiboEWC4).
 
 ## Find a Torrent Client
 

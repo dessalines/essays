@@ -57,8 +57,8 @@
 
 * [What are the differences between Marxism, Marxism-Leninism, Trotskyism, MLM, and Stalinism?](https://www.reddit.com/r/Anarchy101/comments/87apl4/differences_between_marxism_lenninism_trotskyism/dwbj3so/)
 * [Can someone give us a quick like-we're-five rundown of the distinctions between Trotskyism, Maoism, orthodox Marxism, and so on?](http://www.reddit.com/r/communism101/comments/132d5s/can_someone_give_us_a_quick_likewerefive_rundown/)
-- [What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
-- [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
+* [What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
+* [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 * [Can someone give me a brief ELI5 rundown of communism/socialism/anarchism/syndicalism/insert-communist-leader-name-here-ism? These terms are being tossed around and I'm lost.](http://www.reddit.com/r/communism101/comments/1o6sxg/can_someone_give_me_a_brief_eli5_rundown_of/)
 * [Looking for reference to types of communism.](http://www.reddit.com/r/communism101/comments/1fcc6o/looking_for_reference_to_types_of_communism/)
 * [What are the different forms of Marxism and what are their differences?](http://www.reddit.com/r/communism101/comments/206xtz/what_are_the_different_forms_of_marxism_and_what/)
@@ -201,6 +201,7 @@
 - [What is proletarian/marxian feminism?](http://www.reddit.com/r/communism101/comments/18dfco/what_is_proletarianmarxian_feminism/)
 - [Hello comrades! can anyone explain the idea of marxist-feminism?](http://www.reddit.com/r/communism101/comments/2i1hlp/hello_comrades_can_anyone_explain_the_idea_of/)
 - [Were the nazis socialist? What about national socialism, the national socialist movement (NSM), and the national front?](https://www.reddit.com/r/Socialism_101/comments/79kvin/what_is_the_difference_between_socialists_here/)
+- [What about the history of Marxist Feminism?](https://isreview.org/issue/93/womens-liberation-marxist-tradition)
 
 ## On Guns / Firearms / Violence
 
@@ -235,6 +236,7 @@
 * [How much of the USSR's "dark history" under Stalin can actually be attributed to Yezhov?](http://www.reddit.com/r/communism101/comments/2qlm9z/how_much_of_the_ussrs_dark_history_under_stalin/)
 * [Forced Deportation Under Stalin](http://www.reddit.com/r/communism101/comments/316tey/forced_deportation_under_stalin/)
 * [Did the Soviet Union manufacture a famine in Ukraine? What about the Holodomor?](https://www.reddit.com/r/communism101/comments/1c4to0/is_there_a_different_aspectpov_to_the_holodomor/),[2](https://www.reddit.com/r/communism101/comments/79nmdh/red_famine_by_anne_applebaum_what_is_this_all/),[3](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_the_soviet_union_manufactured_a_famine_in_ukraine)
+* [Did Stalin / the USSR intentionally wreck the anarchists in the Spanish Civil War / Revolutionary Catalonia?](https://www.reddit.com/r/communism101/comments/1e1bhf/what_was_the_role_of_ussr_in_revolutionary_spain/c9w2jva/) , [2](https://www.reddit.com/r/communism101/comments/1jlpyu/what_contributed_to_the_fallingout_between/cbg3v0p/)
 
 - [*Fraud, Famine, and Fascism*](http://rationalrevolution.net/special/library/tottlefraud.pdf) by Douglas Tottle
 - [*The 1932 Harvest and the Famine of 1933*](https://drive.google.com/file/d/0B-eTgjCs2lzpQllPVzQ2UFd3aWM/view?usp=sharing) by Mark Tauger
@@ -416,6 +418,10 @@
 - [He was a rabid anti-communist, so much so that the animated animal farm film was funded by the CIA.](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/)
 - [A reddit thread on George Orwell](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/)
 
+### Did the atom bombs really end WW2?
+
+ - [No, the entrance of the USSR into the war against Japan was the cause of Japan's surrender, which the US fully knew about since they were intercepting Japan's communications. The Atom bombing of Japanese civilians was in reality a display of military power against the USSR, and the first act of the cold war.](http://foreignpolicy.com/2013/05/30/the-bomb-didnt-beat-japan-stalin-did/)
+
 ### Others
 - [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
 - [What's so bad about Winston Churchill?](http://www.reddit.com/r/ShitLiberalsSay/comments/80sxhj/-/duy08zm) 
@@ -425,6 +431,4 @@
 - [Why are socialists against Israel / Zionism?](https://www.youtube.com/watch?v=BT5L4YU_Fl4&feature=youtu.be)
 
 
-### Did the atom bombs really end WW2?
 
- - [No, the entrance of the USSR into the war against Japan was the cause of Japan's surrender, which the US fully knew about since they were intercepting Japan's communications. The Atom bombing of Japanese civilians was in reality a display of military power against the USSR, and the first act of the cold war.](http://foreignpolicy.com/2013/05/30/the-bomb-didnt-beat-japan-stalin-did/)
