@@ -45,6 +45,11 @@
 
 <pre>magnet:?xt=urn:btih:ae5d0538fd9d324034f17eca67f52afb472c813e&dn=Cottrell+-+Towards+a+New+Socialism+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 
+
+[CLR James - Every Cook Can Govern](magnet:?xt=urn:btih:d21d86b790f7aba92db7990c9b85916ece059687&dn=CLR+James+-+Every+Cook+Can+Govern+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
+<pre>magnet:?xt=urn:btih:d21d86b790f7aba92db7990c9b85916ece059687&dn=CLR+James+-+Every+Cook+Can+Govern+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
+
 [Walpola Rahula - What the Buddha Taught](magnet:?xt=urn:btih:6bccd6f442e359fa38a6ad751afc9116c2fe12aa&dn=Walpola%20Rahula%20-%20What%20the%20Buddha%20Taught%20%5baudiobook%5d%20by%20dessalines&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.zer0day.to%3a1337%2fannounce&tr=udp%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker1.xku.tv%3a6969%2fannounce&tr=udp%3a%2f%2ftracker2.christianbro.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker2.wasabii.com.tw%3a6969%2fannounce)
 
 <pre>magnet:?xt=urn:btih:6bccd6f442e359fa38a6ad751afc9116c2fe12aa&dn=Walpola%20Rahula%20-%20What%20the%20Buddha%20Taught%20%5baudiobook%5d%20by%20dessalines&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.zer0day.to%3a1337%2fannounce&tr=udp%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker1.xku.tv%3a6969%2fannounce&tr=udp%3a%2f%2ftracker2.christianbro.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker2.wasabii.com.tw%3a6969%2fannounce</pre>
