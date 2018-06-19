@@ -45,8 +45,8 @@
     + [Whats so bad about Elon Musk?](#whats-so-bad-about-elon-musk)
     + [Whats so bad about bill gates?](#whats-so-bad-about-bill-gates)
     + [What's so bad about George Orwell?](#whats-so-bad-about-george-orwell)
-    + [Others](#others)
     + [Did the atom bombs really end WW2?](#did-the-atom-bombs-really-end-ww2)
+    + [Others](#others)
 
 <!-- tocstop -->
 
@@ -159,6 +159,8 @@
 * [What's the role of the state in the revolution, and what is a state?](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/)
 
 * [Why do many socialist attempts end up in an authoritarian state? Watch this brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=BYVes44hcJg&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/).
+
+* [What did Lenin say about socialism in one country?](https://espressostalinist.com/2012/03/11/lenin-on-socialism-in-one-country-2/)
 
 ### Further reading
 
