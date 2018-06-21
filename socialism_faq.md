@@ -1,5 +1,9 @@
 # Socialism FAQ
 
+[The Bullshit asymmetry principle, or Brandolini's law](https://en.wikipedia.org/wiki/Bullshit#Bullshit_asymmetry_principle):
+
+> The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
+
 ## Contents
 
 <!-- toc -->
@@ -66,9 +70,7 @@
 ## Socialism and communism
 
 * [Did Karl Marx use "socialism" and "communism" interchangeably?](http://www.reddit.com/r/communism101/comments/2msa39/did_karl_marx_use_socialism_and_communism/)
-
 * [Is the revolutionary DotP a separate material stage apart from lower phased communism?](http://www.reddit.com/r/communism101/comments/2mrkkj/is_the_revolutionary_dotp_a_separate_material/)
-
 * [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](https://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_stage_of_communism_or_is/)
 
 ## Didn't communism fail? It works on paper but not in practice.
@@ -82,11 +84,8 @@
 ## Who would sweep the floors under communism?
 
 * [How can people be expected to work hard if they don't get payed more FOR working harder? (I know nothing about communism)](http://www.reddit.com/r/communism101/comments/21u7jo/how_can_people_be_expected_to_work_hard_if_they/)
-
 * [What prevents cultural, technological or scientific stagnation in a communist society? Also what motivation do people have to work at their Jobs?](http://www.reddit.com/r/communism101/comments/27ia0t/what_prevents_cultural_technological_or/)
-
 * [How does communism deal with lazy people?](http://www.reddit.com/r/communism101/comments/25r9hh/how_does_communism_deal_with_lazy_people/)
-
 * [How does communism/socialism deal with human laziness?](http://www.reddit.com/r/communism101/comments/1g235j/how_does_communismsocialism_deal_with_human/)
 
 ## But what about human nature?
@@ -109,29 +108,17 @@
 ## What would [X] be like under communism?
 
 * [How would a record company/label work in a communist society?](http://www.reddit.com/r/communism101/comments/1a0htc/how_would_a_record_companylabel_work_in_a/)
-
 * [Music tours and traveling in a socialist state?](http://www.reddit.com/r/communism101/comments/2bs0yb/music_tours_and_traveling_in_a_socialist_state/)
-
 * [How would airlines work for the workers and the customers in a communist world?](http://www.reddit.com/r/communism101/comments/1exz0n/how_would_airlines_work_for_the_workers_and_the/)
-
 * [How would a society without the family work?](http://www.reddit.com/r/communism101/comments/14mh40/how_would_a_society_without_the_family_work/)
-
 * [Distribution of housing](http://www.reddit.com/r/communism101/comments/1jlaja/distribution_of_housing/)
-
 * [Record Collecting](http://www.reddit.com/r/communism101/comments/25t8ps/record_collecting/)
-
 * [How would everyday life be different in a Marxist society?](http://www.reddit.com/r/communism101/comments/2awusu/how_would_everyday_life_be_different_in_a_marxist/)
-
 * [How would non-essential products their production be promoted in a traditional Marxist economy?](http://www.reddit.com/r/communism101/comments/22bjbf/how_would_nonessential_products_their_production/)
-
 * [How would media be handled in a Communist state?](http://www.reddit.com/r/communism101/comments/1kr25m/how_would_media_be_handled_in_a_communist_state/)
-
 * [What is going to happen after the revolution?](http://www.reddit.com/r/communism101/comments/27l9cc/what_is_going_to_happen_after_the_revolution/)
-
 * [How would a communist economy really function in practice?](http://www.reddit.com/r/communism101/comments/1g279l/how_would_a_communist_economy_really_function_in/)
-
 * [How does communism deal with niches?](http://www.reddit.com/r/communism101/comments/27o04e/how_does_communism_deal_with_niches/)
-
 * [How would residentials be fairly distributed under full communism?](http://www.reddit.com/r/communism101/comments/2hnmxx/how_would_residentials_be_fairly_distributed/)
 
 ### Further reading
@@ -141,25 +128,15 @@
 ## On Leninist theory
 
 * [An overview of Leninism.](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/)
-
 * [What is the vanguard party? Is one necessary?](http://www.reddit.com/r/communism101/comments/142p1b/what_is_the_vanguard_party_is_one_necessary/)
-
 * [Why is a vanguard party necessary in Leninism?](http://www.reddit.com/r/communism101/comments/2n5xx3/why_is_a_vanguard_party_necessary_in_leninism/)
-
 * [What is Vanguardism and Democratic Centralism?](http://www.reddit.com/r/communism101/comments/2eo0ft/what_is_vanguardism_and_democratic_centralism/)
-
 * [What is a vanguard party supposed to be like? What qualifies and doesn't qualify as a vanguard party?](http://www.reddit.com/r/communism101/comments/1b0r0o/what_is_a_vanguard_party_supposed_to_be_like_what/)
-
 * [Difference between leninism and Marxist-leninism?](http://www.reddit.com/r/communism101/comments/21jk1t/difference_between_leninism_and_marxistleninism/)
-
 * [Why does left communism reject national liberation movements?](http://www.reddit.com/r/communism101/comments/27lbru/why_does_left_communism_reject_national/)
-
 * [Is it true that Socialism has killed X million people, and how many has capitalism killed?](https://www.reddit.com/r/LateStageCapitalism/comments/5q2oak/someone_dies_under_socialism_no_matter_how_its/dcvu8lg/)
-
 * [What's the role of the state in the revolution, and what is a state?](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/)
-
-* [Why do many socialist attempts end up in an authoritarian state? Watch this brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=BYVes44hcJg&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/).
-
+* [Why do many socialist attempts end up in an authoritarian state? Watch this brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=BYVes44hcJg&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/)
 * [What did Lenin say about socialism in one country?](https://espressostalinist.com/2012/03/11/lenin-on-socialism-in-one-country-2/)
 
 ### Further reading
@@ -368,8 +345,6 @@
 ### [Do North Koreans believe in unicorns and think Kim Jong-Un is immortal?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_north_koreans_believe_in_unicorns_and_they_think_kim_jong-un_is_immortal)
 
 - [Do communists defend the nationalistic (juche) aspects of the DPRK (Democratic People's Republic of North Korea)? short answer: no.](https://www.reddit.com/r/FULLDISCOURSE/comments/60voir/lets_talk_about_the_dprk/)
-
-
 - [*Western DPRK Propaganda: The Worst, Occasionally Hilarious, and Often Racist, Lies*]( http://anti-imperialism.org/2014/08/14/western-dprk-propaganda-the-worst-occasionally-hilarious-and-often-racist-lies/) by Alyx Mayer
 - [*Anti-DPRK Propaganda War – a Cavalcade of Comedy*](http://redyouthuk.wordpress.com/2014/08/01/dprk-propaganda-war-a-cavalcade-of-comedy/) by Red Youth
 - [*Tourist who took camera inside North Korea shocked by 'ordinary' lives of citizens*](http://www.dailymail.co.uk/news/article-2638213/Tourist-took-camera-inside-North-Korea-expected-really-really-sad-people-shocked-seemingly-ordinary-lives-citizens.html)
