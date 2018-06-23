@@ -383,6 +383,10 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 <pre>magnet:?xt=urn:btih:d21d86b790f7aba92db7990c9b85916ece059687&dn=CLR+James+-+Every+Cook+Can+Govern+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 
+[Lenin - The Proletarian Revolution and the Renegade Kautsky](magnet:?xt=urn:btih:02a3f5423ef0763a05210147bf7917d5f7105d4e&dn=Lenin%20-%20The%20Proletarian%20Revolution%20and%20the%20Renegade%20Kautsky%20%5baudiobook%5d%20by%20dessalines&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.open-internet.nl%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce)
+
+<pre>magnet:?xt=urn:btih:02a3f5423ef0763a05210147bf7917d5f7105d4e&dn=Lenin%20-%20The%20Proletarian%20Revolution%20and%20the%20Renegade%20Kautsky%20%5baudiobook%5d%20by%20dessalines&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.open-internet.nl%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</pre>
+
 [Robert Cialdini - The Psychology of persuasion](magnet:?xt=urn:btih:cf297031c653f986999ca7a978b8e2f55a792ef1&dn=Influence%20The%20Psychology%20of%20Persuasion&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Feddie4.nl%3A6969&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969&tr=udp%3A%2F%2Fopentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337)
 
 <pre>magnet:?xt=urn:btih:cf297031c653f986999ca7a978b8e2f55a792ef1&dn=Influence%20The%20Psychology%20of%20Persuasion&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Feddie4.nl%3A6969&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969&tr=udp%3A%2F%2Fopentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337</pre>
@@ -393,7 +397,40 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ## Films
 
-[Pride (2014)](http://www.imdb.com/title/tt3169706/?ref_=nv_sr_4), [Reds (1981)](http://www.imdb.com/title/tt0082979/?ref_=fn_al_tt_1), [Salt of the Earth (1954)](http://www.imdb.com/title/tt0047443/?ref_=fn_al_tt_1), [Snowpiercer (2013)](http://www.imdb.com/title/tt1706620/?ref_=nv_sr_1), [Libertarias (1996)](http://www.imdb.com/title/tt0113649/?ref_=fn_al_tt_1), [The Trotsky (2009)](http://www.imdb.com/title/tt1295072/?ref_=fn_al_tt_1), [Battleship Potemkin (1925)](https://en.m.wikipedia.org/wiki/The_Battleship_Potemkin), [Land and Freedom (1995)](http://www.imdb.com/title/tt0114671/?ref_=fn_al_tt_1), [The Spook who sat by the door (1973)](http://www.imdb.com/title/tt0070726/?ref_=fn_al_tt_1), [I, Daniel Blake (2016)](http://www.imdb.com/title/tt5168192/?ref_=fn_al_tt_1), [Tsar to Lenin (1937)](https://www.youtube.com/watch?v=uh-bPPOY1KA), [How Yukong Moved the Mountains](https://www.youtube.com/watch?v=6McbfQeIsC4&t=522s), [Fidel - The Untold Story](https://www.youtube.com/watch?v=ao6VpoZ-Am0), [The Proud Valley (1940)](https://en.m.wikipedia.org/wiki/The_Proud_Valley), [The Young Karl Marx (2017)](https://en.m.wikipedia.org/wiki/Young_Karl_Marx).
+- [Pride (2014)](http://www.imdb.com/title/tt3169706/?ref_=nv_sr_4)
+- [Reds (1981)](http://www.imdb.com/title/tt0082979/?ref_=fn_al_tt_1)
+- [Salt of the Earth (1954)](http://www.imdb.com/title/tt0047443/?ref_=fn_al_tt_1)
+- [Matewan (1987)](https://en.wikipedia.org/wiki/Matewan)
+- [Snowpiercer (2013)](http://www.imdb.com/title/tt1706620/?ref_=nv_sr_1)
+- [Libertarias (1996)](http://www.imdb.com/title/tt0113649/?ref_=fn_al_tt_1)
+- [The Trotsky (2009)](http://www.imdb.com/title/tt1295072/?ref_=fn_al_tt_1)
+- [The Wind that Shakes the Barley (2006)](https://en.wikipedia.org/wiki/The_Wind_That_Shakes_the_Barley_%28film%29)
+- [Battleship Potemkin (1925)](https://en.m.wikipedia.org/wiki/The_Battleship_Potemkin)
+- [Land and Freedom (1995)](http://www.imdb.com/title/tt0114671/?ref_=fn_al_tt_1)
+- [The Spook who sat by the door (1973)](http://www.imdb.com/title/tt0070726/?ref_=fn_al_tt_1)
+- [I, Daniel Blake (2016)](http://www.imdb.com/title/tt5168192/?ref_=fn_al_tt_1)
+- [The Proud Valley (1940)](https://en.m.wikipedia.org/wiki/The_Proud_Valley)
+- [The Young Karl Marx (2017)](https://en.m.wikipedia.org/wiki/Young_Karl_Marx)
+- [Network (1976)](https://en.wikipedia.org/wiki/Network_(1976_film))
+- [The Hospital (1971)](https://en.wikipedia.org/wiki/The_Hospital)
+
+## Documentaries
+
+- [Paul Robeson - Here I Stand](https://www.youtube.com/watch?v=BUki-v-NvoE)
+- [Black gods with guns - Robert F Williams and Black Power](https://www.youtube.com/watch?v=DxqK6eqwwLc)
+- [Seeing Red](https://www.youtube.com/watch?v=nhmGVnHxtf0)
+- [Malcolm X - Make it Plain](https://www.youtube.com/watch?v=3zIGNkR62Mo)
+- [How Yukong moved the mountains (Chinese Revolution)](https://www.youtube.com/watch?v=zLN-jRZRPrc&list=PLMt0ncvnKoz3ar_f78qBeA29-0kwrsXvT)
+- [Tsar to Lenin](magnet:?xt=urn:btih:02a5f8e618049ddcc8885360abeffd1db562d6d8&dn=Tsar.To.Lenin.720p.x264.MP3.MVGroup.Forum.org.avi)
+- [The Upright Man (Thomas Sankara)](https://www.youtube.com/watch?v=G7Vlt41HPUE)
+- [Fidel - The untold story (Cuban Revolution)](https://www.youtube.com/watch?v=P2Obp6YS4SY)
+- [The Act of Killing - Communist purging in Indonesia](magnet:?xt=urn:btih:e5be6accaffca538de67cfacad28b6514ff1f889)
+- [Mao Tse-tung - Greatest Revolutionary of our time](https://www.youtube.com/watch?v=FQfu5N0BRq0)
+- [Lenin - old British Documentary](https://www.youtube.com/watch?v=iGE6T3SRNAs)
+- [Oliver Stone - Untold History of the US](magnet:?xt=urn:btih:0c9e61eae5abb0618f09de1fc81e4d74031a6c47)
+- [Soviet Storm - WW2 in the East](https://www.youtube.com/watch?v=JhXKlYnSWjA&app=desktop)
+- [Red ant dream](https://www.youtube.com/watch?v=cVvThDX4bbQ)
+- [The Murder of Fred Hampton](https://www.youtube.com/watch?v=B6-JVliecLo)
 
 # Organizations
 
