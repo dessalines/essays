@@ -413,6 +413,17 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [The Young Karl Marx (2017)](https://en.m.wikipedia.org/wiki/Young_Karl_Marx)
 - [Network (1976)](https://en.wikipedia.org/wiki/Network_(1976_film))
 - [The Hospital (1971)](https://en.wikipedia.org/wiki/The_Hospital)
+- [Burn! (1969)](https://en.wikipedia.org/wiki/Burn!_(1969_film))
+- [Trumbo (2015)](https://en.wikipedia.org/wiki/Trumbo_(2015_film))
+- [Walter defends Sarajevo (1972)](https://en.wikipedia.org/wiki/Walter_Defends_Sarajevo)
+- [Rosa Luxemburg (1986)](https://www.imdb.com/title/tt0091869/?ref_=ttls_li_tt)
+- [Joe Hill (1971)](https://www.imdb.com/title/tt0067276/?ref_=ttls_li_tt)
+- [The Grapes of Wrath (1940)](https://www.imdb.com/title/tt0032551/?ref_=ttls_li_tt)
+- [Viva Zapata! (1952)](https://www.imdb.com/title/tt0045296/?ref_=ttls_li_tt)
+- [The Organizer (1963)](https://www.imdb.com/title/tt0056945/?ref_=ttls_li_tt)
+- [Lulu the tool (1971)](https://www.imdb.com/title/tt0066919/?ref_=ttls_li_tt)
+- [Rebellion in Patagonia (1974)](https://www.imdb.com/title/tt0071976/?ref_=ttls_li_tt)
+
 
 ## Documentaries
 
@@ -431,6 +442,9 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Soviet Storm - WW2 in the East](https://www.youtube.com/watch?v=JhXKlYnSWjA&app=desktop)
 - [Red ant dream](https://www.youtube.com/watch?v=cVvThDX4bbQ)
 - [The Murder of Fred Hampton](https://www.youtube.com/watch?v=B6-JVliecLo)
+- [The Revolution will not be televised (Chavez and Venezuela)](https://www.youtube.com/watch?v=Id--ZFtjR5c)
+- [A place called Chiapas (EZLN)](https://www.imdb.com/title/tt0145394/?ref_=ttls_li_tt)
+
 
 # Organizations
 
