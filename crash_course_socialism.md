@@ -25,6 +25,7 @@
     + [Psychology](#psychology)
   * [Audiobooks](#audiobooks)
   * [Films](#films)
+  * [Documentaries](#documentaries)
 - [Organizations](#organizations)
   * [Parties / Groups](#parties--groups)
   * [Online Communities](#online-communities)
