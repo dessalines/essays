@@ -9,6 +9,10 @@
 
 <pre>magnet:?xt=urn:btih:bf60338d499a40e4e99ca8edffda9447402a29de&dn=Lenin+-+The+State+and+Revolution+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 
+[Engels - Socialism - Utopian and Scientific](magnet:?xt=urn:btih:676a3acf1baa5e5bbd26dea9b95272e5ba252fb6&dn=Engels%20-%20Socialism%20-%20Utopian%20and%20Scientific%20%5baudiobook%5d%20by%20dessalines&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.open-internet.nl%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce)
+
+<pre>magnet:?xt=urn:btih:676a3acf1baa5e5bbd26dea9b95272e5ba252fb6&dn=Engels%20-%20Socialism%20-%20Utopian%20and%20Scientific%20%5baudiobook%5d%20by%20dessalines&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.open-internet.nl%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</pre>
+
 [Trotsky - Fascism - What it is and How to Fight It](magnet:?xt=urn:btih:d1f28f0c1b89ddd9a39205bef0be3715d117f91b&dn=Trotsky+-+Fascism+-+What+it+is+and+How+to+Fight+it+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
 
 <pre>magnet:?xt=urn:btih:d1f28f0c1b89ddd9a39205bef0be3715d117f91b&dn=Trotsky+-+Fascism+-+What+it+is+and+How+to+Fight+it+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
