@@ -42,6 +42,7 @@
     + [Did the cuban people like Fidel Castro?](#did-the-cuban-people-like-fidel-castro)
   * [On the DPRK](#on-the-dprk)
     + [Do North Koreans believe in unicorns and think Kim Jong-Un is immortal?](#do-north-koreans-believe-in-unicorns-and-think-kim-jong-un-is-immortal)
+    + [Do communists defend the DPRK (Democratic People's Republic of North Korea)? short answer: no, unless its against US imperialism.](https://www.reddit.com/r/FULLDISCOURSE/comments/60voir/lets_talk_about_the_dprk/)
     + [Is the DPRK a Fascist Monarchy?](#is-the-dprk-a-fascist-monarchy)
     + [Further reading](#further-reading-4)
   * [Other Topics](#other-topics)
