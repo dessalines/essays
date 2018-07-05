@@ -221,24 +221,6 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [Socialism FAQ](https://github.com/dessalines/essays/blob/master/socialism_faq.md)
 
-[Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/)
-
-[What's the role of the state in the revolution, and what is a state?](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/)
-
-[What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
-
-[Why do Marxists oppose individual terrorism? (Trotsky)](https://www.marxists.org/archive/trotsky/1911/11/tia09.htm)
-
-[Why do many socialist attempts end up in an authoritarian state? Watch this brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=BYVes44hcJg&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/).
-
-[Why are communists against markets?](https://github.com/dessalines/essays/blob/master/market_socialism.md)
-
-[What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
-
-[Is it true that Socialism has killed X million people, and how many has capitalism killed?](https://www.reddit.com/r/LateStageCapitalism/comments/5q2oak/someone_dies_under_socialism_no_matter_how_its/dcvu8lg/)
-
-[Do communists defend the DPRK (Democratic People's Republic of North Korea)? short answer: no.](https://www.reddit.com/r/FULLDISCOURSE/comments/60voir/lets_talk_about_the_dprk/)
-
 # Media
 
 ## Videos
@@ -457,16 +439,15 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ## Documentaries
 
-- [Paul Robeson - Here I Stand](https://www.youtube.com/watch?v=BUki-v-NvoE)
-- [Black gods with guns - Robert F Williams and Black Power](https://www.youtube.com/watch?v=DxqK6eqwwLc)
 - [Seeing Red](https://www.youtube.com/watch?v=nhmGVnHxtf0)
-- [Malcolm X - Make it Plain](https://www.youtube.com/watch?v=3zIGNkR62Mo)
-- [How Yukong moved the mountains (Chinese Revolution)](https://www.youtube.com/watch?v=zLN-jRZRPrc&list=PLMt0ncvnKoz3ar_f78qBeA29-0kwrsXvT)
 - [Tsar to Lenin](magnet:?xt=urn:btih:02a5f8e618049ddcc8885360abeffd1db562d6d8&dn=Tsar.To.Lenin.720p.x264.MP3.MVGroup.Forum.org.avi)
-- [The Upright Man (Thomas Sankara)](https://www.youtube.com/watch?v=G7Vlt41HPUE)
+- [Paul Robeson - Here I Stand](https://www.youtube.com/watch?v=BUki-v-NvoE)
 - [Fidel - The untold story (Cuban Revolution)](https://www.youtube.com/watch?v=P2Obp6YS4SY)
+- [How Yukong moved the mountains (Chinese Revolution)](https://www.youtube.com/watch?v=zLN-jRZRPrc&list=PLMt0ncvnKoz3ar_f78qBeA29-0kwrsXvT)
+- [Malcolm X - Make it Plain](https://www.youtube.com/watch?v=3zIGNkR62Mo)
+- [The Upright Man (Thomas Sankara)](https://www.youtube.com/watch?v=G7Vlt41HPUE)
+- [Black gods with guns - Robert F Williams and Black Power](https://www.youtube.com/watch?v=DxqK6eqwwLc)
 - [The Act of Killing - Communist purging in Indonesia](magnet:?xt=urn:btih:e5be6accaffca538de67cfacad28b6514ff1f889)
-- [Mao Tse-tung - Greatest Revolutionary of our time](https://www.youtube.com/watch?v=FQfu5N0BRq0)
 - [Lenin - old British Documentary](https://www.youtube.com/watch?v=iGE6T3SRNAs)
 - [Oliver Stone - Untold History of the US](magnet:?xt=urn:btih:0c9e61eae5abb0618f09de1fc81e4d74031a6c47)
 - [Soviet Storm - WW2 in the East](https://www.youtube.com/watch?v=JhXKlYnSWjA&app=desktop)
@@ -480,14 +461,31 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ## Parties / Groups
 
-[Industrial Workers of the World (IWW)](https://iww.org/), [Party for Socialism and Liberation (PSL)](http://www.pslweb.org/), [Socialist Alternative (SA)](http://www.socialistalternative.org/), [Committee for a Workers' International (CWI)](http://www.socialistworld.net/), [Redneck Revolt / John Brown Gun Club](https://www.redneckrevolt.org/about)
+- [Industrial Workers of the World (IWW)](https://iww.org/)
+- [Redneck Revolt / John Brown Gun Club](https://www.redneckrevolt.org/about)
+- [Huey P Newton Gun Club](https://hueypnewtongunclub.org/)
+- [Socialist Alternative (SA)](http://www.socialistalternative.org/), [Committee for a Workers' International (CWI)](http://www.socialistworld.net/)
+- [Party for Socialism and Liberation (PSL)](http://www.pslweb.org/)
+- [Democratic Socialists of America (DSA)](https://www.dsausa.org/)
 
 ## Online Communities
 
-[/r/LateStageCapitalism](https://www.reddit.com/r/LateStageCapitalism/), [/r/socialism](https://www.reddit.com/r/socialism/), [/r/anarchism](https://www.reddit.com/r/Anarchism/), [/r/communism](https://www.reddit.com/r/communism/), [/r/socialistRA](https://reddit.com/r/socialistRA), [/r/socialistprogrammers](https://www.reddit.com/r/socialistprogrammers/), [/r/TheTrotskyists](https://www.reddit.com/r/TheTrotskyists/), [/r/militant](https://www.reddit.com/r/militant/)
+- [/r/LateStageCapitalism](https://www.reddit.com/r/LateStageCapitalism/)
+- [/r/socialistRA](https://reddit.com/r/socialistRA)
+- [/r/socialism](https://www.reddit.com/r/socialism/)
+- [/r/communism](https://www.reddit.com/r/communism/)
+- [/r/anarchism](https://www.reddit.com/r/Anarchism/)
+- [/r/socialistprogrammers](https://www.reddit.com/r/socialistprogrammers/)
+- [/r/militant](https://www.reddit.com/r/militant/)
+- 101s
+  -  [/r/socialism_101](https://www.reddit.com/r/Socialism_101/)
+  - [/r/communism101](https://www.reddit.com/r/communism101/)
+  - [/r/anarchy101](https://www.reddit.com/r/Anarchy101/)
+- Memes
+  - [/r/FULLCOMMUNISM](https://www.reddit.com/r/FULLCOMMUNISM/)
+  - [/r/COMPLETEANARCHY](https://www.reddit.com/r/COMPLETEANARCHY/)
+  - [/r/ShitLiberalsSay](https://www.reddit.com/r/ShitLiberalsSay/)
 
-101s: [/r/socialism_101](https://www.reddit.com/r/Socialism_101/), [/r/anarchy101](https://www.reddit.com/r/Anarchy101/), [/r/communism101](https://www.reddit.com/r/communism101/)
 
-Memes: [/r/FULLCOMMUNISM](https://www.reddit.com/r/FULLCOMMUNISM/), [/r/COMPLETEANARCHY](https://www.reddit.com/r/COMPLETEANARCHY/), [/r/ShitLiberalsSay](https://www.reddit.com/r/ShitLiberalsSay/)
 
-Credit to /u/gab91, /r/socialism, /r/socialism_101, /r/communism101.
+*Credit to [/u/gab91](https://www.reddit.com/u/gab91), [/r/socialism](https://www.reddit.com/r/socialism/),  [/r/socialism_101](https://www.reddit.com/r/Socialism_101/), [/r/communism101](https://www.reddit.com/r/communism101/).*
