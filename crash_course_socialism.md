@@ -464,7 +464,8 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Industrial Workers of the World (IWW)](https://iww.org/)
 - [Redneck Revolt / John Brown Gun Club](https://www.redneckrevolt.org/about)
 - [Huey P Newton Gun Club](https://hueypnewtongunclub.org/)
-- [Socialist Alternative (SA)](http://www.socialistalternative.org/), [Committee for a Workers' International (CWI)](http://www.socialistworld.net/)
+- [Socialist Alternative (SA)](http://www.socialistalternative.org/)
+- [Committee for a Workers' International (CWI)](http://www.socialistworld.net/)
 - [Party for Socialism and Liberation (PSL)](http://www.pslweb.org/)
 - [Democratic Socialists of America (DSA)](https://www.dsausa.org/)
 
@@ -488,4 +489,4 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 
 
-*Credit to [/u/gab91](https://www.reddit.com/u/gab91), [/r/socialism](https://www.reddit.com/r/socialism/),  [/r/socialism_101](https://www.reddit.com/r/Socialism_101/), [/r/communism101](https://www.reddit.com/r/communism101/).*
+*Credit to [/u/gab91](https://www.reddit.com/u/gab91), [/r/socialism](https://www.reddit.com/r/socialism/),  [/r/socialism_101](https://www.reddit.com/r/Socialism_101/), [/r/communism101](https://www.reddit.com/r/communism101/)*
