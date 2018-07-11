@@ -60,6 +60,7 @@
 
 - [Did Socialism work in the USSR, and didn't the fall of the USSR bring more prosperity to Russia?](https://www.reddit.com/r/socialism/comments/86tqdd/but_socialism_doesnt_work_s/dw7qco0/)
 - [[Honestly not trolling] Why, in your opinion, have most attempts to form countries based economically on communism and socialism (USSR, Cuba, China) fail?](http://www.reddit.com/r/communism101/comments/1f8obt/honestly_not_trolling_why_in_your_opinion_have/)
+- [What about the authoritarian leaders like Lenin, Stalin, Mao, Pol Pot, etc?](https://www.reddit.com/r/LateStageCapitalism/comments/8xl4bi/stay_angry_comrades/e24fuqs/)
 - [Why did the Soviet Union fail?](http://www.reddit.com/r/communism101/comments/1zrroq/why_did_the_soviet_union_fail/)
 - [Communism, does it work?](http://www.reddit.com/r/communism101/comments/190vro/communism_does_it_work/)
 - [How do I counter the "communism is a nice thought, but it just doesn't work, as proved by Soviet and China" argument?](http://www.reddit.com/r/communism101/comments/28sjy4/how_do_i_counter_the_communism_is_a_nice_thought/)
@@ -179,7 +180,7 @@
 - [Why does left communism reject national liberation movements?](http://www.reddit.com/r/communism101/comments/27lbru/why_does_left_communism_reject_national/)
 - [Is it true that Socialism has killed X million people, and how many has capitalism killed?](https://www.reddit.com/r/LateStageCapitalism/comments/5q2oak/someone_dies_under_socialism_no_matter_how_its/dcvu8lg/)
 - [What's the role of the state in the revolution, and what is a state?](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/)
-- [Why do many socialist attempts end up in an authoritarian state? Watch this brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=BYVes44hcJg&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/)
+- [Why do many socialist attempts end up in an authoritarian state? Watch this brilliant talk by Micheal Parentihttps://www.youtube.com/watch?v=BYVes44hcJg&feature=youtu.be, or read his article, Left anticommunism, the unkindest cuthttp://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/]()
 - [What did Lenin say about socialism in one country?](https://espressostalinist.com/2012/03/11/lenin-on-socialism-in-one-country-2/)
 - [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
 
@@ -368,6 +369,13 @@
 
 - [Essential readings on the Juche idea and the Korean revolution](http://www.reddit.com/r/communism101/comments/2pil0z/what_are_some_essential_readings_on_the_juche_idea/)
 - [E-Library on the DPRK](http://www.korea-dpr.com/e_library.html)
+
+## On Venezuela
+
+- [What's going on with venezuela? Rebuttal to John Oliver's venezuela show, and overview of the situation in Venezeula](https://www.youtube.com/watch?v=_fV-C1Ag5sI).
+- [Are the people in venezeula really starving?](https://monthlyreview.org/2018/06/01/the-politics-of-food-in-venezuela/)
+- [Whats going on in Venezuela?](https://www.reddit.com/r/communism101/comments/66f7u5/eli5_comrades_what_is_the_situation_in_venezuela/)
+- [Is venezuela moving towards communism?](https://www.reddit.com/r/communism101/comments/7ixh1h/the_venezuelan_situation_already_understand_most/dr35p31/)
 
 ## Other Topics
 

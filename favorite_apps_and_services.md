@@ -4,7 +4,7 @@
 
 ## Goals
 
-- Privacy conscious (  [end-to-end encrypted](https://en.wikipedia.org/wiki/End-to-end_encryption) )
+- Privacy conscious, [end-to-end encrypted (E2EE)](https://en.wikipedia.org/wiki/End-to-end_encryption).
 - Decentralized, **no reliance** on cloud providers like google, microsoft, apple, spotify, netflix, etc. 
 - Self-hosted and self-reliant, simple files preferred.
 - Make sure no sites / services are US based.
@@ -15,9 +15,9 @@
 
 - Download all music / movies locally, using torrents behind a vpn.
   - Use [AirVPN](https://airvpn.org/), [Mullvad](https://mullvad.net/), [NordVPN](https://nordvpn.com/), [ProtonVPN](https://protonvpn.com/) 
-  - Use [qbittorrent](https://www.qbittorrent.org/) or [transmission](https://transmissionbt.com/) for a torrent client.
+  - Use [qbittorrent](https://www.qbittorrent.org/), [deluge](https://www.deluge-torrent.org/), or [transmission](https://transmissionbt.com/) for a torrent client.
 - Use [MPV](https://mpv.io/) or [VLC](https://www.videolan.org/vlc/download-windows.html), open source media players to play media.
-- Use [plex](https://www.plex.tv/) for streaming to other devices, point it to your torrent downloads folder. 
+- Use [emby](https://emby.media/) for streaming to other devices. 
 
 
 
@@ -38,7 +38,19 @@
 
 ## Collaboration
 
-- Self-host an [etherpad](http://etherpad.org/) instance, and share the document.
+- Use [etherpad](http://etherpad.org/).
+
+
+
+## Browsing
+
+- Use Firefox or TOR browser, with the addons:
+  - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+  - [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere)
+  - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17)
+  - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container) - As suggested, this keeps all Facebook stuff in it's own Firefox container.
+  - [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/) - The above, but for Google.
+- [Startpage](https://www.startpage.com/) or [Searx](https://searx.me/) as a search engine
 
 
 
@@ -61,20 +73,6 @@
 ## Social Media
 
 - [Mastodon](https://mastodon.social/), [GNU Social](https://gnu.io/social/). 
-
-
-
-## Browsing
-
-- Use Firefox or TOR browser, with the addons:
-  - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-  - [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere)
-  - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17)
-  - [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix)
-  - [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) - Local CDN emulation, to avoid large CDNs.
-  - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container) - As suggested, this keeps all Facebook stuff in it's own Firefox container.
-  - [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/) - The above, but for Google.
-- [Startpage](https://www.startpage.com/) or [Searx](https://searx.me/) as a search engine
 
 
 
