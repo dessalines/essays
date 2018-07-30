@@ -44,7 +44,7 @@ The [means of production](https://en.wikipedia.org/wiki/Means_of_production) are
 
 In a capitalist society the means of production are owned and controlled privately, by those that can afford them (the capitalist, aka those with capital). Production is carried out to **benefit the capitalist** (production for profit). Workers are paid a wage, and **receive that amount regardless of how much value they produce**. Socialists call this difference the [surplus](https://en.wikipedia.org/wiki/Surplus_value), profit, unpaid labor, exploitation, or **wage theft**, IE:
 
-`Wage Theft = Worker Value Added - Wage Paid`
+`Wage Theft = Worker Value Added - Wage Paid` <sup> [image](https://i.imgur.com/Dsmp9Jy.png)</sup>
 
 A 1983 report by England national income and expenditures found that on average, **26 minutes of every hour worked** (or 43% of labor value added) by English workers across a wide range of industries went to various exploiting or unproductive groups, with workers receiving only 57% of their pre-tax productive output as wages<sup>[1](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/new_socialism.pdf)</sup>. In other words, at least **40% of the work you do every day is stolen.** 
 
@@ -349,13 +349,13 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 <pre>magnet:?xt=urn:btih:676a3acf1baa5e5bbd26dea9b95272e5ba252fb6&dn=Engels%20-%20Socialism%20-%20Utopian%20and%20Scientific%20%5baudiobook%5d%20by%20dessalines&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.open-internet.nl%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</pre>
 
-[Trotsky - Fascism - What it is and How to Fight It](magnet:?xt=urn:btih:d1f28f0c1b89ddd9a39205bef0be3715d117f91b&dn=Trotsky+-+Fascism+-+What+it+is+and+How+to+Fight+it+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
-
-<pre>magnet:?xt=urn:btih:d1f28f0c1b89ddd9a39205bef0be3715d117f91b&dn=Trotsky+-+Fascism+-+What+it+is+and+How+to+Fight+it+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
-
 [Rosa Luxemburg - Reform or Revolution](magnet:?xt=urn:btih:ef5f7d59d0792aedc3a80673b34d0f6b21fd7802&dn=Rosa%20Luxemburg%20-%20Reform%20or%20Revolution%20%5baudiobook%5d%20by%20dessalines&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
 
 <pre>magnet:?xt=urn:btih:ef5f7d59d0792aedc3a80673b34d0f6b21fd7802&dn=Rosa%20Luxemburg%20-%20Reform%20or%20Revolution%20%5baudiobook%5d%20by%20dessalines&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</pre>
+
+[Trotsky - Fascism - What it is and How to Fight It](magnet:?xt=urn:btih:d1f28f0c1b89ddd9a39205bef0be3715d117f91b&dn=Trotsky+-+Fascism+-+What+it+is+and+How+to+Fight+it+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
+<pre>magnet:?xt=urn:btih:d1f28f0c1b89ddd9a39205bef0be3715d117f91b&dn=Trotsky+-+Fascism+-+What+it+is+and+How+to+Fight+it+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 
 [Howard Zinn - A People's History of the United States](magnet:?xt=urn:btih:dcd60768a9eb59cfa71eca4f5645ba34a3bebb0b&dn=Howard+Zinn+-+A+People%5C%27s+History+of+the+United+States+%5BUnabridg&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
 
@@ -387,13 +387,21 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 <pre>magnet:?xt=urn:btih:2a097b610d32fb6aed66ef6b8cce2c1bfe173936&dn=Michael%20Parenti%20-%20Left%20Anti-Communism%20-%20The%20Unkindest%20Cut%20%5baudiobook%5d%20by%20dessalines&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2feddie4.nl%3a6969&tr=udp%3a%2f%2fopentrackr.org%3a1337&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2ftracker.pirateparty.gr%3a6969&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2fzer0day.ch%3a1337&tr=udp%3a%2f%2fexodus.desync.com%3a6969&tr=udp%3a%2f%2ftracker.zer0day.to%3a1337</pre>
 
-[Cockshott and Cottrell - Towards a New Socialism [audiobook] by dessalines](magnet:?xt=urn:btih:ae5d0538fd9d324034f17eca67f52afb472c813e&dn=Cottrell+-+Towards+a+New+Socialism+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+[Cockshott and Cottrell - Towards a New Socialism](magnet:?xt=urn:btih:ae5d0538fd9d324034f17eca67f52afb472c813e&dn=Cottrell+-+Towards+a+New+Socialism+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
 
 <pre>magnet:?xt=urn:btih:ae5d0538fd9d324034f17eca67f52afb472c813e&dn=Cottrell+-+Towards+a+New+Socialism+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 
 [CLR James - Every Cook Can Govern](magnet:?xt=urn:btih:d21d86b790f7aba92db7990c9b85916ece059687&dn=CLR+James+-+Every+Cook+Can+Govern+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
 
 <pre>magnet:?xt=urn:btih:d21d86b790f7aba92db7990c9b85916ece059687&dn=CLR+James+-+Every+Cook+Can+Govern+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
+
+[Lenin - Left-Wing Communism - an Infantile Disorder](magnet:?xt=urn:btih:796b404315dbeb409b233166d252c86efc72a084&dn=Lenin+-+Left-Wing+Communism+-+an+Infantile+Disorder+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
+<pre>magnet:?xt=urn:btih:796b404315dbeb409b233166d252c86efc72a084&dn=Lenin+-+Left-Wing+Communism+-+an+Infantile+Disorder+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
+
+[Stephen Gowans - Do Publicly Owned, Planned Economies Work](magnet:?xt=urn:btih:21759572bc314ec02840819c541ceee111a64b1e&dn=Stephen+Gowans+-+Do+Publicly+Owned%2C+Planned+Economies+Work&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
+<pre>magnet:?xt=urn:btih:21759572bc314ec02840819c541ceee111a64b1e&dn=Stephen+Gowans+-+Do+Publicly+Owned%2C+Planned+Economies+Work&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 
 [Lenin - The Proletarian Revolution and the Renegade Kautsky](magnet:?xt=urn:btih:02a3f5423ef0763a05210147bf7917d5f7105d4e&dn=Lenin%20-%20The%20Proletarian%20Revolution%20and%20the%20Renegade%20Kautsky%20%5baudiobook%5d%20by%20dessalines&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.open-internet.nl%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce)
 
@@ -406,6 +414,10 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 [Smedley Butler - War is a Racket](magnet:?xt=urn:btih:fc48974617628cabd142f1096f0d68dcaa22ce67&dn=Smedley%20Butler%20-%20War%20is%20a%20Racket%20%5baudiobook%5d%20by%20dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Feddie4.nl%3A6969&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969&tr=udp%3A%2F%2Fopentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337)
 
 <pre>magnet:?xt=urn:btih:fc48974617628cabd142f1096f0d68dcaa22ce67&dn=Smedley%20Butler%20-%20War%20is%20a%20Racket%20%5baudiobook%5d%20by%20dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Feddie4.nl%3A6969&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969&tr=udp%3A%2F%2Fopentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337</pre>
+
+[Ward Wilson - The Bomb Didn’t Beat Japan … Stalin Did](magnet:?xt=urn:btih:832c59dd7fc6dcf76801dd0230d080c015d08d71&dn=Ward+Wilson+-+The+Bomb+Didn%26rsquo%3Bt+Beat+Japan+Stalin+Did&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
+<pre>magnet:?xt=urn:btih:832c59dd7fc6dcf76801dd0230d080c015d08d71&dn=Ward+Wilson+-+The+Bomb+Didn%26rsquo%3Bt+Beat+Japan+Stalin+Did&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969<pre>
 
 ## Films
 

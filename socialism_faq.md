@@ -59,28 +59,27 @@
 ## Didn't communism fail? It works in theory but not in practice.
 
 - [Did Socialism work in the USSR, and didn't the fall of the USSR bring more prosperity to Russia?](https://www.reddit.com/r/socialism/comments/86tqdd/but_socialism_doesnt_work_s/dw7qco0/)
+- [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work)
 - [[Honestly not trolling] Why, in your opinion, have most attempts to form countries based economically on communism and socialism (USSR, Cuba, China) fail?](http://www.reddit.com/r/communism101/comments/1f8obt/honestly_not_trolling_why_in_your_opinion_have/)
 - [What about the authoritarian leaders like Lenin, Stalin, Mao, Pol Pot, etc?](https://www.reddit.com/r/LateStageCapitalism/comments/8xl4bi/stay_angry_comrades/e24fuqs/)
 - [Why did the Soviet Union fail?](http://www.reddit.com/r/communism101/comments/1zrroq/why_did_the_soviet_union_fail/)
-- [Communism, does it work?](http://www.reddit.com/r/communism101/comments/190vro/communism_does_it_work/)
-- [How do I counter the "communism is a nice thought, but it just doesn't work, as proved by Soviet and China" argument?](http://www.reddit.com/r/communism101/comments/28sjy4/how_do_i_counter_the_communism_is_a_nice_thought/)
 
 ## But what about human nature?
 
-- [What about human nature?](http://www.reddit.com/r/communism101/comments/2yk3xl/what_about_human_nature_answer_but_add_yours_too/)
 - [History and human nature.](https://github.com/dessalines/essays/blob/master/crash_course_socialism.md#history-and-human-nature)
+- [What about human nature?](http://www.reddit.com/r/communism101/comments/2yk3xl/what_about_human_nature_answer_but_add_yours_too/)
 - [Doesn't socialism go against human nature?](http://newdemocracyworld.org/culture/human_nature.html)
 
 
 ## Schools of thought
 
+* [What are the different forms of Marxism and what are their differences?](http://www.reddit.com/r/communism101/comments/206xtz/what_are_the_different_forms_of_marxism_and_what/)
 * [What are the differences between Marxism, Marxism-Leninism, Trotskyism, MLM, and Stalinism?](https://www.reddit.com/r/Anarchy101/comments/87apl4/differences_between_marxism_lenninism_trotskyism/dwbj3so/)
 * [Can someone give us a quick like-we're-five rundown of the distinctions between Trotskyism, Maoism, orthodox Marxism, and so on?](http://www.reddit.com/r/communism101/comments/132d5s/can_someone_give_us_a_quick_likewerefive_rundown/)
 * [What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
 * [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
-* [Can someone give me a brief ELI5 rundown of communism/socialism/anarchism/syndicalism/insert-communist-leader-name-here-ism? These terms are being tossed around and I'm lost.](http://www.reddit.com/r/communism101/comments/1o6sxg/can_someone_give_me_a_brief_eli5_rundown_of/)
 * [Looking for reference to types of communism.](http://www.reddit.com/r/communism101/comments/1fcc6o/looking_for_reference_to_types_of_communism/)
-* [What are the different forms of Marxism and what are their differences?](http://www.reddit.com/r/communism101/comments/206xtz/what_are_the_different_forms_of_marxism_and_what/)
+* [What was Engels Contribution to Marxism?](https://necessityandfreedom.wordpress.com/2017/04/16/without-engels-there-would-be-no-marxism/)
 
 ## Socialism vs. communism
 
@@ -89,11 +88,11 @@
 * [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](https://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_stage_of_communism_or_is/)
 * [Were the nazis socialist? What about national socialism, the national socialist movement (NSM), and the national front?](https://www.snopes.com/news/2017/09/05/were-nazis-socialists/), [2](https://www.reddit.com/r/Socialism_101/comments/79kvin/what_is_the_difference_between_socialists_here/)
 * [What is Fascism?](http://www.nybooks.com/articles/1995/06/22/ur-fascism/)
-* [What was Engels Contribution to Marxism?](https://necessityandfreedom.wordpress.com/2017/04/16/without-engels-there-would-be-no-marxism/)
 
 ## Did the planned economies work?
 
 - [Did Socialism work, in the USSR?](https://www.reddit.com/r/socialism/comments/86tqdd/but_socialism_doesnt_work_s/dw7qco0/)
+- [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work)
 - [My economics teacher said that the planned economies communist countries had are proven failures. Is this true?](https://www.reddit.com/r/communism101/comments/3e68nf/my_economics_teacher_said_that_the_planned/)
 - [Towards a new socialism - Cockshott and Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/)
 - [Why are communists against markets?](https://github.com/dessalines/essays/blob/master/market_socialism.md)
@@ -125,10 +124,6 @@
 * [How does communism deal with niches?](http://www.reddit.com/r/communism101/comments/27o04e/how_does_communism_deal_with_niches/)
 * [How would residentials be fairly distributed under full communism?](http://www.reddit.com/r/communism101/comments/2hnmxx/how_would_residentials_be_fairly_distributed/)
 
-### Further reading
-
-* [*Socialism: Utopian and Scientific*](https://www.marxists.org/archive/marx/works/1880/soc-utop/) by Friedrich Engels
-
 ## On Economics and Sociology
 
 - [Can someone ELI 5 the Labor Theory of Value](http://www.reddit.com/r/communism101/comments/2otlcz/can_someone_eli_5_the_labor_theory_of_value/)
@@ -143,9 +138,9 @@
 
 ## On Nationalism and Internationalism
 
-- [Nationalism as applied internationalism.](http://www.reddit.com/r/communism101/comments/298jfb/nationalism_as_applied_internationalism/)
+- [Nationalism and internationalism, where do leftists stand?](http://www.reddit.com/r/communism101/comments/298jfb/nationalism_as_applied_internationalism/)
 - [Nationalism and Communism?](http://www.reddit.com/r/communism101/comments/146x30/nationalism_and_communism/)
-- [Why/is patriotism bad?](http://www.reddit.com/r/communism101/comments/1nb7ke/whyis_patriotism_bad/)
+- [Why is patriotism bad?](http://www.reddit.com/r/communism101/comments/1nb7ke/whyis_patriotism_bad/)
 
 ## On Women's Liberation
 
@@ -188,6 +183,7 @@
 
 - [*The Leninist Theory of Organisation*](http://www.marxists.org/archive/mandel/196x/leninism/index.htm) by Ernest Mandel
 - [*Lenin: A Study on the Unity of his Thought*](http://www.marxists.org/archive/lukacs/works/1924/lenin/) by Georg Lukacs
+- [*Socialism: Utopian and Scientific*](https://www.marxists.org/archive/marx/works/1880/soc-utop/) by Friedrich Engels
 
 ## On Trotskyism
 
@@ -288,6 +284,7 @@
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
 * [How many peopled really died during the Great Leap Forward?](http://www.reddit.com/r/communism/comments/39w9w0/how_many_peopled_really_died_during_the_great/)
+* [Is modern day china communist? Is it staying true to communist values?](https://www.reddit.com/r/communism101/comments/91liw2/how_is_china_staying_true_to_communist_values/e2z3kzu/)
 
 ### [Did Mao kill millions of people?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_mao_killed_millions_of_people)
 
@@ -316,6 +313,7 @@
 * [In defence of (and questions about) Cuba](http://www.reddit.com/r/communism/comments/x3qtw/in_defence_of_and_questions_about_cuba/)
 * [Multiple questions about Cuba](http://www.reddit.com/r/communism101/comments/2pg82b/multiple_questions_about_cuba/)
 * [Did the US really think Castro was a dictator? Answer: No.](https://www.reddit.com/r/ShitLiberalsSay/comments/87tto3/i_submitted_a_til_about_fidel_castros_hatred_for/dwgpg7d/)
+* [Why did people flee Cuba / Did Cuba have a famine in the 1990s?](https://www.reddit.com/r/DebateCommunism/comments/8yc2ak/if_cuba_is_a_decenthighquality_state_why_werent/e29so7h/)
 * [Did Fidel Castro persecute gay / LGBT people? What about the UMAP prisons?](https://www.reddit.com/r/Anarchy101/comments/8kxgul/what_do_anarchists_think_of_the_castro_regime/dzc2wp8/)
 
 ### [Was Che a murderer and/or a racist?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_che_was_a_bloodthirsty_butcher)
@@ -394,8 +392,9 @@
 - [Rocket jesus broken promises #1.](https://www.reddit.com/r/EnoughMuskSpam/comments/73eh4m/tracking_elon_musks_visions_promises_and/)
 - [Rocket jesus broken promises #2.](https://www.reddit.com/r/EnoughMuskSpam/comments/7spkqa/happy_2018_everybody_lets_take_a_moment_to_recall/)
 
-
 ### Whats so bad about Bill Gates?
+
+- [Microsoft crimes masterpost.](https://github.com/dessalines/essays/blob/master/microsoft.md)
 
 - [He's a philanthro-capitalist imperialist: using the bill and melinda gates foundation charity as a bargaining chip to work in the interests of billionaire elites. This impoverishes poorer countries, undermining their democracy and independence by making them fully dependent on US aid.](https://www.liberationnews.org/real-agenda-gates-foundation/)
 - [His charities promote corporate interests above health care](http://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf).
@@ -418,6 +417,8 @@
 - [Whats so bad about UBI (universal basic income)?](https://thenewinquiry.com/universal-basic-bullshit/),[2](https://www.dissentmagazine.org/article/false-promise-universal-basic-income-andy-stern-ruger-bregman),[3](https://youtu.be/J10jKdPRN9A)
 - [Why are socialists against Israel / Zionism?](https://www.youtube.com/watch?v=BT5L4YU_Fl4&feature=youtu.be)
 - [Do most US troops come from poor neighborhoods? (Yes, debunking the heritage foundation debunkers)](https://www.boiseweekly.com/boise/poor-and-uneducated-like-we-thought/Content?oid=933196)
+- [Why communists do not participate in anti-russia hysteria, pushed by the democrats.](https://www.reddit.com/r/communism/comments/90i5yp/why_the_marxist_left_is_opposed_to_and_does_not/)
+- [What about Beyonce / Black Capitalism?](https://www.independent.co.uk/news/people/beyonces-ivy-park-sportswear-line-denies-claims-its-clothes-were-produced-by-sweatshop-workers-a7035926.html)
 
 
 
