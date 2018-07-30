@@ -13,13 +13,13 @@
 
 <pre>magnet:?xt=urn:btih:676a3acf1baa5e5bbd26dea9b95272e5ba252fb6&dn=Engels%20-%20Socialism%20-%20Utopian%20and%20Scientific%20%5baudiobook%5d%20by%20dessalines&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.open-internet.nl%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.skyts.net%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</pre>
 
-[Trotsky - Fascism - What it is and How to Fight It](magnet:?xt=urn:btih:d1f28f0c1b89ddd9a39205bef0be3715d117f91b&dn=Trotsky+-+Fascism+-+What+it+is+and+How+to+Fight+it+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
-
-<pre>magnet:?xt=urn:btih:d1f28f0c1b89ddd9a39205bef0be3715d117f91b&dn=Trotsky+-+Fascism+-+What+it+is+and+How+to+Fight+it+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
-
 [Rosa Luxemburg - Reform or Revolution](magnet:?xt=urn:btih:ef5f7d59d0792aedc3a80673b34d0f6b21fd7802&dn=Rosa%20Luxemburg%20-%20Reform%20or%20Revolution%20%5baudiobook%5d%20by%20dessalines&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce)
 
 <pre>magnet:?xt=urn:btih:ef5f7d59d0792aedc3a80673b34d0f6b21fd7802&dn=Rosa%20Luxemburg%20-%20Reform%20or%20Revolution%20%5baudiobook%5d%20by%20dessalines&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</pre>
+
+[Trotsky - Fascism - What it is and How to Fight It](magnet:?xt=urn:btih:d1f28f0c1b89ddd9a39205bef0be3715d117f91b&dn=Trotsky+-+Fascism+-+What+it+is+and+How+to+Fight+it+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
+<pre>magnet:?xt=urn:btih:d1f28f0c1b89ddd9a39205bef0be3715d117f91b&dn=Trotsky+-+Fascism+-+What+it+is+and+How+to+Fight+it+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 
 [Marx - Critique of the Gotha Programme](magnet:?xt=urn:btih:2325c88304ff645748fafa44768c6a034ea805cd&dn=Marx+-+Critique+of+the+Gotha+Programme+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
 
@@ -45,7 +45,7 @@
 
 <pre>magnet:?xt=urn:btih:2a097b610d32fb6aed66ef6b8cce2c1bfe173936&dn=Michael%20Parenti%20-%20Left%20Anti-Communism%20-%20The%20Unkindest%20Cut%20%5baudiobook%5d%20by%20dessalines&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2feddie4.nl%3a6969&tr=udp%3a%2f%2fopentrackr.org%3a1337&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2ftracker.pirateparty.gr%3a6969&tr=udp%3a%2f%2fopen.demonii.com%3a1337&tr=udp%3a%2f%2fzer0day.ch%3a1337&tr=udp%3a%2f%2fexodus.desync.com%3a6969&tr=udp%3a%2f%2ftracker.zer0day.to%3a1337</pre>
 
-[Cockshott and Cottrell - Towards a New Socialism [audiobook] by dessalines](magnet:?xt=urn:btih:ae5d0538fd9d324034f17eca67f52afb472c813e&dn=Cottrell+-+Towards+a+New+Socialism+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+[Cockshott and Cottrell - Towards a New Socialism](magnet:?xt=urn:btih:ae5d0538fd9d324034f17eca67f52afb472c813e&dn=Cottrell+-+Towards+a+New+Socialism+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
 
 <pre>magnet:?xt=urn:btih:ae5d0538fd9d324034f17eca67f52afb472c813e&dn=Cottrell+-+Towards+a+New+Socialism+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 
@@ -53,6 +53,18 @@
 [CLR James - Every Cook Can Govern](magnet:?xt=urn:btih:d21d86b790f7aba92db7990c9b85916ece059687&dn=CLR+James+-+Every+Cook+Can+Govern+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
 
 <pre>magnet:?xt=urn:btih:d21d86b790f7aba92db7990c9b85916ece059687&dn=CLR+James+-+Every+Cook+Can+Govern+%5Baudiobook%5D+by+dessalines&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
+
+[Lenin - Left-Wing Communism - an Infantile Disorder](magnet:?xt=urn:btih:796b404315dbeb409b233166d252c86efc72a084&dn=Lenin+-+Left-Wing+Communism+-+an+Infantile+Disorder+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
+<pre>magnet:?xt=urn:btih:796b404315dbeb409b233166d252c86efc72a084&dn=Lenin+-+Left-Wing+Communism+-+an+Infantile+Disorder+%5Baudiobook%5D&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
+
+[Stephen Gowans - Do Publicly Owned, Planned Economies Work](magnet:?xt=urn:btih:21759572bc314ec02840819c541ceee111a64b1e&dn=Stephen+Gowans+-+Do+Publicly+Owned%2C+Planned+Economies+Work&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
+<pre>magnet:?xt=urn:btih:21759572bc314ec02840819c541ceee111a64b1e&dn=Stephen+Gowans+-+Do+Publicly+Owned%2C+Planned+Economies+Work&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
+
+[Ward Wilson - The Bomb Didn’t Beat Japan … Stalin Did](magnet:?xt=urn:btih:832c59dd7fc6dcf76801dd0230d080c015d08d71&dn=Ward+Wilson+-+The+Bomb+Didn%26rsquo%3Bt+Beat+Japan+Stalin+Did&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
+<pre>magnet:?xt=urn:btih:832c59dd7fc6dcf76801dd0230d080c015d08d71&dn=Ward+Wilson+-+The+Bomb+Didn%26rsquo%3Bt+Beat+Japan+Stalin+Did&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969<pre>
 
 [Walpola Rahula - What the Buddha Taught](magnet:?xt=urn:btih:6bccd6f442e359fa38a6ad751afc9116c2fe12aa&dn=Walpola%20Rahula%20-%20What%20the%20Buddha%20Taught%20%5baudiobook%5d%20by%20dessalines&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.zer0day.to%3a1337%2fannounce&tr=udp%3a%2f%2ftracker1.wasabii.com.tw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker1.xku.tv%3a6969%2fannounce&tr=udp%3a%2f%2ftracker2.christianbro.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker2.wasabii.com.tw%3a6969%2fannounce)
 
