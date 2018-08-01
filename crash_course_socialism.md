@@ -221,6 +221,8 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [Socialism FAQ](https://github.com/dessalines/essays/blob/master/socialism_faq.md)
 
+[Glossary of Socialist Terms](https://github.com/dessalines/essays/blob/master/glossary_of_socialist_terms.md)
+
 # Media
 
 ## Videos
