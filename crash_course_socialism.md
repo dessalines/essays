@@ -150,32 +150,18 @@ Socialists view democracy under capitalism to be an unrealistic utopia, better l
 Communists propose to replace bourgeois democracy with **proletarian democracy**, with such measures as:
 
 - Replacement of bourgeois parliamentary bodies with broadly inclusive workers organizations.
-
 - Seizing land, productive facilities, and housing and putting them under democratic control.
-
 - Elimination of all debts, suppression of all private banks.
-
 - Direct democracy in as many decisions as possible, often called [cyber communism](https://www.youtube.com/watch?v=cI01-5zhwdA). A site called [Simplevote](https://simplevote.tk/), a direct democracy voting platform.
-
 - A democratically planned economy for human needs, with open participation.
-
 - Low-level workplace democracy.
-
 - Elimination of the standing army, and the substitution for it of armed workers.
-
 - An emphasis on universal education, health-care, child-care, care for the elderly, and human welfare, paid for socially.
-
 - Increase in productive technology.
-
 - Low levels of wealth and income inequality, often driven by a system of labor vouchers for compensation.
-
 - Experts (if any) elected by the working class through universal suffrage.
-
 - All representatives and officials (including police) are revocable at any time.
-
 - Public officials are paid workmen’s wages.
-
-  
 
 ## Unsustainable Growth
 
