@@ -371,6 +371,7 @@
 ## On Venezuela
 
 - [What's going on with venezuela? Rebuttal to John Oliver's venezuela show, and overview of the situation in Venezeula](https://www.youtube.com/watch?v=_fV-C1Ag5sI).
+- [Who's crashing Venezuelas economy?](https://www.youtube.com/watch?v=YqHzDLSl8U4)
 - [Are the people in venezeula really starving?](https://monthlyreview.org/2018/06/01/the-politics-of-food-in-venezuela/)
 - [Whats going on in Venezuela?](https://www.reddit.com/r/communism101/comments/66f7u5/eli5_comrades_what_is_the_situation_in_venezuela/)
 - [Is venezuela moving towards communism?](https://www.reddit.com/r/communism101/comments/7ixh1h/the_venezuelan_situation_already_understand_most/dr35p31/)
