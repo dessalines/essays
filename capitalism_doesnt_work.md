@@ -1,3 +1,5 @@
+# Does Capitalism Work?
+
 Lets unpack the idea that "Capitalism works". In the US, the most developed Capitalist country, the richest country in the history of the world:
 
 - [1 out of every 7 US citizens needs to visit food banks to survive](https://www.usatoday.com/story/news/nation/2014/08/17/hunger-study-food/14195585/), despite having enough food to feed [10 billion people.](https://www.oxfam.ca/there-enough-food-feed-world) Half of all food produced is [thrown away by retailers.](https://www.theguardian.com/environment/2016/jul/13/us-food-waste-ugly-fruit-vegetables-perfect)
@@ -23,9 +25,9 @@ Examples from [this post](https://www.reddit.com/r/socialism/comments/86tqdd/but
 - [Had zero unemployment, continuous economic growth for 70 straight years.](https://homepages.warwick.ac.uk/~syrbe/pubs/FarmtoFactory.pdf) The "continuous" part should make sense – the USSR was a planned, non-market economy, so market crashes á la capitalism were pretty much impossible.
 - [All education, including university level, free](http://www.revolutionarydemocracy.org/archive/PubEdUSSR.htm). [2]( http://www.revolutionarydemocracy.org/archive/anglosov.htm)
 - [99% literacy](https://en.wikipedia.org/wiki/Likbez).
-- Saved the world from Fascism, [killing 7 out of every 10 fascist soldier, bore the enormous cost of blood and pain](https://en.wikipedia.org/wiki/Eastern_Front_(World_War_II)#Casualties). Nazis were in retreat after the battle of Stalingrad in 1942, a **full 2 years** before the US landed troops in normandy. 
+- Saved the world from Fascism, [killing 7 out of every 10 fascist soldier, bore the enormous cost of blood and pain](https://en.wikipedia.org/wiki/Eastern_Front_(World_War_II\)#Casualties). Nazis were in retreat after the battle of Stalingrad in 1942, a **full 2 years** before the US landed troops in normandy. 
 - [Doubled life expectancy](https://en.wikipedia.org/wiki/Demographics_of_the_Soviet_Union).[Eliminated poverty.](https://gowans.wordpress.com/2011/12/20/we-lived-better-then/)
-- [End sex inequality](https://en.wikisource.org/wiki/Constitution_of_the_Soviet_Union_(1977,_Unamended)). Equal wages for men and women mandated by law, but sex inequality, although not as pronounced as under capitalism, was perpetuated in social roles. Very important lesson to learn.
+- [End sex inequality](https://en.wikisource.org/wiki/Constitution_of_the_Soviet_Union_(1977,_Unamended\) ). Equal wages for men and women mandated by law, but sex inequality, although not as pronounced as under capitalism, was perpetuated in social roles. Very important lesson to learn.
 - [End Racial inequality.]( https://www.theguardian.com/artanddesign/shortcuts/2016/jan/24/racial-harmony-in-a-marxist-utopia-how-the-soviet-union-capitalised-on-us-discrimination-in-pictures)
 - Feudalism to [space travel](https://i.imgur.com/pe0tg2y.jpg) in 40 years. [First satellite](https://en.wikipedia.org/wiki/Soviet_space_program), rocket, space walk, man, woman, animal, space station, moon and mars probes.
 - Had zero homelessness. Houses were often shared by two families throughout the 20s and 30s – so unlike capitalism, there were no empty houses, but the houses were very full. In the 40s there was the war, and in the 50s there were a number of orphans from the war. The mass housing projects began in the 60s, they were completed in the 70s, and by the 70s, there were homeless people, but they often had genuine issues with mental health.
