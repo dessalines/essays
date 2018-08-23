@@ -1,7 +1,7 @@
 # Audiobooks
 
 
-## Read by dessalines
+## Read by Dessalines
 
 [Youtube Channel](https://www.youtube.com/channel/UC7HJWIFGGeMiJi2h3k18CrQ)
 
