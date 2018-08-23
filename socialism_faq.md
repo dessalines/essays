@@ -405,10 +405,17 @@
 
 ### What's so bad about George Orwell?
 
-- [He snitched out Jews, Black people, Homosexuals, and communists to British Intelligence.](https://bennorton.com/george-orwell-list-leftists-snitch-british-government/) 
-- [He was a rabid anti-communist, so much so that the animated animal farm film was funded by the CIA.](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/)
-- [A reddit thread on George Orwell](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/)
-- [Thread #2](https://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/for_those_on_the_right_who_think_orwell_wrote/dpy4zik/).
+- He's antisemitic, homophobic, and racist. Specifically, [he snitched out Jews, Black people, Homosexuals, and communists to British Intelligence.](https://bennorton.com/george-orwell-list-leftists-snitch-british-government/) His list includes him writing:
+  - 8 variations of  “Jewish?” (Charlie Chaplin), “Polish Jew, (Tom Driberg)” “English Jew,” or “Jewess.”
+    - One Example - "CHAPLIN, Charles 1899-1977 (Anglo-American). (Jewish?). JOBS Films"
+  - "ROBESON, Paul (US Negro) 1898-1976. JOBS Actor, Singer. REMARKS ??  (People's Convention.) Very anti-white. Wallace supporter. Henry  Wallace, US Vice-President, 1941-45. "
+    - This isn't true, just look at the welsh coal miners for whom Robeson Campaigned.
+  - [Stephen Spender](https://en.wikipedia.org/wiki/Stephen_Spender)  - "Sentimental sympathiser... Tendency towards homosexuality" 
+  - [Hugh MacDiarmid](https://en.wikipedia.org/wiki/Hugh_MacDiarmid), poet and Scottish nationalist.
+  - [George Padmore](https://en.wikipedia.org/wiki/George_Padmore), Trinidadian journalist and anti-imperialist campaigner.
+- His books Animal Farm and 1984 are used widely as anti-communist propaganda in schools in the US and UK.  
+- [His animated animal farm film was funded by the CIA.](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/)
+- [A reddit thread on George Orwell](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/), [Thread #2](https://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/for_those_on_the_right_who_think_orwell_wrote/dpy4zik/).
 
 ### Did the atom bombs really end WW2?
 
