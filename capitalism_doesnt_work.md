@@ -42,7 +42,7 @@ Now let's take a look at what happens after the USSR collapse:
 - [One in ten children now live on the streets.](https://www.theglobeandmail.com/news/world/an-epidemic-of-street-kids-overwhelms-russian-cities/article4141933/) [Infant mortality increases](https://knoema.com/atlas/Russian-Federation/Nenets-Autonomous-District/topics/Demographics/Mortality/Infant-mortality-rate-deaths-before-age-1-per-1000-live-births). Was 29.3 in 2003 which is around (current) Syria and Micronesia, 7.9 in 2013. [Infant mortality in USSR was 1.92](https://en.wikipedia.org/wiki/Demographics_of_the_Soviet_Union#Life_expectancy_and_infant_mortality), literally the lowest in the world.
 - [1996 election rigged by the US, Yeltsin sends in tanks to disperse the supreme soviet](https://en.wikipedia.org/wiki/Russian_presidential_election,_1996). 
 
-For an overview of the soviet experiment, watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=BYVes44hcJg&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut.](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/)
+For an overview of the soviet experiment, watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut.](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/)
 
 Also read this great article by Stephen Gowans, [Do publicly owned, planned economies work?](https://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/). [Audio on youtube](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
 
