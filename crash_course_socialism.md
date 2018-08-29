@@ -419,7 +419,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 [Ward Wilson - The Bomb Didn’t Beat Japan … Stalin Did](magnet:?xt=urn:btih:832c59dd7fc6dcf76801dd0230d080c015d08d71&dn=Ward+Wilson+-+The+Bomb+Didn%26rsquo%3Bt+Beat+Japan+Stalin+Did&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
 
-<pre>magnet:?xt=urn:btih:832c59dd7fc6dcf76801dd0230d080c015d08d71&dn=Ward+Wilson+-+The+Bomb+Didn%26rsquo%3Bt+Beat+Japan+Stalin+Did&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969<pre>
+<pre>magnet:?xt=urn:btih:832c59dd7fc6dcf76801dd0230d080c015d08d71&dn=Ward+Wilson+-+The+Bomb+Didn%26rsquo%3Bt+Beat+Japan+Stalin+Did&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 
 ## Films
 
