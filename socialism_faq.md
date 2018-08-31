@@ -418,6 +418,16 @@
 - [His animated animal farm film was funded by the CIA.](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/)
 - [A reddit thread on George Orwell](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/), [Thread #2](https://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/for_those_on_the_right_who_think_orwell_wrote/dpy4zik/).
 
+### John McCain
+
+- [War Criminal, who pushed for US intervention in Syria, Libya, Serbia, Iran, Iraq, Afghanistan, and Vietnam.](https://www.counterpunch.org/2018/08/29/john-mccain-war-criminal-not-war-hero/) 
+- Voted against Martin Luther King day, and women's reproducgive rights for his entire political career.
+- [Despite giving lip-service to progressive causes, never actually voted for any of them. The "maverick" label was a false construct.](https://theintercept.com/2017/07/27/john-mccain-fake-maverick-horrible-record/)
+
+### What about the new atheists? (Sam Harris, Richard Dawkins, Christopher Hitchens)
+
+- Hidden beneath a superficial rationalism, they provide a seemingly intellectual [defense of imperialism](https://www.jacobinmag.com/2014/12/new-atheism-old-empire/), push islamophobia, and use it to create a smokescreen for the injustices of global capitalism. [2](https://www.theguardian.com/commentisfree/2013/apr/03/sam-harris-muslim-animus),[3](https://www.aljazeera.com/indepth/opinion/2013/04/20134210413618256.html)
+
 ### Did the atom bombs really end WW2?
 
  - [No, the entrance of the USSR into the war against Japan was the cause of Japan's surrender, which the US fully knew about since they were intercepting Japan's communications. The Atom bombing of Japanese civilians was in reality a display of military power against the USSR, and the first act of the cold war.](http://foreignpolicy.com/2013/05/30/the-bomb-didnt-beat-japan-stalin-did/)

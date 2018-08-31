@@ -503,4 +503,4 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 
 
-*Credit to [/u/gab91](https://www.reddit.com/u/gab91), [/r/socialism](https://www.reddit.com/r/socialism/),  [/r/socialism_101](https://www.reddit.com/r/Socialism_101/), [/r/communism101](https://www.reddit.com/r/communism101/)*
+*Credit to [/u/gab91](https://www.reddit.com/u/gab91), [/r/socialism](https://www.reddit.com/r/socialism/),  [/r/socialism_101](https://www.reddit.com/r/Socialism_101/), [/r/communism101](https://www.reddit.com/r/communism101/)*faq
