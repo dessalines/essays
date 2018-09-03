@@ -63,6 +63,7 @@
 - [[Honestly not trolling] Why, in your opinion, have most attempts to form countries based economically on communism and socialism (USSR, Cuba, China) fail?](http://www.reddit.com/r/communism101/comments/1f8obt/honestly_not_trolling_why_in_your_opinion_have/)
 - [What about the authoritarian leaders like Lenin, Stalin, Mao, Pol Pot, etc?](https://www.reddit.com/r/LateStageCapitalism/comments/8xl4bi/stay_angry_comrades/e24fuqs/)
 - [Why did the Soviet Union fail?](http://www.reddit.com/r/communism101/comments/1zrroq/why_did_the_soviet_union_fail/)
+- [What about the gulags?](https://www.reddit.com/r/communism101/comments/9bem2d/what_were_the_gulags_according_to_self_identified/e52ls2e/)
 
 ## But what about human nature?
 
@@ -102,12 +103,20 @@
 
 * [How can people be expected to work hard if they don't get payed more FOR working harder? (I know nothing about communism)](http://www.reddit.com/r/communism101/comments/21u7jo/how_can_people_be_expected_to_work_hard_if_they/)
 * [What prevents cultural, technological or scientific stagnation in a communist society? Also what motivation do people have to work at their Jobs?](http://www.reddit.com/r/communism101/comments/27ia0t/what_prevents_cultural_technological_or/)
+* [Would people innovate under Communism? Doesn't capitalism create innovation?](https://www.reddit.com/r/DebateCommunism/comments/9c9qj6/in_a_communist_society_what_are_people_motivated/)
 * [How does communism deal with lazy people?](http://www.reddit.com/r/communism101/comments/25r9hh/how_does_communism_deal_with_lazy_people/)
 * [How does communism/socialism deal with human laziness?](http://www.reddit.com/r/communism101/comments/1g235j/how_does_communismsocialism_deal_with_human/)
 
 ## What about cooperatives?
 
 * [Can cooperatives bring about socialism?](http://www.reddit.com/r/communism101/comments/336mz4/can_cooperatives_bring_about_socialism/)
+
+## Pacifism and Violence
+
+- [What about Pacifism / pacifist socialism? Is violence necessary to acheive socialism? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/)
+- [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) , [audiobook](https://www.youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
+- [Luxemburg - Reform or Revolution](https://www.marxists.org/archive/luxemburg/1900/reform-revolution/), [audiobook](https://www.youtube.com/watch?v=YhzmaUofLS8&list=PL0-IkmzWbjoYqO_Yec4sWzPeeFXMOkPWs)
+- [Trotsky - Fascism - What it is and how to fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm), [audiobook](https://www.youtube.com/watch?v=S39lCH8PnZ8&list=PL0-IkmzWbjoa-4fIC4TbpTJgRM77It6LC)
 
 ## What would [X] be like under communism?
 
@@ -373,6 +382,7 @@
 
 - [What's going on with venezuela? Rebuttal to John Oliver's venezuela show, and overview of the situation in Venezeula](https://www.youtube.com/watch?v=_fV-C1Ag5sI).
 - [Who's crashing Venezuelas economy?](https://www.youtube.com/watch?v=YqHzDLSl8U4)
+- [What's going on with the crisis in Venezuela?](https://www.reddit.com/r/LateStageCapitalism/comments/9bbg3w/soup_line_is_not_the_same_as_bread_line/e527pcv/)
 - [Are the people in venezeula really starving?](https://monthlyreview.org/2018/06/01/the-politics-of-food-in-venezuela/)
 - [Whats going on in Venezuela?](https://www.reddit.com/r/communism101/comments/66f7u5/eli5_comrades_what_is_the_situation_in_venezuela/)
 - [Is venezuela moving towards communism?](https://www.reddit.com/r/communism101/comments/7ixh1h/the_venezuelan_situation_already_understand_most/dr35p31/)
@@ -428,9 +438,21 @@
 
 - Hidden beneath a superficial rationalism, they provide a seemingly intellectual [defense of imperialism](https://www.jacobinmag.com/2014/12/new-atheism-old-empire/), push islamophobia, and use it to create a smokescreen for the injustices of global capitalism. [2](https://www.theguardian.com/commentisfree/2013/apr/03/sam-harris-muslim-animus),[3](https://www.aljazeera.com/indepth/opinion/2013/04/20134210413618256.html)
 
+### Gandhi
+
+	- [Was Gandhi really a racist? What about Gandhi's legacy? A great lecture by Arundati Roy](https://www.youtube.com/watch?v=CrN8PgZzc6k)
+
 ### Did the atom bombs really end WW2?
 
  - [No, the entrance of the USSR into the war against Japan was the cause of Japan's surrender, which the US fully knew about since they were intercepting Japan's communications. The Atom bombing of Japanese civilians was in reality a display of military power against the USSR, and the first act of the cold war.](http://foreignpolicy.com/2013/05/30/the-bomb-didnt-beat-japan-stalin-did/)
+
+### What's wrong with Alexandria Ocasio-Cortez? 
+
+- [DSA fronting candidates through the democratic party](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party).
+- [AOC disavows socialism within her first week of media scrutiny.](https://m.youtube.com/watch?v=L8zd4L57esY)
+- [AOC supports Israel. ](https://i.imgur.com/K6QsYZo.jpg)
+- [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
+- [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
 
 ### Others
 - [What's so bad about Winston Churchill?](http://www.reddit.com/r/ShitLiberalsSay/comments/80sxhj/-/duy08zm) , [2](https://crimesofbritain.com/2016/09/13/the-trial-of-winston-churchill/)
@@ -441,6 +463,7 @@
 - [Do most US troops come from poor neighborhoods? (Yes, debunking the heritage foundation debunkers)](https://www.boiseweekly.com/boise/poor-and-uneducated-like-we-thought/Content?oid=933196)
 - [Why communists do not participate in anti-russia hysteria, pushed by the democrats.](https://www.reddit.com/r/communism/comments/90i5yp/why_the_marxist_left_is_opposed_to_and_does_not/)
 - [What about Beyonce / Black Capitalism?](https://www.independent.co.uk/news/people/beyonces-ivy-park-sportswear-line-denies-claims-its-clothes-were-produced-by-sweatshop-workers-a7035926.html)
+- [Is Christianity / the Bible Communist?](https://www.reddit.com/r/LateStageCapitalism/comments/9b7gsw/joel_osteen/e515qdb/)
 
 
 
