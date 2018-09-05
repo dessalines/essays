@@ -18,7 +18,7 @@ Our pessism or optimism is irrelevant: *we have no choice but to organize* for t
 
 ## Notes
 
-Lastly, for thosewho think that broadcasting a list like this ( potentially to our enemies ) harms the cause of anti-capitalism. Remember that: 
+Lastly, for those who think that broadcasting a list like this ( potentially to our enemies ) harms the cause of anti-capitalism. Remember that: 
 
 - All of these organizations have ( or should have ) vetting processes in place for new members.
 - These are all completely legal, *above ground* organizations. Many of them even do armed organizing where it is legal to do so.
