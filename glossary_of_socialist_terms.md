@@ -1,10 +1,11 @@
 # Glossary of Socialist Terms
 
-### Notes
+Notes: 
 
 - Try to keep each term to 3 sentences max.
 - Keep the definitions as simple as possible, ~ELI 10 years old.
 
+## Terms
 
 | Term                                                         | Definition                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -58,7 +59,11 @@
 | [Protracted Peoples War](https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism%E2%80%93Maoism#People.27s_War) | In Maoism, a strategy for achieving communism that includes winning the support of the locals(usually the peasantry) in areas away from capitalist strongholds, and waging unconventional guerrilla warfare, while building institutions of dual power to replace capitalist ones. |
 | Workers Militia                                              | An important focus of Trotskyism, where local, self-organized working-class militias, fighting for their class interests, are the primary vehicle to achieve socialism. |
 | [Accelerationism](https://en.wikipedia.org/wiki/Accelerationism) | The support for increasing the oppression of capitalism in the hope that class contradictions will reach a point that revolution will become more likely. A metaphor might be that accelerationists see our current situation as boiling a frog in water slowly, while a stark uptick in oppression will cause workers to revolt. Few communists or anarchists support it, because it harms working people, and historically increased oppression hasn't lead to increased chance of revolt. What leads to revolution is actually socialist organization efforts, and a growth in class conciousness. |
-| **Branches**                                                 |                                                              |
+
+## Branches
+
+| Branch                                                         | Description                                                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Marxism](https://en.wikipedia.org/wiki/Marxism)             | A socialist tradition created by Karl Marx and Frederick Engels, that places emphasis on the means of production, your relation to them, and the inherent class struggle involved between those who control production, and those who don't. |
 | [Leninism](https://en.wikipedia.org/wiki/Leninism)           | A branch of Marxism developed by Vladimir Lenin and the Bolsheviks drawn from their experiences in early 20th century Russia. Important concepts include vanguardism, dictatorship of the proletariat (and how to transition to communism), dual power, the right of nations to self-determination, imperialism, and democratic centralism. The goal of Leninism is the development of a worker state capable of withstanding capitalist encirclement(often called siege socialism), in order to protect and continue the transition to communism, as well as aid other anti-imperialist nations. |
 | [Marxism-Leninism (ML)](https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism) | A term created by Joseph Stalin to refer to the ideology of the USSR, generally synonymous with Leninism. |
