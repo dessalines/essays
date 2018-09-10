@@ -14,9 +14,9 @@ Anti-Capitalist organization always has, and always will be, our only hope, and 
 
 Our task is the same as it always has been: to **agitate, educate, organize, and join leftist organizations in our cities.**
 
-Our pessism or optimism is irrelevant: *we have no choice but to organize* for the overthrow of Capitalism; anything less results in a [destruction of the environment and our lives.](https://pics.onsizzle.com/in-this-hour-socialism-is-the-only-salvation-for-humanity-12219484.png) We have no time to waste, capitalists prefer our pacification and death, to our organized resistance. [The police state is here](https://github.com/dessalines/essays/blob/master/us_atrocities.md#pervasive), and no amount of [pacifist resistance](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) will threaten it. 
+Our pessimism or optimism is irrelevant: *we have no choice but to organize* for the overthrow of Capitalism; anything less results in a [destruction of the environment and our lives.](https://pics.onsizzle.com/in-this-hour-socialism-is-the-only-salvation-for-humanity-12219484.png) We have no time to waste, capitalists prefer our pacification and death, to our organized resistance. [The police state is here](https://github.com/dessalines/essays/blob/master/us_atrocities.md#pervasive), and no amount of [pacifist resistance](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) will threaten it. 
 
-## Notes
+### Notes
 
 Lastly, for those who think that broadcasting a list like this ( potentially to our enemies ) harms the cause of anti-capitalism. Note that: 
 
