@@ -364,13 +364,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ## Parties / Groups
 
-- [Industrial Workers of the World (IWW)](https://iww.org/)
-- [Redneck Revolt / John Brown Gun Club](https://www.redneckrevolt.org/about)
-- [Huey P Newton Gun Club](https://hueypnewtongunclub.org/)
-- [Socialist Alternative (SA)](http://www.socialistalternative.org/)
-- [Committee for a Workers' International (CWI)](http://www.socialistworld.net/)
-- [Party for Socialism and Liberation (PSL)](http://www.pslweb.org/)
-- [Democratic Socialists of America (DSA)](https://www.dsausa.org/)
+- [List of Anticapitalist Organizations](https://github.com/dessalines/essays/blob/master/anticapitalist_orgs.md#organizations)
 
 ## Online Communities
 
