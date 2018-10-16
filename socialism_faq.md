@@ -69,6 +69,7 @@
 - [What about the authoritarian leaders like Lenin, Stalin, Mao, Pol Pot, etc?](https://www.reddit.com/r/LateStageCapitalism/comments/8xl4bi/stay_angry_comrades/e24fuqs/)
 - [Why did the Soviet Union fail?](http://www.reddit.com/r/communism101/comments/1zrroq/why_did_the_soviet_union_fail/)
 - [What about the gulags?](https://www.reddit.com/r/communism101/comments/9bem2d/what_were_the_gulags_according_to_self_identified/e52ls2e/)
+- [Didn't the USSR kill millions of it citizens, with most people living in poverty and dying early?](https://en.wikipedia.org/wiki/Demographics_of_the_Soviet_Union#Life_expectancy_and_infant_mortality)
 
 ## But what about human nature?
 
@@ -87,14 +88,14 @@
 * [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 * [Looking for reference to types of communism.](http://www.reddit.com/r/communism101/comments/1fcc6o/looking_for_reference_to_types_of_communism/)
 * [What was Engels Contribution to Marxism?](https://necessityandfreedom.wordpress.com/2017/04/16/without-engels-there-would-be-no-marxism/)
+* [Were the nazis socialist? What about national socialism, the national socialist movement (NSM), and the national front?](https://www.snopes.com/news/2017/09/05/were-nazis-socialists/), [2](https://www.reddit.com/r/Socialism_101/comments/79kvin/what_is_the_difference_between_socialists_here/), [3](https://www.reddit.com/r/ShitLiberalsSay/wiki/index#wiki_the_nazis_were_socialists.2C_communists_or_leftists)
+* [What is Fascism?](http://www.nybooks.com/articles/1995/06/22/ur-fascism/)
 
 ## Socialism vs. communism
 
 * [Did Karl Marx use "socialism" and "communism" interchangeably?](http://www.reddit.com/r/communism101/comments/2msa39/did_karl_marx_use_socialism_and_communism/)
 * [Is the revolutionary DotP a separate material stage apart from lower phased communism?](http://www.reddit.com/r/communism101/comments/2mrkkj/is_the_revolutionary_dotp_a_separate_material/)
 * [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](https://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_stage_of_communism_or_is/)
-* [Were the nazis socialist? What about national socialism, the national socialist movement (NSM), and the national front?](https://www.snopes.com/news/2017/09/05/were-nazis-socialists/), [2](https://www.reddit.com/r/Socialism_101/comments/79kvin/what_is_the_difference_between_socialists_here/)
-* [What is Fascism?](http://www.nybooks.com/articles/1995/06/22/ur-fascism/)
 
 ## Did the planned economies work?
 
@@ -138,6 +139,8 @@
 * [How would a communist economy really function in practice?](http://www.reddit.com/r/communism101/comments/1g279l/how_would_a_communist_economy_really_function_in/)
 * [How does communism deal with niches?](http://www.reddit.com/r/communism101/comments/27o04e/how_does_communism_deal_with_niches/)
 * [How would residentials be fairly distributed under full communism?](http://www.reddit.com/r/communism101/comments/2hnmxx/how_would_residentials_be_fairly_distributed/)
+* [How do police / cops differ in socialism?](https://www.reddit.com/r/DebateCommunism/comments/9hsoll/suppose_police_all_go_away_tomorrow_and_are/e6eguff/)
+* [What if some people don't wanna be communist?](https://www.reddit.com/r/DebateCommunism/comments/9mtnyt/what_if_some_people_dont_wanna_be_communist/e7hc63u/)
 
 ## On Economics and Sociology
 
@@ -412,7 +415,8 @@
 ### Whats so bad about Bill Gates?
 
 - [He's a philanthro-capitalist imperialist: using the bill and melinda gates foundation charity as a bargaining chip to work in the interests of billionaire elites. This impoverishes poorer countries, undermining their democracy and independence by making them fully dependent on US aid.](https://www.liberationnews.org/real-agenda-gates-foundation/)
-- [Controversial Gates foundation vaccination testing (discovered to be for pharmaceutical companies Merck and Pfizer) kills 5 girls in India, leads to public outrage.](https://m.economictimes.com/industry/healthcare/biotech/healthcare/controversial-vaccine-studies-why-is-bill-melinda-gates-foundation-under-fire-from-critics-in-india/amp_articleshow/41280050.cms)
+- [The gates foundation helps big pharma find new markets for drugs deemed unfit for westerners, selling them in the global south. This includes harmful drugs such as Gardasil, Norplant, Cervarix. A South African newspaper declared: “We are guinea pigs for the drugmakers.”](https://www.liberationnews.org/real-agenda-gates-foundation/)
+- [Gates foundation does human testing in countries without expensive regulatory bodies for pharmaceutical companies such as Merck and Pfizer. One such mass test of a harmful HPV vaccine on 23,000 girls in india kills 7 girls, sterilizes hundreds more, and leads to public outrage.](https://m.economictimes.com/industry/healthcare/biotech/healthcare/controversial-vaccine-studies-why-is-bill-melinda-gates-foundation-under-fire-from-critics-in-india/amp_articleshow/41280050.cms)
 - [Citations Needed - The Not-So-Benevolent Billionaire - Bill Gates and Western Media.](https://soundcloud.com/citationsneeded/episode-45-the-not-so-benevolent-billionaire-bill-gates-and-western-media)
 - [Post from a web developer about Microsoft's bullshit in the 1990s.](https://www.reddit.com/r/ragecomics/comments/11c1t1/internet_explorer_rfunny_said_i_should_post_it/c6lbhu2/)
 - [Microsoft crimes masterpost.](https://github.com/dessalines/essays/blob/master/microsoft.md)
@@ -436,8 +440,9 @@
 ### John McCain
 
 - [War Criminal, who pushed for US intervention in Syria, Libya, Serbia, Iran, Iraq, Afghanistan, and Vietnam.](https://www.counterpunch.org/2018/08/29/john-mccain-war-criminal-not-war-hero/) 
-- Voted against Martin Luther King day, and women's reproducgive rights for his entire political career.
+- Voted against Martin Luther King day, and women's reproductive rights for his entire political career.
 - [Despite giving lip-service to progressive causes, never actually voted for any of them. The "maverick" label was a false construct.](https://theintercept.com/2017/07/27/john-mccain-fake-maverick-horrible-record/)
+- [Imperialism 2](https://www.cpgb-ml.org/2018/10/15/news/john-mccain-a-life-in-the-service-of-blood-soaked-imperialism/)
 
 ### What about the new atheists? (Sam Harris, Richard Dawkins, Christopher Hitchens)
 
@@ -445,7 +450,7 @@
 
 ### Gandhi
 
-	- [Was Gandhi really a racist? What about Gandhi's legacy? A great lecture by Arundati Roy](https://www.youtube.com/watch?v=CrN8PgZzc6k)
+- [Was Gandhi really a racist? What about Gandhi's legacy? A great lecture by Arundati Roy](https://www.youtube.com/watch?v=CrN8PgZzc6k)
 
 ### Did the atom bombs really end WW2?
 
