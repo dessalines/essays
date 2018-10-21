@@ -354,6 +354,8 @@
 
 ## On the DPRK
 
+- [Is north korea a totalitarian dictatorship? Are they all really required to get the same haircut? A short documentary.](https://www.youtube.com/watch?v=2BO83Ig-E8E)
+- [Are north korean defectors really paid to lie by the south? A short documentary.](https://www.youtube.com/watch?v=ktE_3PrJZO0&feature=youtu.be)
 - [Why do some communists support the DPRK?](http://www.reddit.com/r/communism101/comments/1ypwmd/why_do_some_communists_support_the_dprk/)
 - [What exactly is Juche?](http://www.reddit.com/r/communism101/comments/1y172i/what_exactly_is_juche/)
 - [Is the DPRK socialist?](http://www.reddit.com/r/communism101/comments/1ygskq/is_the_dprk_socialist/)
@@ -414,11 +416,16 @@
 
 ### Whats so bad about Bill Gates?
 
-- [He's a philanthro-capitalist imperialist: using the bill and melinda gates foundation charity as a bargaining chip to work in the interests of billionaire elites. This impoverishes poorer countries, undermining their democracy and independence by making them fully dependent on US aid.](https://www.liberationnews.org/real-agenda-gates-foundation/)
-- [The gates foundation helps big pharma find new markets for drugs deemed unfit for westerners, selling them in the global south. This includes harmful drugs such as Gardasil, Norplant, Cervarix. A South African newspaper declared: “We are guinea pigs for the drugmakers.”](https://www.liberationnews.org/real-agenda-gates-foundation/)
-- [Gates foundation does human testing in countries without expensive regulatory bodies for pharmaceutical companies such as Merck and Pfizer. One such mass test of a harmful HPV vaccine on 23,000 girls in india kills 7 girls, sterilizes hundreds more, and leads to public outrage.](https://m.economictimes.com/industry/healthcare/biotech/healthcare/controversial-vaccine-studies-why-is-bill-melinda-gates-foundation-under-fire-from-critics-in-india/amp_articleshow/41280050.cms)
+- [He's a philanthro-capitalist imperialist: using the bill and melinda gates foundation charity as a bargaining chip to work in the interests of billionaire elites.](https://www.liberationnews.org/real-agenda-gates-foundation/) [Youtube Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZsjovp13f1xCA-4ewzOdqd) 
+  - The Gates foundation tests pharmaceutical products on humans for profit, usually in poorer countries without regulatory bodies. [One such mass test, on behalf of Merck and Pfizer, of a harmful HPV vaccine on 23,000 girls in india kills 7 girls, sterilizes hundreds more, and leads to public outrage.](https://m.economictimes.com/industry/healthcare/biotech/healthcare/controversial-vaccine-studies-why-is-bill-melinda-gates-foundation-under-fire-from-critics-in-india/amp_articleshow/41280050.cms) 
+  - The Gates foundation helps big pharma find new markets for drugs deemed unfit for westerners, selling them in the global south. This includes harmful drugs such as Gardasil, Norplant, Cervarix. A South African newspaper declared: “We are guinea pigs for the drugmakers.” In the case of Gardasil, the drug-pushing was cloaked in the language of environmentalism, popular empowerment, and feminism. Melinda Gates evoked “choice” in support of her family 
+    planning initiatives, but in reality was not poor women, but a handful of the world’s wealthiest people who have presumed to choose which methods of contraception will be delivered, and to whom.
+  - Philanthro-capitalism undermines local communities, dismantling their democracy and autonomy in health care, by making them fully dependent on US billionaires, who are completely unnaccountable.
+  - Philanthrocapitalists are currently rushing to take power in a system of global health and population control. Bill Gates warned of “huge population growth in *places where we don’t want it*, like Yemen and Pakistan and parts of Africa.”, echoing  overpopulation fears that have inspired eugenicists since the time of Malthus. Population control is a form of social control, directly targeting the bodies and dignity of poor people, conditioning them to believe that life’s most intimate decisions are outside of their competence and control. 
+  - Elite charitable funds are a legal means of **tax avoidance**. Under US law, investments in charitable foundations 
+    are tax-free; moreover, investors are not required to sell their stock positions and may continue to vote their shares without restriction. By sheltering foundations, the US Treasury effectively co-finances the activities of Gates foundation and its investors.
 - [Citations Needed - The Not-So-Benevolent Billionaire - Bill Gates and Western Media.](https://soundcloud.com/citationsneeded/episode-45-the-not-so-benevolent-billionaire-bill-gates-and-western-media)
-- [Post from a web developer about Microsoft's bullshit in the 1990s.](https://www.reddit.com/r/ragecomics/comments/11c1t1/internet_explorer_rfunny_said_i_should_post_it/c6lbhu2/)
+- [Post from a web developer about Microsoft's monopoly practices in the 1990s.](https://www.reddit.com/r/ragecomics/comments/11c1t1/internet_explorer_rfunny_said_i_should_post_it/c6lbhu2/)
 - [Microsoft crimes masterpost.](https://github.com/dessalines/essays/blob/master/microsoft.md)
 - [His charities promote corporate interests above health care](http://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf).
 - [Book about the golden handcuffs of the philanthro-capitalism of Bill Gates.](https://www.versobooks.com/books/2344-no-such-thing-as-a-free-gift)
@@ -459,7 +466,7 @@
 ### What's wrong with Alexandria Ocasio-Cortez? 
 
 - [DSA fronting candidates through the democratic party](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party).
-- [AOC disavows socialism within her first week of media scrutiny.](https://m.youtube.com/watch?v=L8zd4L57esY)
+- [AOC asks all supporters to vote for democrats, including andrew cuomo.](https://youtu.be/iaLpyJI0ltg?t=647)
 - [AOC supports Israel. ](https://i.imgur.com/K6QsYZo.jpg)
 - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
 - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
