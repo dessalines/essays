@@ -5,21 +5,21 @@
 ### Mash
 
 - [Go here](https://www.morebeer.com/content/sparge_water_calculator) to calculate total water, mash water, sparge water, strike temperature, and pre-boil wort.
-  - Mash water should usually be around 3.38 Gallons at 164 deg
+  - Mash water should usually be around 3.38 Gallons at 164 deg.
   - Sparge water should be around 5.16 Gallons at 170-180 deg.
-- Heat ~ 6 gallons of water to mash temp. 
-- Use 1.5 to heat up mash tun. Leave in for 10 minutes, then pour out. 
+- Heat ~ 6 gallons of water to mash temp.
+- Use 1.5 galllons to heat up mash tun. Leave in for 10 minutes, then pour out.
 - Line Mash tun with clothing bag liner.
-- Pour in mash water from kettle to mash tun using big cup. 
-- Pour in grains, stir. 
-- Put on lid. 
+- Pour in mash water from kettle to mash tun using big cup.
+- Pour in grains, stir.
+- Put on lid, cover in blanket / beach towel.
 - Leave for 1 hour.
 - Meanwhile, fill up kettle again and bring your sparge water up to 170-180 deg.
 - Pour this out into other containers (your kettle is now your brew kettle and should be empty)
-- Start draining mash tun (recirculate until its clear). 
+- Start draining mash tun (recirculate until its clear).
 - Drain into kettle until empty.
-- Once it gets low, your sparge water. Recirculate every time. Repeat until all sparge water is used. 
-- Save 1 qt of this into a container for a yeast starter. 
+- Once it gets low, your sparge water. Recirculate every time. Repeat until all sparge water is used.
+- Save 1 qt of this into a container for a yeast starter.
 - Take sample from kettle, chill in fridge, and measure the specific gravity, should be around 1.040.
 
 ### Boil
