@@ -54,6 +54,7 @@
     + [What about the new atheists? (Sam Harris, Richard Dawkins, Christopher Hitchens)](#what-about-the-new-atheists-sam-harris-richard-dawkins-christopher-hitchens)
     + [Gandhi](#gandhi)
     + [Did the atom bombs really end WW2?](#did-the-atom-bombs-really-end-ww2)
+    + [What's wrong with Bernie Sanders?](#whats-wrong-with-bernie-sanders)
     + [What's wrong with Alexandria Ocasio-Cortez?](#whats-wrong-with-alexandria-ocasio-cortez)
     + [Others](#others)
 
@@ -394,6 +395,7 @@
 
 - [What's going on with venezuela? Rebuttal to John Oliver's venezuela show, and overview of the situation in Venezeula](https://www.youtube.com/watch?v=_fV-C1Ag5sI).
 - [Who's crashing Venezuelas economy?](https://www.youtube.com/watch?v=YqHzDLSl8U4)
+- [Capitalist sabotage in Venezuela](https://www.youtube.com/watch?v=rk1qlKu_RJo).
 - [What's going on with the crisis in Venezuela?](https://www.reddit.com/r/LateStageCapitalism/comments/9bbg3w/soup_line_is_not_the_same_as_bread_line/e527pcv/)
 - [Are the people in venezeula really starving?](https://monthlyreview.org/2018/06/01/the-politics-of-food-in-venezuela/)
 - [Whats going on in Venezuela?](https://www.reddit.com/r/communism101/comments/66f7u5/eli5_comrades_what_is_the_situation_in_venezuela/)
@@ -460,10 +462,27 @@
 ### Gandhi
 
 - [Was Gandhi really a racist? What about Gandhi's legacy? A great lecture by Arundati Roy](https://www.youtube.com/watch?v=CrN8PgZzc6k)
+- [Gandhi - The jews should've killed themselves instead.](https://izquotes.com/quote/mahatma-gandhi/hitler-killed-five-million-jews-it-is-the-greatest-crime-of-our-time-but-the-jews-should-have-231149)
 
 ### Did the atom bombs really end WW2?
 
  - [No, the entrance of the USSR into the war against Japan was the cause of Japan's surrender, which the US fully knew about since they were intercepting Japan's communications. The Atom bombing of Japanese civilians was in reality a display of military power against the USSR, and the first act of the cold war.](http://foreignpolicy.com/2013/05/30/the-bomb-didnt-beat-japan-stalin-did/)
+
+### What's wrong with Bernie Sanders?
+
+- [Supports US imperialism](https://www.alternet.org/election-2016/bernie-sanders-troubling-history-supporting-us-military-violence-abroad). [2](https://leftistcritic.wordpress.com/2017/01/31/bernie-sanders-an-imperialist-worth-despising/)
+  - [Voted for troops to be deployed to somalia](http://votesmart.org/bill/2732/7934/27110/bernie-sanders-voted-yea-passage-with-amendment-s-j-res-45-authorization-for-use-of-%20us-armed-forces-in-somalia#7934)
+  - [Supported the US invasion and bombing of Yugoslavia.](http://www.libertyunionparty.org/?page_id=363)
+  - Voted for $1 Billion in aid to Ukraine's right wing government
+  - Staunchly supports Israel in their displacement of Palestineans (while blaming hamas for the conflict). 
+  - [Voted to use ground troops in Bosnia](http://votesmart.org/bill/2808/7948/27110/bosnia-troop-deployment-resolution#.Ve5QZkvJyhG).
+  - [Warmongers on the Bill O'Reilley show for the US to intervene against Russia, Syria, and China.](https://www.youtube.com/watch?v=EO4Ko-v-q0g&feature=youtu.be&t=2m12s)
+  - [On the question of the use of drones to strike suspected terrorist targets, Sanders said he believed drone attacks had, at times, been effective.](https://abcnews.go.com/Politics/bernie-sanders-people-responding-message/story?id=33413601)
+  - [Supports GW Bush](https://i.imgur.com/tHN9DzG.png). [Supported warmonger John McCain after his death.](https://i.imgur.com/R3cAhdC.jpg)
+- [Thanked Jeff Bezos for deigning to raise amazon wages](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqM9uBoBvLLw/v1/600x-1.jpg), Bezos [responds with "you're welcome"](https://pbs.twimg.com/media/DohNI5GUUAAin6q.jpg). 
+- [Bernie is against open borders](https://www.youtube.com/watch?v=vf-k6qOfXz0), believes in strong border and anti-immigration policies. [2](https://i.imgur.com/WcQ8bNQ.jpg)
+- [Shills for democrats, campaigned for Hillary Clinton.](https://www.newyorker.com/news/amy-davidson/bernie-sanderss-hard-fight-for-hillary-clinton)
+- [Believes that Russians are to blame for the failure of US democracy. "Protecting american democracy from foreign invasion."](https://i.imgur.com/GkSXsZY.jpg)
 
 ### What's wrong with Alexandria Ocasio-Cortez? 
 
