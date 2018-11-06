@@ -414,6 +414,7 @@
 - [Uses public money to fund private ventures, costing taxpayers $4.9B.](http://www.detroitnews.com/story/opinion/2016/05/09/elon-musk-tesla-crony/84169496/)
 - [Attracts new investors by hyping failed projects, leading many financial investigators to consider Tesla a ponzi scheme.](https://www.zerohedge.com/news/2018-07-05/why-tesla-executives-are-fleeing)
 - [Wants to privatize space travel, leaving colonization and exploration to to the richest few.](https://www.salon.com/2017/10/08/against-mars-a-lago-why-spacexs-mars-colonization-plan-should-terrify-you/)
+- [Elon fires Tesla worker for testing positive for THC, then goes on the Joe Rogan show and smokes weed himself. In reality the worker was fired for her union organizing and supporting the United Autoworkers Union.](https://thehill.com/policy/technology/405711-ex-tesla-employee-fired-for-failing-drug-test-musk-smoking-like-a-slap-in)
 - [Fired his assistance of 12 years for asking for a raise. Divorced his wife after telling her that his life "operated quite smoothly" in her absence.](https://jalopnik.com/elon-musk-is-a-jerk-that-once-fired-his-assistant-of-12-1797699824)
 - [Rocket jesus broken promises #1.](https://www.reddit.com/r/EnoughMuskSpam/comments/73eh4m/tracking_elon_musks_visions_promises_and/)
 - [Rocket jesus broken promises #2.](https://www.reddit.com/r/EnoughMuskSpam/comments/7spkqa/happy_2018_everybody_lets_take_a_moment_to_recall/)
@@ -471,9 +472,9 @@
 ### What's wrong with Bernie Sanders?
 
 - [Supports US imperialism](https://www.alternet.org/election-2016/bernie-sanders-troubling-history-supporting-us-military-violence-abroad). [2](https://leftistcritic.wordpress.com/2017/01/31/bernie-sanders-an-imperialist-worth-despising/)
-  - [Voted for troops to be deployed to somalia](http://votesmart.org/bill/2732/7934/27110/bernie-sanders-voted-yea-passage-with-amendment-s-j-res-45-authorization-for-use-of-%20us-armed-forces-in-somalia#7934)
+  - [Voted for troops to be deployed to somalia.](http://votesmart.org/bill/2732/7934/27110/bernie-sanders-voted-yea-passage-with-amendment-s-j-res-45-authorization-for-use-of-%20us-armed-forces-in-somalia#7934)
   - [Supported the US invasion and bombing of Yugoslavia.](http://www.libertyunionparty.org/?page_id=363)
-  - Voted for $1 Billion in aid to Ukraine's right wing government
+  - Voted for $1 Billion in aid to Ukraine's right wing government.
   - Staunchly supports Israel in their displacement of Palestineans (while blaming hamas for the conflict). 
   - [Voted to use ground troops in Bosnia](http://votesmart.org/bill/2808/7948/27110/bosnia-troop-deployment-resolution#.Ve5QZkvJyhG).
   - [Warmongers on the Bill O'Reilley show for the US to intervene against Russia, Syria, and China.](https://www.youtube.com/watch?v=EO4Ko-v-q0g&feature=youtu.be&t=2m12s)
