@@ -486,10 +486,10 @@
 
 ### What's wrong with Alexandria Ocasio-Cortez? 
 
-- [DSA fronting candidates through the democratic party](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party).
-- [AOC asks all supporters to vote for democrats, including andrew cuomo.](https://youtu.be/iaLpyJI0ltg?t=647)
-- [AOC supports Israel. ](https://i.imgur.com/K6QsYZo.jpg)
-- [Says her policies are more reminiscent of Norway than Caracas, repeating the right wing myth of socialism destroying Venezuela, and wrongly conflating nordic social democracy with socialism. ](https://i.imgur.com/fTJfV2k.png)
+- [She's a social democrat, not a socialist, fronting for the Democratic party.](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party).
+  - [AOC asks all supporters to vote for democrats, including Andrew Cuomo.](https://youtu.be/iaLpyJI0ltg?t=647)
+- [She supports Israel, and its genocide of Palestineans. ](https://i.imgur.com/K6QsYZo.jpg)
+- [Says her policies are more reminiscent of Norway than Caracas, repeating the right wing myth of socialism destroying Venezuela, and wrongly conflating nordic social democracy with socialism.](https://i.imgur.com/fTJfV2k.png)
 - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
 - [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
 - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
