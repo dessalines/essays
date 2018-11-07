@@ -445,16 +445,14 @@
   - [Stephen Spender](https://en.wikipedia.org/wiki/Stephen_Spender)  - "Sentimental sympathiser... Tendency towards homosexuality" 
   - [Hugh MacDiarmid](https://en.wikipedia.org/wiki/Hugh_MacDiarmid), poet and Scottish nationalist.
   - [George Padmore](https://en.wikipedia.org/wiki/George_Padmore), Trinidadian journalist and anti-imperialist campaigner.
-- His books Animal Farm and 1984 are used widely as anti-communist propaganda in schools in the US and UK.  
-- [His animated animal farm film was funded by the CIA.](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/)
+- His books Animal Farm and 1984 are used widely as anti-communist propaganda in schools in the US and UK. So much so that [his animated animal farm film was funded by the CIA.](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/)
 - [A reddit thread on George Orwell](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/), [Thread #2](https://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/for_those_on_the_right_who_think_orwell_wrote/dpy4zik/).
 
 ### John McCain
 
-- [War Criminal, who pushed for US intervention in Syria, Libya, Serbia, Iran, Iraq, Afghanistan, and Vietnam.](https://www.counterpunch.org/2018/08/29/john-mccain-war-criminal-not-war-hero/) 
-- Voted against Martin Luther King day, and women's reproductive rights for his entire political career.
+- [War Criminal, who pushed for US military intervention in Syria, Libya, Serbia, Iran, Iraq, Afghanistan, and Vietnam.](https://www.counterpunch.org/2018/08/29/john-mccain-war-criminal-not-war-hero/) [Imperialism 2](https://www.cpgb-ml.org/2018/10/15/news/john-mccain-a-life-in-the-service-of-blood-soaked-imperialism/).
 - [Despite giving lip-service to progressive causes, never actually voted for any of them. The "maverick" label was a false construct.](https://theintercept.com/2017/07/27/john-mccain-fake-maverick-horrible-record/)
-- [Imperialism 2](https://www.cpgb-ml.org/2018/10/15/news/john-mccain-a-life-in-the-service-of-blood-soaked-imperialism/)
+- Voted against Martin Luther King day, and women's reproductive rights for his entire political career.
 
 ### What about the new atheists? (Sam Harris, Richard Dawkins, Christopher Hitchens)
 
@@ -462,8 +460,9 @@
 
 ### Gandhi
 
-- [Was Gandhi really a racist? What about Gandhi's legacy? A great lecture by Arundati Roy](https://www.youtube.com/watch?v=CrN8PgZzc6k)
+- [Was Gandhi really a racist? What about Gandhi's legacy? A great lecture by Arundati Roy.](https://www.youtube.com/watch?v=CrN8PgZzc6k)
 - [Gandhi - The jews should've killed themselves instead.](https://izquotes.com/quote/mahatma-gandhi/hitler-killed-five-million-jews-it-is-the-greatest-crime-of-our-time-but-the-jews-should-have-231149)
+- [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 
 ### Did the atom bombs really end WW2?
 
@@ -490,7 +489,9 @@
 - [DSA fronting candidates through the democratic party](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party).
 - [AOC asks all supporters to vote for democrats, including andrew cuomo.](https://youtu.be/iaLpyJI0ltg?t=647)
 - [AOC supports Israel. ](https://i.imgur.com/K6QsYZo.jpg)
+- [Says her policies are more reminiscent of Norway than Caracas, repeating the right wing myth of socialism destroying Venezuela, and wrongly conflating nordic social democracy with socialism. ](https://i.imgur.com/fTJfV2k.png)
 - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
+- [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
 - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
 
 ### Others
