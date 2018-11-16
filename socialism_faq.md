@@ -121,7 +121,7 @@
 
 ## Pacifism and Violence
 
-- [What about Pacifism / pacifist socialism? Is violence necessary to acheive socialism? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/)
+- [What about Pacifism / pacifist socialism? Is violence necessary to acheive socialism? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) [audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 - [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) , [audiobook](https://www.youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
 - [Luxemburg - Reform or Revolution](https://www.marxists.org/archive/luxemburg/1900/reform-revolution/), [audiobook](https://www.youtube.com/watch?v=YhzmaUofLS8&list=PL0-IkmzWbjoYqO_Yec4sWzPeeFXMOkPWs)
 - [Trotsky - Fascism - What it is and how to fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm), [audiobook](https://www.youtube.com/watch?v=S39lCH8PnZ8&list=PL0-IkmzWbjoa-4fIC4TbpTJgRM77It6LC)
@@ -146,7 +146,8 @@
 
 ## On Economics and Sociology
 
-- [Can someone ELI 5 the Labor Theory of Value](http://www.reddit.com/r/communism101/comments/2otlcz/can_someone_eli_5_the_labor_theory_of_value/)
+- [Can someone ELI 5 the Labor Theory of Value?](http://www.reddit.com/r/communism101/comments/2otlcz/can_someone_eli_5_the_labor_theory_of_value/)
+- [Is the Labor theory of value (LTV) scientifically correct? What about academic economists and the subjective theory of value (STV)?](https://www.reddit.com/r/DebateCommunism/comments/9xo7l7/questions_about_ltv_and_stv/e9ts0k1/)
 - [Is human labor the source of value because human beings do not normally work for free?](http://www.reddit.com/r/communism101/comments/1hjpgk/is_human_labor_the_source_of_value_because_human/)
 - [Value as a necessary product of labor?](http://www.reddit.com/r/communism101/comments/2ufx5a/value_as_a_necessary_product_of_labor/)
 - [What is the right way to think about the relation between value and labor?](http://www.reddit.com/r/communism101/comments/1d3jy2/what_is_the_right_way_to_think_about_the_relation/)

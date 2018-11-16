@@ -286,7 +286,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ### Marxian economics
 
-- [Cockshott and Cottrell - Towards a New Socialism (pdf)](http://ricardo.ecn.wfu.edu/%7Ecottrell/socialism_book/new_socialism.pdf) [epub](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/TNS.epub)
+- [Cockshott and Cottrell - Towards a New Socialism (pdf)](http://ricardo.ecn.wfu.edu/%7Ecottrell/socialism_book/new_socialism.pdf) [epub](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/TNS.epub) [audiobook](https://www.youtube.com/watch?v=yjHCPWs5sl4&list=PL0-IkmzWbjoZNiItBbuVvKQBdE80tsyhx)
 
 ### History books
 
@@ -295,6 +295,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [John Reid - The Ten Days that Shook the World](https://www.marxists.org/archive/reed/1919/10days/10days/)
 - [Huey P. Newton - Revolutionary Suicide](https://www.amazon.com/Revolutionary-Suicide-Penguin-Classics-Deluxe/dp/0143105329)
 - [Eduardo Galeano - Open Veins of Latin America](https://www.amazon.com/Open-Veins-Latin-America-Centuries/dp/0853459916/ref=sr_1_1?ie=UTF8&qid=1485894404&sr=8-1&keywords=open+veins+of+latin+america)
+- [Fidel Castro - My Life](https://en.wikipedia.org/wiki/My_Life_(Fidel_Castro_autobiography))
 - [George Orwell - Homage to Catalonia](https://en.wikipedia.org/wiki/Homage_to_Catalonia)
 - [Trotsky - History of the Russian Revolution](https://www.marxists.org/archive/trotsky/1930/hrr/)
 - [Joshua Bloom - Black Against Empire](https://www.amazon.com/Black-against-Empire-Politics-Foundation/dp/0520293282/ref=sr_1_1?ie=UTF8&qid=1485894343&sr=8-1&keywords=black+against+empire)
@@ -307,8 +308,8 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ## Audiobooks
 
-- [Dessalines Youtube Channel w/ Audiobooks](https://www.youtube.com/channel/UC7HJWIFGGeMiJi2h3k18CrQ)
 - [Dessalines List of Audiobooks](https://github.com/dessalines/essays/blob/master/audiobooks.md)
+- [Dessalines Youtube Channel w/ Audiobooks](https://www.youtube.com/channel/UC7HJWIFGGeMiJi2h3k18CrQ)
 
 ## Films
 
