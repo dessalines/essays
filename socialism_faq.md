@@ -10,10 +10,10 @@
 
 - [Socialism FAQ](#socialism-faq)
   * [Didn't communism fail? It works in theory but not in practice.](#didnt-communism-fail-it-works-in-theory-but-not-in-practice)
-  * [But what about human nature?](#but-what-about-human-nature)
+  * [What about human nature?](#what-about-human-nature)
   * [Schools of thought](#schools-of-thought)
   * [Socialism vs. communism](#socialism-vs-communism)
-  * [Did the planned economies work?](#did-the-planned-economies-work)
+  * [Did economic planning work?](#did-economic-planning-work)
   * [Who would sweep the floors under communism?](#who-would-sweep-the-floors-under-communism)
   * [What about cooperatives?](#what-about-cooperatives)
   * [Pacifism and Violence](#pacifism-and-violence)
@@ -72,8 +72,9 @@
 - [What about the gulags?](https://www.reddit.com/r/communism101/comments/9bem2d/what_were_the_gulags_according_to_self_identified/e52ls2e/)
 - [Didn't the USSR kill millions of it citizens, with most people living in poverty and dying early?](https://en.wikipedia.org/wiki/Demographics_of_the_Soviet_Union#Life_expectancy_and_infant_mortality)
 - [What about Stalin, the purges, the holodomor, etc? A revleft podcast.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
+- [Why are there no modern revolutions, in the past 40 years?](https://www.reddit.com/r/communism101/comments/9y34ea/why_are_there_no_revolutions/)
 
-## But what about human nature?
+## What about human nature?
 
 - [History and human nature.](https://github.com/dessalines/essays/blob/master/crash_course_socialism.md#history-and-human-nature)
 - [What about human nature?](http://www.reddit.com/r/communism101/comments/2yk3xl/what_about_human_nature_answer_but_add_yours_too/)
@@ -99,12 +100,12 @@
 * [Is the revolutionary DotP a separate material stage apart from lower phased communism?](http://www.reddit.com/r/communism101/comments/2mrkkj/is_the_revolutionary_dotp_a_separate_material/)
 * [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](https://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_stage_of_communism_or_is/)
 
-## Did the planned economies work?
+## Did economic planning work?
 
-- [Did Socialism work, in the USSR?](https://www.reddit.com/r/socialism/comments/86tqdd/but_socialism_doesnt_work_s/dw7qco0/)
-- [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work)
+- [Did Socialism work, in the USSR?](https://github.com/dessalines/essays/blob/master/capitalism_doesnt_work.md)
+- [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work) [audiobook](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
 - [My economics teacher said that the planned economies communist countries had are proven failures. Is this true?](https://www.reddit.com/r/communism101/comments/3e68nf/my_economics_teacher_said_that_the_planned/)
-- [Towards a new socialism - Cockshott and Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/)
+- [Towards a new socialism - Cockshott and Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/) [audiobook](https://www.youtube.com/watch?v=yjHCPWs5sl4&list=PL0-IkmzWbjoZNiItBbuVvKQBdE80tsyhx)
 - [Why are communists against markets?](https://github.com/dessalines/essays/blob/master/market_socialism.md)
 
 ## Who would sweep the floors under communism?
@@ -151,6 +152,7 @@
 - [Is human labor the source of value because human beings do not normally work for free?](http://www.reddit.com/r/communism101/comments/1hjpgk/is_human_labor_the_source_of_value_because_human/)
 - [Value as a necessary product of labor?](http://www.reddit.com/r/communism101/comments/2ufx5a/value_as_a_necessary_product_of_labor/)
 - [What is the right way to think about the relation between value and labor?](http://www.reddit.com/r/communism101/comments/1d3jy2/what_is_the_right_way_to_think_about_the_relation/)
+- [Whats so bad about land ownership / renting / private property? Why do socialists want to abolish it? Don't landowners do work?](https://www.reddit.com/r/CapitalismVSocialism/comments/7r0t5a/how_landlords_create_value/dsu99td/)
 - [I am in trouble understanding how exactly would a private property abolition work.](http://www.reddit.com/r/communism101/comments/1su2je/i_am_in_trouble_understanding_how_exactly_would_a/)
 - [Private property: Cause or result of alienation?](http://www.reddit.com/r/communism101/comments/1c35xf/private_property_cause_or_result_of_alienation/)
 - [In Marxian economics, is 'value' distinct from 'price'? What does 'value' indicate, exactly?](http://www.reddit.com/r/communism101/comments/139g19/in_marxian_economics_is_value_distinct_from_price/)
