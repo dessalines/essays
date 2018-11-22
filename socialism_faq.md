@@ -415,13 +415,17 @@
 ### Whats so bad about Elon Musk?
 - [Crushes unionization attempts at tesla factories, promising free frozen yogurt in return.](https://www.buzzfeed.com/carolineodonovan/musk-slams-union-drive-in-email-to-employees) 
 - [Employees at Tesla suffer twice as many serious workplace injuries than the industry average.](http://www.businessinsider.com/tesla-injuries-rates-higher-industry-average-worksafe-2017-5)
+- [Forced to pay out ~$4 Million in a class action lawsuit to 4,100 SpaceX employees who say the company refused to allow them to take legally mandated breaks during the workday, as a consequence of how the company structured its shift patterns.](https://www.inverse.com/article/31478-spacex-settles-underpaid-workers-lawsuit-for-4-million)
 - [Uses public money to fund private ventures, costing taxpayers $4.9B.](http://www.detroitnews.com/story/opinion/2016/05/09/elon-musk-tesla-crony/84169496/)
 - [Attracts new investors by hyping failed projects, leading many financial investigators to consider Tesla a ponzi scheme.](https://www.zerohedge.com/news/2018-07-05/why-tesla-executives-are-fleeing)
-- [Wants to privatize space travel, leaving colonization and exploration to to the richest few.](https://www.salon.com/2017/10/08/against-mars-a-lago-why-spacexs-mars-colonization-plan-should-terrify-you/)
 - [Elon fires Tesla worker for testing positive for THC, then goes on the Joe Rogan show and smokes weed himself. In reality the worker was fired for her union organizing and supporting the United Autoworkers Union.](https://thehill.com/policy/technology/405711-ex-tesla-employee-fired-for-failing-drug-test-musk-smoking-like-a-slap-in)
+- [Wants to privatize space travel, leaving colonization and exploration to to the richest few.](https://www.salon.com/2017/10/08/against-mars-a-lago-why-spacexs-mars-colonization-plan-should-terrify-you/)
+- [Actively feeds his own cult of personality, as it raises his company's stock price.](https://www.theverge.com/2018/6/26/17505744/elon-musk-fans-tesla-spacex-fandom) [Criticism of Musk or Tesla is often met with toxic harrassment, especially against women.](https://www.thedailybeast.com/what-its-like-when-elon-musks-twitter-mob-comes-after-you) [Reddit: Why is there such a big cult of personality around Musk?](https://www.reddit.com/r/socialism/comments/8tfmm6/why_is_there_a_cult_of_personality_around_elon/) One such "Tony-Stark" from [Rolling-Stone](https://www.rollingstone.com/culture/culture-features/elon-musk-the-architect-of-tomorrow-120850/).
+- Despite rumours of Elon being a self-made mad scientist genius, he was born into a wealthy white South African family, and his [father owns Emerald mines.](https://www.businessinsider.co.za/how-elon-musks-family-came-to-own-an-emerald-mine-2018-2) His wealth comes not from scientific discovery or innovation, but from his father funding his first business ventures, and from buying and selling companies such as PayPal, SolarCity, SpaceX, and Tesla. 
+- Elon takes advantage of international crises to raise Tesla's stock price. In one case, [Elon promised to "fix" Puerto Rico's power grid after it was decimated by Hurricane Maria.](http://inthesetimes.com/article/20601/elon-musk-puerto-rico-privatization-utility-climate-solar-rossello) He deploys solar panels to a hospital, dozens of [news articles](https://thehill.com/policy/technology/354154-musk-tesla-can-rebuild-puerto-rico-power-grid) were written about the [business-saviness of this decision](https://www.inc.com/sally-hogshead/elon-musks-response-to-puerto-rico-is-pure-marketing-genius-should-be-required-reading.html), and the stock price soared. PR reps told Elon they don't want their power grid privatized by billionaries.
+- [Despite being hailed as a leader in the fight against climate change, he donates 7x more money to Republicans.](https://www.huffingtonpost.com/entry/elon-musk-donations-republicans_us_5b4e4bd8e4b0b15aba897481) “Is it any surprise that a union-busting capitalist donated heavily to the Republican Party? No,” said Sydney Ghazarian, of the Democratic Socialists of America’s environmental justice working group.
 - [Fired his assistance of 12 years for asking for a raise. Divorced his wife after telling her that his life "operated quite smoothly" in her absence.](https://jalopnik.com/elon-musk-is-a-jerk-that-once-fired-his-assistant-of-12-1797699824)
-- [Rocket jesus broken promises #1.](https://www.reddit.com/r/EnoughMuskSpam/comments/73eh4m/tracking_elon_musks_visions_promises_and/)
-- [Rocket jesus broken promises #2.](https://www.reddit.com/r/EnoughMuskSpam/comments/7spkqa/happy_2018_everybody_lets_take_a_moment_to_recall/)
+- [Rocket jesus broken promises #1](https://www.reddit.com/r/EnoughMuskSpam/comments/73eh4m/tracking_elon_musks_visions_promises_and/), [#2](https://www.reddit.com/r/EnoughMuskSpam/comments/7spkqa/happy_2018_everybody_lets_take_a_moment_to_recall/)
 
 ### Whats so bad about Bill Gates?
 
@@ -474,7 +478,7 @@
 
 ### What's wrong with Bernie Sanders?
 
-- [Supports US imperialism](https://www.alternet.org/election-2016/bernie-sanders-troubling-history-supporting-us-military-violence-abroad). [2](https://leftistcritic.wordpress.com/2017/01/31/bernie-sanders-an-imperialist-worth-despising/)
+- [Supports US imperialism](https://leftistcritic.wordpress.com/2017/01/31/bernie-sanders-an-imperialist-worth-despising/). [2](https://www.alternet.org/election-2016/bernie-sanders-troubling-history-supporting-us-military-violence-abroad)
   - [Voted for troops to be deployed to somalia.](http://votesmart.org/bill/2732/7934/27110/bernie-sanders-voted-yea-passage-with-amendment-s-j-res-45-authorization-for-use-of-%20us-armed-forces-in-somalia#7934)
   - [Supported the US invasion and bombing of Yugoslavia.](http://www.libertyunionparty.org/?page_id=363)
   - Voted for $1 Billion in aid to Ukraine's right wing government.
@@ -495,6 +499,7 @@
 - [She supports Israel, and its genocide of Palestineans. ](https://i.imgur.com/K6QsYZo.jpg)
 - [Says her policies are more reminiscent of Norway than Caracas, repeating the right wing myth of socialism destroying Venezuela, and wrongly conflating nordic social democracy with socialism.](https://i.imgur.com/fTJfV2k.png)
 - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
+- [Thinks the US military is socialist. Also thinks social services like schools and libraries are socialist.](https://i.imgur.com/JHOZDlg.png)
 - [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
 - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
 
