@@ -83,6 +83,7 @@
 
 ## Schools of thought
 
+* [Glossary of Socialism Terms.](https://github.com/dessalines/essays/blob/master/glossary_of_socialist_terms.md)
 * [What are the different forms of Marxism and what are their differences?](http://www.reddit.com/r/communism101/comments/206xtz/what_are_the_different_forms_of_marxism_and_what/)
 * [What are the differences between Marxism, Marxism-Leninism, Trotskyism, MLM, and Stalinism?](https://www.reddit.com/r/Anarchy101/comments/87apl4/differences_between_marxism_lenninism_trotskyism/dwbj3so/)
 * [Can someone give us a quick like-we're-five rundown of the distinctions between Trotskyism, Maoism, orthodox Marxism, and so on?](http://www.reddit.com/r/communism101/comments/132d5s/can_someone_give_us_a_quick_likewerefive_rundown/)
@@ -93,9 +94,6 @@
 * [What was Engels Contribution to Marxism?](https://necessityandfreedom.wordpress.com/2017/04/16/without-engels-there-would-be-no-marxism/)
 * [Were the nazis socialist? What about national socialism, the national socialist movement (NSM), and the national front?](https://www.snopes.com/news/2017/09/05/were-nazis-socialists/), [2](https://www.reddit.com/r/Socialism_101/comments/79kvin/what_is_the_difference_between_socialists_here/), [3](https://www.reddit.com/r/ShitLiberalsSay/wiki/index#wiki_the_nazis_were_socialists.2C_communists_or_leftists)
 * [What is Fascism?](http://www.nybooks.com/articles/1995/06/22/ur-fascism/)
-
-## Socialism vs. communism
-
 * [Did Karl Marx use "socialism" and "communism" interchangeably?](http://www.reddit.com/r/communism101/comments/2msa39/did_karl_marx_use_socialism_and_communism/)
 * [Is the revolutionary DotP a separate material stage apart from lower phased communism?](http://www.reddit.com/r/communism101/comments/2mrkkj/is_the_revolutionary_dotp_a_separate_material/)
 * [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](https://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_stage_of_communism_or_is/)
@@ -112,6 +110,7 @@
 
 * [How can people be expected to work hard if they don't get payed more FOR working harder? (I know nothing about communism)](http://www.reddit.com/r/communism101/comments/21u7jo/how_can_people_be_expected_to_work_hard_if_they/)
 * [What prevents cultural, technological or scientific stagnation in a communist society? Also what motivation do people have to work at their Jobs?](http://www.reddit.com/r/communism101/comments/27ia0t/what_prevents_cultural_technological_or/)
+* [What about automation / robotics? Why do some communists say innovation has stopped?](https://youtu.be/QGBQwZsp3T0)
 * [Would people innovate under Communism? Doesn't capitalism create innovation?](https://www.reddit.com/r/DebateCommunism/comments/9c9qj6/in_a_communist_society_what_are_people_motivated/)
 * [How does communism deal with lazy people?](http://www.reddit.com/r/communism101/comments/25r9hh/how_does_communism_deal_with_lazy_people/)
 * [How does communism/socialism deal with human laziness?](http://www.reddit.com/r/communism101/comments/1g235j/how_does_communismsocialism_deal_with_human/)
@@ -182,6 +181,12 @@
 - [Where do socialists stand on gun violence and acts of terrorism?](https://www.reddit.com/r/communism101/comments/73tqcn/where_should_marxists_stand_on_gun_violence/)
 - [Will the revolution necessarily be violent?](https://www.reddit.com/r/Socialism_101/comments/9vvq6k/will_the_revolution_be_necessarily_violent/e9fer95/)
 
+## On Capitalism
+
+- [Crash Course socialism](https://github.com/dessalines/essays/blob/master/crash_course_socialism.md). 
+- [What exactly is capitalism?](https://www.reddit.com/r/communism101/comments/a0mwut/what_exactly_is_capitalism/eaj3b4a/)
+- [Glossary of Socialist terms.](https://github.com/dessalines/essays/blob/master/glossary_of_socialist_terms.md)
+
 ## On Liberalism
 
 - [Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/)
@@ -199,7 +204,7 @@
 - [Why does left communism reject national liberation movements?](http://www.reddit.com/r/communism101/comments/27lbru/why_does_left_communism_reject_national/)
 - [Is it true that Socialism has killed X million people, and how many has capitalism killed?](https://www.reddit.com/r/LateStageCapitalism/comments/5q2oak/someone_dies_under_socialism_no_matter_how_its/dcvu8lg/)
 - [What's the role of the state in the revolution, and what is a state?](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/)
-- Why do many socialist attempts end up in an authoritarian state? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/)
+- Why do many socialist attempts end up in an authoritarian state? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
 - [What did Lenin say about socialism in one country?](https://espressostalinist.com/2012/03/11/lenin-on-socialism-in-one-country-2/)
 - [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
 
@@ -241,6 +246,15 @@
 * [Forced Deportation Under Stalin](http://www.reddit.com/r/communism101/comments/316tey/forced_deportation_under_stalin/)
 * [Did the Soviet Union manufacture a famine in Ukraine? What about the Holodomor?](https://www.reddit.com/r/communism101/comments/1c4to0/is_there_a_different_aspectpov_to_the_holodomor/),[2](https://www.reddit.com/r/communism101/comments/79nmdh/red_famine_by_anne_applebaum_what_is_this_all/),[3](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_the_soviet_union_manufactured_a_famine_in_ukraine) [A podcast on Stalin, Holodomor, and the purges.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 * [Did Stalin / the USSR intentionally wreck the anarchists in the Spanish Civil War / Revolutionary Catalonia?](https://www.reddit.com/r/communism101/comments/1e1bhf/what_was_the_role_of_ussr_in_revolutionary_spain/c9w2jva/) , [2](https://www.reddit.com/r/communism101/comments/1jlpyu/what_contributed_to_the_fallingout_between/cbg3v0p/)
+* [Did the early USSR repress anarchists? What about Nestor Makhno and the Free territory of Ukraine?](https://www.reddit.com/r/communism/comments/64wkgf/polemic_the_anarchokulak_bandits_of_russia_and/) 
+  * [A brief history of Nestor Makhno.](http://www.isreview.org/issues/53/makhno.shtml)
+* [ELI5 of the Kronstadt Rebellion.](https://www.reddit.com/r/socialism/comments/49dzce/on_this_day_in_1921_the_kronstadt_rebellion/d0rarcw/)
+  * [What about the Kronstadt sailor's rebellion, why did the USSR stop it?](https://www.reddit.com/r/communism101/comments/8ryrdb/what_are_mls_opinions_on_the_kronstadt_rebellion/) [2](https://www.reddit.com/r/communism/comments/r94f2/thoughts_on_the_kronstadt_rebellion/). 
+  * [What were the sailor's specific demands?](https://www.reddit.com/r/communism101/comments/4cm20u/why_were_the_demands_of_kronstadt_unreasonable/). 
+  * [Were the sailors anarchists? ( No, they were Left Social Revolutionaries )](https://www.reddit.com/r/socialism/comments/53s4w9/what_really_happened_kronstadt/d7wuvo3/). 
+  * [Trotsky's position on petite-bourgeois attacks in the middle of the Russian Civil War.](http://www.marxist.com/kronstadt-trotsky-was-right.htm)
+
+
 
 - [*Fraud, Famine, and Fascism*](http://rationalrevolution.net/special/library/tottlefraud.pdf) by Douglas Tottle
 - [*The 1932 Harvest and the Famine of 1933*](https://drive.google.com/file/d/0B-eTgjCs2lzpQllPVzQ2UFd3aWM/view?usp=sharing) by Mark Tauger
@@ -275,7 +289,7 @@
 
 ### [Was Soviet Socialism an economic failure?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_4.3A_socialism_is_an_economic_failure)
 
-- [*Do Publicly Owned, Planned Economies Work?*](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/) by Stephen Gowans
+- [*Do Publicly Owned, Planned Economies Work?*](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/) by Stephen Gowans, [Audiobook](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
 - [*From Farm to Factory*](http://gen.lib.rus.ec/book/index.php?md5=fa5b6de5135f49269cd2b35b727236f7) by Robert Allen
 - [*The Rise of Socialism*](http://www.marxists.org/archive/foster/1932/toward/03.htm) by William Foster
 - [*We Lived Better Then*](http://gowans.wordpress.com/2011/12/20/we-lived-better-then/) by Stephen Gowans
@@ -433,6 +447,7 @@
   - The Gates foundation tests pharmaceutical products on humans for profit, usually in poorer countries without regulatory bodies. [One such mass test, on behalf of Merck and Pfizer, of a harmful HPV vaccine on 23,000 girls in india kills 7 girls, sterilizes hundreds more, and leads to public outrage.](https://m.economictimes.com/industry/healthcare/biotech/healthcare/controversial-vaccine-studies-why-is-bill-melinda-gates-foundation-under-fire-from-critics-in-india/amp_articleshow/41280050.cms) 
   - The Gates foundation helps big pharma find new markets for drugs deemed unfit for westerners, selling them in the global south. This includes harmful drugs such as Gardasil, Norplant, Cervarix. A South African newspaper declared: “We are guinea pigs for the drugmakers.” In the case of Gardasil, the drug-pushing was cloaked in the language of environmentalism, popular empowerment, and feminism. Melinda Gates evoked “choice” in support of her family 
     planning initiatives, but in reality was not poor women, but a handful of the world’s wealthiest people who have presumed to choose which methods of contraception will be delivered, and to whom.
+  - [Funnels hundreds of millions in grant money to corporations](https://www.jacobinmag.com/2015/11/philanthropy-charity-banga-carnegie-gates-foundation-development), such as Mastercard, Merck, Pfizer, ABC, NBC, Univision, Scholastic, and Pearson.
   - Philanthro-capitalism undermines local communities, dismantling their democracy and autonomy in health care, by making them fully dependent on US billionaires, who are completely unnaccountable.
   - Philanthrocapitalists are currently rushing to take power in a system of global health and population control. Bill Gates warned of “huge population growth in *places where we don’t want it*, like Yemen and Pakistan and parts of Africa.”, echoing  overpopulation fears that have inspired eugenicists since the time of Malthus. Population control is a form of social control, directly targeting the bodies and dignity of poor people, conditioning them to believe that life’s most intimate decisions are outside of their competence and control. 
   - Elite charitable funds are a legal means of **tax avoidance**. Under US law, investments in charitable foundations 
@@ -504,6 +519,16 @@
 - [Thinks the US military is socialist. Thinks social services like schools and libraries are socialist.](https://i.imgur.com/JHOZDlg.png)
 - [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
 - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
+
+### Why don't socialists support a UBI / Universal Basic income?
+
+- [Would basic income fix our problems? In the game of monopoly, whenever you pass go, you collect a basic income!](https://www.reddit.com/r/socialism/comments/8p097l/i_just_realized_that_monopoly_has_integrated/)
+- [A Marxist critique of Basic income.](https://www.reddit.com/r/communism/comments/8wizh9/marxist_critiques_on_the_universal_basic_income/)
+- [Why basic income is a bad idea - Paul Cockshott](https://www.reddit.com/r/socialism/comments/9lj3bh/why_basic_income_is_a_bad_idea/), [2](https://www.youtube.com/watch?v=QGBQwZsp3T0), [3](https://www.reddit.com/r/socialism/comments/9li3gj/what_do_socialists_think_about_a_universal_basic/)
+- [What would happen to workers in poorer countries?](https://www.reddit.com/r/communism/comments/5iznp8/opinions_on_universal_basic_income/)
+- [Could Basic income "save" Capitalism?](https://www.reddit.com/r/Socialism_101/comments/92qgzn/realistically_could_universal_basic_income_save/)
+- [Its supported by, and benefits, silicon valley billionaires.](https://www.latimes.com/opinion/op-ed/la-oe-rushkoff-universal-basic-income-silicon-valley-20170721-story.html)
+- [Its used to allay elite fears of revolution.](https://www.reddit.com/r/socialism/comments/87es0k/mrw_i_cite_to_my_libertarian_friend_a_nobel/)
 
 ### Others
 - [What's so bad about Winston Churchill?](http://www.reddit.com/r/ShitLiberalsSay/comments/80sxhj/-/duy08zm) , [2](https://crimesofbritain.com/2016/09/13/the-trial-of-winston-churchill/)
