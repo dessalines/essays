@@ -12,7 +12,6 @@
   * [Didn't communism fail? It works in theory but not in practice.](#didnt-communism-fail-it-works-in-theory-but-not-in-practice)
   * [What about human nature?](#what-about-human-nature)
   * [Schools of thought](#schools-of-thought)
-  * [Socialism vs. communism](#socialism-vs-communism)
   * [Did economic planning work?](#did-economic-planning-work)
   * [Who would sweep the floors under communism?](#who-would-sweep-the-floors-under-communism)
   * [What about cooperatives?](#what-about-cooperatives)
@@ -22,6 +21,7 @@
   * [On Nationalism and Internationalism](#on-nationalism-and-internationalism)
   * [On Women's Liberation](#on-womens-liberation)
   * [On Guns / Firearms / Violence](#on-guns--firearms--violence)
+  * [On Capitalism](#on-capitalism)
   * [On Liberalism](#on-liberalism)
   * [On Leninism](#on-leninism)
     + [Further reading](#further-reading)
@@ -40,7 +40,7 @@
     + [Was Che a murderer and/or a racist?](#was-che-a-murderer-andor-a-racist)
     + [Is Cuba a functioning democracy or a terrible place to live?](#is-cuba-a-functioning-democracy-or-a-terrible-place-to-live)
     + [Did the cuban people like Fidel Castro?](#did-the-cuban-people-like-fidel-castro)
-  * [On the DPRK](#on-the-dprk)
+  * [On North Korea](#on-north-korea)
     + [Do North Koreans believe in unicorns and think Kim Jong-Un is immortal?](#do-north-koreans-believe-in-unicorns-and-think-kim-jong-un-is-immortal)
     + [Is the DPRK a Fascist Monarchy?](#is-the-dprk-a-fascist-monarchy)
     + [Further reading](#further-reading-3)
@@ -56,6 +56,7 @@
     + [Did the atom bombs really end WW2?](#did-the-atom-bombs-really-end-ww2)
     + [What's wrong with Bernie Sanders?](#whats-wrong-with-bernie-sanders)
     + [What's wrong with Alexandria Ocasio-Cortez?](#whats-wrong-with-alexandria-ocasio-cortez)
+    + [Why don't socialists support a UBI / Universal Basic income?](#why-dont-socialists-support-a-ubi--universal-basic-income)
     + [Others](#others)
 
 <!-- tocstop -->
@@ -65,7 +66,7 @@
 ## Didn't communism fail? It works in theory but not in practice.
 
 - [Did Socialism work in the USSR, and didn't the fall of the USSR bring more prosperity to Russia?](https://www.reddit.com/r/socialism/comments/86tqdd/but_socialism_doesnt_work_s/dw7qco0/)
-- [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work)
+- [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work), [audiobook](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
 - [[Honestly not trolling] Why, in your opinion, have most attempts to form countries based economically on communism and socialism (USSR, Cuba, China) fail?](http://www.reddit.com/r/communism101/comments/1f8obt/honestly_not_trolling_why_in_your_opinion_have/)
 - [What about the authoritarian leaders like Lenin, Stalin, Mao, Pol Pot, etc?](https://www.reddit.com/r/LateStageCapitalism/comments/8xl4bi/stay_angry_comrades/e24fuqs/)
 - [Why did the Soviet Union fail?](http://www.reddit.com/r/communism101/comments/1zrroq/why_did_the_soviet_union_fail/)
@@ -73,6 +74,7 @@
 - [Didn't the USSR kill millions of it citizens, with most people living in poverty and dying early?](https://en.wikipedia.org/wiki/Demographics_of_the_Soviet_Union#Life_expectancy_and_infant_mortality)
 - [What about Stalin, the purges, the holodomor, etc? A revleft podcast.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 - [Why are there no modern revolutions, in the past 40 years?](https://www.reddit.com/r/communism101/comments/9y34ea/why_are_there_no_revolutions/)
+- [Didn't Capitalism bring people out of poverty? The UN says poverty has halved in the last few years.](https://www.reddit.com/r/coolguides/comments/9kdz7p/world_population_living_in_extreme_poverty/e6ypvus/)
 
 ## What about human nature?
 
@@ -231,7 +233,9 @@
 * [What about Stalin? Didn't he kill millions? (Revleft podcast on Stalin)](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 * [Was Stalin's USSR State Capitalist?](http://www.reddit.com/r/communism101/comments/383c4i/was_stalins_ussr_state_capitalist/)
 * [Why were there prison labor camps in the USSR and were they justified?](http://www.reddit.com/r/communism101/comments/2hkn8r/why_were_there_prison_labor_camps_in_the_ussr_and/)
-* [Did the USSR really make an alliance with the nazis? (Molotov-Ribbentrop Pact)](https://www.reddit.com/r/communism101/comments/148o4x/1939_sovietnazi_partition_of_poland/c7azkz9/)
+* [Did the USSR really make an alliance with the nazis? (Molotov-Ribbentrop Pact)](https://www.reddit.com/r/communism101/comments/148o4x/1939_sovietnazi_partition_of_poland/c7azkz9/), [2](https://www.telegraph.co.uk/news/worldnews/europe/russia/3223834/Stalin-planned-to-send-a-million-troops-to-stop-Hitler-if-Britain-and-France-agreed-pact.html), [3](https://www.reddit.com/r/communism101/comments/8mg59o/why_did_the_ussr_aid_nazi_germany_in_invading/), [4](https://www.reddit.com/r/communism/comments/4t1p4j/why_did_the_soviet_union_sign_the/), [5](https://i.imgur.com/cAMvQ1O.jpg)
+* [Did the USSR supply the Nazis with raw materials and weapons in the years before WW2?](http://www.reddit.com/r/communism101/comments/a5r9sx/-/eboru9r)
+* [How many Jews escaped from Poland to the USSR in WW2?](https://www.jewishvirtuallibrary.org/escape-of-jews-from-poland-to-the-soviet-union)
 * [What about the Katyn Massacre?](https://www.reddit.com/r/communism101/comments/148o4x/1939_sovietnazi_partition_of_poland/c7azkz9/). [2](https://www.reddit.com/r/communism101/comments/71gikf/nkvd_and_soviet_crimes/dnalyrr/)
 * [What contributions did Stalin make to Marxism-Leninism?](http://www.reddit.com/r/communism101/comments/1ejidu/what_contributions_did_stalin_make_to/)
 * [Opinions on Defense of Stalin and Mao](http://www.reddit.com/r/communism/comments/11yp4f/opinions_on_defense_of_stalin_and_mao/)
@@ -244,7 +248,7 @@
 * [Why did Lenin abolish factory committees established by workers?](http://www.reddit.com/r/communism101/comments/1ypaur/why_did_lenin_abolish_factory_committees/)
 * [How much of the USSR's "dark history" under Stalin can actually be attributed to Yezhov?](http://www.reddit.com/r/communism101/comments/2qlm9z/how_much_of_the_ussrs_dark_history_under_stalin/)
 * [Forced Deportation Under Stalin](http://www.reddit.com/r/communism101/comments/316tey/forced_deportation_under_stalin/)
-* [Did the Soviet Union manufacture a famine in Ukraine? What about the Holodomor?](https://www.reddit.com/r/communism101/comments/1c4to0/is_there_a_different_aspectpov_to_the_holodomor/),[2](https://www.reddit.com/r/communism101/comments/79nmdh/red_famine_by_anne_applebaum_what_is_this_all/),[3](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_the_soviet_union_manufactured_a_famine_in_ukraine) [A podcast on Stalin, Holodomor, and the purges.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
+* [Did the Soviet Union manufacture a famine in Ukraine? What about the Holodomor?](https://www.reddit.com/r/communism101/comments/1c4to0/is_there_a_different_aspectpov_to_the_holodomor/),[2](https://www.reddit.com/r/communism101/comments/79nmdh/red_famine_by_anne_applebaum_what_is_this_all/),[3](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_the_soviet_union_manufactured_a_famine_in_ukraine),[4](https://sputniknews.com/politics/201508091025560345/), [A podcast on Stalin, Holodomor, and the purges.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 * [Did Stalin / the USSR intentionally wreck the anarchists in the Spanish Civil War / Revolutionary Catalonia?](https://www.reddit.com/r/communism101/comments/1e1bhf/what_was_the_role_of_ussr_in_revolutionary_spain/c9w2jva/) , [2](https://www.reddit.com/r/communism101/comments/1jlpyu/what_contributed_to_the_fallingout_between/cbg3v0p/)
 * [Did the early USSR repress anarchists? What about Nestor Makhno and the Free territory of Ukraine?](https://www.reddit.com/r/communism/comments/64wkgf/polemic_the_anarchokulak_bandits_of_russia_and/) 
   * [A brief history of Nestor Makhno.](http://www.isreview.org/issues/53/makhno.shtml)
@@ -373,10 +377,11 @@
 
 ### [Did the cuban people like Fidel Castro?](https://www.youtube.com/watch?v=P2Obp6YS4SY)
 
-## On the DPRK
+## On North Korea
 
 - [Is north korea a totalitarian dictatorship? Are they all really required to get the same haircut? A short documentary.](https://www.youtube.com/watch?v=2BO83Ig-E8E)
 - [Are north korean defectors really paid to lie by the south? A short documentary.](https://www.youtube.com/watch?v=ktE_3PrJZO0&feature=youtu.be)
+- [What is everyday life like? A conversation with a North Korean Citizen.](https://cym.ie/2018/05/28/a-conversation-with-a-north-korean-citizen/)
 - [Why do some communists support the DPRK?](http://www.reddit.com/r/communism101/comments/1ypwmd/why_do_some_communists_support_the_dprk/)
 - [What exactly is Juche?](http://www.reddit.com/r/communism101/comments/1y172i/what_exactly_is_juche/)
 - [Is the DPRK socialist?](http://www.reddit.com/r/communism101/comments/1ygskq/is_the_dprk_socialist/)
@@ -510,7 +515,7 @@
 
 ### What's wrong with Alexandria Ocasio-Cortez? 
 
-- [She's a social democrat, not a socialist, fronting for the Democratic party.](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party).
+- [She's a social democrat, not a socialist, fronting for the Democratic party](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party).
   - [AOC asks all supporters to vote for democrats, including Andrew Cuomo.](https://youtu.be/iaLpyJI0ltg?t=647)
   - Going back on her promise to only back "progressive democrats" after her election to congress in 2018, she [backs Nancy Pelosi for speaker of the house.](https://www.nbcnews.com/politics/congress/ocasio-cortez-backs-pelosi-speaker-dem-rebellion-falters-n939086)
 - [She supports Israel, and its genocide of Palestineans. ](https://i.imgur.com/K6QsYZo.jpg)
@@ -540,6 +545,7 @@
 - [Why communists do not participate in anti-russia hysteria, pushed by the democrats.](https://www.reddit.com/r/communism/comments/90i5yp/why_the_marxist_left_is_opposed_to_and_does_not/)
 - [What about Beyonce / Black Capitalism?](https://www.independent.co.uk/news/people/beyonces-ivy-park-sportswear-line-denies-claims-its-clothes-were-produced-by-sweatshop-workers-a7035926.html)
 - [Is Christianity / the Bible Communist?](https://www.reddit.com/r/LateStageCapitalism/comments/9b7gsw/joel_osteen/e515qdb/)
+- [Was Mark Twain a socialist?](https://socialistworker.org/2010/04/21/the-twain-they-didnt-teach)
 
 
 
