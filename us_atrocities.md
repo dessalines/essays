@@ -462,4 +462,5 @@ Notes :
 - [x] http://www.dailykos.com/story/2013/4/14/1201622/-Death-by-capitalism
 - [x] Smedly Butler
 - [x] https://en.wikipedia.org/wiki/United_States_involvement_in_regime_change
+- [] okay this is one weird thing
 

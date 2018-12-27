@@ -23,25 +23,16 @@ Taken from his book, [Towards a New Socialism](http://ricardo.ecn.wfu.edu/~cottr
 ### Labor vouchers
 
 - Earned by workers. 1 LVH = 1 Labor Voucher Hour earned per hour of work.
-
 - Attached to a single person / family, likely through a credit card. 
-
 - Can only be exchanged for consumer goods. You cannot transfer them to another person. Buying absentee property is illegal. 
-
 - Are destroyed after being used in shops.
-
 - Possibly destroyed after a certain amount of time ( to prevent hoarding )
-
 - Labor time across the economy is preserved. If there are 6 million working people in a country : 
-
   - Labor ministry issues 6 million person-years vouchers to workers. 
-
   - ```
     0 = Labor hours used producing non-consumer goods ( 2 million person-years ) + labor hours used in consumer goods production ( 4 million person-years ) = cost of goods in shops ( 4 million person-years ) + ( 2 million person-years cancelled for social tax bin )
     ```
-
   - Workers spend 4 million in the shops, social income tax of 2 million ( to provide for social services ), and the 6 million labor hours are fully canceled. 
-
   - This defetishizes consumer-producer relations, since you can see exactly how human labor is being allocated, and spent.
 
 ### Direct democracy for non-consumer goods
