@@ -92,6 +92,7 @@
 * [What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
 * [What's the difference in economic structure ( production and distribution) of anarchism, anarcho-communism, and Marxist communism?](https://old.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/)
 * [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
+* [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
 * [Looking for reference to types of communism.](http://www.reddit.com/r/communism101/comments/1fcc6o/looking_for_reference_to_types_of_communism/)
 * [What was Engels Contribution to Marxism?](https://necessityandfreedom.wordpress.com/2017/04/16/without-engels-there-would-be-no-marxism/)
 * [Were the nazis socialist? What about national socialism, the national socialist movement (NSM), and the national front?](https://www.snopes.com/news/2017/09/05/were-nazis-socialists/), [2](https://www.reddit.com/r/Socialism_101/comments/79kvin/what_is_the_difference_between_socialists_here/), [3](https://www.reddit.com/r/ShitLiberalsSay/wiki/index#wiki_the_nazis_were_socialists.2C_communists_or_leftists)
@@ -248,7 +249,7 @@
 * [Why did Lenin abolish factory committees established by workers?](http://www.reddit.com/r/communism101/comments/1ypaur/why_did_lenin_abolish_factory_committees/)
 * [How much of the USSR's "dark history" under Stalin can actually be attributed to Yezhov?](http://www.reddit.com/r/communism101/comments/2qlm9z/how_much_of_the_ussrs_dark_history_under_stalin/)
 * [Forced Deportation Under Stalin](http://www.reddit.com/r/communism101/comments/316tey/forced_deportation_under_stalin/)
-* [Did the Soviet Union manufacture a famine in Ukraine? What about the Holodomor?](https://www.reddit.com/r/communism101/comments/1c4to0/is_there_a_different_aspectpov_to_the_holodomor/),[2](https://www.reddit.com/r/communism101/comments/79nmdh/red_famine_by_anne_applebaum_what_is_this_all/),[3](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_the_soviet_union_manufactured_a_famine_in_ukraine),[4](https://sputniknews.com/politics/201508091025560345/), [A podcast on Stalin, Holodomor, and the purges.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
+* [Did the Soviet Union manufacture a famine in Ukraine? What about the Holodomor?](https://reddit.com/r/socialism/comments/a7njo6/66_of_russians_say_that_they_regret_that_the_ussr/ec4skiw?context=3), [2](https://www.reddit.com/r/communism101/comments/1c4to0/is_there_a_different_aspectpov_to_the_holodomor/),[3](https://www.reddit.com/r/communism101/comments/79nmdh/red_famine_by_anne_applebaum_what_is_this_all/),[4](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_the_soviet_union_manufactured_a_famine_in_ukraine),[5](https://sputniknews.com/politics/201508091025560345/), [A podcast on Stalin, Holodomor, and the purges.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 * [Did Stalin / the USSR intentionally wreck the anarchists in the Spanish Civil War / Revolutionary Catalonia?](https://www.reddit.com/r/communism101/comments/1e1bhf/what_was_the_role_of_ussr_in_revolutionary_spain/c9w2jva/) , [2](https://www.reddit.com/r/communism101/comments/1jlpyu/what_contributed_to_the_fallingout_between/cbg3v0p/)
 * [Did the early USSR repress anarchists? What about Nestor Makhno and the Free territory of Ukraine?](https://www.reddit.com/r/communism/comments/64wkgf/polemic_the_anarchokulak_bandits_of_russia_and/) 
   * [A brief history of Nestor Makhno.](http://www.isreview.org/issues/53/makhno.shtml)
@@ -322,11 +323,14 @@
 ## On Mao, Maoism, and Marxism-Leninism-Maoism, and the PRC
 
 * [What is Maoism?](http://www.reddit.com/r/communism101/comments/139sid/what_is_maoism/)
+* [How many peopled really died during the Great Leap Forward?](http://www.reddit.com/r/communism/comments/39w9w0/how_many_peopled_really_died_during_the_great/)
 * [Did Mao really kill millions of people in the great leap forward?](https://monthlyreview.org/commentary/did-mao-really-kill-millions-in-the-great-leap-forward#.T5wbUSfm_x8.reddit)
+* [What about the famines? Did Mao kill millions?](https://www.reddit.com/r/communism/comments/11yp4f/opinions_on_defense_of_stalin_and_mao/c6qobhh/)
 * [Why did Mao launch the Cultural Revolution? What was he trying to achieve as distinct from the Revolution the Chinese Communists had already won? To what extent did he succeed? Does it have any continuing impact? (x-post from /r/AskHistorians)](http://www.reddit.com/r/communism101/comments/23958h/why_did_mao_launch_the_cultural_revolution_what/)
+* [What was the cultural revolution? A Documentary series on it, called How yukong moved the mountains](https://www.youtube.com/watch?v=zLN-jRZRPrc&list=PLMt0ncvnKoz3ar_f78qBeA29-0kwrsXvT)
+* [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
-* [How many peopled really died during the Great Leap Forward?](http://www.reddit.com/r/communism/comments/39w9w0/how_many_peopled_really_died_during_the_great/)
 * [Is modern day china communist? Is it staying true to communist values?](https://www.reddit.com/r/communism101/comments/91liw2/how_is_china_staying_true_to_communist_values/e2z3kzu/)
 
 ### [Did Mao kill millions of people?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_mao_killed_millions_of_people)
@@ -467,13 +471,13 @@
 
 - He's antisemitic, homophobic, and racist. Specifically, [he snitched out Jews, Black people, Homosexuals, and communists to British Intelligence.](https://bennorton.com/george-orwell-list-leftists-snitch-british-government/) His list includes him writing:
   - 8 variations of  “Jewish?” (Charlie Chaplin), “Polish Jew, (Tom Driberg)” “English Jew,” or “Jewess.”
-    - One Example - "CHAPLIN, Charles 1899-1977 (Anglo-American). (Jewish?). JOBS Films"
-  - "ROBESON, Paul (US Negro) 1898-1976. JOBS Actor, Singer. REMARKS ??  (People's Convention.) Very anti-white. Wallace supporter. Henry  Wallace, US Vice-President, 1941-45. "
-    - This isn't true, just look at the welsh coal miners for whom Robeson Campaigned.
+  - [Paul Robeson](https://en.wikipedia.org/wiki/Paul_Robeson) - "ROBESON, Paul (US Negro) ...Very anti-white. [Henry] Wallace supporter."
+    - Paul Robeson wasn't anti-white, just look at the welsh coal miners for whom Robeson Campaigned.
   - [Stephen Spender](https://en.wikipedia.org/wiki/Stephen_Spender)  - "Sentimental sympathiser... Tendency towards homosexuality" 
-  - [Hugh MacDiarmid](https://en.wikipedia.org/wiki/Hugh_MacDiarmid), poet and Scottish nationalist.
+  - [Hugh MacDiarmid](https://en.wikipedia.org/wiki/Hugh_MacDiarmid), Scottish nationalist poet, and anti-imperialist. 
   - [George Padmore](https://en.wikipedia.org/wiki/George_Padmore), Trinidadian journalist and anti-imperialist campaigner.
-- His books Animal Farm and 1984 are used widely as anti-communist propaganda in schools in the US and UK. So much so that [his animated animal farm film was funded by the CIA.](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/)
+- His books Animal Farm and 1984 are used widely as anti-communist propaganda in schools in the US and UK. So much so that [his animated animal farm film was funded by the CIA.](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/).  There's a reason they teach George Orwell in schools and not Franz Fanon, Che, Huey P Newton, Malcolm X, Lenin, CLR James, etc. 
+- [Orwell worked as a British imperial cop in Burma for 5 years](http://factsanddetails.com/southeast-asia/Myanmar/sub5_5e/entry-3083.html). His short story, [Shooting an Elephant](http://www.denisedrespling.com/review-shooting-elephant-george-orwell/), uses ethnic slurs and denigrates burmese people. 
 - [A reddit thread on George Orwell](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/), [Thread #2](https://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/for_those_on_the_right_who_think_orwell_wrote/dpy4zik/).
 
 ### John McCain
@@ -546,6 +550,8 @@
 - [What about Beyonce / Black Capitalism?](https://www.independent.co.uk/news/people/beyonces-ivy-park-sportswear-line-denies-claims-its-clothes-were-produced-by-sweatshop-workers-a7035926.html)
 - [Is Christianity / the Bible Communist?](https://www.reddit.com/r/LateStageCapitalism/comments/9b7gsw/joel_osteen/e515qdb/)
 - [Was Mark Twain a socialist?](https://socialistworker.org/2010/04/21/the-twain-they-didnt-teach)
+- [Why don't communists call trump treasonous? Aren't Putin and Trump collaborating and meddling in US elections?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmcel1/)
+- [What's going on with the finnish bolshevik being accused of a rape fantasy?](https://www.reddit.com/r/ShitLiberalsSay/comments/8aobas/this_is_the_finnish_bolshevik_with_a_minor/dx09v07/)
 
 
 
