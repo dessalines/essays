@@ -10,7 +10,7 @@
   * [Value](#value)
   * [Conformity](#conformity)
   * [Democracy](#democracy)
-  * [Unsustainable Growth](#unsustainable-growth)
+  * [Late Stage Capitalism](#late-stage-capitalism)
   * [Defending the Status Quo](#defending-the-status-quo)
   * [The State, and Revolution](#the-state-and-revolution)
   * [The Communist Legacy](#the-communist-legacy)
@@ -109,6 +109,7 @@ In the table below, both capital and surplus value are controlled by a company's
 Technological advancements, instead of benefiting workers, result in decreased or stagnant wages, worsening bargaining power, or **mass layoffs**. For example, a machine that replaces 10 workers *leads to their firing*, resulting in a benefit for the machine owner, and an economic hardship to the fired workers. 
 
 **Increase in profits due primarily to automation**
+
 ![The difference between these two lines is the surplus](http://i.imgur.com/FPr1mCB.png)
 
 *The difference between these two lines is a measure of the surplus.*
@@ -125,11 +126,11 @@ Socialism as a diverse philosophy arose out of a criticism after the French revo
 
 ## Value
 
-Economic systems, such as Capitalism, don't invent, *create* or *build* anything. Workers do. (See [Soviet Space Program](https://en.wikipedia.org/wiki/Soviet_space_program)). 
+Economic systems, such as Capitalism, don't invent, *create* or *build* anything. Workers do. (See [Soviet Space Program](https://en.wikipedia.org/wiki/Soviet_space_program)). The "isms" just determine who gets compensated. Nor does [capitalism spur innovation](https://www.reddit.com/r/DebateCommunism/comments/9c9qj6/in_a_communist_society_what_are_people_motivated/); the pursuit of new ideas is fundamental to humanity, and takes place regardless of the economic system in place. Inventions like rocketry, the internet, space travel, GPS, mobile phones, vaccines, [were all developed under public funding](https://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/). 
 
 [The labor theory of value](https://en.wikipedia.org/wiki/Labor_theory_of_value) recognizes that our most valuable resource is time, specifically **socially useful** labor time. There is after all only a **finite number of hours of work humanity can perform in a given day**; and at least half of that value is going to a few absentee owners. The labor theory of value [has been proven empirically correct in recent decades](https://www.youtube.com/watch?v=emnYMfjYh1Q), by comparing the amount of labor required in given industries, and the money output of of those industries. For nearly every country with sufficient economic data, **the correlation is > 95%**. 
 
-Under capitalism,  [the subjective theory of value](https://en.wikipedia.org/wiki/Subjective_theory_of_value) is based almost entirely on the supply and demand curve model which is unscientific since it presupposes more unknowns than knowns, and as such is useless at making any predictions. Its greatest use is to allow the mega-rich to justify owning [thousands of lifetimes](https://www.reddit.com/r/socialism/comments/4wxdnb/how_many_lifetimes_of_labor_has_bill_gates_stolen/?ref=search_posts) of stolen labor.
+Under capitalism, [the subjective theory of value](https://en.wikipedia.org/wiki/Subjective_theory_of_value) is based almost entirely on the supply and demand curve model which is unscientific since it presupposes more unknowns than knowns, and as such is useless at making any predictions. Its greatest use is to allow the mega-rich to justify owning [thousands of lifetimes](https://www.reddit.com/r/socialism/comments/4wxdnb/how_many_lifetimes_of_labor_has_bill_gates_stolen/?ref=search_posts) of stolen labor.
 
 [The planned economies](https://github.com/dessalines/essays/blob/master/capitalism_doesnt_work.md) such as that of the USSR, while imperfect, often provided [better social outcomes](https://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/) than its western equivalents. Its publicly owned, planned economy brought it from feudalism to a world superpower, with the [fastest growing economy of the 20th century](https://artir.files.wordpress.com/2016/03/captura-de-pantalla-de-2016-05-26-10-15-23.png), despite starting out at the same level of economic development as Brazil in 1920.
 
@@ -143,11 +144,11 @@ This video by [Paul Cockshott - Going beyond Money](https://www.youtube.com/watc
 
 Socialists view democracy under capitalism to be an unrealistic utopia, better labeled as [Bourgeois Democracy](https://en.wikipedia.org/wiki/Democracy_in_Marxism), or democracy for the rich, which socialists contrast with proletarian democracy. Under capitalism, political parties, representatives, infrastructure, and the media **are controlled by capitalists**, who place restrictions and limitations on the ability and choices of the working class. [Bourgeois democracies](https://en.wikipedia.org/wiki/Liberal_democracy#Dictatorship_of_the_bourgeoisie) are in reality [Capitalist Dictatorships](https://i.imgur.com/8vDYw17.jpg), resulting in legislation [favorable to the wealthy](https://www.youtube.com/watch?v=5tu32CCA_Ig), regardless of the population's actual preferences. Examples of restrictions include stacking the candidates before an election, the [First Past the Post](https://www.youtube.com/watch?v=s7tWHJfhiyo) voting system (which enforces capitalist two party domination), [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering), long term limits with no way to recall unpopular representatives, restrictions crafted to disenfranchise poor and minority voters, bills directly crafted by lobbyists and bourgeois lawmakers, voter suppression, electoral fraud, unverifiable closed source electronic voting systems, capitalist campaign financing, low voter to representative ratios, inconvenient voting locations and times, and most pervasive, candidate stacking. **Most elections are performed before we ever get to the polling booth**. In short, political democracy can't exist without economic democracy. 
 
-Communists propose to replace bourgeois democracy with **proletarian democracy**, with such measures as:
+Communists propose building alternatives alongside of bourgeois democracy, with the goal of to replacing it with **Proletarian democracy**. Measures might include:
 
-- Replacement of bourgeois parliamentary bodies with broadly inclusive workers organizations.
+- Replacement of bourgeois parliamentary bodies with broadly inclusive workers organizations, such as unions, councils, or syndicates. 
 - Seizing land, productive facilities, and housing and putting them under democratic control.
-- Elimination of all debts, suppression of all private banks.
+- Elimination of all debts, suppression of all private banks and stock markets. 
 - Direct democracy in as many decisions as possible, often called [cyber communism](https://www.youtube.com/watch?v=cI01-5zhwdA). A site called [Simplevote](https://simplevote.tk/), a direct democracy voting platform.
 - A democratically planned economy for human needs, with open participation.
 - Low-level workplace democracy.
@@ -159,11 +160,13 @@ Communists propose to replace bourgeois democracy with **proletarian democracy**
 - All representatives and officials (including police) are revocable at any time.
 - Public officials are paid workmen’s wages.
 
-## Unsustainable Growth
+## Late Stage Capitalism
 
-During Capitalisms' growth period, when there are new markets and labor forces to expand to, capitalism can appear stable for the richer consumers whose products *are actually being produced* by exploited, poorer workforces. Likewise, in a labor shortage, as existed in the newly industrializing US, capitalists *have no choice* but to keep wages high (and the rate of exploitation low) in order to bring in workers from other countries, and keep them from becoming subsistence farmers. In the southern US, **African slavery was used to solve the labor shortage**, and keep exploitation high (since no wages were paid), and consumer products such as tobacco and cotton cheap. In order to take advantage of cheap labor, capitalists usually build production far away from where those products are actually bought and consumed, meaning that most consumer goods are shipped by ocean-freight, wasting energy and **polluting the environment**.
+During Capitalisms' growth period (early Capitalism), when there are new markets and labor forces to expand to, capitalism can appear stable for the richer consumers whose products *are actually being produced* by exploited, poorer workforces. Likewise, in a labor shortage, as existed in the newly industrializing US, capitalists *have no choice* but to keep wages high (and the rate of exploitation low) in order to bring in workers from other countries, and keep them from becoming subsistence farmers. In the southern US, **African slavery was used to solve the labor shortage**, and keep exploitation high (since no wages were paid), and consumer products such as tobacco and cotton cheap. In order to take advantage of cheap labor, capitalists usually build production far away from where those products are actually bought and consumed, meaning that most consumer goods are shipped by ocean-freight, wasting energy and **polluting the environment**.
 
 Since the 1960s, there has been a [labor surplus](https://en.wikipedia.org/wiki/File:Productivity_and_Real_Median_Family_Income_Growth_in_the_United_States.png), due to a decreased demand for workers due to computers and automation, and an increased supply of workers (women, and low-paid manufacturing and agriculture in less-developed countries). The extra, unemployed workers make up a [reserve army of labor](https://en.wikipedia.org/wiki/Reserve_army_of_labour), keeping wages low, and desperation high. Increased worker productivity (due to computers and automation) mean that the surplus (the difference between worker productivity and wage paid), is historically higher than ever. This trend will only continue, and workers will naturally become more class conscious, as they see their exploitation increase, and their livelihood decrease.
+
+Since workers have less money to survive, let alone buy what their employers are selling, there is a [tendency for the rate of profit to fall](https://en.wikipedia.org/wiki/Tendency_of_the_rate_of_profit_to_fall), and capitalists fight and wage wars over the decreasing surplus. [Late stage capitalism](https://www.reddit.com/r/LateStageCapitalism/top/) refers to the extreme polarization of the two classes, the increasingly absurd and cruel ways our society copes and justifies such stark inequality, and the horrible things capitalism forces people to do to survive.
 
 As the supply of labor outstrips the demand, and it becomes cheaper to employ workers rather than to sink startup costs into innovative technology, **the technological growth rate grinds to a halt** ([as of 2018 technological growth in Europe has slowed to ~1-2% per year](https://www.youtube.com/watch?v=kTl4b0w6mpk)), much like in ancient Rome, inexpensive slave labor resulted in stagnant technological progress. 
 
