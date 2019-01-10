@@ -207,7 +207,7 @@
 - [Why does left communism reject national liberation movements?](http://www.reddit.com/r/communism101/comments/27lbru/why_does_left_communism_reject_national/)
 - [Is it true that Socialism has killed X million people, and how many has capitalism killed?](https://www.reddit.com/r/LateStageCapitalism/comments/5q2oak/someone_dies_under_socialism_no_matter_how_its/dcvu8lg/)
 - [What's the role of the state in the revolution, and what is a state?](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/)
-- Why do many socialist attempts end up in an authoritarian state? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
+- Why do many socialist attempts end up in an one-party state? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
 - [What did Lenin say about socialism in one country?](https://espressostalinist.com/2012/03/11/lenin-on-socialism-in-one-country-2/)
 - [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
 
@@ -521,13 +521,19 @@
 
 - [She's a social democrat, not a socialist, fronting for the Democratic party](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party).
   - [AOC asks all supporters to vote for democrats, including Andrew Cuomo.](https://youtu.be/iaLpyJI0ltg?t=647)
+  - [Calls for budget cuts for DHS, due to their child detention camps and family separations, then goes back on it by voting to fully fund them along with other democrats.](https://i.redd.it/bfiudbz8qm921.jpg)
   - Going back on her promise to only back "progressive democrats" after her election to congress in 2018, she [backs Nancy Pelosi for speaker of the house.](https://www.nbcnews.com/politics/congress/ocasio-cortez-backs-pelosi-speaker-dem-rebellion-falters-n939086)
-- [She supports Israel, and its genocide of Palestineans. ](https://i.imgur.com/K6QsYZo.jpg)
-- [Says her policies are more reminiscent of Norway than Caracas, repeating the right wing myth of socialism destroying Venezuela, and wrongly conflating nordic social democracy with socialism.](https://i.imgur.com/fTJfV2k.png)
-- [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
-- [Thinks the US military is socialist. Thinks social services like schools and libraries are socialist.](https://i.imgur.com/JHOZDlg.png)
+  - [Says her policies are more reminiscent of Norway than Caracas, repeating the right wing myth of socialism destroying Venezuela, and wrongly conflating nordic social democracy with socialism.](https://i.imgur.com/fTJfV2k.png)
+  - [Thinks the US military is socialist. Thinks social services like schools and libraries are socialist.](https://i.imgur.com/JHOZDlg.png)
+  - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
+  - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
+- [She supports Israel, and its genocide of Palestineans ](https://i.imgur.com/K6QsYZo.jpg)
 - [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
-- [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
+
+### What's wrong with Elizabeth Warren?
+- [She supports Capitalism. ](https://www.cnbc.com/2018/07/23/elizabeth-warren-i-am-a-capitalist-but-markets-need-rules.html)
+- [Defends Israel's continued bombing of Gaza Hospitals and schools.](https://m.huffpost.com/us/entry/5733164)
+- [Supports US troops in South Korea.](https://mobile.twitter.com/senwarren/status/979457592975134720?lang=en) [2](https://i.imgur.com/k6Qx3v3.jpg)
 
 ### Why don't socialists support a UBI / Universal Basic income?
 
