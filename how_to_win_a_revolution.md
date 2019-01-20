@@ -1,15 +1,15 @@
 # How to Win a Revolution - A handbook for the 21st century struggle against capitalism.
 
-- Cuban, Haitian, Russian, and French revolutions, paris commune, and the spanish revolution
+- Cuban, Haitian, Russian, and French revolutions, Paris Commune, and the Spanish Revolution
 - Read Che - tactics book
 - Read Mao - tactics book
 - Read that one liberal's book about how to win a non-revolutionary struggle. 
 - Huey P. Newton's
-- Lives of Lenin and trotsky, Marx and Engels, Toussaint L'Overture, Dessalines, Danton, Che, Ho Chi Minh, Mao.
+- Lives of Lenin and Trotsky, Marx and Engels, Toussaint L'Overture, Dessalines, Danton, Che, Ho Chi Minh, Mao.
 Look at the lives of successful revolutionaries.
 - NOT influenced by machiavellianism, democratic
-- Google and read books about guerilla warfare
-- Read David kilcullen - The Coming age of the urban guerilla
+- Search and read books about guerilla warfare
+- Read David Kilcullen - The Coming Age of the Urban Guerilla
 - Less than 50 pages.
 - Like the anarchists cookbook, or how to win a revolution
 
