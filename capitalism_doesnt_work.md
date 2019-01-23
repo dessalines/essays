@@ -17,9 +17,10 @@ Lets unpack the idea that "Capitalism works". In the US, the most developed Capi
 
 Capitalist hegemony has short-circuited people into buying wildly illogical and ridiculous propaganda like: "*Lift yourselves up by the bootstraps*" (which shows the almost religious power of capitalist propaganda, that the impossible can become possible), or "*Communism doesn't work*", when in fact **Communism did work extremely well.**
 
-Examples from [this post](https://www.reddit.com/r/socialism/comments/86tqdd/but_socialism_doesnt_work_s/dw7qco0/) by /u/bayarea415 about the USSR specifically: 
+Examples from [this post](https://www.reddit.com/r/socialism/comments/86tqdd/but_socialism_doesnt_work_s/dw7qco0/) by /u/bayarea415, and [Stephen Gowans - Do publicly owned, planned economies work,](https://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/) about the USSR specifically: 
 
 - [USSR had more nutritious food than the US (CIA)](https://www.cia.gov/library/readingroom/docs/CIA-RDP84B00274R000300150009-5.pdf). [Calories consumed surpassed the US](https://artir.files.wordpress.com/2016/05/compar1.png?w=640). Ended famines.
+- Productive forces were not organized for capital gain and private enrichment; public ownership of the means of production supplanted private ownership. It was illegal to hire others and accumulate personal wealth from their labor.
 - Had the [2nd fastest growing economy of the 20th century after Japan.](https://artir.files.wordpress.com/2016/03/captura-de-pantalla-de-2016-05-26-10-15-23.png) The USSR started out at the same level of economic development and population as Brazil in 1920, which makes comparisons to the US, an already industrialized country by the 1920s, even more spectacular. 
 - [Free Universal Health care, and most doctors per capita in the world.]( https://www.marxists.org/archive/newsholme/1933/red-medicine/index.htm ) 42 doctors per 10,000 population, vs 24 in Denmark and Sweden, 19 in US.
 - [Had zero unemployment, continuous economic growth for 70 straight years.](https://homepages.warwick.ac.uk/~syrbe/pubs/FarmtoFactory.pdf) The "continuous" part should make sense – the USSR was a planned, non-market economy, so market crashes á la capitalism were pretty much impossible.
@@ -28,9 +29,9 @@ Examples from [this post](https://www.reddit.com/r/socialism/comments/86tqdd/but
 - Saved the world from Fascism, [killing 7 out of every 10 fascist soldier, bore the enormous cost of blood and pain](https://en.wikipedia.org/wiki/Eastern_Front_(World_War_II)#Casualties). Nazis were in retreat after the battle of Stalingrad in 1942, a **full 2 years** before the US landed troops in normandy. 
 - [Doubled life expectancy](https://en.wikipedia.org/wiki/Demographics_of_the_Soviet_Union). [Eliminated poverty.](https://gowans.wordpress.com/2011/12/20/we-lived-better-then/)
 - [End sex inequality](https://en.wikisource.org/wiki/Constitution_of_the_Soviet_Union_(1977,_Unamended\) ). Equal wages for men and women mandated by law, but sex inequality, although not as pronounced as under capitalism, was perpetuated in social roles. Very important lesson to learn.
-- [End Racial inequality.]( https://www.theguardian.com/artanddesign/shortcuts/2016/jan/24/racial-harmony-in-a-marxist-utopia-how-the-soviet-union-capitalised-on-us-discrimination-in-pictures)
+- [End Racial inequality.](https://www.theguardian.com/artanddesign/shortcuts/2016/jan/24/racial-harmony-in-a-marxist-utopia-how-the-soviet-union-capitalised-on-us-discrimination-in-pictures)
 - Feudalism to [space travel](https://i.imgur.com/pe0tg2y.jpg) in 40 years. [First satellite](https://en.wikipedia.org/wiki/Soviet_space_program), rocket, space walk, woman, man, animal, space station, moon and mars probes.
-- Had zero homelessness. Houses were often shared by two families throughout the 20s and 30s – so unlike capitalism, there were no empty houses, but the houses were very full. In the 40s there was the war, and in the 50s there were a number of orphans from the war. The mass housing projects began in the 60s, they were completed in the 70s, and by the 70s, there were homeless people, but they often had genuine issues with mental health.
+- Housing was socialized by localized community organizations, and there was virtually no homelessness. Houses were often shared by two families throughout the 20s and 30s – so unlike capitalism, there were no empty houses, but the houses were very full. In the 40s there was the war, and in the 50s there were a number of orphans from the war. The mass housing projects began in the 60s, they were completed in the 70s, and by the 70s, there were homeless people, but they often had genuine issues with mental health.
 
 ----
 
