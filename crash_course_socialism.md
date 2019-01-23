@@ -51,57 +51,97 @@ A 1983 report by England national income and expenditures found that on average,
 Capitalists use the surplus to [push out competitors](https://en.wikipedia.org/wiki/Anti-competitive_practices) and gain market share, leading to the destruction of most small businesses, with [just a few companies](http://imgur.com/a/xgnEp) controlling our food, media, energy, transportation, and finances.
 
 In the table below, both capital and surplus value are controlled by a company's owners, who usually appoint a board of directors. This owning class (called Capitalists, or the [Bourgeoisie](https://en.wikipedia.org/wiki/Bourgeoisie)) make up a **tiny minority** of the population.
+
 <table>
+
 <tbody>
+
 <tr>
+
 <th colspan="5">Capitalist firm / Economy</th>
 </tr>
+
 <tr>
+
 <td rowspan="9">Total Value</td>
+
 <td rowspan="6">Worker value added</td>
+
 <td rowspan="5">Surplus Value / Profit</td>
+
 <td>Other payments</td>
+
 <td>Owners, Shareholders, Board of Directors, Managers, Clerks</td>
 </tr>
+
 <tr>
+
 <td>Capital Accumulation</td>
+
 <td>&nbsp;</td>
 </tr>
+
 <tr>
+
 <td>Armed Enforcement</td>
+
 <td>Police, Military</td>
 </tr>
+
 <tr>
+
 <td>Political Bribery</td>
+
 <td>&nbsp;</td>
 </tr>
+
 <tr>
+
 <td>Advertising</td>
+
 <td>&nbsp;</td>
 </tr>
+
 <tr>
+
 <td>Wages</td>
+
 <td>&nbsp;</td>
+
 <td>&nbsp;</td>
 </tr>
+
 <tr>
+
 <td rowspan="3">Capital</td>
+
 <td>Physical assets</td>
+
 <td>&nbsp;</td>
+
 <td>&nbsp;</td>
 </tr>
+
 <tr>
+
 <td>Intellectual assets</td>
+
 <td>&nbsp;</td>
+
 <td>&nbsp;</td>
 </tr>
+
 <tr>
+
 <td>Money / Finance capital</td>
+
 <td>&nbsp;</td>
+
 <td>&nbsp;</td>
 </tr>
 </tbody>
 </table>
+
 <p>&nbsp;</p>
 
 [Wage workers](https://www.youtube.com/watch?v=oztdRo9GLLk) are **completely dependent** on selling their labor power to those in control of production in order to gain access to the necessities of life (money for food, shelter, clothing, etc). Its similarities to chattel slavery has lead many to term wage work as [wage slavery](https://en.wikipedia.org/wiki/Wage_slavery), with voluntary employment being simply a false choice between **one exploiter or another**.
@@ -247,13 +287,10 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 ### Modern introductory books
 
 - [Socialist books starter pack (torrent)](magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
-
   - <pre>magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 - [Paul D’Amatto - the meaning of Marxism](magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
-
   - <pre>magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 - [Danny Katch -  Socialism…. Seriously](magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc&tr=http://tracker.opentrackr.org/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.zer0day.to:1337/announce)
-
   - <pre>magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc&dn=Socialism Seriously A Brief Guide to Human Liberation Danny Katch (2015) epub&tr=http://tracker.opentrackr.org/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.zer0day.to:1337/announce</pre>
 - [Jacobin - The ABCs of Socialism](https://s3.jacobinmag.com/issues/jacobin-abcs.pdf)
 - [Peter Gelderloos - How Nonviolence Protects the State](https://theanarchistlibrary.org/library/peter-gelderloos-how-nonviolence-protects-the-state)
@@ -298,7 +335,6 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 ### Psychology
 
 - [Robert Cialdini - The Psychology of persuasion](magnet:?xt=urn:btih:bad0ad6cca5c00ba8d1f8e8c4e5962f6d611f381&dn=Influence_%20The%20Psychology%20of%20Persuasion%20by%20Robert%20Cialdini&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Feddie4.nl%3A6969&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969&tr=udp%3A%2F%2Fopentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337) (not explicitly Marxist, but a great breakdown of the main psychological tactics used by exploiters to manipulate us)
-
   - <pre>magnet:?xt=urn:btih:bad0ad6cca5c00ba8d1f8e8c4e5962f6d611f381&dn=Influence_%20The%20Psychology%20of%20Persuasion%20by%20Robert%20Cialdini&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Feddie4.nl%3A6969&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969&tr=udp%3A%2F%2Fopentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337</pre>
 
 ## Audiobooks
@@ -335,7 +371,6 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Lulu the tool (1971)](https://www.imdb.com/title/tt0066919/?ref_=ttls_li_tt)
 - [Rebellion in Patagonia (1974)](https://www.imdb.com/title/tt0071976/?ref_=ttls_li_tt)
 
-
 ## Documentaries
 
 - [Seeing Red](https://www.youtube.com/watch?v=nhmGVnHxtf0)
@@ -355,7 +390,6 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [The Revolution will not be televised (Chavez and Venezuela)](https://www.youtube.com/watch?v=Id--ZFtjR5c)
 - [A place called Chiapas (EZLN)](https://www.imdb.com/title/tt0145394/?ref_=ttls_li_tt)
 
-
 # Organizations
 
 ## Parties / Groups
@@ -372,14 +406,12 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [/r/socialistprogrammers](https://www.reddit.com/r/socialistprogrammers/)
 - [/r/militant](https://www.reddit.com/r/militant/)
 - 101s
-  -  [/r/socialism_101](https://www.reddit.com/r/Socialism_101/)
+  - [/r/socialism_101](https://www.reddit.com/r/Socialism_101/)
   - [/r/communism101](https://www.reddit.com/r/communism101/)
   - [/r/anarchy101](https://www.reddit.com/r/Anarchy101/)
 - Memes
   - [/r/FULLCOMMUNISM](https://www.reddit.com/r/FULLCOMMUNISM/)
   - [/r/COMPLETEANARCHY](https://www.reddit.com/r/COMPLETEANARCHY/)
   - [/r/ShitLiberalsSay](https://www.reddit.com/r/ShitLiberalsSay/)
-
-
 
 *Credit to [/u/gab91](https://www.reddit.com/u/gab91), [/r/socialism](https://www.reddit.com/r/socialism/),  [/r/socialism_101](https://www.reddit.com/r/Socialism_101/), [/r/communism101](https://www.reddit.com/r/communism101/)*

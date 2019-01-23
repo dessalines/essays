@@ -30,10 +30,9 @@
 
 - Measure pre-boil volume.
 - Boil kettle. 
-- Boil for 75 minutes total
-- Stir in hops after 60 minutes (15 minutes left to go)
+- Boil for 75 minutes total, or until you hit original gravity. 
 - Sanitize your immersion chiller if you have one.
-- Add 1 teaspoon irish moss
+- Add 1 teaspoon irish moss at 15 minutes left to go. 
 - After 75 minutes, use immersion or sink ice bath + stirring to chill below 85 deg. Try not to splash when hot (hot aeration).
 - Now take sample for post-boil gravity / original gravity. Make sure stuff is sanitized. Put in fridge.
 - Measure post-boil volume.
@@ -51,9 +50,7 @@
 - Cool in ice bath or fridge to 59-68 deg. 
 - Aerate / stir / splash a lot. 
 - Pour in yeast. 
-- Swirl it. Stir occasionally. Leave for 2-3 days before pitching into wort. 
-
-
+- Swirl it. Stir, shake it occasionally. Leave for 1 day before pitching into wort. 
 
 ### Ferment
 
