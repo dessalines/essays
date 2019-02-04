@@ -82,7 +82,6 @@
 - [What about human nature?](http://www.reddit.com/r/communism101/comments/2yk3xl/what_about_human_nature_answer_but_add_yours_too/)
 - [Doesn't socialism go against human nature?](http://newdemocracyworld.org/culture/human_nature.html)
 
-
 ## Schools of thought
 
 * [Glossary of Socialism Terms.](https://github.com/dessalines/essays/blob/master/glossary_of_socialist_terms.md)
@@ -194,7 +193,9 @@
 
 - [Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/)
 - [What is liberalism? (Olly from Philosophy Tube)](https://www.youtube.com/watch?v=VlLgvSduugI)
-- [What about free speech?](https://www.youtube.com/watch?v=bgwS_FMZ3nQ&t=2398s)
+- [What about free speech? What about Antifa / Anti-Fascism?](https://www.youtube.com/watch?v=bgwS_FMZ3nQ&t=2398s)
+- [Why do leftists think that FDR co-opted the left to "save" capitalism?](https://www.hoover.org/research/how-fdr-saved-capitalism)
+- What's wrong with democrats? [Why not vote for the lesser of two evils (Lesser-evilism)?](https://socialistworker.org/2003-2/465/465_11_LesserEvil.php) [Can't we change the democrats from within?](https://socialistworker.org/2005-1/533/533_13_TwoParties.php) [What about "moderates" like Jimmy Carter?](https://socialistworker.org/2006-1/572/572_09_Carter.php)
 
 ## On Leninism
 
@@ -258,14 +259,11 @@
   * [What were the sailor's specific demands?](https://www.reddit.com/r/communism101/comments/4cm20u/why_were_the_demands_of_kronstadt_unreasonable/). 
   * [Were the sailors anarchists? ( No, they were Left Social Revolutionaries )](https://www.reddit.com/r/socialism/comments/53s4w9/what_really_happened_kronstadt/d7wuvo3/). 
   * [Trotsky's position on petite-bourgeois attacks in the middle of the Russian Civil War.](http://www.marxist.com/kronstadt-trotsky-was-right.htm)
-
-
-
-- [*Fraud, Famine, and Fascism*](http://rationalrevolution.net/special/library/tottlefraud.pdf) by Douglas Tottle
-- [*The 1932 Harvest and the Famine of 1933*](https://drive.google.com/file/d/0B-eTgjCs2lzpQllPVzQ2UFd3aWM/view?usp=sharing) by Mark Tauger
-- [*Natural Disaster and Human Actions in the Soviet Famine of 1931–1933*](https://drive.google.com/file/d/0B-eTgjCs2lzpNExnSEVhMjBLRlE/view?usp=sharing) by Mark Tauger
-- [*The Years of Hunger: Soviet Agriculture, 1931–1933*](http://gen.lib.rus.ec/book/index.php?md5=32DAA2871728468189A57E0233492A3A) by Davies and Wheatcroft
-- [*Lies Concerning the History of the Soviet Union*](http://www.northstarcompass.org/nsc9912/lies.htm) by Mario Sousa
+* [*Fraud, Famine, and Fascism*](http://rationalrevolution.net/special/library/tottlefraud.pdf) by Douglas Tottle
+* [*The 1932 Harvest and the Famine of 1933*](https://drive.google.com/file/d/0B-eTgjCs2lzpQllPVzQ2UFd3aWM/view?usp=sharing) by Mark Tauger
+* [*Natural Disaster and Human Actions in the Soviet Famine of 1931–1933*](https://drive.google.com/file/d/0B-eTgjCs2lzpNExnSEVhMjBLRlE/view?usp=sharing) by Mark Tauger
+* [*The Years of Hunger: Soviet Agriculture, 1931–1933*](http://gen.lib.rus.ec/book/index.php?md5=32DAA2871728468189A57E0233492A3A) by Davies and Wheatcroft
+* [*Lies Concerning the History of the Soviet Union*](http://www.northstarcompass.org/nsc9912/lies.htm) by Mario Sousa
 
 ### [Did the Soviet Union repress and kill millions of people?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_2.3A_the_soviet_union_repressed_and_killed_millions_of_people)
 
@@ -420,13 +418,18 @@
 
 ## On Venezuela
 
-- [What's going on with venezuela? Rebuttal to John Oliver's venezuela show, and overview of the situation in Venezeula](https://www.youtube.com/watch?v=_fV-C1Ag5sI).
+- [What's going on with venezuela? Rebuttal to John Oliver's venezuela show, and overview of the situation in Venezeula](https://www.bitchute.com/video/HmgCqjDblLP0/). [Censored youtube link](https://www.youtube.com/watch?v=_fV-C1Ag5sI).
 - [Who's crashing Venezuelas economy?](https://www.youtube.com/watch?v=YqHzDLSl8U4)
 - [Capitalist sabotage in Venezuela](https://www.youtube.com/watch?v=rk1qlKu_RJo).
+- [What about the black markets?](https://www.youtube.com/watch?v=YUYWrPiUeWY&feature=youtu.be)
 - [What's going on with the crisis in Venezuela?](https://www.reddit.com/r/LateStageCapitalism/comments/9bbg3w/soup_line_is_not_the_same_as_bread_line/e527pcv/)
 - [Are the people in venezeula really starving?](https://monthlyreview.org/2018/06/01/the-politics-of-food-in-venezuela/)
+- [Are the US after venezuela's oil reserves?](https://www.reddit.com/r/LateStageCapitalism/comments/afdi29/empire_files_venezuela_supermarkets_to_black/edxw7mz/)
 - [Whats going on in Venezuela?](https://www.reddit.com/r/communism101/comments/66f7u5/eli5_comrades_what_is_the_situation_in_venezuela/)
 - [Is venezuela moving towards communism?](https://www.reddit.com/r/communism101/comments/7ixh1h/the_venezuelan_situation_already_understand_most/dr35p31/)
+- [The U.S. Has Venezuela in Its Crosshairs](https://www.truthdig.com/articles/the-u-s-has-venezuela-in-its-crosshairs/)
+- The Venezuelan government [invited the UN](https://www.yahoo.com/news/venezuela-plea-un-send-observers-election-211445340.html)  to send observers to monitor the 2018 elections, but the opposition [opposed](https://www.reuters.com/article/us-venezuela-politics-un/venezuela-opposition-asks-u-n-not-to-send-observers-to-may-vote-idUSKCN1GO2J0) this move and [directly petitioned](https://twitter.com/ADemocratica/status/973345076490457088) the UN not to accept the invitation. [Maduro's May 2018 Election were declared fair by over 1500 international observers](http://journalcontent.mediatheoryjournal.org/index.php/mt/article/view/65/56). 
+- [On the 2019 Venezeulan coup attempt.](https://www.reddit.com/r/socialism/comments/aj46d1/breaking_trump_recognizes_venezuelan_opposition/eesnkhm/) [The Trump administration discussed Coup plans with the plotters shortly before.](https://www.nytimes.com/2018/09/08/world/americas/donald-trump-venezuela-military-coup.html)[The US pushing regime change.](https://www.theguardian.com/commentisfree/2014/feb/18/venezuela-protests-us-support-regime-change-mistake) [Venezuelans march to oppose regime change](https://www.reddit.com/r/socialism/comments/ajd64i/maduro_supporters_enraged_about_the_current/). The hand-picked right wing successor, is a [US puppet.](https://grayzoneproject.com/2019/01/29/the-making-of-juan-guaido-how-the-us-regime-change-laboratory-created-venezuelas-coup-leader/amp/)
 
 ## Other Topics
 
@@ -454,13 +457,11 @@
 
 - [He's a philanthro-capitalist imperialist: using the bill and melinda gates foundation charity as a bargaining chip to work in the interests of billionaire elites.](https://www.liberationnews.org/real-agenda-gates-foundation/) [Youtube Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZsjovp13f1xCA-4ewzOdqd) 
   - The Gates foundation tests pharmaceutical products on humans for profit, usually in poorer countries without regulatory bodies. [One such mass test, on behalf of Merck and Pfizer, of a harmful HPV vaccine on 23,000 girls in india kills 7 girls, sterilizes hundreds more, and leads to public outrage.](https://m.economictimes.com/industry/healthcare/biotech/healthcare/controversial-vaccine-studies-why-is-bill-melinda-gates-foundation-under-fire-from-critics-in-india/amp_articleshow/41280050.cms) 
-  - The Gates foundation helps big pharma find new markets for drugs deemed unfit for westerners, selling them in the global south. This includes harmful drugs such as Gardasil, Norplant, Cervarix. A South African newspaper declared: “We are guinea pigs for the drugmakers.” In the case of Gardasil, the drug-pushing was cloaked in the language of environmentalism, popular empowerment, and feminism. Melinda Gates evoked “choice” in support of her family 
-    planning initiatives, but in reality was not poor women, but a handful of the world’s wealthiest people who have presumed to choose which methods of contraception will be delivered, and to whom.
+  - The Gates foundation helps big pharma find new markets for drugs deemed unfit for westerners, selling them in the global south. This includes harmful drugs such as Gardasil, Norplant, Cervarix. A South African newspaper declared: “We are guinea pigs for the drugmakers.” In the case of Gardasil, the drug-pushing was cloaked in the language of environmentalism, popular empowerment, and feminism. Melinda Gates evoked “choice” in support of her family planning initiatives, but in reality was not poor women, but a handful of the world’s wealthiest people who have presumed to choose which methods of contraception will be delivered, and to whom.
   - [Funnels hundreds of millions in grant money to corporations](https://www.jacobinmag.com/2015/11/philanthropy-charity-banga-carnegie-gates-foundation-development), such as Mastercard, Merck, Pfizer, ABC, NBC, Univision, Scholastic, and Pearson.
   - Philanthro-capitalism undermines local communities, dismantling their democracy and autonomy in health care, by making them fully dependent on US billionaires, who are completely unnaccountable.
   - Philanthrocapitalists are currently rushing to take power in a system of global health and population control. Bill Gates warned of “huge population growth in *places where we don’t want it*, like Yemen and Pakistan and parts of Africa.”, echoing  overpopulation fears that have inspired eugenicists since the time of Malthus. Population control is a form of social control, directly targeting the bodies and dignity of poor people, conditioning them to believe that life’s most intimate decisions are outside of their competence and control. 
-  - Elite charitable funds are a legal means of **tax avoidance**. Under US law, investments in charitable foundations 
-    are tax-free; moreover, investors are not required to sell their stock positions and may continue to vote their shares without restriction. By sheltering foundations, the US Treasury effectively co-finances the activities of Gates foundation and its investors.
+  - Elite charitable funds are a legal means of **tax avoidance**. Under US law, investments in charitable foundations are tax-free; moreover, investors are not required to sell their stock positions and may continue to vote their shares without restriction. By sheltering foundations, the US Treasury effectively co-finances the activities of Gates foundation and its investors.
 - [Citations Needed - The Not-So-Benevolent Billionaire - Bill Gates and Western Media.](https://soundcloud.com/citationsneeded/episode-45-the-not-so-benevolent-billionaire-bill-gates-and-western-media)
 - [Post from a web developer about Microsoft's monopoly practices in the 1990s.](https://www.reddit.com/r/ragecomics/comments/11c1t1/internet_explorer_rfunny_said_i_should_post_it/c6lbhu2/)
 - [Microsoft crimes masterpost.](https://github.com/dessalines/essays/blob/master/microsoft.md)
@@ -497,11 +498,9 @@
 - [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 
 ### Did the atom bombs really end WW2?
-
- - [No, the entrance of the USSR into the war against Japan was the cause of Japan's surrender, which the US fully knew about since they were intercepting Japan's communications. The Atom bombing of Japanese civilians was in reality a display of military power against the USSR, and the first act of the cold war.](http://foreignpolicy.com/2013/05/30/the-bomb-didnt-beat-japan-stalin-did/)
+- [No, the entrance of the USSR into the war against Japan was the cause of Japan's surrender, which the US fully knew about since they were intercepting Japan's communications. The Atom bombing of Japanese civilians was in reality a display of military power against the USSR, and the first act of the cold war.](http://foreignpolicy.com/2013/05/30/the-bomb-didnt-beat-japan-stalin-did/)
 
 ### What's wrong with Bernie Sanders?
-
 - [Supports US imperialism](https://leftistcritic.wordpress.com/2017/01/31/bernie-sanders-an-imperialist-worth-despising/). [2](https://www.alternet.org/election-2016/bernie-sanders-troubling-history-supporting-us-military-violence-abroad)
   - [Voted for troops to be deployed to somalia.](http://votesmart.org/bill/2732/7934/27110/bernie-sanders-voted-yea-passage-with-amendment-s-j-res-45-authorization-for-use-of-%20us-armed-forces-in-somalia#7934)
   - [Supported the US invasion and bombing of Yugoslavia.](http://www.libertyunionparty.org/?page_id=363)
@@ -517,17 +516,17 @@
 - [Shills for democrats, campaigned for Hillary Clinton.](https://www.newyorker.com/news/amy-davidson/bernie-sanderss-hard-fight-for-hillary-clinton)
 - [Believes that Russians are to blame for the failure of US democracy. "Protecting american democracy from foreign invasion."](https://i.imgur.com/GkSXsZY.jpg)
 
-### What's wrong with Alexandria Ocasio-Cortez? 
-
+### What's wrong with Alexandria Ocasio-Cortez?
 - [She's a social democrat, not a socialist, fronting for the Democratic party](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party).
   - [AOC asks all supporters to vote for democrats, including Andrew Cuomo.](https://youtu.be/iaLpyJI0ltg?t=647)
   - [Calls for budget cuts for DHS, due to their child detention camps and family separations, then goes back on it by voting to fully fund them along with other democrats.](https://i.redd.it/bfiudbz8qm921.jpg)
+  - [She votes to keep the US in NATO, who's been responsible for countless atrocities in Europe and the Middle East.](http://clerk.house.gov/evs/2019/roll044.xml)
   - Going back on her promise to only back "progressive democrats" after her election to congress in 2018, she [backs Nancy Pelosi for speaker of the house.](https://www.nbcnews.com/politics/congress/ocasio-cortez-backs-pelosi-speaker-dem-rebellion-falters-n939086)
   - [Says her policies are more reminiscent of Norway than Caracas, repeating the right wing myth of socialism destroying Venezuela, and wrongly conflating nordic social democracy with socialism.](https://i.imgur.com/fTJfV2k.png)
   - [Thinks the US military is socialist. Thinks social services like schools and libraries are socialist.](https://i.imgur.com/JHOZDlg.png)
   - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
   - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
-- [She supports Israel, and its genocide of Palestineans ](https://i.imgur.com/K6QsYZo.jpg)
+- [She supports Israel, and its genocide of Palestineans .](https://i.imgur.com/K6QsYZo.jpg)
 - [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
 
 ### What's wrong with Elizabeth Warren?
@@ -535,8 +534,11 @@
 - [Defends Israel's continued bombing of Gaza Hospitals and schools.](https://m.huffpost.com/us/entry/5733164)
 - [Supports US troops in South Korea.](https://mobile.twitter.com/senwarren/status/979457592975134720?lang=en) [2](https://i.imgur.com/k6Qx3v3.jpg)
 
-### Why don't socialists support a UBI / Universal Basic income?
+### Kamala Harris
+- https://twitter.com/WillisJermane/status/1090261366789656578
+- https://www.theguardian.com/commentisfree/2019/jan/31/kamala-harris-laughed-jailing-parents-truancy
 
+### Why don't socialists support a UBI / Universal Basic income?
 - [Would basic income fix our problems? In the game of monopoly, whenever you pass go, you collect a basic income!](https://www.reddit.com/r/socialism/comments/8p097l/i_just_realized_that_monopoly_has_integrated/)
 - [A Marxist critique of Basic income.](https://www.reddit.com/r/communism/comments/8wizh9/marxist_critiques_on_the_universal_basic_income/)
 - [Why basic income is a bad idea - Paul Cockshott](https://www.reddit.com/r/socialism/comments/9lj3bh/why_basic_income_is_a_bad_idea/), [2](https://www.youtube.com/watch?v=QGBQwZsp3T0), [3](https://www.reddit.com/r/socialism/comments/9li3gj/what_do_socialists_think_about_a_universal_basic/)
@@ -558,6 +560,5 @@
 - [Was Mark Twain a socialist?](https://socialistworker.org/2010/04/21/the-twain-they-didnt-teach)
 - [Why don't communists call trump treasonous? Aren't Putin and Trump collaborating and meddling in US elections?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmcel1/)
 - [What's going on with the finnish bolshevik being accused of a rape fantasy?](https://www.reddit.com/r/ShitLiberalsSay/comments/8aobas/this_is_the_finnish_bolshevik_with_a_minor/dx09v07/)
-
-
-
+- [What about Tulsi Gabbard?](https://www.jacobinmag.com/2017/05/tulsi-gabbard-president-sanders-democratic-party)
+- [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
