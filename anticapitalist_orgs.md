@@ -8,7 +8,7 @@ Here's the thing: **You are not alone**. In fact, **we wage workers are the majo
 
 How do we get there, how do we win? **We join anti-capitalist organizations.**
 
-Capitalists retain their power through the strategy of *divide and conquer.* [Scapegoating hasn't gone out of style;](https://en.wikipedia.org/wiki/Scapegoating) the tactic has always been to blame certain races, sexes, religions, activists, and transform them into demons causing all the world's problems, so people won't point their fingers upwards. The *isolating individualism* [upheld by them](https://en.wikipedia.org/wiki/Cultural_hegemony) pervades all aspects of our lives: we often live in isolated housing, we're actively told not to organize or form unions, the news tells us to be afraid of our neighbors... everything ( even human life ) has value only as a unit of *individual consumption.* Their ruling-class worldview becomes the accepted, the natural, the inevitable norm that is *good for all*, rather than one them benefits the ruling minority only. Profit and the *entrepeneurial capitalist innovator* become our new Gods, hiding the truth about our material conditions. There is a **finite number of hours of labor that can be done in a given day,** and most of it is going to absentee owners. Or as Eugene Debs put it, that "millions of men and women work all the days of their lives and secure barely enough for a wretched existence."
+Capitalists retain their power through the strategy of *divide and conquer.* [Scapegoating hasn't gone out of style;](https://en.wikipedia.org/wiki/Scapegoating) the tactic has always been to blame certain races, sexes, religions, activists, and transform them into demons causing all the world's problems, so people won't point their fingers upwards. The *isolating individualism* [upheld by them](https://en.wikipedia.org/wiki/Cultural_hegemony) pervades all aspects of our lives: we often live in isolated housing, we're actively told not to organize or form unions, the news tells us to be afraid of our neighbors... everything (even human life) has value only as a unit of *individual consumption.* Their ruling-class worldview becomes the accepted, the natural, the inevitable norm that is *good for all*, rather than one them benefits the ruling minority only. Profit and the *entrepeneurial capitalist innovator* become our new Gods, hiding the truth about our material conditions. There is a **finite number of hours of labor that can be done in a given day,** and most of it is going to absentee owners. Or as Eugene Debs put it, that "millions of men and women work all the days of their lives and secure barely enough for a wretched existence."
 
 Anti-Capitalist organization always has, and always will be, our only hope, and the only real threat to Capitalism. Malcolm X keenly stated that the hand becomes a weapon only when our fingers are **joined together into a fist.** 
 
@@ -18,9 +18,9 @@ Our pessimism or optimism is irrelevant: *we have no choice but to organize* for
 
 ### Notes
 
-Lastly, for those who think that broadcasting a list like this ( potentially to our enemies ) harms the cause of anti-capitalism. Note that: 
+Lastly, for those who think that broadcasting a list like this (potentially to our enemies) harms the cause of anti-capitalism. Note that: 
 
-- All of these organizations have ( or should have ) vetting processes in place for new members.
+- All of these organizations have (or should have) vetting processes in place for new members.
 - These are all completely legal, *above ground* organizations. Many of them even do armed organizing where it is legal to do so.
 - Socialists disdain to conceal our aims; Reactionaries are a vocal minority that are given a loudspeaker by the capitalist media, but workers and those that believe in worker power have always outnumbered them. 
 
