@@ -1,12 +1,12 @@
 # Why Marxists are against markets
 
-Market socialism is an **extremely fringe view** among socialists. So, why do some people(even socialists) think we need markets?
+Market socialism is an **extremely fringe view** among socialists. So, why do some people (even socialists) think we need markets?
 
 Remember that this is a **distributional** problem : we have a bunch of goods and services that we need to distribute to people in need of them.
 
 Markets are **one way** to do that, and the primary way under capitalism. Markets are based on two things:
 
-* **Individual profit**: IE, buying low, selling high, and ignoring the effect of the transaction on others(externalities).
+* **Individual profit**: IE, buying low, selling high, and ignoring the effect of the transaction on others (externalities).
 * **Commodification of every resource** (even people).
 
 Labor is one such commodity, that is bought for cheap, and it's results sold for high (IE profit).
@@ -33,7 +33,7 @@ What would prevent a small group of people from accumulating wealth and using it
 
 Finally, there is the market socialist principle that somehow we stop treating labor as a commodity, but we continue to treat *everything else* like one. Natural resources, health care, living spaces, and food security are things we should **not** be treating as a commodity, which they would be under a market system.
 
-Market socialism in a predominantly capitalist society has a historical name: **utopian socialism**, or the cooperative movement. Engels, in [Socialism: Utopian and Scientific](https://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm), explained how a few of the early socialist reformers such as Fourier and Owen nobly tried to set up idealistic isolated islands of socialism, known as worker cooperatives, in the early stages of the industrial revolution. These all failed in the long run, both because they relied on capitalist enterprises for materials and means, and because they were out-competed by capitalists who did a better job of extracting a higher profit from their workforce. Engels stated that as the class contradictions become more absurd, *The mode of production rises in rebellion against the form of exchange*, IE, the socialized force of production(the united working class) rises up against the individualism of the market. 
+Market socialism in a predominantly capitalist society has a historical name: **utopian socialism**, or the cooperative movement. Engels, in [Socialism: Utopian and Scientific](https://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm), explained how a few of the early socialist reformers such as Fourier and Owen nobly tried to set up idealistic isolated islands of socialism, known as worker cooperatives, in the early stages of the industrial revolution. These all failed in the long run, both because they relied on capitalist enterprises for materials and means, and because they were out-competed by capitalists who did a better job of extracting a higher profit from their workforce. Engels stated that as the class contradictions become more absurd, *The mode of production rises in rebellion against the form of exchange*, IE, the socialized force of production (the united working class) rises up against the individualism of the market. 
 
 ## How do we get to Fully Automated Luxury Queer Space Communism?
 
@@ -47,7 +47,7 @@ Labor vouchers are different from money in that:
 
 1. They are valued in **time** (Specifically average socially necessary labor time), not an arbitrary substance or thing.
 2. They are attached to a person/family, and can't be traded.
-3. They are destroyed after they're exchanged for goods/services from the democratic workers council organization(I usually call it the pool)
+3. They are destroyed after they're exchanged for goods/services from the democratic workers council organization (I usually call it the pool)
 4. They optionally have expiration dates (to prevent wealth hoarding, and inter-generational conflict)
 
 In books like I like linked above, goods/services are valued and labor vouchers are based on **labor time**, and that book provides good calculations for how to value labor time for various things. Instead of getting paid a certain amount per hour, you would receive something that proves your *hours worked*. Goods and services are then valued based on all the constituent labor time necessary (including all the sub-parts) to produce them. For example, a door might cost 2 Labor hours (LH), after adding in the time costs to harvest all the materials for the wood frame, metal handle, lock, hinges, etc, and assemble them. Large input-output tables (and some linear algebra) could be used to calculate the labor time values of every good and service in an economy.
@@ -58,5 +58,5 @@ With regards to moderating demand for goods, grocery stores **can currently** fu
 
 Unlike a capitalist economy, where the goal is individualistic profit, in a labor-time economy the goal is **minimizing the labor-time-cost** of all goods and services, to improve the well-being of the community.
 
-Likely there would also be a kind of basic income of labor vouchers, to make sure everyone gets a fair share of the distribution of food and housing and such(this could be seen as accounting for unpaid labor done in the home).  Since they are attached to a person/family, labor vouchers prevent wealth accumulation being handed down to further generations.
+Likely there would also be a kind of basic income of labor vouchers, to make sure everyone gets a fair share of the distribution of food and housing and such (this could be seen as accounting for unpaid labor done in the home). Since they are attached to a person/family, labor vouchers prevent wealth accumulation being handed down to further generations.
 
