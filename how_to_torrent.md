@@ -2,7 +2,7 @@
 
 ## Why Bittorrent?
 
-- Most popular file way to share files, worldwide.
+- Most popular filesharing method worldwide.
 - Shares files in a web, instead of single uploader.
 - Can find most movies, shows, music, and books, for free.
 - Once seeded, impossible to take down.
@@ -15,7 +15,7 @@
 
 ## Find a Torrent Client
 
-- [Qbittorrent](https://www.qbittorrent.org/)
+- [qBittorrent](https://qbittorrent.org/)
 - [Deluge](https://www.deluge-torrent.org/)
 - [Flud (Android)](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
 
@@ -29,6 +29,5 @@
 
 ## Next steps
 
-- Get a media server like [Plex](https://www.plex.tv/) for a netflix-like experience.
-- Get a remote controller for your torrent machine like [Qbittorrent controller](https://play.google.com/store/apps/details?id=com.lgallardo.qbittorrentclient&hl=en)
-
+- Get a media server like [Plex](https://www.plex.tv/) for a Netflix-like experience.
+- Get a remote controller for your torrent machine like [qBittorrent Controller](https://play.google.com/store/apps/details?id=com.lgallardo.qbittorrentclient&hl=en)
