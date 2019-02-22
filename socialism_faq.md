@@ -502,19 +502,17 @@
 
 ### What's wrong with Bernie Sanders?
 - [Supports US imperialism](https://leftistcritic.wordpress.com/2017/01/31/bernie-sanders-an-imperialist-worth-despising/). [2](https://www.alternet.org/election-2016/bernie-sanders-troubling-history-supporting-us-military-violence-abroad)
-  - [Voted for troops to be deployed to somalia.](http://votesmart.org/bill/2732/7934/27110/bernie-sanders-voted-yea-passage-with-amendment-s-j-res-45-authorization-for-use-of-%20us-armed-forces-in-somalia#7934)
-  - [Supported the US invasion and bombing of Yugoslavia.](http://www.libertyunionparty.org/?page_id=363)
-  - Voted for $1 Billion in aid to Ukraine's right wing government.
+  - [Voted for US intervention](https://i.imgur.com/HCvaDLp.jpg) in the following nations: Afghanistan, Lebanon, Libya, [Somalia](http://votesmart.org/bill/2732/7934/27110/bernie-sanders-voted-yea-passage-with-amendment-s-j-res-45-authorization-for-use-of-%20us-armed-forces-in-somalia#7934), Syria, Yemen, [Yugoslavia](http://www.libertyunionparty.org/?page_id=363),[2](http://votesmart.org/bill/2808/7948/27110/bosnia-troop-deployment-resolution#.Ve5QZkvJyhG), Bosnia, Haiti, Congo, Liberia, Sudan, and Ukraine.
+  - [Supports drone bombing: "They have, at times, been effective."](https://abcnews.go.com/Politics/bernie-sanders-people-responding-message/story?id=33413601)
   - Staunchly supports Israel in their displacement of Palestineans (while blaming hamas for the conflict). 
-  - [Voted to use ground troops in Bosnia](http://votesmart.org/bill/2808/7948/27110/bosnia-troop-deployment-resolution#.Ve5QZkvJyhG).
   - [Warmongers on the Bill O'Reilley show for the US to intervene against Russia, Syria, and China.](https://www.youtube.com/watch?v=EO4Ko-v-q0g&feature=youtu.be&t=2m12s)
-  - [On the question of the use of drones to strike suspected terrorist targets, Sanders said he believed drone attacks had, at times, been effective.](https://abcnews.go.com/Politics/bernie-sanders-people-responding-message/story?id=33413601)
   - [Supports GW Bush](https://i.imgur.com/tHN9DzG.png). [Supported warmonger John McCain after his death.](https://i.imgur.com/R3cAhdC.jpg)
-- [Thanked Jeff Bezos for deigning to raise amazon wages](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqM9uBoBvLLw/v1/600x-1.jpg), Bezos [responds with "you're welcome"](https://pbs.twimg.com/media/DohNI5GUUAAin6q.jpg). 
+  - [Claimed that the 2016 election of Maduro in Venezuela "wasn't free", and called for more "US Aid".](https://www.msnbc.com/all-in/watch/bernie-sanders-tells-chris-hayes-why-he-s-running-1446465091782)
 - [Bernie is against open borders](https://www.youtube.com/watch?v=vf-k6qOfXz0), believes in strong border and anti-immigration policies. [2](https://i.imgur.com/WcQ8bNQ.jpg)
-  - When asked about the 2018 Migrant caravan, where Border agents tear gassed migrants, Bernie replied, ["not all migrants seeking asylum at the US-Mexico border have a credible claim. "You have to look at it case-by-case."](https://thehill.com/homenews/senate/418398-bernie-sanders-some-migrants-lack-credible-claim-for-asylum)
+    - When asked about the 2018 Migrant caravan, where Border agents tear gassed migrants, Bernie replied, ["not all migrants seeking asylum at the US-Mexico border have a credible claim. "You have to look at it case-by-case."](https://thehill.com/homenews/senate/418398-bernie-sanders-some-migrants-lack-credible-claim-for-asylum)
+  - [Believes that Russians are to blame for the failure of US democracy. "Protecting american democracy from foreign invasion."](https://i.imgur.com/GkSXsZY.jpg)
 - [Shills for democrats, campaigned for Hillary Clinton.](https://www.newyorker.com/news/amy-davidson/bernie-sanderss-hard-fight-for-hillary-clinton)
-- [Believes that Russians are to blame for the failure of US democracy. "Protecting american democracy from foreign invasion."](https://i.imgur.com/GkSXsZY.jpg)
+- [Thanked Jeff Bezos for deigning to raise amazon wages](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqM9uBoBvLLw/v1/600x-1.jpg), Bezos [responds with "you're welcome"](https://pbs.twimg.com/media/DohNI5GUUAAin6q.jpg). 
 
 ### What's wrong with Alexandria Ocasio-Cortez?
 - [She's a social democrat, not a socialist, fronting for the Democratic party](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party).
@@ -563,3 +561,4 @@
 - [What about Tulsi Gabbard?](https://www.jacobinmag.com/2017/05/tulsi-gabbard-president-sanders-democratic-party)
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
 - [What about black-on-black crime (Insert racist thing here)?](https://www.politifact.com/truth-o-meter/statements/2015/nov/23/donald-trump/trump-tweet-blacks-white-homicide-victims/)
+- [Why doesn't X minority just lift themselves up by the bootstraps out of poverty? Response by MLK. ](https://streamable.com/eafqq)
