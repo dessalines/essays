@@ -537,7 +537,7 @@
 - https://www.theguardian.com/commentisfree/2019/jan/31/kamala-harris-laughed-jailing-parents-truancy
 
 ### Why don't socialists support a UBI / Universal Basic income?
-- [Would basic income fix our problems? In the game of monopoly, whenever you pass go, you collect a basic income!](https://www.reddit.com/r/socialism/comments/8p097l/i_just_realized_that_monopoly_has_integrated/)
+- [Would basic income fix our problems?](https://www.reddit.com/r/socialism/comments/8p097l/i_just_realized_that_monopoly_has_integrated/)
 - [A Marxist critique of Basic income.](https://www.reddit.com/r/communism/comments/8wizh9/marxist_critiques_on_the_universal_basic_income/)
 - [Why basic income is a bad idea - Paul Cockshott](https://www.reddit.com/r/socialism/comments/9lj3bh/why_basic_income_is_a_bad_idea/), [2](https://www.youtube.com/watch?v=QGBQwZsp3T0), [3](https://www.reddit.com/r/socialism/comments/9li3gj/what_do_socialists_think_about_a_universal_basic/)
 - [What would happen to workers in poorer countries?](https://www.reddit.com/r/communism/comments/5iznp8/opinions_on_universal_basic_income/)
