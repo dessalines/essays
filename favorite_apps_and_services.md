@@ -10,13 +10,14 @@
   - Use [AirVPN](https://airvpn.org/), [Mullvad](https://mullvad.net/), [NordVPN](https://nordvpn.com/), [ProtonVPN](https://protonvpn.com/) 
   - Use [qbittorrent](https://www.qbittorrent.org/), [deluge](https://www.deluge-torrent.org/), or [transmission](https://transmissionbt.com/) for a torrent client.
 - Use [MPV](https://mpv.io/) or [VLC](https://www.videolan.org/vlc/download-windows.html), open source media players to play media.
-- Use [jellyfin](https://github.com/jellyfin/jellyfin) or sftp for streaming to other devices. 
-
+- Use [jellyfin](https://github.com/jellyfin/jellyfin) or SFtp for streaming to other devices. 
+- Instead of centralized, hosted youtube alternatives with upload limits, use torrents, and find a platform to post and comment on the magnet links.
 
 ## Documents and Coding
 - Write all documents and notes in markdown.
-  - Use [typora](https://typora.io/), [Mark Text](https://marktext.github.io/website/), or vim as markdown editors / notes. 
-  - Use vim with  [vimrc](https://github.com/amix/vimrc) and [Youcompleteme](https://github.com/Valloric/YouCompleteMe) for code. 
+  - Use [Typora](https://typora.io/), [Mark Text](https://marktext.github.io/website/), or vim as markdown editors / notes. 
+  - Use vim with [vimrc](https://github.com/amix/vimrc) and [Youcompleteme](https://github.com/Valloric/YouCompleteMe) for code.
+    - Do not use vscode, it's [difficult to impossible to turn off keylogging.](https://stackoverflow.com/questions/40451596/visual-studio-code-still-accessing-internet-after-update-and-telemetry-was-disab). If you must, use [VSCodium](https://github.com/VSCodium/vscodium#why-does-this-exist), which removes the built-in telemetry.
 - Spreadsheets in [Libreoffice](https://www.libreoffice.org/).
 - Install [Syncthing](https://syncthing.net/), and put all your documents in a synced folder. 
 
@@ -33,17 +34,17 @@
 - Use Firefox or Tor Browser, with the addons:
   - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
   - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17)
-  - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container) - As suggested, this keeps all Facebook stuff in it's own Firefox container.
-  - [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/) - The above, but for Google.
+  - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container) - Keeps all Facebook stuff in it's own container.
+  - [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/)
 - [Startpage](https://www.startpage.com/), [Searx](https://searx.me/) ([onion service](http://searchb5a7tmimez.onion/)), as a search engine
-- If using Tor, use onion services if possible instead of clearnet.
+- If using Tor, use onion services if possible.
 
 
 ## Passwords
 - Use [KeePassXC](https://keepassxc.org/). 
   - Install the Firefox KeePassXC plugin.
   - Use a long master pass phrase, with at least 10 words. 
-- Sync your password file everywhere you need using syncthing.
+- Sync your password file everywhere you need using Syncthing.
 
 ## Chat
 - Use Matrix /  [Riot](https://about.riot.im/), or [Signal](https://www.signal.org/). 
