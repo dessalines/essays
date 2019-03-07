@@ -7,6 +7,7 @@
   * [Surplus Value](#surplus-value)
   * [History, and Human Nature](#history-and-human-nature)
   * [Value](#value)
+  * [Risk](#risk)
   * [Conformity](#conformity)
   * [Democracy](#democracy)
   * [Late Stage Capitalism](#late-stage-capitalism)
@@ -35,7 +36,7 @@
 
 # Crash Course Socialism
 ## Surplus Value
-[Socialism](https://en.wikipedia.org/wiki/Socialism) is an economic and social system defined by **social ownership of the means of production**. (Workers democratically own and operate the places in which they work, as opposed to private control of production aka [capitalism](https://en.wikipedia.org/wiki/Capitalism)).
+[Socialism](https://en.wikipedia.org/wiki/Socialism) is an economic and social system defined by **social ownership of the means of production**. (Workers democratically own and operate their workplaces, as opposed to private control of production aka [Capitalism](https://en.wikipedia.org/wiki/Capitalism)).
 
 The [means of production](https://en.wikipedia.org/wiki/Means_of_production) are non-human inputs that help create economic value, such as **factories, industrial machinery, workplaces, large tracts of land**, etc. The means of production are the means of life. Socialists refer to the means of production as *capital*, or [private property](https://en.wikipedia.org/wiki/Social_ownership), IE, the things which give the people who own them power over those who don't. Private property in the socialist context shouldn't be confused with [personal property](https://en.wikipedia.org/wiki/Personal_property#Personal_versus_private_property), such as your home, car, computer, and other possessions, which would be protected. Private property is in actuality another word for *absentee property*, whose ownership is claimed through title only (and not use), for the purpose of extracting rent from the *actual* users, occupants, or workers.
 
@@ -43,7 +44,7 @@ In a capitalist society the means of production are owned and controlled private
 
 `Wage Theft = Worker Value Added - Wage Paid` <sup> [image](https://i.imgur.com/Dsmp9Jy.png)</sup>
 
-A 1983 report by England national income and expenditures found that on average, **26 minutes of every hour worked** (or 43% of labor value added) by English workers across a wide range of industries went to various exploiting or unproductive groups, with workers receiving only 57% of their pre-tax productive output as wages<sup>[1](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/new_socialism.pdf)</sup>. In other words, at least **40% of the work you do every day is stolen.** 
+A 1983 report by England national income and expenditures found that on average, **26 minutes of every hour worked** (or 43% of labor value added) by English workers across a wide range of industries went to various exploiting or unproductive groups, with workers receiving only *57% of their pre-tax productive output as wages*<sup>[1](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/new_socialism.pdf)</sup>. In other words, at least **40% of the work you do every day is stolen by Capitalists.** 
 
 Capitalists use the surplus to [push out competitors](https://en.wikipedia.org/wiki/Anti-competitive_practices) and gain market share, leading to the destruction of most small businesses, with [just a few companies](http://imgur.com/a/xgnEp) controlling our food, media, energy, transportation, and finances.
 
@@ -128,8 +129,16 @@ Economic systems, such as Capitalism, don't invent, *create* or *build* anything
 [The labor theory of value](https://en.wikipedia.org/wiki/Labor_theory_of_value) recognizes that our most valuable resource is time, specifically **socially useful** labor time. There is after all only a **finite number of hours of work humanity can perform in a given day**; and at least half of that value is going to a few absentee owners. The labor theory of value [has been proven empirically correct in recent decades](https://www.youtube.com/watch?v=emnYMfjYh1Q), by comparing the amount of labor required in given industries, and the money output of of those industries. For nearly every country with sufficient economic data, **the correlation is > 95%**. 
 
 Under capitalism, [the subjective theory of value](https://en.wikipedia.org/wiki/Subjective_theory_of_value) is based almost entirely on the supply and demand curve model which is unscientific since it presupposes more unknowns than knowns, and as such is useless at making any predictions. Its greatest use is to allow the mega-rich to justify owning [thousands of lifetimes](https://www.reddit.com/r/socialism/comments/4wxdnb/how_many_lifetimes_of_labor_has_bill_gates_stolen/?ref=search_posts) of stolen labor.
+
 [The planned economies](capitalism_doesnt_work.md) such as that of the USSR, while imperfect, often provided [better social outcomes](https://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/) than its Western equivalents. Its publicly owned, planned economy brought it from feudalism to a world superpower, with the [fastest growing economy of the 20th century](https://artir.files.wordpress.com/2016/03/captura-de-pantalla-de-2016-05-26-10-15-23.png), despite starting out at the same level of economic development as Brazil in 1920.
 This video by [Paul Cockshott - Going beyond Money](https://www.youtube.com/watch?v=cI01-5zhwdA), illustrates how it is currently possible to go beyond money, and to build a democratically planned, labor-time based economy **for human needs, rather than private profit.** 
+
+## Risk
+A common argument is that *Capitalists should be rewarded for their [financial risk](https://www.reddit.com/r/communism101/comments/av92oi/someone_said_the_following_in_a_debate_and_i/)*. The only *risk* owners take is that of being [forced to become a worker like everyone else](https://www.reddit.com/r/communism101/comments/a7fo1y/does_marx_ever_go_over_risk_in_his_works/) if the business fails. Risk also isn't proportional to reward; Big Capitalists risk much less, and gain much more than smaller ones, just as wage workers risk starvation and homelessness if forces outside their control lead to their firing. The nearer the bottom you are, the **greater your risks.**
+
+Slavemasters took financial *risk* in buying slaves, but that risk doesn't negate the harm done to their slaves, any more than it does the harm done to wage workers.
+
+The socialist argument is not that individual passive investors should still bear all the risk and hand off the means of production to the workers; it's that they never should have been in a position to bear that risk to begin with, and only got there by exploiting workers. **Society and workers should bear the risk**, make the decisions, and own the means of production that their labor made possible. 
 
 ## Conformity
 [Socialism has nothing to do with conformity](https://www.marxists.org/archive/lenin/works/1914/mar/11.htm), restriction of artistic expression, or equality in abilities. It instead proposes *economic and political equality* through the abolition of classes, placing all citizens on an equal footing *with regard to the means of production*. It is Capitalism, with its inherent authoritarian hierarchies, that imposes conformity on society through [vapid consumerism](https://en.wikipedia.org/wiki/Commodity_fetishism), and through the authoritarian nature of capitalist firms themselves. A [chain of command](https://en.wikipedia.org/wiki/Command_hierarchy) ensures that orders from capitalists drop like a rock, to dominate the actions of every worker.

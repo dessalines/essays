@@ -140,6 +140,7 @@
 - [In Marxian economics, is 'value' distinct from 'price'? What does 'value' indicate, exactly?](http://www.reddit.com/r/communism101/comments/139g19/in_marxian_economics_is_value_distinct_from_price/)
 - [can you explain the theory of alienation to me in a "explain like I'm five" manner?](http://www.reddit.com/r/communism101/comments/2jeyaj/can_you_explain_the_theory_of_alienation_to_me_in/)
 - [If private property is abolished, does this mean anyone can enter "one's home" (or where one lives) and cannot be expelled?](http://www.reddit.com/r/communism101/comments/19nx3l/if_private_property_is_abolished_does_this_mean/)
+- [Shouldn't capitalists be rewarded for Risk / Financial investment?](https://www.reddit.com/r/communism101/comments/av92oi/someone_said_the_following_in_a_debate_and_i/) [Well shouldn't business owners be rewarded for their financial risk?](https://www.reddit.com/r/communism101/comments/a8fnlm/counterarguments_to_common_capitalist_economic/) [Do Capitialists deserve profit?](https://www.reddit.com/r/communism101/comments/aany6r/trying_to_get_a_friend_to_the_left/) [Is profit proportional to risk?](https://www.reddit.com/r/communism101/comments/1p7d3u/refutation_of_risk_incentive_and_entrepreneurship/cczoar0/)
 ## On Nationalism and Internationalism
 - [Nationalism and internationalism, where do leftists stand?](http://www.reddit.com/r/communism101/comments/298jfb/nationalism_as_applied_internationalism/)
 - [Nationalism and Communism?](http://www.reddit.com/r/communism101/comments/146x30/nationalism_and_communism/)
