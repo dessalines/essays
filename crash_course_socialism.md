@@ -42,7 +42,9 @@ The [means of production](https://en.wikipedia.org/wiki/Means_of_production) are
 
 In a capitalist society the means of production are owned and controlled privately, by those that can afford them (the capitalist, aka those with capital). Production is carried out to **benefit the capitalist** (production for profit). Workers are paid a wage, and **receive that amount regardless of how much value they produce**. Socialists call this difference the [surplus](https://en.wikipedia.org/wiki/Surplus_value), profit, unpaid labor, exploitation, or **wage theft**.
 
-`Wage Theft = Worker Value Added - Wage Paid` <sup> [image](https://i.imgur.com/Dsmp9Jy.png)</sup>
+`Wage Theft = Worker Value Added - Wage Paid`
+
+![image](https://i.imgur.com/Dsmp9Jy.png)
 
 A 1983 report by England national income and expenditures found that on average, **26 minutes of every hour worked** (or 43% of labor value added) by English workers across a wide range of industries went to various exploiting or unproductive groups, with workers receiving only *57% of their pre-tax productive output as wages*<sup>[1](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/new_socialism.pdf)</sup>. In other words, at least **40% of the work you do every day is stolen by Capitalists.** 
 
@@ -324,6 +326,8 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [The Murder of Fred Hampton](https://www.youtube.com/watch?v=B6-JVliecLo)
 - [The Revolution will not be televised (Chavez and Venezuela)](https://www.youtube.com/watch?v=Id--ZFtjR5c)
 - [A place called Chiapas (EZLN)](https://www.imdb.com/title/tt0145394/?ref_=ttls_li_tt)
+- [Loyal Citizens of Pyongyang in Seoul (서울의 평양 시민들)](https://www.youtube.com/watch?v=ktE_3PrJZO0)
+- [The Haircut - A North Korean Adventure](https://www.youtube.com/watch?v=2BO83Ig-E8E)
 # Organizations
 ## Parties / Groups
 - [List of Anticapitalist Organizations](anticapitalist_orgs.md#organizations)
