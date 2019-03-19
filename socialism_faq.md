@@ -350,6 +350,9 @@
 - [E-Library on the DPRK](http://www.korea-dpr.com/e_library.html)
 ## On Venezuela
 - [What's going on with venezuela? Rebuttal to John Oliver's venezuela show, and overview of the situation in Venezeula](https://www.bitchute.com/video/HmgCqjDblLP0/). [Censored youtube link](https://www.youtube.com/watch?v=_fV-C1Ag5sI).
+- [An ocean of lies about VZ.](https://www.youtube.com/watch?v=ii5MlQgGXyk)
+  - What about the US trying to send aid to VZ?
+  - The US has blocked the shipment of Insulin, and Dialysis treatments.
 - [Who's crashing Venezuelas economy?](https://www.youtube.com/watch?v=YqHzDLSl8U4)
 - [Capitalist sabotage in Venezuela](https://www.youtube.com/watch?v=rk1qlKu_RJo).
 - [What about the black markets?](https://www.youtube.com/watch?v=YUYWrPiUeWY&feature=youtu.be)
