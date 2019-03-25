@@ -160,6 +160,7 @@
 - [Do Marxists oppose individual terrorism? (Trotsky)](https://www.marxists.org/archive/trotsky/1911/11/tia09.htm)
 - [Where do socialists stand on gun violence and acts of terrorism?](https://www.reddit.com/r/communism101/comments/73tqcn/where_should_marxists_stand_on_gun_violence/)
 - [Will the revolution necessarily be violent?](https://www.reddit.com/r/Socialism_101/comments/9vvq6k/will_the_revolution_be_necessarily_violent/e9fer95/)
+- [How can we justify owning firearms in the wake of mass shootings?](https://www.reddit.com/r/communism101/comments/b2v3i6/how_can_we_justify_ownership_of_firearms/)
 ## On Capitalism
 - [Crash Course socialism](https://github.com/dessalines/essays/blob/master/crash_course_socialism.md). 
 - [What exactly is capitalism?](https://www.reddit.com/r/communism101/comments/a0mwut/what_exactly_is_capitalism/eaj3b4a/)
@@ -208,6 +209,7 @@
 * [What contributions did Stalin make to Marxism-Leninism?](http://www.reddit.com/r/communism101/comments/1ejidu/what_contributions_did_stalin_make_to/)
 * [Opinions on Defense of Stalin and Mao](http://www.reddit.com/r/communism/comments/11yp4f/opinions_on_defense_of_stalin_and_mao/)
 * [Stalin's Purges](http://www.reddit.com/r/communism/comments/qergf/stalins_purges/)
+* [Was Stalin anti-Semitic? What about the doctors plot?](https://www.reddit.com/r/communism101/comments/b2xtna/was_stalin_antisemitic/)
 * [What are some legitimate criticisms of Stalin?](http://www.reddit.com/r/communism/comments/10chdq/what_are_some_legitimate_criticisms_of_stalin/)
 * [I need clarification on myths/truths of the USSR/Soviet Union.](http://www.reddit.com/r/communism101/comments/2dzicb/i_need_clarification_on_mythstruths_of_the/)
 * [I'm fascinated by the idea of communism...](http://www.reddit.com/r/communism101/comments/21s0dw/im_fascinated_by_the_idea_of_communism/)

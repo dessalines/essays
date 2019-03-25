@@ -1,34 +1,36 @@
 # Favorite apps and services
 ## Goals
 - Privacy conscious, [end-to-end encrypted (E2EE)](https://en.wikipedia.org/wiki/End-to-end_encryption).
-- Decentralized, **no reliance** on cloud providers like Google, Microsoft, Apple, Spotify, Netflix, etc. 
-- Self-hosted and self-reliant, simple files preferred over running services.
-- Make sure no sites / services are US based.
+- Decentralized, **no reliance** on cloud providers like Google, Microsoft, Apple, Spotify, Netflix Youtube, etc. 
+- Self-hosted and self-reliant.
+  - Simple files preferred over running services.
+- Make sure no sites / services are [US based.](https://www.privacytools.io/#kdl)
 
 ## Media
-- Download all music / movies locally, using torrents behind a VPN. ([Don't use Tor for torrenting, it won't work and will just put unnecessary load to the Tor network](https://blog.torproject.org/bittorrent-over-tor-isnt-good-idea))
+- Download all music / movies locally, using torrents behind a VPN. ([Don't use Tor for torrenting](https://blog.torproject.org/bittorrent-over-tor-isnt-good-idea))
   - Use [AirVPN](https://airvpn.org/), [Mullvad](https://mullvad.net/), [NordVPN](https://nordvpn.com/), [ProtonVPN](https://protonvpn.com/) 
   - Use [qbittorrent](https://www.qbittorrent.org/), [deluge](https://www.deluge-torrent.org/), or [transmission](https://transmissionbt.com/) for a torrent client.
+  - Use [LibreTorrent](https://github.com/proninyaroslav/libretorrent) on android.
 - Use [MPV](https://mpv.io/) or [VLC](https://www.videolan.org/vlc/download-windows.html), open source media players to play media.
-- Use [jellyfin](https://github.com/jellyfin/jellyfin) or SFtp for streaming to other devices. 
+- Use [jellyfin](https://github.com/jellyfin/jellyfin) or SFTP for streaming to other devices, but torrenting is preferred.
 - Instead of centralized, hosted youtube alternatives with upload limits, use torrents, and find a platform to post and comment on the magnet links.
 
 ## Documents and Coding
-- Write all documents and notes in markdown.
-  - Use [Typora](https://typora.io/), [Mark Text](https://marktext.github.io/website/), or vim as markdown editors / notes. 
-  - Use vim with [vimrc](https://github.com/amix/vimrc) and [Youcompleteme](https://github.com/Valloric/YouCompleteMe) for code.
-    - Do not use vscode, it's [difficult to impossible to turn off keylogging.](https://stackoverflow.com/questions/40451596/visual-studio-code-still-accessing-internet-after-update-and-telemetry-was-disab). If you must, use [VSCodium](https://github.com/VSCodium/vscodium#why-does-this-exist), which removes the built-in telemetry.
-- Spreadsheets in [Libreoffice](https://www.libreoffice.org/).
 - Install [Syncthing](https://syncthing.net/), and put all your documents in a synced folder. 
+- Write all documents and notes in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+  - Use [Typora](https://typora.io/), [Mark Text](https://marktext.github.io/website/), or vim as markdown editors / notes. 
+- Use vim with [vimrc](https://github.com/amix/vimrc) and [Youcompleteme](https://github.com/Valloric/YouCompleteMe) for code.
+  - Do not use vscode, it's [difficult to impossible to turn off keylogging.](https://stackoverflow.com/questions/40451596/visual-studio-code-still-accessing-internet-after-update-and-telemetry-was-disab). If you must, use [VSCodium](https://github.com/VSCodium/vscodium#why-does-this-exist), which removes the built-in telemetry.
+- Spreadsheets in [Libreoffice](https://www.libreoffice.org/).
 
 ## Tasks / Todos
 - Use a [todo.txt](http://todotxt.org/) file for a personal task list, synced with syncthing.
   - [QTodoTxt](http://qtodotxt.org/) as a desktop client, [Simpletask Cloudless](https://play.google.com/store/apps/details?id=nl.mpcjanssen.simpletask&hl=en_US) for Android.
 - For shared task lists, use [Etherpad](http://etherpad.org/).
-- No good solution yet for calendars, really wish there were good file-based calendar apps.
+- No good solution yet for calendars, really wish there were good file-based calendar apps. [Radicale is a server based solution. ](https://radicale.org/)
 
 ## Collaboration
-- Use [Etherpad](http://etherpad.org/).
+- Use [Etherpad](http://etherpad.org/), or [CodiMD](https://github.com/hackmdio/codimd)
 
 ## Browsing
 - Use Firefox or Tor Browser, with the addons:
@@ -44,18 +46,21 @@
 - Use [KeePassXC](https://keepassxc.org/). 
   - Install the Firefox KeePassXC plugin.
   - Use a long master pass phrase, with at least 10 words. 
-- Sync your password file everywhere you need using Syncthing.
+  - Sync your password file everywhere you need using Syncthing.
+- [Bitwarden](https://bitwarden.com/) if you want to host a server. 
 
 ## Chat
-- Use Matrix /  [Riot](https://about.riot.im/), or [Signal](https://www.signal.org/). 
-- Use [Thunderbird](https://www.thunderbird.net/en-US/) for email, e2ee with pgp if possible.
+- Use Matrix / [Riot](https://about.riot.im/), turn on e2ee in rooms. 
+- Use [Thunderbird](https://www.thunderbird.net/en-US/) for email, e2ee with pgp if possible. 
 
 ## Social Media
 - Twitter alternative : [Mastodon](https://mastodon.social/)
 - Facebook : [Friendica](https://friendi.ca/)
 - Reddit : [PostMill](https://gitlab.com/edgyemma/Postmill), or [Lobste.rs](https://github.com/lobsters/lobsters)
-- Medium : [Plume](https://github.com/Plume-org/Plume)
+- Medium : [Plume](https://github.com/Plume-org/Plume), [WriteFreely](https://github.com/writeas/writefreely)
+- YouTube : Torrents, or [peertube](https://github.com/Chocobozzz/PeerTube). 
+- Instagram : [Pixelfed ](https://pixelfed.org/). 
 
 ## Operating system
-- Use Linux, preferably Arch Linux or a variant.
+- Use Linux. I like Arch Linux or its user friendlier variants, manjaro and antergos. 
 
