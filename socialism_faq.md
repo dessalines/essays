@@ -109,6 +109,7 @@
 * [Can cooperatives bring about socialism?](http://www.reddit.com/r/communism101/comments/336mz4/can_cooperatives_bring_about_socialism/)
 ## Pacifism and Violence
 - [What about Pacifism / pacifist socialism? Is violence necessary to acheive socialism? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) [audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
+- [Was the civil rights struggle in the US really nonviolent?](http://mshistorynow.mdah.state.ms.us/articles/62/the-civil-rights-movement-in-mississippi-on-violence-and-nonviolence) [Malcolm X - message to the grassroots. ](https://www.youtube.com/watch?v=Ku2JzolPt50)
 - [An Overview of Leninism](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/), [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) , [audiobook](https://www.youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
 - [Luxemburg - Reform or Revolution](https://www.marxists.org/archive/luxemburg/1900/reform-revolution/), [audiobook](https://www.youtube.com/watch?v=YhzmaUofLS8&list=PL0-IkmzWbjoYqO_Yec4sWzPeeFXMOkPWs)
 - [Trotsky - Fascism - What it is and how to fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm), [audiobook](https://www.youtube.com/watch?v=S39lCH8PnZ8&list=PL0-IkmzWbjoa-4fIC4TbpTJgRM77It6LC)
@@ -227,6 +228,9 @@
   * [What were the sailor's specific demands?](https://www.reddit.com/r/communism101/comments/4cm20u/why_were_the_demands_of_kronstadt_unreasonable/). 
   * [Were the sailors anarchists? ( No, they were Left Social Revolutionaries )](https://www.reddit.com/r/socialism/comments/53s4w9/what_really_happened_kronstadt/d7wuvo3/). 
   * [Trotsky's position on petite-bourgeois attacks in the middle of the Russian Civil War.](http://www.marxist.com/kronstadt-trotsky-was-right.htm)
+* [Were the Soviet POWs returning from the front on WW2 treated as spies?](https://www.reddit.com/r/communism101/comments/bmyhq7/treatment_of_soviet_pows_upon_their_return_to_the/)
+* [Wasn't the fall of the Berlin Wall / East Germany a good thing?](https://zcomm.org/zmagazine/fall-of-the-berlin-wall/), [2](http://www.cnn.com/WORLD/europe/9911/08/germany.carpetbaggers/), [3](https://zcomm.org/znetarticle/humpty-dumpty-and-the-fall-of-berlins-wall/), [4](https://www.peoplesworld.org/article/ossies-former-east-germans-compare-socialist-youth-with-life-under-capitalism/)
+  *  [Democracy, East Germany, and the Berlin Wall](http://gowans.wordpress.com/2009/10/25/democracy-east-germany-and-the-berlin-wall/) by Stephen Gowans
 * [*Fraud, Famine, and Fascism*](http://rationalrevolution.net/special/library/tottlefraud.pdf) by Douglas Tottle
 * [*The 1932 Harvest and the Famine of 1933*](https://drive.google.com/file/d/0B-eTgjCs2lzpQllPVzQ2UFd3aWM/view?usp=sharing) by Mark Tauger
 * [*Natural Disaster and Human Actions in the Soviet Famine of 1931–1933*](https://drive.google.com/file/d/0B-eTgjCs2lzpNExnSEVhMjBLRlE/view?usp=sharing) by Mark Tauger
@@ -249,7 +253,6 @@
 - [*Is the Red Flag Flying?*](http://archive.org/details/IsTheRedFlagFlying) by Albert Syzmanski
 - [*Socialism Betrayed*](http://gen.lib.rus.ec/book/index.php?md5=3043d96567ceab152a0992313bcf82b9) by Keeran and Kenny
 - [*Life and Terror in Stalin's Russia, 1934–1941*](http://gen.lib.rus.ec/book/index.php?md5=bcb105833aa3f469f1131209e3875a9f) by Robert Thurston
-- [*Democracy, East Germany, and the Berlin Wall*](http://gowans.wordpress.com/2009/10/25/democracy-east-germany-and-the-berlin-wall/) by Stephen Gowans
 - [*The Russians are Coming: The Politics of Anti-Sovietism*](http://archive.org/details/TheRussiansAreComing) by V.L. Allen
 - [*The 1936 Soviet Constitution*](http://www.departments.bucknell.edu/russian/const/1936toc.html)
 - [*Soviet Democracy*](http://gen.lib.rus.ec/book/index.php?md5=c22e40075143d321a449a15690f82720) by Pat Sloan
@@ -279,6 +282,7 @@
 * [What is Maoism?](http://www.reddit.com/r/communism101/comments/139sid/what_is_maoism/)
 * [How many peopled really died during the Great Leap Forward?](http://www.reddit.com/r/communism/comments/39w9w0/how_many_peopled_really_died_during_the_great/)
 * [Did Mao really kill millions of people in the great leap forward?](https://monthlyreview.org/commentary/did-mao-really-kill-millions-in-the-great-leap-forward#.T5wbUSfm_x8.reddit)
+* [What about the mass killing of landlords? What about landlordism?](https://www.reddit.com/r/communism101/comments/bvk5rd/what_do_you_think_of_the_mass_killing_of/)
 * [What about the famines? Did Mao kill millions?](https://www.reddit.com/r/communism/comments/11yp4f/opinions_on_defense_of_stalin_and_mao/c6qobhh/)
 * [Why did Mao launch the Cultural Revolution? What was he trying to achieve as distinct from the Revolution the Chinese Communists had already won? To what extent did he succeed? Does it have any continuing impact? (x-post from /r/AskHistorians)](http://www.reddit.com/r/communism101/comments/23958h/why_did_mao_launch_the_cultural_revolution_what/)
 * [What was the cultural revolution? A Documentary series on it, called How yukong moved the mountains](https://www.youtube.com/watch?v=zLN-jRZRPrc&list=PLMt0ncvnKoz3ar_f78qBeA29-0kwrsXvT)
@@ -286,6 +290,10 @@
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
 * [Is modern day china communist? Is it staying true to communist values?](https://www.reddit.com/r/communism101/comments/91liw2/how_is_china_staying_true_to_communist_values/e2z3kzu/)
+* [Does china have concentration camps for Uyghur Muslims? UN Report says no.](https://thegrayzone.com/2018/08/23/un-did-not-report-china-internment-camps-uighur-muslims/) 
+  * [What about religous freedom in China? Is China killing / imprisoning Muslims?](https://twitter.com/isgoodrum/status/1004884261051092993?s=21)
+  * [Chinese muslims enjoying a faith revival.](http://time.com/3099950/china-muslim-hui-xinjiang-uighur-islam/)
+  * [A Pakistani diplomat visits western China.](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang)
 ### [Did Mao kill millions of people?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_mao_killed_millions_of_people)
 - [*Did Mao Really Kill Millions in the Great Leap Forward?*](http://monthlyreview.org/commentary/did-mao-really-kill-millions-in-the-great-leap-forward/) by Joseph Ball
 - [*Monster or Liberator?*](http://www.invent-the-future.org/2013/12/monster-liberator-legacy-mao-zedong/) by Carlos Martinez
@@ -332,6 +340,7 @@
 - [Human rights and the DPRK](http://www.reddit.com/r/communism101/comments/1tb5ho/human_rights_and_the_dprk/)
 - [What evidence is there than DPRK is not engaged in gross violations of human rights?](http://www.reddit.com/r/communism101/comments/2mfq2m/what_evidence_is_there_than_dprk_is_not_engaged/)
 - [Can someone explain Songbun (Caste system) of the DPRK to me?](http://www.reddit.com/r/communism101/comments/2dqtn3/can_someone_explain_songbun_caste_system_of_the/)
+- [What about Otto Warmbier?](https://nypost.com/2017/09/26/coroners-report-for-otto-warmbier-shows-no-signs-of-torture/)[2](https://www.reddit.com/r/communism101/comments/awuok8/with_all_of_the_news_about_north_korea_going/)
 ### [Do North Koreans believe in unicorns and think Kim Jong-Un is immortal?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_north_koreans_believe_in_unicorns_and_they_think_kim_jong-un_is_immortal)
 - [Do communists defend the nationalistic (juche) aspects of the DPRK (Democratic People's Republic of North Korea)? short answer: no.](https://www.reddit.com/r/FULLDISCOURSE/comments/60voir/lets_talk_about_the_dprk/)
 - [*Western DPRK Propaganda: The Worst, Occasionally Hilarious, and Often Racist, Lies*]( http://anti-imperialism.org/2014/08/14/western-dprk-propaganda-the-worst-occasionally-hilarious-and-often-racist-lies/) by Alyx Mayer
@@ -403,11 +412,13 @@
   - 8 variations of  “Jewish?” (Charlie Chaplin), “Polish Jew, (Tom Driberg)” “English Jew,” or “Jewess.”
   - [Paul Robeson](https://en.wikipedia.org/wiki/Paul_Robeson) - "ROBESON, Paul (US Negro) ...Very anti-white. [Henry] Wallace supporter."
     - Paul Robeson wasn't anti-white, just look at the welsh coal miners for whom Robeson Campaigned.
+    - [Relevant testimony of Paul Robeson](https://www.youtube.com/watch?v=kmFjjaFNHKo) to the House of Unamerican activities committee during the red scare.
   - [Stephen Spender](https://en.wikipedia.org/wiki/Stephen_Spender)  - "Sentimental sympathiser... Tendency towards homosexuality" 
   - [Hugh MacDiarmid](https://en.wikipedia.org/wiki/Hugh_MacDiarmid), Scottish nationalist poet, and anti-imperialist. 
   - [George Padmore](https://en.wikipedia.org/wiki/George_Padmore), Trinidadian journalist and anti-imperialist campaigner.
-- His books Animal Farm and 1984 are used widely as anti-communist propaganda in schools in the US and UK. So much so that [his animated animal farm film was funded by the CIA.](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/).  There's a reason they teach George Orwell in schools and not Franz Fanon, Che, Huey P Newton, Malcolm X, Lenin, CLR James, etc. 
+- His books Animal Farm and 1984 are used widely as anti-communist propaganda in schools in the US and UK. So much so that [his animated animal farm film was funded by the CIA](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/).  There's a reason they teach George Orwell in schools and not Franz Fanon, Che, Huey P Newton, Malcolm X, Lenin, CLR James, etc. 
 - [Orwell worked as a British imperial cop in Burma for 5 years](http://factsanddetails.com/southeast-asia/Myanmar/sub5_5e/entry-3083.html). His short story, [Shooting an Elephant](http://www.denisedrespling.com/review-shooting-elephant-george-orwell/), uses ethnic slurs and denigrates burmese people. 
+- [The testimony of Paul Robeson](https://www.youtube.com/watch?v=kmFjjaFNHKo) (one of the people Orwell snitched on), to HUAC (House of Unamerican activities committee) during the red scare.
 - [A reddit thread on George Orwell](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/), [Thread #2](https://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/for_those_on_the_right_who_think_orwell_wrote/dpy4zik/).
 ### John McCain
 - [War Criminal, who pushed for US military intervention in Syria, Libya, Serbia, Iran, Iraq, Afghanistan, and Vietnam.](https://www.counterpunch.org/2018/08/29/john-mccain-war-criminal-not-war-hero/) [Imperialism 2](https://www.cpgb-ml.org/2018/10/15/news/john-mccain-a-life-in-the-service-of-blood-soaked-imperialism/).
@@ -419,8 +430,9 @@
 - [Was Gandhi really a racist? What about Gandhi's legacy? A great lecture by Arundati Roy.](https://www.youtube.com/watch?v=CrN8PgZzc6k)
 - [Gandhi - The jews should've killed themselves instead.](https://izquotes.com/quote/mahatma-gandhi/hitler-killed-five-million-jews-it-is-the-greatest-crime-of-our-time-but-the-jews-should-have-231149)
 - [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
-### Did the atom bombs really end WW2?
-- [No, the entrance of the USSR into the war against Japan was the cause of Japan's surrender, which the US fully knew about since they were intercepting Japan's communications. The Atom bombing of Japanese civilians was in reality a display of military power against the USSR, and the first act of the cold war.](http://foreignpolicy.com/2013/05/30/the-bomb-didnt-beat-japan-stalin-did/)
+### Did atom bombs really end WW2?
+- [No, the entrance of the USSR into the war against Japan was the cause of Japan's surrender, which the US fully knew about since they were intercepting Japan's communications. The Atom bombing of Japanese civilians was in reality a display of military power against the USSR, and the first act of the cold war.](http://foreignpolicy.com/2013/05/30/the-bomb-didnt-beat-japan-stalin-did/) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoaLP3G2HGj-O5JTepm0Kjt-),
+    [Summary](https://www.reddit.com/r/Socialism_101/comments/bd615l/perspectives_on_ww2/eky36vp/?context=3)
 ### What's wrong with Bernie Sanders?
 - [Supports US imperialism](https://leftistcritic.wordpress.com/2017/01/31/bernie-sanders-an-imperialist-worth-despising/). [2](https://www.alternet.org/election-2016/bernie-sanders-troubling-history-supporting-us-military-violence-abroad)
   - [Voted for US intervention](https://i.imgur.com/HCvaDLp.jpg) in the following nations: Afghanistan, Lebanon, Libya, [Somalia](http://votesmart.org/bill/2732/7934/27110/bernie-sanders-voted-yea-passage-with-amendment-s-j-res-45-authorization-for-use-of-%20us-armed-forces-in-somalia#7934), Syria, Yemen, [Yugoslavia](http://www.libertyunionparty.org/?page_id=363),[2](http://votesmart.org/bill/2808/7948/27110/bosnia-troop-deployment-resolution#.Ve5QZkvJyhG), Bosnia, Haiti, Congo, Liberia, Sudan, and Ukraine.
@@ -441,10 +453,12 @@
   - [She votes to keep the US in NATO, who's been responsible for countless atrocities in Europe and the Middle East.](http://clerk.house.gov/evs/2019/roll044.xml)
   - Going back on her promise to only back "progressive democrats" after her election to congress in 2018, she [backs Nancy Pelosi for speaker of the house.](https://www.nbcnews.com/politics/congress/ocasio-cortez-backs-pelosi-speaker-dem-rebellion-falters-n939086)
   - [Says her policies are more reminiscent of Norway than Caracas, repeating the right wing myth of socialism destroying Venezuela, and wrongly conflating nordic social democracy with socialism.](https://i.imgur.com/fTJfV2k.png)
+  - [Says its possible to be both a "democratic socialist" and a Capitalist. ](https://www.msnbc.com/mtp-daily/watch/aoc-can-you-be-a-democratic-socialist-and-a-capitalist-it-s-possible-1439125059571?fbclid=IwAR1PmnyrP28stOyVqNP5Bf4vjqEtV5S4MXQIY4sDgcv-XWgEn1u5Z0ne3J8)
   - [Thinks the US military is socialist. Thinks social services like schools and libraries are socialist.](https://i.imgur.com/JHOZDlg.png)
   - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
   - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
 - [She supports Israel, and its genocide of Palestineans .](https://i.imgur.com/K6QsYZo.jpg)
+- [Goes along with democrats and Republicans in backing US puppet Juan Guaido over Maduro in Venezuela.](https://twitter.com/telesurenglish/status/1124924184629583872?s=19) 
 - [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
 ### What's wrong with Elizabeth Warren?
 - [She supports Capitalism. ](https://www.cnbc.com/2018/07/23/elizabeth-warren-i-am-a-capitalist-but-markets-need-rules.html)
@@ -453,6 +467,8 @@
 ### Kamala Harris
 - https://twitter.com/WillisJermane/status/1090261366789656578
 - https://www.theguardian.com/commentisfree/2019/jan/31/kamala-harris-laughed-jailing-parents-truancy
+### Biden
+- https://www.youtube.com/watch?v=seRaSRZKo2U
 ### Why don't socialists support a UBI / Universal Basic income?
 - [Would basic income fix our problems?](https://www.reddit.com/r/socialism/comments/8p097l/i_just_realized_that_monopoly_has_integrated/)
 - [A Marxist critique of Basic income.](https://www.reddit.com/r/communism/comments/8wizh9/marxist_critiques_on_the_universal_basic_income/)
@@ -468,7 +484,7 @@
 - [Whats so bad about UBI (universal basic income)?](https://thenewinquiry.com/universal-basic-bullshit/),[2](https://www.dissentmagazine.org/article/false-promise-universal-basic-income-andy-stern-ruger-bregman),[3](https://youtu.be/J10jKdPRN9A)
 - [Why are socialists against Israel / Zionism?](https://www.youtube.com/watch?v=BT5L4YU_Fl4&feature=youtu.be)
 - [Do most US troops come from poor neighborhoods? (Yes, debunking the heritage foundation debunkers)](https://www.boiseweekly.com/boise/poor-and-uneducated-like-we-thought/Content?oid=933196)
-- [Why communists do not participate in anti-russia hysteria, pushed by the democrats.](https://www.reddit.com/r/communism/comments/90i5yp/why_the_marxist_left_is_opposed_to_and_does_not/)
+- [Why communists do not participate in anti-russia hysteria, pushed by the democrats.](https://www.reddit.com/r/communism/comments/90i5yp/why_the_marxist_left_is_opposed_to_and_does_not/), [2](https://www.reddit.com/r/LateStageCapitalism/comments/9vaw8f/-/e9b1kxr)
 - [What about Beyonce / Black Capitalism?](https://www.independent.co.uk/news/people/beyonces-ivy-park-sportswear-line-denies-claims-its-clothes-were-produced-by-sweatshop-workers-a7035926.html)
 - [Is Christianity / the Bible Communist?](https://www.reddit.com/r/LateStageCapitalism/comments/9b7gsw/joel_osteen/e515qdb/)
 - [Was Mark Twain a socialist?](https://socialistworker.org/2010/04/21/the-twain-they-didnt-teach)

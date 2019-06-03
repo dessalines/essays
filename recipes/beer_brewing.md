@@ -3,7 +3,6 @@
 ## Videos
 
 - [Homebrewing basics playlist](https://www.youtube.com/playlist?list=PLJGQZwp3xofuwirWhdD2ks1Zf2cji0-rr&disable_polymer=true)
-
 ## Instructions
 
 ### Mash
@@ -19,10 +18,12 @@
 - Put on lid, cover in blanket / beach towel.
 - Leave for 1 hour.
 - Meanwhile, fill up kettle again and bring your sparge water up to 170-180 deg.
-- Pour this out into other containers (your kettle is now your brew kettle and should be empty)
-- Start draining mash tun (recirculate until its clear).
-- Drain into kettle until empty.
-- Once it gets low, your sparge water. Recirculate every time. Repeat until all sparge water is used.
+- Pour this out into other containers (your kettle is now your brew kettle and should be empty).
+- Start draining mash tun.
+  - Recirculate a few times till its clear.
+  - Drain into kettle until empty. Add more sparge water.
+  - Stir in, then wait 30 minutes for hot sparge water to mix.
+  - Repeat until no more sparge water. This process should take about 2 hours.
 - Save 1 qt of this into a container for a yeast starter.
 - Take sample from kettle, chill in fridge, and measure the specific gravity, should be around 1.040.
 
@@ -63,3 +64,11 @@
 - [Here's](https://www.thekitchn.com/how-to-check-and-control-alcohol-levels-the-kitchns-beer-school-2015-217260) what you can do for adjusting numbers. 
 - Stir in priming sugar. 
 - Bottle.
+
+---
+- Total Water Needed [?]: 9.16 Gallons, 34.66 Liters
+- Mash Water Needed [?]: 2.99 Gallons, 11.33 Liters, 1 hour 151 deg
+- Sparge Water Needed [?]: 6.16 Gallons, 23.33 Liters, 10 minutes 170 deg
+- Strike Temperature [?]: 164.33 F, 74 CPre-Boil Wort Produced [?]: 6.99 Gallons, 26.44 Liters 
+- 3 weeks primary, 2 weeks bottle 
+- 5.5 gallons post boil vol

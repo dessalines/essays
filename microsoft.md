@@ -17,5 +17,6 @@
 - Its [workers often suffer burnout](https://archive.is/20120629191556/http://www.krsaborio.net/research/1980s/89/890423.htm), and has been called a *velvet sweatshop*. Microsoft lost a lawsuit for $93 million for using "permatemp" employees, which were worked as hard as ordinary employees, yet received none of the benefits. Microsoft is the largest American corporate user of H-1B guest worker visas in order to pay them less. Microsoft has also come under criticism for developing software capable of analyzing the output of remote sensors in order to [measure the competence and productivity of workers based on their physical responses.](https://www.thetimes.co.uk/article/microsoft-seeks-patent-for-office-spy-software-h0dd5zmtfnt)
 
 ## Sources
-
+- https://stallman.org/microsoft.html
 - http://www.kmfms.com/whatsbad.html
+- https://www.gnu.org/philosophy/right-to-read.en.html
