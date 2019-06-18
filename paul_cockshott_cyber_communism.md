@@ -6,7 +6,7 @@ Taken from his book, [Towards a New Socialism](http://ricardo.ecn.wfu.edu/~cottr
 
 - Production takes place. All goods / services are valued by their **composite labor time** (in labor voucher hours, see below). Factor in depreciation and education into cost. For example, a smartphone might cost 0.5 labor hours. Goods that have neglible marginal cost (~ 0 labor hours) would be free.
 - Open, publicly funded research and development is shared by all, with the goal of **decreasing the labor time cost** of every good.
-- Workers are paid in labor vouchers **per hour work performed**. Working 8 hours would earn you 8 LVH (labor voucher hours). Multipliers *may* be used if certain work is deemed more necessary, or dangerous, but most likely limited by a certain ratio to foster community.
+- Workers are paid in labor vouchers **per hour work performed**. Working 8 hours would earn you 8 LVH (labor voucher hours) (or a bit less to cover social services). Multipliers *may* be used if certain work is deemed more necessary, or dangerous, but most likely limited by a certain ratio to foster community.
 - Goods are sold in public shops.
 - Shop managers are instructed to **adjust labor prices so that all goods are sold**. While a good selling out is itself an indicator of demand, adjusting by a certain limited ratio gives more demand information, and prevents unwanted goods from going to waste. 
 - Each good now has a ratio of its *sold labor time* to actual labor time cost. 
@@ -22,15 +22,16 @@ Taken from his book, [Towards a New Socialism](http://ricardo.ecn.wfu.edu/~cottr
 
 ### Labor vouchers
 
-- Earned by workers. 1 LVH = 1 Labor Voucher Hour earned per hour of work.
+- Earned by workers. 1 LVH = 1 Labor Voucher Hour earned per hour of work (or less to cover social services)
 - Attached to a single person / family, likely through a credit card. 
 - Can only be exchanged for consumer goods. You cannot transfer them to another person. Buying absentee property is illegal. 
 - Are destroyed after being used in shops.
 - Possibly destroyed after a certain amount of time (to prevent hoarding)
-- Labor time across the economy is preserved. If there are 6 million working people in a country : 
-  - Labor ministry issues 6 million person-years vouchers to workers. 
-  - Labor hours used producing non-consumer goods (2 million person-years) + labor hours used in consumer goods production (4 million person-years) = cost of goods in shops (4 million person-years) + (2 million person-years cancelled for social tax bin)
-  - Workers spend 4 million in the shops, social income tax of 2 million ( to provide for social services ), and the 6 million labor hours are fully canceled. 
+- Labor time across the economy is preserved. If there are 8 million workers in a country : 
+  - Lets say 2 million workers are devoted to social services, 6 million to consumer goods.
+  - Labor ministry issues 6 million person-years vouchers to workers, split among the 8 million workers.
+  - Labor hours used producing non-consumer goods (2 million person-years) + labor hours used in consumer goods production (6 million person-years) = cost of goods in shops (6 million person-years) + (2 million person-years cancelled for social tax bin)
+  - Workers spend 6 million in the shops, social income tax of 2 million ( to provide for social services ), and the 8 million labor hours are fully canceled. 
   - This defetishizes consumer-producer relations, since you can see exactly how human labor is being allocated, and spent.
 
 ### Direct democracy for non-consumer goods
