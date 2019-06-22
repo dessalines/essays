@@ -25,6 +25,7 @@
     + [Marxian economics](#marxian-economics)
     + [History books](#history-books)
     + [Psychology](#psychology)
+    + [Fiction](#fiction)
   * [Audiobooks](#audiobooks)
   * [Films](#films)
   * [Documentaries](#documentaries)
