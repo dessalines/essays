@@ -13,6 +13,7 @@
   * [Did economic planning work?](#did-economic-planning-work)
   * [Who would sweep the floors under communism?](#who-would-sweep-the-floors-under-communism)
   * [What about cooperatives?](#what-about-cooperatives)
+  * [What about democracy?](#what-about-democracy)
   * [Pacifism and Violence](#pacifism-and-violence)
   * [What would [X] be like under communism?](#what-would-x-be-like-under-communism)
   * [On Economics and Sociology](#on-economics-and-sociology)
@@ -31,6 +32,11 @@
     + [Did the citizens of the Soviet Union dislike their government?](#did-the-citizens-of-the-soviet-union-dislike-their-government)
     + [Further reading](#further-reading-1)
   * [On Mao, Maoism, and Marxism-Leninism-Maoism, and the PRC](#on-mao-maoism-and-marxism-leninism-maoism-and-the-prc)
+    + [Democracy / State Capitalism?](#democracy--state-capitalism)
+    + [What about the Hong Kong protests?](#what-about-the-hong-kong-protests)
+    + [What about China spying on its own people?](#what-about-china-spying-on-its-own-people)
+    + [What's going on with the Uyghurs?](#whats-going-on-with-the-uyghurs)
+    + [What about the Tiananmen square massacre?](#what-about-the-tiananmen-square-massacre)
     + [Did Mao kill millions of people?](#did-mao-kill-millions-of-people)
     + [Was the PRC a totalitarian dictatorship?](#was-the-prc-a-totalitarian-dictatorship)
     + [Further reading](#further-reading-2)
@@ -51,11 +57,13 @@
     + [John McCain](#john-mccain)
     + [What about the new atheists? (Sam Harris, Richard Dawkins, Christopher Hitchens)](#what-about-the-new-atheists-sam-harris-richard-dawkins-christopher-hitchens)
     + [Gandhi](#gandhi)
-    + [Did the atom bombs really end WW2?](#did-the-atom-bombs-really-end-ww2)
+    + [Did atom bombs really end WW2?](#did-atom-bombs-really-end-ww2)
     + [What's wrong with Bernie Sanders?](#whats-wrong-with-bernie-sanders)
     + [What's wrong with Alexandria Ocasio-Cortez?](#whats-wrong-with-alexandria-ocasio-cortez)
     + [What's wrong with Elizabeth Warren?](#whats-wrong-with-elizabeth-warren)
     + [Kamala Harris](#kamala-harris)
+    + [Biden](#biden)
+    + [What about overpopulation / unsustainability?](#what-about-overpopulation--unsustainability)
     + [Why don't socialists support a UBI / Universal Basic income?](#why-dont-socialists-support-a-ubi--universal-basic-income)
     + [Others](#others)
 
@@ -318,16 +326,57 @@
 * [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
+
+### Democracy / State Capitalism?
+
+*Much credit to /u/bayarea415*
+
+* [A China misinformation Megathread.](https://www.reddit.com/r/socialism/comments/c2b6z5/china_megathread_everything_controversial/)
 * [Is modern day china communist? Is it staying true to communist values?](https://www.reddit.com/r/communism101/comments/91liw2/how_is_china_staying_true_to_communist_values/e2z3kzu/), [2](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4)
 * [Is China a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
+* [How does China’s political system work?](https://www.youtube.com/watch?v=Qu4QTxl9GVw)
 * [Are capitalists allowed in the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
-* [What about Chinas Orwellian Social Credit Score?](https://mobile.twitter.com/isgoodrum/status/975536363364696064?lang=en)
+* [The Long Game and Its Contradictions]( https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4)
+* [“Washington is actually far more corrupt than Beijing. If you want to get something done in Washington, you do what you do in Jakarta: just slip some money to the right people.”]( https://www.forbes.com/sites/eamonnfingleton/2014/11/12/obama-in-china-taking-candy-from-a-baby/#27d9d3c1231e)
+* [The west views China as one big sweatshop, but the actual working hours aren't much more than anywhere else. The average for a migrant worker (most vulnerable to exploitation as they are traveling from the countryside) is 8.8 hours, little under an hour more than a typical working day. Labor strikes are rarely suppressed, there are many exemples of workers on strikegetting the support of the PRC.The Chinese state rules in favor of the workers](https://www.forbes.com/sites/mitchfree/2013/07/11/held-hostage-entrepreneurs-uneasy-over-chinese-govt-inaction/#2431f5463de4)
+* [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/)
+* [Wages themselves are also forced to rise in the private sector by the CPC (+16% every years, +400% since 1980) who force the capitalists to accept the presence of CPC chapters who represent the interest of the workers, increasing workers control even in the capitalist parts of the economy.](https://www.workers.org/2015/07/21/china-rising-wages-and-worker-militancy/#.WXOlQtPytsM)
+* [The workplace safety standards of China are better than in the capitalist countries of the West like in Australia who have an higher rate of work related death despite having a GDP per capita 3-5 times higher.](http://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/)
+
+### What about the Hong Kong protests?
+
+- The extradition bill came about when a [man from Hong Kong killed his pregnant girlfriend while in holiday in Taiwan.](https://www.reddit.com/r/communism101/comments/c1nxga/opinions_on_hong_kong_protests/ered9wl/) He fled back to Hong Kong. Taiwan asked for him to be extradited, but Hong Kong did not have an extradition treaty with Taiwan, so the administration in Hong Kong proposed a bill that would allow Taiwan, the PRC, and Macau to request extradition, which the judiciary in Hong Kong can then approve. [There were 49 crimes that were to be included in the bill that would allow extradition requests.](https://qz.com/1636663/the-37-crimes-included-in-hong-kongs-proposed-extradition-law/) Some of these were financial crimes, and the Bourgeoisie in Hong Kong shit themselves because they are often in breach of PRC law, but protected by Hong Kong's independence as a Special Administrative Region. This bill is completely reasonable, and any fears of the PRC taking over or of the extradition of 'political' criminals is unfounded. Right now I fear that the US is encouraging the organizers to keep protesting in order to provoke the administration in Hong Kong to crack down on them, so that they can blame China and keep up their propaganda narrative that 'CHINA BAD!' [More here.](https://www.scmp.com/news/hong-kong/law-and-crime/article/3008099/sentence-man-who-killed-girlfriend-taiwan-sets)
+- [Hong Kong Human Rights Monitor 香港人权监察 and HKCTU 香港职工联盟, along with 68 other Hong Kong “democratic right” organizations  earn hundreds of thousands every year from State Department funded NGOs](https://twitter.com/redniangzijun/status/1137901349750939648).
+- [American Government NGOs fuel Hong Kong Protests]( https://www.mintpressnews.com/hong-kong-protests/259202/).
+- [Leaders of protests meet with Trump administration asking for intervention](https://twitter.com/redniangzijun/status/1137901349750939648).
+- [“Something else you won't see in imperialist msm: Hong Kongers organizing to show their support for extradition amendment. "Hong Kongers can't be at ease if fugitives are in the large"](https://mobile.twitter.com/redniangzijun/status/1139177913859891202).
+- [“Over 900,000 real name signatures in "Protecting justice & supporting extradition" petition. Reasons listed: HK criminal committed murder in TW; HK current extradition law has flaws & needs amendment asap; HK shouldn't be fugitive heaven, extradition amendment has many safeguards”](https://mobile.twitter.com/redniangzijun/status/1139177921631965189).
+
+### What about China spying on its own people?
+
+- [China’s Social Credit System, and how it isn't actually Black Mirror and how you should stop using facile pop cultural references to demonize countries you haven't bothered to understand.](https://mobile.twitter.com/isgoodrum/status/975536363364696064?lang=en) 
+- [The complex truth about China’s Social Credit system]( https://logicmag.io/07-the-messy-truth-about-social-credit/?fbclid=IwAR2ZZLiRAyJalyvAngv0EvwaoLleeAEOfN99GxPAccxfQpSplf5gbNmtFnA) 
 
 ### What's going on with the Uyghurs?
-* [Does china have concentration camps for Uyghur Muslims?](https://thegrayzone.com/2018/08/23/un-did-not-report-china-internment-camps-uighur-muslims/) 
-* [What about religous freedom in China? Is China killing / imprisoning Muslims?](https://twitter.com/isgoodrum/status/1004884261051092993?s=21)
-* [A Pakistani diplomat visits western China.](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang)
-* [Chinese muslims enjoying a faith revival.](http://time.com/3099950/china-muslim-hui-xinjiang-uighur-islam/)
+
+- [No, the UN did not report China has ‘massive internment camps’ for Uighur Muslims]( https://thegrayzone.com/2018/08/23/un-did-not-report-china-internment-camps-uighur-muslims/).
+- [US fuels terrorism in China: “1 million Uyghurs never verified”]( https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
+- [China’s Xinjiang Problem – Made in USA](https://journal-neo.org/2015/11/10/chinas-xinjiang-problem-made-in-usa/).
+- [The Truth About China’s Uyghur Problem]( https://21stcenturywire.com/2018/12/14/the-truth-behind-chinas-uyghur-problem/).
+- [Religious freedoms in China explained]( https://twitter.com/isgoodrum/status/1004884261051092993?s=21).
+- [A Pakistani Diplomat given full access to “re-education camps” and this is what she found](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang).
+- [EU rejects China offer of Xinjiang tour](https://www.scmp.com/news/china/diplomacy/article/3003217/eu-rejects-chinas-offer-xinjiang-tour-says-its-open-one-later).
+- [If China Is Anti-Islam, Why Are These Chinese Muslims Enjoying a Faith Revival?]( https://time.com/3099950/china-muslim-hui-xinjiang-uighur-islam/) 
+- [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic).
+
+### What about the Tiananmen square massacre?
+
+- [Tiananmen Square "Massacre", A Propaganda Hoax](https://www.youtube.com/watch?v=R6RT_s1T050)
+- [It wasn't a massacre of peaceful students, but a skirmish between PLA soldiers and armed detachments from the pro-capitalist / free market reform movement.]( https://www.liberationnews.org/tiananmen-the-massacre-that-wasnt/) The protest movement, as evidenced by their own accounts, called for market liberalisation, and free market reforms, rallying around a replica of the statue of liberty. After the movement had been building in the square for seven weeks, unarmed soldiers were sent in to disperse the protesters, after which many soldiers were beaten to death, torched, and lynched. The New York Times death count went from 2600, to many thousands, to 8000, to tens of thousands. In reality only around ~200 (including soldiers) were killed or trampled, in smaller clashes outside the square. The on-scene New York Times reporter disavowed the article, especially about machine-gunning of protesters. [A wikileaks cable](https://www.telegraph.co.uk/news/worldnews/wikileaks/8555142/Wikileaks-no-bloodshed-inside-Tiananmen-Square-cables-claim.html) from a US ambassador to the US state department, confirmed that no killings or machine-gunnings took place in the square.
+- [A British Lie]( https://www.globalresearch.ca/tiananmen-square-massacre-is-a-myth-all-were-remembering-are-british-lies/5386080).
+- [Deng XiaoPing was ill at the time, and the CIA had an inside man inside the party, Zhao Ziyang, dubbed China's Gorbachev, who promised to open the door to market liberalisation if the protest movement had succeeded, like those of Ukraine, Yugoslavia, Georgia, and the USSR.](https://medium.com/@leohezhao/notes-for-30th-anniversary-of-tiananmen-incident-f098ef6efbc2)
+- [The protest movement followed the line of "color revolutions", in which the US tried to destabilize and create counter-revolutions in eastern Europe and Latin America after the fall of the USSR. The strategy was to stir division within and without, by inundating the media with news of massacres of "peaceful", pro-capitalist / market reformers.](http://www.fightbacknews.org/2019/6/4/reflections-tiananmen-square-and-attempt-end-chinese-socialism) 
+- [The defeat of a counter revolution in China](https://frso.org/main-documents/looking-back-at-tiananmen-square-the-defeat-of-counter-revolution-in-china/).
 
 ### [Did Mao kill millions of people?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_mao_killed_millions_of_people)
 - [*Did Mao Really Kill Millions in the Great Leap Forward?*](http://monthlyreview.org/commentary/did-mao-really-kill-millions-in-the-great-leap-forward/) by Joseph Ball
@@ -335,12 +384,6 @@
 - [*The Battle for China's Past*]( http://www.strongwindpress.com/pdfs/EBook/The_Battle_for_Chinas_Past.pdf) by Mobo Gao
 - [*Was Mao Really a Monster? The Academic Response to Chang and Halliday's "Mao: The Unknown Story"*](http://gen.lib.rus.ec/book/index.php?md5=b83ac8a7e6c2d8ce3f809842521965f1) by Benton and Chun
 - [*How did Mao manage to kill ~78 million people?*](https://www.quora.com/How-did-Mao-manage-to-kill-78-million-people/answer/Godfree-Roberts) by Godfree Roberts
-
-### What about the Tiananmen square massacre?
-- [It wasn't a massacre of peaceful students, but a skirmish between PLA soldiers and armed detachments from the pro-capitalist / free market reform movement.](https://www.liberationnews.org/tiananmen-the-massacre-that-wasnt/) The protest movement, as evidenced by their own accounts, called for market liberalisation, and free market reforms, rallying around a replica of the statue of liberty. After the movement had been building in the square for seven weeks, unarmed soldiers were sent in to disperse the protesters, after which many soldiers were beaten to death, torched, and lynched. The New York Times death count went from 2600, to *many thousands*, to 8000, to *tens of thousands*. In reality only around ~200 (including soldiers) were killed or trampled, in smaller clashes outside the square. The on-scene New York Times reporter disavowed the article, especially about machine-gunning of protesters. [A wikileaks cable](https://www.telegraph.co.uk/news/worldnews/wikileaks/8555142/Wikileaks-no-bloodshed-inside-Tiananmen-Square-cables-claim.html) from a US ambassador to the US state department, confirmed that no killings or machine-gunnings took place in the square. [2](https://medium.com/@leohezhao/notes-for-30th-anniversary-of-tiananmen-incident-f098ef6efbc2)
-- [Deng XiaoPing was ill at the time, and the CIA had an inside man inside the party, Zhao Ziyang, dubbed China's Gorbachev, who promised to open the door to market liberalisation if the protest movement had succeeded, like those of Ukraine, Yugoslavia, Georgia, and the USSR.](https://medium.com/@leohezhao/notes-for-30th-anniversary-of-tiananmen-incident-f098ef6efbc2) [More on color revolutions.](https://en.wikipedia.org/wiki/Colour_revolution)
-- [The 4 myths of Tiananmen square.](https://medium.com/@leohezhao/notes-for-30th-anniversary-of-tiananmen-incident-f098ef6efbc2)
-- [The protest movement followed the line of "color revolutions", in which the US tried to destabilize and create counter-revolutions in eastern Europe and Latin America after the fall of the USSR. The strategy was to stir division within and without, by inundating the media with news of massacres of "peaceful", pro-capitalist / market reformers.](http://www.fightbacknews.org/2019/6/4/reflections-tiananmen-square-and-attempt-end-chinese-socialism)[2](https://frso.org/main-documents/looking-back-at-tiananmen-square-the-defeat-of-counter-revolution-in-china/), [3](https://www.youtube.com/watch?v=R6RT_s1T050&feature=youtu.be)
 
 ### [Was the PRC a totalitarian dictatorship?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_2.3A_china_was_a_totalitarian_dictatorship)
 - [*The Rise of the Chinese People's Communes*](http://gen.lib.rus.ec/book/index.php?md5=58B399C3CA70411186D2AD96230D649A) by Anna Louise Strong
