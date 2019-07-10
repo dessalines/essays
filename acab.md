@@ -20,7 +20,7 @@ Sorry I'm so amped about this but they just murdered a [14 year old in Phoenix, 
 
 ---
 
-Oh, and for anyone wondering what the alternative is, here are some things domestic worker-controlled security forces (it feels almost blasphemous to call them police, since they have the exact opposite function as capitilast police) have historically done:
+Oh, and for anyone wondering what the alternative is, here are some things domestic worker-controlled security forces (it feels almost blasphemous to call them police, since they have the exact opposite function as capitalist police) have historically done:
 
 - Actually solved murders, rapes, and thefts against working class people.
 - Were fully accountable for offenses (although these were rare since there was no for-profit abduction system as exists in Capitalism).
