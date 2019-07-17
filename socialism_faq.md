@@ -49,23 +49,25 @@
     + [Is the DPRK a Fascist Monarchy?](#is-the-dprk-a-fascist-monarchy)
     + [Further reading](#further-reading-3)
   * [On Venezuela](#on-venezuela)
-  * [Other Topics](#other-topics)
-    + [Why are socialists against bitcoin mining?](#why-are-socialists-against-bitcoin-mining)
+  * [People](#people)
     + [Whats so bad about Elon Musk?](#whats-so-bad-about-elon-musk)
     + [Whats so bad about Bill Gates?](#whats-so-bad-about-bill-gates)
     + [What's so bad about George Orwell?](#whats-so-bad-about-george-orwell)
     + [John McCain](#john-mccain)
     + [What about the new atheists? (Sam Harris, Richard Dawkins, Christopher Hitchens)](#what-about-the-new-atheists-sam-harris-richard-dawkins-christopher-hitchens)
     + [Gandhi](#gandhi)
-    + [Did atom bombs really end WW2?](#did-atom-bombs-really-end-ww2)
     + [What's wrong with Bernie Sanders?](#whats-wrong-with-bernie-sanders)
     + [What's wrong with Alexandria Ocasio-Cortez?](#whats-wrong-with-alexandria-ocasio-cortez)
     + [What's wrong with Elizabeth Warren?](#whats-wrong-with-elizabeth-warren)
     + [Kamala Harris](#kamala-harris)
     + [Biden](#biden)
+    + [Others](#others)
+  * [Other Topics](#other-topics)
+    + [Why are socialists against bitcoin mining?](#why-are-socialists-against-bitcoin-mining)
+    + [Did atom bombs really end WW2?](#did-atom-bombs-really-end-ww2)
     + [What about overpopulation / unsustainability?](#what-about-overpopulation--unsustainability)
     + [Why don't socialists support a UBI / Universal Basic income?](#why-dont-socialists-support-a-ubi--universal-basic-income)
-    + [Others](#others)
+    + [Others](#others-1)
 
 <!-- tocstop -->
 
@@ -99,7 +101,7 @@
 * [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
 * [Looking for reference to types of communism.](http://www.reddit.com/r/communism101/comments/1fcc6o/looking_for_reference_to_types_of_communism/)
 * [What was Engels Contribution to Marxism?](https://necessityandfreedom.wordpress.com/2017/04/16/without-engels-there-would-be-no-marxism/)
-* [Were the nazis socialist? What about national socialism, the national socialist movement (NSM), and the national front?](https://www.snopes.com/news/2017/09/05/were-nazis-socialists/), [2](https://www.reddit.com/r/Socialism_101/comments/79kvin/what_is_the_difference_between_socialists_here/), [3](https://www.reddit.com/r/ShitLiberalsSay/wiki/index#wiki_the_nazis_were_socialists.2C_communists_or_leftists)
+* [Were the nazis socialist? What about national socialism, the national socialist movement (NSM), and the national front?](https://www.snopes.com/news/2017/09/05/were-nazis-socialists/), [2](https://www.reddit.com/r/Socialism_101/comments/79kvin/what_is_the_difference_between_socialists_here/), [3](https://www.reddit.com/r/therewasanattempt/comments/cblf1y/to_commit_a_hate_crime/ethf3t8/), [4](https://www.reddit.com/r/ShitLiberalsSay/wiki/index#wiki_the_nazis_were_socialists.2C_communists_or_leftists)
 * [What is Fascism?](http://www.nybooks.com/articles/1995/06/22/ur-fascism/)
 * [Did Karl Marx use "socialism" and "communism" interchangeably?](http://www.reddit.com/r/communism101/comments/2msa39/did_karl_marx_use_socialism_and_communism/)
 * [What is Luxemburgism?](https://www.reddit.com/r/communism/comments/bzl9iu/luxemburgism/eqtbcxe/)
@@ -333,6 +335,7 @@
 
 * [A China misinformation Megathread.](https://www.reddit.com/r/socialism/comments/c2b6z5/china_megathread_everything_controversial/)
 * [Is modern day china communist? Is it staying true to communist values?](https://www.reddit.com/r/communism101/comments/91liw2/how_is_china_staying_true_to_communist_values/e2z3kzu/), [2](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4)
+* [Is the CCP committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
 * [Is China a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
 * [How does China’s political system work?](https://www.youtube.com/watch?v=Qu4QTxl9GVw)
 * [Are capitalists allowed in the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
@@ -359,12 +362,13 @@
 
 ### What's going on with the Uyghurs?
 
-- [No, the UN did not report China has ‘massive internment camps’ for Uighur Muslims]( https://thegrayzone.com/2018/08/23/un-did-not-report-china-internment-camps-uighur-muslims/).
-- [US fuels terrorism in China: “1 million Uyghurs never verified”]( https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
-- [China’s Xinjiang Problem – Made in USA](https://journal-neo.org/2015/11/10/chinas-xinjiang-problem-made-in-usa/).
-- [The Truth About China’s Uyghur Problem]( https://21stcenturywire.com/2018/12/14/the-truth-behind-chinas-uyghur-problem/).
-- [Religious freedoms in China explained]( https://twitter.com/isgoodrum/status/1004884261051092993?s=21).
+- [What's going on with the Uyghurs / Xinjiang province?](https://medium.com/@gmochannel/the-truth-about-uyghurs-and-xinjiang-e970992f63f1)
 - [A Pakistani Diplomat given full access to “re-education camps” and this is what she found](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang).
+- [No, the UN did not report China has ‘massive internment camps’ for Uighur Muslims](https://thegrayzone.com/2018/08/23/un-did-not-report-china-internment-camps-uighur-muslims/).
+- [US fuels terrorism in China: “1 million Uyghurs never verified”](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
+- [China’s Xinjiang Problem – Made in USA](https://journal-neo.org/2015/11/10/chinas-xinjiang-problem-made-in-usa/).
+- [The Truth About China’s Uyghur Problem](https://21stcenturywire.com/2018/12/14/the-truth-behind-chinas-uyghur-problem/).
+- [Religious freedoms in China explained](https://twitter.com/isgoodrum/status/1004884261051092993?s=21).
 - [EU rejects China offer of Xinjiang tour](https://www.scmp.com/news/china/diplomacy/article/3003217/eu-rejects-chinas-offer-xinjiang-tour-says-its-open-one-later).
 - [If China Is Anti-Islam, Why Are These Chinese Muslims Enjoying a Faith Revival?]( https://time.com/3099950/china-muslim-hui-xinjiang-uighur-islam/) 
 - [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic).
@@ -470,11 +474,7 @@
 - [The U.S. Has Venezuela in Its Crosshairs](https://www.truthdig.com/articles/the-u-s-has-venezuela-in-its-crosshairs/)
 - The Venezuelan government [invited the UN](https://www.yahoo.com/news/venezuela-plea-un-send-observers-election-211445340.html)  to send observers to monitor the 2018 elections, but the opposition [opposed](https://www.reuters.com/article/us-venezuela-politics-un/venezuela-opposition-asks-u-n-not-to-send-observers-to-may-vote-idUSKCN1GO2J0) this move and [directly petitioned](https://twitter.com/ADemocratica/status/973345076490457088) the UN not to accept the invitation. [Maduro's May 2018 Election were declared fair by over 1500 international observers](http://journalcontent.mediatheoryjournal.org/index.php/mt/article/view/65/56). 
 - [On the 2019 Venezeulan coup attempt.](https://www.reddit.com/r/socialism/comments/aj46d1/breaking_trump_recognizes_venezuelan_opposition/eesnkhm/) [The Trump administration discussed Coup plans with the plotters shortly before.](https://www.nytimes.com/2018/09/08/world/americas/donald-trump-venezuela-military-coup.html)[The US pushing regime change.](https://www.theguardian.com/commentisfree/2014/feb/18/venezuela-protests-us-support-regime-change-mistake) [Venezuelans march to oppose regime change](https://www.reddit.com/r/socialism/comments/ajd64i/maduro_supporters_enraged_about_the_current/). The hand-picked right wing successor, is a [US puppet.](https://grayzoneproject.com/2019/01/29/the-making-of-juan-guaido-how-the-us-regime-change-laboratory-created-venezuelas-coup-leader/amp/)
-
-## Other Topics
-### Why are socialists against bitcoin mining?
-- [A single bitcoin transaction wastes as much energy as your house uses in a week.](https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change)
-- [Bitcoin mining consumes more electricity per year than all of Ireland.](https://www.theguardian.com/technology/2017/nov/27/bitcoin-mining-consumes-electricity-ireland)
+## People
 
 ### Whats so bad about Elon Musk?
 - [Crushes unionization attempts at tesla factories, promising free frozen yogurt in return.](https://www.buzzfeed.com/carolineodonovan/musk-slams-union-drive-in-email-to-employees) 
@@ -533,10 +533,6 @@
 - [Gandhi - The jews should've killed themselves instead.](https://izquotes.com/quote/mahatma-gandhi/hitler-killed-five-million-jews-it-is-the-greatest-crime-of-our-time-but-the-jews-should-have-231149)
 - [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 
-### Did atom bombs really end WW2?
-- [No, the entrance of the USSR into the war against Japan was the cause of Japan's surrender, which the US fully knew about since they were intercepting Japan's communications. The Atom bombing of Japanese civilians was in reality a display of military power against the USSR, and the first act of the cold war.](http://foreignpolicy.com/2013/05/30/the-bomb-didnt-beat-japan-stalin-did/) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoaLP3G2HGj-O5JTepm0Kjt-),
-    [Summary](https://www.reddit.com/r/Socialism_101/comments/bd615l/perspectives_on_ww2/eky36vp/?context=3)
-
 ### What's wrong with Bernie Sanders?
 - [Supports US imperialism](https://leftistcritic.wordpress.com/2017/01/31/bernie-sanders-an-imperialist-worth-despising/). [2](https://www.alternet.org/election-2016/bernie-sanders-troubling-history-supporting-us-military-violence-abroad)
   - [Voted for US intervention](https://i.imgur.com/HCvaDLp.jpg) in the following nations: Afghanistan, Lebanon, Libya, [Somalia](http://votesmart.org/bill/2732/7934/27110/bernie-sanders-voted-yea-passage-with-amendment-s-j-res-45-authorization-for-use-of-%20us-armed-forces-in-somalia#7934), Syria, Yemen, [Yugoslavia](http://www.libertyunionparty.org/?page_id=363),[2](http://votesmart.org/bill/2808/7948/27110/bosnia-troop-deployment-resolution#.Ve5QZkvJyhG), Bosnia, Haiti, Congo, Liberia, Sudan, and Ukraine.
@@ -579,6 +575,26 @@
 ### Biden
 - https://www.youtube.com/watch?v=seRaSRZKo2U
 
+### Others
+- [What's so bad about Winston Churchill?](http://www.reddit.com/r/ShitLiberalsSay/comments/80sxhj/-/duy08zm) , [2](https://crimesofbritain.com/2016/09/13/the-trial-of-winston-churchill/)
+- [What about Jordan Peterson?](https://www.reddit.com/r/Socialism_101/comments/85cuay/thoughts_on_jordan_petersons_criticism_of_marxism/dvwnd25/)
+- [What about Beyonce / Black Capitalism?](https://www.independent.co.uk/news/people/beyonces-ivy-park-sportswear-line-denies-claims-its-clothes-were-produced-by-sweatshop-workers-a7035926.html)
+- [Is Christianity / the Bible Communist?](https://www.reddit.com/r/LateStageCapitalism/comments/9b7gsw/joel_osteen/e515qdb/)
+- [Was Mark Twain a socialist?](https://socialistworker.org/2010/04/21/the-twain-they-didnt-teach)
+- [What's so bad about Ronald Reagan?](https://www.reddit.com/r/ShitLiberalsSay/comments/ce2v7l/rpolitics_straight_up_creaming_their_pants_over/etydg3l/)
+- What's so bad about [Barack Obama?](https://www.reddit.com/r/communism101/comments/cdamsp/what_are_your_opinions_on_obama/etswenc/) Also this [List of US Atrocities](https://github.com/dessalines/essays/blob/master/us_atrocities.md)
+- [What about Tulsi Gabbard?](https://www.jacobinmag.com/2017/05/tulsi-gabbard-president-sanders-democratic-party)
+- [What's going on with the finnish bolshevik being accused of a rape fantasy?](https://www.reddit.com/r/ShitLiberalsSay/comments/8aobas/this_is_the_finnish_bolshevik_with_a_minor/dx09v07/)
+
+## Other Topics
+### Why are socialists against bitcoin mining?
+- [A single bitcoin transaction wastes as much energy as your house uses in a week.](https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change)
+- [Bitcoin mining consumes more electricity per year than all of Ireland.](https://www.theguardian.com/technology/2017/nov/27/bitcoin-mining-consumes-electricity-ireland)
+
+### Did atom bombs really end WW2?
+- [No, the entrance of the USSR into the war against Japan was the cause of Japan's surrender, which the US fully knew about since they were intercepting Japan's communications. The Atom bombing of Japanese civilians was in reality a display of military power against the USSR, and the first act of the cold war.](http://foreignpolicy.com/2013/05/30/the-bomb-didnt-beat-japan-stalin-did/) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoaLP3G2HGj-O5JTepm0Kjt-),
+    [Summary](https://www.reddit.com/r/Socialism_101/comments/bd615l/perspectives_on_ww2/eky36vp/?context=3)
+
 ### What about overpopulation / unsustainability?
 
 * [Agricultural economist refutes overpopulation myths. ](https://www.vox.com/the-big-idea/2017/12/12/16766872/overpopulation-exaggerated-concern-climate-change-world-population)
@@ -594,20 +610,15 @@
 - [Could Basic income "save" Capitalism?](https://www.reddit.com/r/Socialism_101/comments/92qgzn/realistically_could_universal_basic_income_save/)
 - [Its supported by, and benefits, silicon valley billionaires.](https://www.latimes.com/opinion/op-ed/la-oe-rushkoff-universal-basic-income-silicon-valley-20170721-story.html)
 - [Its used to allay elite fears of revolution.](https://www.reddit.com/r/socialism/comments/87es0k/mrw_i_cite_to_my_libertarian_friend_a_nobel/)
+
 ### Others
-- [What's so bad about Winston Churchill?](http://www.reddit.com/r/ShitLiberalsSay/comments/80sxhj/-/duy08zm) , [2](https://crimesofbritain.com/2016/09/13/the-trial-of-winston-churchill/)
-- [What about Jordan Peterson?](https://www.reddit.com/r/Socialism_101/comments/85cuay/thoughts_on_jordan_petersons_criticism_of_marxism/dvwnd25/)
 - [What is Antifa? (Olly)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
 - [Whats so bad about UBI (universal basic income)?](https://thenewinquiry.com/universal-basic-bullshit/),[2](https://www.dissentmagazine.org/article/false-promise-universal-basic-income-andy-stern-ruger-bregman),[3](https://youtu.be/J10jKdPRN9A)
 - [Why are socialists against Israel / Zionism?](https://www.youtube.com/watch?v=BT5L4YU_Fl4&feature=youtu.be)
 - [Do most US troops come from poor neighborhoods? (Yes, debunking the heritage foundation debunkers)](https://www.boiseweekly.com/boise/poor-and-uneducated-like-we-thought/Content?oid=933196)
 - [Why communists do not participate in anti-russia hysteria, pushed by the democrats.](https://www.reddit.com/r/communism/comments/90i5yp/why_the_marxist_left_is_opposed_to_and_does_not/), [2](https://www.reddit.com/r/LateStageCapitalism/comments/9vaw8f/-/e9b1kxr)
-- [What about Beyonce / Black Capitalism?](https://www.independent.co.uk/news/people/beyonces-ivy-park-sportswear-line-denies-claims-its-clothes-were-produced-by-sweatshop-workers-a7035926.html)
-- [Is Christianity / the Bible Communist?](https://www.reddit.com/r/LateStageCapitalism/comments/9b7gsw/joel_osteen/e515qdb/)
-- [Was Mark Twain a socialist?](https://socialistworker.org/2010/04/21/the-twain-they-didnt-teach)
 - [Why don't communists call trump treasonous? Aren't Putin and Trump collaborating and meddling in US elections?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmcel1/)
-- [What's going on with the finnish bolshevik being accused of a rape fantasy?](https://www.reddit.com/r/ShitLiberalsSay/comments/8aobas/this_is_the_finnish_bolshevik_with_a_minor/dx09v07/)
-- [What about Tulsi Gabbard?](https://www.jacobinmag.com/2017/05/tulsi-gabbard-president-sanders-democratic-party)
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
 - [What about black-on-black crime (Insert racist thing here)?](https://www.politifact.com/truth-o-meter/statements/2015/nov/23/donald-trump/trump-tweet-blacks-white-homicide-victims/)
 - [Why doesn't X minority just lift themselves up by the bootstraps out of poverty? Response by MLK. ](https://streamable.com/eafqq)
+- [To what extent is modern day Vietnam Socialist?](https://medium.com/@otelocarvalho/socialism-today-in-vietnam-ac22ce2edf47)
