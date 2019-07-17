@@ -49,7 +49,8 @@ Taken from his book, [Towards a New Socialism](http://ricardo.ecn.wfu.edu/~cottr
 - Exports (or sales) to capitalist countries are either an exchange of goods, or labor vouchers they sell back to us.
 - Planners decide whether to import a good, or produce it locally, based on the offered price vs domestic cost. 
   - Sell the good if the labor voucher price offered is higher than the actual labor-time cost, buy the good if its less than the domestic labor-time cost.
-  - Example:  
+  - Example:
+
       Good|Domestic cost|Price offered|Decision
       ---|---|---|---
       Oil|1 million hrs|1.5 million hrs|export
