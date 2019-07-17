@@ -39,3 +39,28 @@ Taken from his book, [Towards a New Socialism](http://ricardo.ecn.wfu.edu/~cottr
 - New enterprises, entertainment, research and development, social services are all examples of non-consumer goods. 
 - Society votes on how much labor to devote to social services: education, health care, child care, environmental protection, national defense. If a country has 6 million adult workers, it might allocate 2 million people to non-consumer goods.
 - Major strategic decisions taken democratically by all the interested population. Minor decisions left to planners. Information open to all, voting available to all.
+
+### Foreign trade
+
+- Uneven development of technology and natural resources means that external trade with capitalist nations will still be necessary and sometimes preferred during the transition to a global socialist economy.
+- Imports (or buys) from capitalist countries are paid for with labor credit certificates issued from the foreign trade ministry. 
+  - Capitalist countries (which already have freely circulating money), could then decide their own exchange rates for the labor credits, and circulate them as they would any other currency. The rates would come from the demand for goods our country produces, and isn't a concern for our planners.
+  - This is the reverse of the USSR's system, which was to pay for imports in held dollars or marks, and restrict the export of its own currency.
+- Exports (or sales) to capitalist countries are either an exchange of goods, or labor vouchers they sell back to us.
+- Planners decide whether to import a good, or produce it locally, based on the offered price vs domestic cost. 
+  - Sell the good if the labor voucher price offered is higher than the actual labor-time cost, buy the good if its less than the domestic labor-time cost.
+  - Example:  
+      Good|Domestic cost|Price offered|Decision
+      ---|---|---|---
+      Oil|1 million hrs|1.5 million hrs|export
+      Cars|2 million hrs|1.5 million hrs|import
+
+      []()|[]()
+      ---|---
+      Value of exports|1 million hrs in domestic units
+      Value of imports|2 million hrs in domestic units
+      Labour-time trade deficit|1 million hrs in domestic units
+  - Since prices and speculation fluctuate wildly in capitalist countries, the planners will have to make import/export decisions based on long-term trends rather than short-term variations.
+- Foreign currency is outlawed. Fight black markets by making sure that labor vouchers are not overvalued. Planners track these markets, and ensure that demands for foreign-produced goods are being addressed by either increased local production, or official international trade.
+- For visiting tourists, an arrangement could be made with capitalist banks to allow the use of their credit cards, at the moment-in-time exchange rate. Tourists from our country could use their labor credit cards externally, which would effectively sell their labor vouchers to an external bank for that exchange rate of capitalist currency.
+- Trade with other socialist nations, would be a 1-to-1 equal labor-time exchange.
