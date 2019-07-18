@@ -11,10 +11,10 @@
 - Begin a **disciplined party** committed to revolution. It must be from, of, and maintain a committment to, working-class people, and their everyday needs:
   - Food, housing, peace, employment, education, health care, child care, elderly care. An end to police brutality, mass incarceration, and imperialism.
 - It must have a trustworthy, open, and well-defined **democratic procedure in decision-making**: exercising diversity in discussion, and unity in action.
-- It must **provide alternatives** to existing capitalist structures, in the form of class-based unions, and community programs. It must win over even the petty-bourgeois on the sidelines, building numbers and strength, creating dissillusionment in capitalist structures, until people trust the new structures over the old, and the status quo becomes untenable.
-- It must be class-conscious, and have a solid understanding of **Marxist theory**. It should reject individualism, and individualist terrorism as solutions, considering them as agents provocateurs.
-- It must **meet the masses where they are**: this sometimes means participating in reactionary platforms (parliaments, trade unions, media platforms) to agitate for socialism, to educate and bring more people towards revolutionary politics. It must build bridges for people to advance towards socialism, not fences to close off our ideas.
-  - It should expose the sham of bourgeois parliamentarism (IE capitalist dictatorship) from within and without, and build popular support for its destruction. Its demands should be things that capitalism cannot deliver on: full employment, no homelessness, no hunger, an end to war.
+- It must **provide alternatives** to existing capitalist structures, in the form of class-based unions, and community programs. It must win over even the small business-owners on the sidelines, building numbers and strength, creating dissillusionment in capitalist structures, until people trust the new structures over the old, and the status quo becomes untenable.
+- It must be class-conscious, and have a solid understanding of **Marxist theory**, and class struggle. It should reject individualism, idealism, and individualist terrorism as solutions, considering them as agents provocateurs.
+- It must **meet the masses where they are**: this sometimes means participating in reactionary platforms (parliaments, trade unions, media platforms) to agitate for socialism, to educate and bring more people towards revolutionary politics. It must build bridges for people to advance towards socialism, not fences to close us off from the masses.
+  - It should expose the sham of capitalist parliamentarism (IE capitalist dictatorship) from within and without, and build popular support for its destruction. Its demands should be things that capitalism cannot deliver on: full employment, no homelessness, no hunger, an end to war.
 - It must be **fluid**: able to advance and retreat, engage in legal and illegal means, form and break compromises, make temporary alliances, operate underground and in the open, depending on the circumstances and political situation. It must not be dogmatic or inflexible.
 
 ### Growing Inequality
@@ -24,17 +24,17 @@
 - Battle lines are drawn among the three principle groups: 
   - Capitalists / Liberals. (Right)
   - Social Democrats. (Center / Center-right)
-  - Proletarian Revolutionaries. (Left)
+  - Working-class Revolutionaries. (Left)
 
 ### The First Attempt
 
-- The lower classes begin joining unions, and becoming more class-conscious. Communist parties support and build these organizations. 
+- The lower classes join unions, and become more class-conscious. Communist parties support and build these organizations. 
 - Workers, professionals, and small business owners become increasingly dissillusioned by the concentration of wealth.
 - A period of mass unionisation and strikes occurs. This initial "dress rehearsal" is usually severely repressed, or diffused by social democrats. If diffused, capitalists regain power over the next few years.
 
 ### Reactionary Period
 
-- A period of reaction ensues: unions and worker organizations are smashed / dismantled. Many social democrats and idealists aid in the communist witch-hunts.
+- A period of reaction ensues: unions and worker organizations are smashed / dismantled. Many social democrats, and anti-communists aid in the communist witch-hunts. Unions lose their militancy and power.
 - Left views are suppressed from the media, and center/center-right social democratic parties emerge in their place, pushing national chauvinism and protectionism.
 - Anti-capitalist parties preserve strength, and continue to agitate and educate, often from abroad.
 
@@ -43,7 +43,7 @@
 - Unionism begins growing again, and communist ideas begin to gain support, but are still on the fringe.
 - Most of the public start openly supporting social democrats over the warmongering, socially regressive capitalists.
 - Communist parties continue to agitate against social democracy, patriotism, social chauvinism, and pacifism.
-- Lines are drawn between communists supporting soviets / unions, and social democrats supporting an altered bourgeois democracy, or a strategy to reform Capitalism from the government.
+- Lines are drawn between communists supporting soviets / unions, and social democrats supporting an altered parliamentary democracy, or a strategy to reform Capitalism from the existing government.
 
 ### Shake-up
 
@@ -57,8 +57,7 @@
 ### Revolution
 
 - The social democrats are unable to stem the worsening conditions brought on by Capitalism: unable to end war, poverty, hunger, and homelessness, and workers turn en masse to far-left parties and revolutionary unions. 
-- Communist vanguard parties emerge as a stable, disciplined alternative to bourgeois democracy.
-- A revolutionary situation is reached, militant unions begin socializing workplaces, communities engage in rent strikes.
-- Armed communists dissolve local and national capitalist parliaments, stock markets, and centers of financial imperialism.
+- Communist vanguard parties emerge as a stable, disciplined alternative to capitalist political parties.
+- A revolutionary situation is reached, militant unions begin socializing workplaces, communities engage in rent strikes. Armed communists dissolve local and national capitalist parliaments, stock markets, and centers of financial imperialism.
 - A civil war ensues between the capitalists and their petty-bourgeois defenders, and those committed to revolution.
 
