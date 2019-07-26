@@ -22,7 +22,7 @@
 - After a prosperous period of growing industry and population, a rapid inequality grows and engenders increasing poverty.
 - The limits of new markets, profit and carrying capacity are reached, and surplus revenue stagnates. The upper classes then launch wars to fight over this decreasing surplus. War, famines, and massive social upheaval ensue in the coming years.
 - Battle lines are drawn among the three principle groups: 
-  - Capitalists / Liberals. (Right)
+  - Capitalists / Liberals / Reactionaries. (Right)
   - Social Democrats. (Center / Center-right)
   - Working-class Revolutionaries. (Left)
 
@@ -49,6 +49,7 @@
 
 - Capitalist contradictions reach a point that war breaks out. The ineptitude of Capitalist / reactionary political parties and their unpopularity results in a surge of class conciousness. 
 - A center-right social democratic party takes over parliament.
+- Capitalists gut / break down infrastucture: shutting down transportation, resources, and energy. They openly arm xenophobic militias.
 - Capitalist reactionaries attempt to restore themselves to power, communists and unions make temporary alliances with the social democrats to prevent it.
 - The military and police become increasingly demoralized. Large numbers of soldiers turn against the military hierarchy. The police lose mass support as they kill more workers in service of capital, and are less supported by social democrats, and the people.
 - Social democrats, limited by capitalist parliamentary structures, become increasingly unpopular, and seen as opportunists and dangerous compromisers.
