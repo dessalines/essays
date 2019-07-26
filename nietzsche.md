@@ -48,25 +48,25 @@ It shouldn't be surprising that this proto-incel, lover of masculinity and war, 
 
 ## Anti-Socialism
 
-> Socialism--as the logical conclusion of the tyranny of the least and the d***est, i.e., those who are superficial, envious, and three-quarters actors--is indeed entailed by "modern ideas" and their latent anarchism; but in the tepid air of democratic well-being the capacity to reach conclusions, or to finish, weakens. One follows--but one no longer sees what follows. Therefore socialism is on the whole a hopeless and sour affair; and nothing offers a more amusing spectacle than the contrast between the poisonous and desperate faces cut by today's socialists--and to what wretched and pinched feelings their style bears witness!--and the harmless lambs' happiness of their hopes and desiderata.
->
-> [...] In any case, even as a restless mole under the soil of a society that wallows in st***ity, socialism will be able to be something useful and therapeutic: it delays "peace on earth" and the total mollification of the democratic herd animal; it forces the Europeans to regain spirit, namely cunning and cautious care, not to abjure manly and warlike virtues altogether, and to retain some remnant of spirit, of clarity, sobriety, and coldness of the spirit--it protects Europe for the time being from the marasmus femininus that threatens it.
-
 > Whom do I hate most among the rabble of today? The socialist rabble, the chandala apostles, who undermine the instinct, the pleasure, the worker’s sense of satisfaction with his small existence–who make him envious, who teach him revenge. The source of wrong is never unequal rights but the claim of “equal” rights.
 
 > With feminism come socialism and anarchism; all of them the litter of democracy; if equal political power is just, why not equal economic power? There are some that preach my doctrine of life but at the same time are preachers of equality. ... I do not wish to be confounded with these preachers of equality. For within me justice saieth: "Men are not equal", "We wish to possess nothing in common".
 
+> A high civilization is a pyramid; it can stand only upon a broad base; its prerequisite is a strongly and soundly consolidated mediocrity.
+
+> Only a man of intellect should hold property.
+
 > Socialism itself can hope to exist only for brief periods here and there, and then only through the exercise of the extremest terrorism. For this reason it is secretly preparing itself for rule through fear and is driving the word “justice” into the heads of the half-educated masses like a nail so as to rob them of their reason… and to create in them a good conscience for the evil game they are to play.
 
-> The doctrine of equality! … But there is no more venomous poison in existence: for it appears to be preached by justice itself, when it is actually the end of justice
+> The doctrine of equality! … But there is no more venomous poison in existence: for it appears to be preached by justice itself, when it is actually the end of justice.
+
+> Socialism--as the logical conclusion of the tyranny of the least and the d***est, i.e., those who are superficial, envious, and three-quarters actors--is indeed entailed by "modern ideas" and their latent anarchism; but in the tepid air of democratic well-being the capacity to reach conclusions, or to finish, weakens. One follows--but one no longer sees what follows. Therefore socialism is on the whole a hopeless and sour affair; and nothing offers a more amusing spectacle than the contrast between the poisonous and desperate faces cut by today's socialists--and to what wretched and pinched feelings their style bears witness!--and the harmless lambs' happiness of their hopes and desiderata.
+>
+> [...] In any case, even as a restless mole under the soil of a society that wallows in st***ity, socialism will be able to be something useful and therapeutic: it delays "peace on earth" and the total mollification of the democratic herd animal; it forces the Europeans to regain spirit, namely cunning and cautious care, not to abjure manly and warlike virtues altogether, and to retain some remnant of spirit, of clarity, sobriety, and coldness of the spirit--it protects Europe for the time being from the marasmus femininus that threatens it.
 
 > How can the superman arise in such a soil [democracy]? And how can a nation become great when its greatest men lie unused, discouraged, perhaps unknown? Such a society loses character; imitation is horizontal instead of vertical; not the superior man but the majority man becomes the ideal and the model; everybody comes to resemble everybody else; even the sexes approximate - the men become women and the women become men.
 
-> A high civilization is a pyramid; it can stand only upon a broad base; its prerequisite is a strongly and soundly consolidated mediocrity.
-
 > Europe is threatened with a new Buddhism. [...] The whole of the morality of Europe is based upon the values which are useful to the herd.
-
-> Only a man of intellect should hold property.
 
 Railing against the Collectivism of Eastern philosophies:
 
@@ -74,17 +74,17 @@ Railing against the Collectivism of Eastern philosophies:
 
 ## Pro-war
 
-> Freedom means that the manly instincts which delight in war and victory dominate over other instincts, for example, over those of "pleasure." The human being who has become free — and how much more the spirit who has become free — spits on the contemptible type of well-being dreamed of by shopkeepers, Christians, cows, females, Englishmen, and other democrats. The free man is a warrior.
-
 > A declaration of war on the masses by higher men is needed! … Everything that makes soft and effeminate, that serves the end of the people or the feminine, works in favor of universal suffrage, i.e. the domination of the inferior men. But we should take reprisal and bring this whole affair to light and the bar of judgment. 
+
+> A herd of blond beasts of prey, a race of conquerors and masters, with military organizations, with the power to organize, unscrupulously placing their fearful paws upon a population perhaps vastly superior in numbers, ... this herd founded the State. The dream is dispelled which made the State begin with a contract. What has he to do with contracts who can command, who is master by nature, who comes on the scene with violence.
+
+> Freedom means that the manly instincts which delight in war and victory dominate over other instincts, for example, over those of "pleasure." The human being who has become free — and how much more the spirit who has become free — spits on the contemptible type of well-being dreamed of by shopkeepers, Christians, cows, females, Englishmen, and other democrats. The free man is a warrior.
 
 > A good war halloweth any cause.
 
 > I felt for the first time that the strongest, highest Will to Life does not find expression in a miserable struggle for existence, but in a Will to War, a Will to Power, a Will to Over-Power!
 
 > What is good? All that heightens the feeling of power in man, the will to power, power itself. What is bad? All that is born of weakness. What is happiness? The feeling that power is growing, that resistance is overcome. 
-
-> A herd of blond beasts of prey, a race of conquerors and masters, with military organizations, with the power to organize, unscrupulously placing their fearful paws upon a population perhaps vastly superior in numbers, ... this herd founded the State. The dream is dispelled which made the State begin with a contract. What has he to do with contracts who can command, who is master by nature, who comes on the scene with violence.
 
 > Does anybody at last understand, will anybody understand what the Renaissance was? The transvaluation of Christian values, the attempt undertaken with all means, all instincts and all genius to make the *opposite* values, the *noble* values triumph. [...] Caesar Borgia as Pope. ... Do you understand me?
 
