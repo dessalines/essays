@@ -35,17 +35,29 @@
 
 <!-- tocstop -->
 
+*If this is too long to read right now, I recommend /u/thedashrendar's [excellent summary of Capitalism](https://www.reddit.com/r/communism101/comments/a0mwut/what_exactly_is_capitalism/eaj3b4a/), then coming back to this.*
+
 # Crash Course Socialism
+
 ## Surplus Value
+
 [Socialism](https://en.wikipedia.org/wiki/Socialism) is an economic and social system defined by **social ownership of the means of production**. (Workers democratically own and operate their workplaces, as opposed to private control of production aka [Capitalism](https://en.wikipedia.org/wiki/Capitalism)).
 
-The [means of production](https://en.wikipedia.org/wiki/Means_of_production) are non-human inputs that help create economic value, such as **factories, industrial machinery, workplaces, large tracts of land**, etc. The means of production are the means of life. Socialists refer to the means of production as *capital*, or [private property](https://en.wikipedia.org/wiki/Social_ownership), IE, the things which give the people who own them power over those who don't. Private property in the socialist context shouldn't be confused with [personal property](https://en.wikipedia.org/wiki/Personal_property#Personal_versus_private_property), such as your home, car, computer, and other possessions, which would be protected. Private property is in actuality another word for *absentee property*, whose ownership is claimed through title only (and not use), for the purpose of extracting rent from the *actual* users, occupants, or workers.
+The [means of production](https://en.wikipedia.org/wiki/Means_of_production) are non-human inputs that help create economic value, such as **factories, industrial machinery, workplaces, large tracts of land, stores of raw materials**, etc. The means of production are the means of life. Socialists refer to the means of production as *capital*, or [private property](https://en.wikipedia.org/wiki/Social_ownership), IE, the things which give the people who own them power over those who don't. 
 
-In a capitalist society the means of production are owned and controlled privately, by those that can afford them (the capitalist, aka those with capital). Production is carried out to **benefit the capitalist** (production for profit). Workers are paid a wage, and **receive that amount regardless of how much value they produce**. Socialists call this difference the [surplus](https://en.wikipedia.org/wiki/Surplus_value), profit, unpaid labor, exploitation, or **wage theft**.
+Private property in the socialist context shouldn't be confused with [personal property](https://en.wikipedia.org/wiki/Personal_property#Personal_versus_private_property), such as your home, car, computer, and other possessions, which would be protected. Private property is in actuality another word for *absentee property*, whose ownership is claimed through title only (and not use), for the purpose of extracting rent from the *actual* users, occupants, or workers.
+
+In a Capitalist society the means of production are owned and controlled privately, by those that can afford them (the Capitalist, aka those with Capital). Production is carried out to **benefit the capitalist** (production for profit). Workers are paid a wage, and **receive that amount regardless of how much value they produce**.
+
+Socialists call this difference the [surplus](https://en.wikipedia.org/wiki/Surplus_value), profit, unpaid labor, exploitation, or **wage theft**.
 
 `Wage Theft = Worker Value Added - Wage Paid`
 
 ![image](https://i.imgur.com/Dsmp9Jy.png)
+
+Unlike workers, Capitalists make their living, not by clocking in and being paid a certain fixed wage per hour, but through [absentee ownership](https://www.reddit.com/r/communism101/comments/a0mwut/what_exactly_is_capitalism/eaj3b4a/). **Their wealth is earned while sleeping, playing golf, or visiting the mailbox** to collect pieces of this wage theft, often in the form of stock dividends. A worker's wealth is dependent on the number of hours they can work; a Capitalist's wealth is based on how much absentee property they can accumulate, and as such can multiply indefinitely. Some Capitalists earn an average worker's yearly salary in a single night's sleep.
+
+For example, a Copper mine owner neither physically mines the copper, and (living thousands of miles away) likely delegates day-to-day operations to a hired manager. Yet, **because they have a piece of paper that says they own it, they get a large cut of everything that was mined**: the ultimate free lunch.
 
 A 1983 report by England national income and expenditures found that on average, **26 minutes of every hour worked** (or 43% of labor value added) by English workers across a wide range of industries went to various exploiting or unproductive groups, with workers receiving only *57% of their pre-tax productive output as wages*<sup>[1](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/new_socialism.pdf)</sup>. In other words, at least **40% of the work you do every day is stolen by Capitalists.** 
 
@@ -107,7 +119,7 @@ In the table below, both capital and surplus value are controlled by a company's
 
 [Wage workers](https://www.youtube.com/watch?v=oztdRo9GLLk) are **completely dependent** on selling their labor power to those in control of production in order to gain access to the necessities of life (money for food, shelter, clothing, etc). Its similarities to chattel slavery has lead many to term wage work as [wage slavery](https://en.wikipedia.org/wiki/Wage_slavery), with voluntary employment being simply a false choice between **one exploiter or another**.
 
-Technological advancements, instead of benefiting workers, result in decreased or stagnant wages, worsening bargaining power, or **mass layoffs**. For example, a machine that replaces 10 workers *leads to their firing*, resulting in a benefit for the machine owner, and an economic hardship to the fired workers. 
+Technological advancements, instead of benefiting workers, result in decreased or stagnant wages, worsening bargaining power, or **mass layoffs**. For example, a machine that replaces 10 workers *leads to their firing*, resulting in a benefit for the machine owner, and an economic hardship to the fired workers.
 
 **Increase in profits due primarily to automation**
 
