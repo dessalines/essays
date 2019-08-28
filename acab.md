@@ -8,6 +8,8 @@ Oh but who will imprison the rapists? Not the police: Less than [0.5% of rapists
 
 [Cops have a long history of murdering workers organizing for better conditions. ](https://github.com/dessalines/essays/blob/master/us_atrocities.md#workers-and-the-poor) It's no accident that cops usually hold [pro police rallies](https://www.voanews.com/europe/may-day-2019-workers-demand-rights-respect) on [May Day](https://en.m.wikipedia.org/wiki/Haymarket_affair), where cops killed a bunch of workers striking for an 8 hour day in Chicago, that has since become an international day comemmorating worker's rights.
 
+As **the** protectors of capitalist property rights, they carry out all evictions on behalf of landlords, and even [investigate and arrest people](https://www.buzzfeednews.com/article/kendalltaggart/insurance-fraud-erie-state-farm-farmers) on behalf of insurance companies. 
+
   They imprison the poor in [huge numbers](https://github.com/dessalines/essays/blob/master/us_atrocities.md#prisoners), [1 out of every 5 black men](https://en.wikipedia.org/wiki/War_on_Drugs), and 1 / 7 Latino men are kidnapped at some point and thrown in a cage, mostly for nonviolent drug-related offenses. [Cops kill over 1000 ppl a year in the US.](https://www.washingtonpost.com/graphics/2019/national/police-shootings-2019/)
 
 All cops have a duty to uphold those interests, that is their societal function; if they don't toe that line, they get fired. That's the systemic reason to hate them, and advocate for the abolition of capitalist police, and why the only good cop is an ex cop, or a dead one. And I know an ex cop who quit when they realized what harm they were doing to ppl. 
