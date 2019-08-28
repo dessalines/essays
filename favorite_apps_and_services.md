@@ -1,5 +1,7 @@
 # Favorite apps and services
+
 ## Goals
+
 - Privacy conscious, [end-to-end encrypted (E2EE)](https://en.wikipedia.org/wiki/End-to-end_encryption).
 - Decentralized, **no reliance** on cloud providers like Google, Microsoft, Apple, Spotify, Netflix Youtube, etc. 
 - Self-hosted and self-reliant.
@@ -19,7 +21,7 @@
 - Install [Syncthing](https://syncthing.net/), and put all your documents in a synced folder. 
 - Write all documents and notes in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
   - Use [Typora](https://typora.io/), [Mark Text](https://marktext.github.io/website/), or vim as markdown editors / notes. 
-- Use vim with [vimrc](https://github.com/amix/vimrc) and [Youcompleteme](https://github.com/Valloric/YouCompleteMe) for code.
+- Use vim with [vimrc](https://github.com/amix/vimrc) and [coc.nvim](https://github.com/neoclide/coc.nvim) for code.
   - Do not use vscode, it's [difficult to impossible to turn off keylogging.](https://stackoverflow.com/questions/40451596/visual-studio-code-still-accessing-internet-after-update-and-telemetry-was-disab). If you must, use [VSCodium](https://github.com/VSCodium/vscodium#why-does-this-exist), which removes the built-in telemetry.
 - Spreadsheets in [Libreoffice](https://www.libreoffice.org/).
 
