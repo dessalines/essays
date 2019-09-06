@@ -25,7 +25,7 @@ Lets unpack the idea that "Capitalism works". In the US, the most developed Capi
 
 Capitalist hegemony has short-circuited people into buying wildly illogical and ridiculous propaganda like: "*Lift yourselves up by the bootstraps*" (which shows the almost religious power of capitalist propaganda, that the impossible can become possible), or "*Communism doesn't work*", when in fact **Communism did work extremely well.**
 
-Examples from [this post](https://www.reddit.com/r/socialism/comments/86tqdd/but_socialism_doesnt_work_s/dw7qco0/) by /u/bayarea415, [Stephen Gowans - Do publicly owned, planned economies work,](https://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/), and [Ian Goodrum](https://threadreaderapp.com/thread/1136693839526223872.html) about the USSR specifically: 
+Examples from [this post](https://www.reddit.com/r/socialism/comments/86tqdd/but_socialism_doesnt_work_s/dw7qco0/) by /u/bayarea415, [Stephen Gowans - Do publicly owned, planned economies work](https://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/), and [Ian Goodrum](https://threadreaderapp.com/thread/1136693839526223872.html) about the USSR specifically: 
 
 - [USSR had a more nutritious diet than the US, according to the CIA](https://www.cia.gov/library/readingroom/docs/CIA-RDP84B00274R000300150009-5.pdf). [Calories consumed surpassed the US](https://artir.files.wordpress.com/2016/05/compar1.png?w=640). Ended famines.
 - Productive forces were not organized for capital gain and private enrichment; public ownership of the means of production supplanted private ownership. It was illegal to hire others and accumulate personal wealth from their labor.
