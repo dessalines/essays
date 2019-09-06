@@ -118,6 +118,7 @@
 - [Did Socialism work, in the USSR?](https://github.com/dessalines/essays/blob/master/capitalism_doesnt_work.md)
 - [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work) [audiobook](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
 - [My economics teacher said that the planned economies communist countries had are proven failures. Is this true?](https://www.reddit.com/r/communism101/comments/3e68nf/my_economics_teacher_said_that_the_planned/)
+- [Do planned economies have any elegant math behind them?](https://www.reddit.com/r/DebateCommunism/comments/cy5duq/does_communism_have_any_elegant_mathematical/)
 - [Towards a new socialism - Cockshott and Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/) [audiobook](https://www.youtube.com/watch?v=yjHCPWs5sl4&list=PL0-IkmzWbjoZNiItBbuVvKQBdE80tsyhx)
 - [Why are communists against markets?](https://github.com/dessalines/essays/blob/master/market_socialism.md)
 
@@ -145,6 +146,7 @@
 ## Pacifism and Violence
 
 - [What about Pacifism / pacifist socialism? Is violence necessary to acheive socialism? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) [audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
+- [Is a bloodless revolution possible?](https://www.reddit.com/r/communism101/comments/cyanku/is_a_bloody_revolution_really_necessary_for_the/)
 - [Was the civil rights struggle in the US really nonviolent?](http://mshistorynow.mdah.state.ms.us/articles/62/the-civil-rights-movement-in-mississippi-on-violence-and-nonviolence) [Malcolm X - message to the grassroots. ](https://www.youtube.com/watch?v=Ku2JzolPt50)
 - [An Overview of Leninism](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/), [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) , [audiobook](https://www.youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
 - [Luxemburg - Reform or Revolution](https://www.marxists.org/archive/luxemburg/1900/reform-revolution/), [audiobook](https://www.youtube.com/watch?v=YhzmaUofLS8&list=PL0-IkmzWbjoYqO_Yec4sWzPeeFXMOkPWs)
@@ -380,7 +382,7 @@
 
 * [A China misinformation Megathread.](https://www.reddit.com/r/socialism/comments/c2b6z5/china_megathread_everything_controversial/)
 * [Is modern day china communist? Is it staying true to communist values?](https://www.reddit.com/r/communism101/comments/91liw2/how_is_china_staying_true_to_communist_values/e2z3kzu/)
-  * [Didn't China go Capitalist when with Deng Xiaoping? Didn't it liberalize its economy? Is China's drastic decrease in poverty a result of the increase in free market capitalist policies?](https://www.reddit.com/r/DebateCommunism/comments/b3gjfe/chinas_drastic_decrease_in_poverty_is_a_result_of/ey8depl/?context=3)
+  * [Didn't China go Capitalist with Deng Xiaoping? Didn't it liberalize its economy? Is China's drastic decrease in poverty a result of the increase in free market capitalist policies?](https://www.reddit.com/r/DebateCommunism/comments/b3gjfe/chinas_drastic_decrease_in_poverty_is_a_result_of/ey8depl/?context=3)
   * [Is the CCP committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
   * [The Long Game and Its Contradictions](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4).
   * [Are capitalists allowed in the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
@@ -402,9 +404,12 @@
 ### What about the Hong Kong protests?
 
 - The extradition bill came about when a [man from Hong Kong killed his pregnant girlfriend while in holiday in Taiwan.](https://www.reddit.com/r/communism101/comments/c1nxga/opinions_on_hong_kong_protests/ered9wl/) He fled back to Hong Kong. Taiwan asked for him to be extradited, but Hong Kong did not have an extradition treaty with Taiwan, so the administration in Hong Kong proposed a bill that would allow Taiwan, the PRC, and Macau to request extradition, which the judiciary in Hong Kong can then approve. [There were 49 crimes that were to be included in the bill that would allow extradition requests.](https://qz.com/1636663/the-37-crimes-included-in-hong-kongs-proposed-extradition-law/) Some of these were financial crimes (Hong Kong is a popular tax haven for billionaires), and the Capitalists in Hong Kong shit themselves because they are often in breach of PRC law, but protected by Hong Kong's independence as a Special Administrative Region. This bill is completely reasonable, and any fears of the PRC taking over or of the extradition of 'political' criminals is unfounded. The US is encouraging the organizers to keep protesting in order to provoke the administration in Hong Kong to crack down on them, so that they can blame China and keep up their propaganda narrative that 'CHINA BAD!' [More here.](https://www.scmp.com/news/hong-kong/law-and-crime/article/3008099/sentence-man-who-killed-girlfriend-taiwan-sets)
+- [AntiConquista - the History of Hong Kong, and the nature of the protest movement, and who's funding it.](https://invidio.us/watch?v=hY8rCElJ4nQ)
 - [Hong Kong Human Rights Monitor and HKCTU, along with 68 other Hong Kong “democratic right” organizations earn hundreds of thousands every year from State Department funded NGOs.](https://twitter.com/redniangzijun/status/1137901349750939648)
+- [Hong Kong Billionaire publisher / media mogul Jimmy Lai, a large donor for the HK protests,  meets with Pence, Pompeo, to discuss US intervention.](https://www.scmp.com/news/hong-kong/politics/article/3017868/beijing-foreign-office-slams-hong-kong-tycoon-jimmy-lai-and), [2](http://www.thestandard.com.hk/breaking-news.php?id=131200&sid=4)
+- [Joshua Wong, one of the leaders of the protests, travels to US, seeking US intervention. Meets with Marco Rubio, and other senators to garner support. Senators Rubio and Tom Cotton sponsored legislation that would punish Hong Kong or mainland officials who suppressed basic freedoms in the city.](https://www.scmp.com/news/hong-kong/politics/article/2046914/chinese-government-rebukes-us-over-comments-hong-kong)
+- [The NED is funneling money into the protests.](https://twitter.com/redniangzijun/status/1137901349750939648).
 - [American Government NGOs fuel Hong Kong Protests]( https://www.mintpressnews.com/hong-kong-protests/259202/).
-- [Leaders of protests meet with Trump administration asking for intervention](https://twitter.com/redniangzijun/status/1137901349750939648).
 - [“Something else you won't see in imperialist msm: Hong Kongers organizing to show their support for extradition amendment. "Hong Kongers can't be at ease if fugitives are in the large"](https://mobile.twitter.com/redniangzijun/status/1139177913859891202).
 - [“Over 900,000 real name signatures in "Protecting justice & supporting extradition" petition. Reasons listed: HK criminal committed murder in TW; HK current extradition law has flaws & needs amendment asap; HK shouldn't be fugitive heaven, extradition amendment has many safeguards”](https://mobile.twitter.com/redniangzijun/status/1139177921631965189).
 
@@ -415,7 +420,7 @@
 
 ### What's going on with the Uyghurs?
 
-- [What's going on with the Uyghurs / Xinjiang province?](https://medium.com/@gmochannel/the-truth-about-uyghurs-and-xinjiang-e970992f63f1)
+- [What's going on with the Uyghurs / Xinjiang province? (Sorry about missing images, medium censored this post.)](http://archive.is/GUtGZ)
 - [A Pakistani Diplomat given full access to “re-education camps” and this is what she found](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang).
 - [China's policies in the Xinjiang Uyghur autonomous region lift 1.85 million people out of poverty from 2014-2017.](http://www.xinhuanet.com/english/2018-10/24/c_137554986.htm?source=post_page---------------------------)
 - [US fuels terrorism in China: “1 million Uyghurs never verified”](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
@@ -451,7 +456,14 @@
 - [*Shenfan: The Continuing Revolution in a Chinese Village*](http://gen.lib.rus.ec/book/index.php?md5=69633412b4947eb197779d652ba6e331) by William Hinton
 - [*Turning Point in China: An Essay on the Cultural Revolution*](http://gen.lib.rus.ec/book/index.php?md5=FF14AB76713984526357FE8829DEAD3C) by William Hinton
 
+### What about the Falun Gong?
+
+- [An investigation by the Refugee Review tribunal of Australia found the claims of organ harvesting, and prison camps, were provided by two unreliable witnesses, and can't be verified, by any of the major sources reporting it.](https://www.refworld.org/pdfid/4b6fe16df.pdf)
+- The claims mainly come from a self-appointed, private organization called the [China Tribunal](https://chinatribunal.com/who-we-are/), run by [British barrister Sir Geoffrey Nice QC](https://en.wikipedia.org/wiki/Geoffrey_Nice), who unsurprisingly served as a prosecutor in a UN trial regarding the former Socialist Republic of Yugoslavia, whose role was attempting to pin war crimes on Slobodan Milošević.
+- [Its a cult, outlawed in China, akin to Scientology.](https://www.dailykos.com/stories/2011/5/13/975892/-#comment_41556493) The founder of Falun Gong, Li Hongzhiu, is [racist](http://en.falundafa.org/eng/lectures/1996L.html), and [homophobic](https://www.dailykos.com/stories/2011/5/13/975892/-#comment_41556493). Li teaches that homosexuality is not the standard of being human, the priority of Gods will be to eliminate homosexuals and that gays are demonic in nature.
+
 ### Further reading
+
 * [Suggested reading for an aspiring MLM?](http://www.reddit.com/r/communism101/comments/18hgw2/suggested_reading_for_an_aspiring_mlm/c8fod6n)
 
 ## On Cuba
