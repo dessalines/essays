@@ -9,6 +9,7 @@
 - Make sure no sites / services are [US based.](https://www.privacytools.io/#kdl)
 
 ## Media
+
 - Download all music / movies locally, using torrents behind a VPN. ([Don't use Tor for torrenting](https://blog.torproject.org/bittorrent-over-tor-isnt-good-idea))
   - Use [AirVPN](https://airvpn.org/), [Mullvad](https://mullvad.net/), [NordVPN](https://nordvpn.com/), [ProtonVPN](https://protonvpn.com/) 
   - Use [qbittorrent](https://www.qbittorrent.org/), [deluge](https://www.deluge-torrent.org/), or [transmission](https://transmissionbt.com/) for a torrent client.
@@ -18,23 +19,26 @@
 - Instead of centralized, hosted youtube alternatives with upload limits, use torrents, and find a platform to post and comment on the magnet links.
 
 ## Documents and Coding
+
 - Install [Syncthing](https://syncthing.net/), and put all your documents in a synced folder. 
 - Write all documents and notes in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
   - Use [Typora](https://typora.io/), [Mark Text](https://marktext.github.io/website/), or vim as markdown editors / notes. 
 - Use vim with [vimrc](https://github.com/amix/vimrc) and [coc.nvim](https://github.com/neoclide/coc.nvim) for code.
-  - Do not use vscode, it's [difficult to impossible to turn off keylogging.](https://stackoverflow.com/questions/40451596/visual-studio-code-still-accessing-internet-after-update-and-telemetry-was-disab). If you must, use [VSCodium](https://github.com/VSCodium/vscodium#why-does-this-exist), which removes the built-in telemetry.
+  - Do not use vscode, it's [difficult to impossible to turn off keylogging](https://stackoverflow.com/questions/40451596/visual-studio-code-still-accessing-internet-after-update-and-telemetry-was-disab). If you must, use [VSCodium](https://github.com/VSCodium/vscodium#why-does-this-exist), which removes the built-in telemetry.
 - Spreadsheets in [Libreoffice](https://www.libreoffice.org/).
 
 ## Tasks / Todos
+
 - Use a [todo.txt](http://todotxt.org/) file for a personal task list, synced with syncthing.
-  - [QTodoTxt](http://qtodotxt.org/) as a desktop client, [Simpletask Cloudless](https://play.google.com/store/apps/details?id=nl.mpcjanssen.simpletask&hl=en_US) for Android.
-- For shared task lists, use [Etherpad](http://etherpad.org/).
-- No good solution yet for calendars, really wish there were good file-based calendar apps. [Radicale is a server based solution. ](https://radicale.org/)
+  - [QTodoTxt](http://qtodotxt.org/) as a desktop client, [todo.txt-vim](https://github.com/freitass/todo.txt-vim), [Simpletask Cloudless](https://play.google.com/store/apps/details?id=nl.mpcjanssen.simpletask&hl=en_US) for Android.
+- For shared task lists, use [Etherpad](http://etherpad.org/), or [CodiMD](https://github.com/hackmdio/codimd).
 
 ## Collaboration
-- Use [Etherpad](http://etherpad.org/), or [CodiMD](https://github.com/hackmdio/codimd)
+
+- Use [Etherpad](http://etherpad.org/), or [CodiMD](https://github.com/hackmdio/codimd).
 
 ## Browsing
+
 - Use Firefox or Tor Browser, with the addons:
   - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
   - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17)
@@ -43,26 +47,33 @@
 - [Startpage](https://www.startpage.com/), [Searx](https://searx.me/) ([onion service](http://searchb5a7tmimez.onion/)), as a search engine
 - If using Tor, use onion services if possible.
 
-
 ## Passwords
+
 - Use [KeePassXC](https://keepassxc.org/). 
   - Install the Firefox KeePassXC plugin.
   - Use a long master pass phrase, with at least 10 words. 
   - Sync your password file everywhere you need using Syncthing.
 - [Bitwarden](https://bitwarden.com/) if you want to host a server. 
 
-## Chat
+## Calendars / Contacts
+
+- Use Syncthing + [DecSync](https://github.com/39aldo39/DecSync) for calendar and contact sync from android to desktop. [Radicale is a server based solution. ](https://radicale.org/)
+
+## Chat / Communication
+
 - Use Matrix / [Riot](https://about.riot.im/), turn on e2ee in rooms. 
 - Use [Thunderbird](https://www.thunderbird.net/en-US/) for email, e2ee with pgp if possible. 
 
 ## Social Media
+
 - Twitter alternative : [Mastodon](https://mastodon.social/)
 - Facebook : [Friendica](https://friendi.ca/)
-- Reddit : [PostMill](https://gitlab.com/edgyemma/Postmill), or [Lobste.rs](https://github.com/lobsters/lobsters)
+- Reddit : [Lemmy (made by me)](https://github.com/dessalines/lemmy), [PostMill](https://gitlab.com/edgyemma/Postmill), or [Lobste.rs](https://github.com/lobsters/lobsters)
 - Medium : [Plume](https://github.com/Plume-org/Plume), [WriteFreely](https://github.com/writeas/writefreely)
 - YouTube : Torrents, or [peertube](https://github.com/Chocobozzz/PeerTube). 
 - Instagram : [Pixelfed ](https://pixelfed.org/). 
 
 ## Operating system
-- Use Linux. I like Arch Linux or its user friendlier variants, manjaro and antergos. 
+
+- Use Linux. I like Arch Linux. 
 
