@@ -142,6 +142,8 @@
 - [How do socialists feel about elections? What about democratic socialism?](https://isreview.org/issue/13/marxists-and-elections)
 - [What about social democracy / democratic socialism / the Nordic model? Isn't Sweden socialist?](https://www.youtube.com/watch?v=Jd03a8Pm1hs)
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
+- [Can a one-party state really be a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
+- [Why is Chinas one party system outperforming western democracies that have abysmal approval ratings?](https://www.youtube.com/watch?v=s0YjL9rZyR0)
 
 ## Pacifism and Violence
 
@@ -238,7 +240,11 @@
 - [What is liberalism? (Olly from Philosophy Tube)](https://www.youtube.com/watch?v=VlLgvSduugI)
 - [What about free speech? What about Antifa / Anti-Fascism?](https://www.youtube.com/watch?v=bgwS_FMZ3nQ&t=2398s)
 - [Why do leftists think that FDR co-opted the left to "save" capitalism?](https://www.hoover.org/research/how-fdr-saved-capitalism)
-- What's wrong with democrats? [Why not vote for the lesser of two evils (Lesser-evilism)?](https://socialistworker.org/2003-2/465/465_11_LesserEvil.php) [Can't we change the democrats from within?](https://socialistworker.org/2005-1/533/533_13_TwoParties.php) [What about "moderates" like Jimmy Carter?](https://socialistworker.org/2006-1/572/572_09_Carter.php)
+- What's wrong with democrats ( insert moderate party here ) ? 
+  - [Why not vote for the lesser of two evils (Lesser-evilism)?](https://socialistworker.org/2003-2/465/465_11_LesserEvil.php) 
+  - [Can't we change the democrats from within?](https://socialistworker.org/2005-1/533/533_13_TwoParties.php) 
+  - [What about "moderates" like Jimmy Carter? Can't we push them to change?](https://socialistworker.org/2006-1/572/572_09_Carter.php)
+  - [Can't we use voting to solve our problem? Is violence really necessary? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) [audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 
 ## On Leninism
 
@@ -388,6 +394,7 @@
   * [Are capitalists allowed in the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
   * [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/)
   * [50% of the economy is in the socialist public sector and directly follows the plan (40% if you ignore the agricultural sector). 20 to 30% is inside the state capitalist sector, which is the sector partially or totally owned by domestic capitalists but run by the CPC or by local workers councils. The rest is made up of the small bourgeois ownership like in the NEP.](https://chinareporting.blogspot.com/2009/11/class-nature-of-chinese-state-critique_26.html)
+  * If China is imperialist, [why are they funding development in Africa and writing off millions in debt?](https://www.reddit.com/r/Sino/comments/cov03r/lenders_remorse_chinas_africa_projects_need_lots/ewld4v4/)
 * [Is China a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
   * [How does China’s political system work?](https://www.youtube.com/watch?v=Qu4QTxl9GVw)
   * [Who runs China? Makeup of the national people's congress.](https://news.cgtn.com/event/2019/whorunschina/index.html)
@@ -623,7 +630,7 @@
   - [Supports drone bombing: "They have, at times, been effective."](https://abcnews.go.com/Politics/bernie-sanders-people-responding-message/story?id=33413601)
   - Staunchly supports Israel in their displacement of Palestinians (while blaming hamas for the conflict). [Says he will not move back the US embassy in Israel back from Jerusalem to Tel Aviv, after Trump moved it the previous year.](https://electronicintifada.net/blogs/ali-abunimah/why-bernie-sanders-still-encouraging-israels-crimes)
   - [Supports GW Bush](https://i.imgur.com/tHN9DzG.png). [Supported warmonger John McCain after his death.](https://i.imgur.com/R3cAhdC.jpg)
-  - [Claimed that the 2016 election of Maduro in Venezuela "wasn't free", and called for more "US Aid".](https://www.msnbc.com/all-in/watch/bernie-sanders-tells-chris-hayes-why-he-s-running-1446465091782)
+  - [Claimed that the 2016 election of Maduro in Venezuela "wasn't free", and called for more "US Aid".](https://www.msnbc.com/all-in/watch/bernie-sanders-tells-chris-hayes-why-he-s-running-1446465091782) Called Maduro a "vicious tyrant" in 2019 Democratic primary debate. 
   - [Goes back on his 1985 semi-pro-cuba statements: "The Cuban economy is a disaster. No, I do not praise Fidel Castro."](https://www.realclearpolitics.com/video/2016/11/27/sanders_on_cuba_of_course_their_economy_is_terrible_but_they_have_good_health_care.html)
   - [Praises the Hong Kong protestors, tells China to back off.](https://imgur.com/mwsMLSS) 
 - [Bernie is against open borders](https://www.youtube.com/watch?v=vf-k6qOfXz0), believes in strong border and anti-immigration policies. [2](https://i.imgur.com/WcQ8bNQ.jpg)
@@ -646,8 +653,9 @@
   - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
   - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
 - [Voted for Trump's 2020 War budget, allocating $738 Billion to military spending (a 3% increase over the previous year).](http://www.idcommunism.com/2019/07/ocasio-cortez-aoc-votes-in-favor-of-trumps-war-budget.html)
-- [She supports Israel, and its genocide of Palestineans .](https://i.imgur.com/K6QsYZo.jpg)
+- [She supports Israel, and its genocide of Palestineans.](https://i.imgur.com/K6QsYZo.jpg)
 - [Goes along with democrats and Republicans in backing US puppet Juan Guaido over Maduro in Venezuela.](https://twitter.com/telesurenglish/status/1124924184629583872?s=19) 
+- [After Trump fires John Bolton (who tried and failed at starting wars with North Korea, Venezuela, and Iran), she goes full neocon, angry that Trump isn't going to war with North Korea.](https://i.imgur.com/3rSM3oU.jpg)
 - [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
 
 ### What's wrong with Elizabeth Warren?
