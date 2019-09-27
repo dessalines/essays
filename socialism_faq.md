@@ -85,7 +85,8 @@
 - [What about Stalin, the purges, the holodomor, etc? A revleft podcast.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 - [Was Stalin actually a good leader?](https://www.reddit.com/r/Socialism_101/comments/cg319t/were_there_any_good_leaders_of_the_soviet_union/euekaxo/)
 - [Why are there no modern revolutions, in the past 40 years?](https://www.reddit.com/r/communism101/comments/9y34ea/why_are_there_no_revolutions/)
-- [Didn't Capitalism bring people out of poverty? The UN says poverty has halved in the last few years.](https://www.reddit.com/r/coolguides/comments/9kdz7p/world_population_living_in_extreme_poverty/e6ypvus/) [Another article refuting decreasing global poverty](https://www.jasonhickel.org/blog/2019/2/3/pinker-and-global-poverty)
+- [Didn't Capitalism bring people out of poverty? The UN says poverty has halved in the last few years.](https://www.reddit.com/r/coolguides/comments/9kdz7p/world_population_living_in_extreme_poverty/e6ypvus/) 
+- [Isn't worldwide global poverty decreasing?](https://www.jasonhickel.org/blog/2019/2/3/pinker-and-global-poverty)
 
 ## What about human nature?
 
@@ -661,6 +662,9 @@
 ### What's wrong with Elizabeth Warren?
 
 - [She supports Capitalism. ](https://www.cnbc.com/2018/07/23/elizabeth-warren-i-am-a-capitalist-but-markets-need-rules.html)
+- [She was a republican most of her adult life, during the Vietnam and Reagan eras... until 1996. She does not talk about her republican past in her autobiography, or speeches. She only became a democrat to support free markets: "I was a Republican because I thought that those were the people who best supported markets. I think that is not true anymore"](https://www.politico.com/magazine/story/2019/04/12/elizabeth-warren-profile-young-republican-2020-president-226613) [2](https://www.washingtonexaminer.com/news/elizabeth-warren-confronted-by-her-republican-past)
+- [She claims she doesn't take PAC money, that democracy shouldn't be for sale, but much of her funding comes from wealthy donors, at a minumum of $10 Million.](https://jacobinmag.com/2019/09/elizabeth-warren-2020-big-donor-ban-bernie-sanders-corporate-money)
+- [How Elizabeth Warren is courting the establishment democrats.](https://www.nytimes.com/2019/08/26/us/politics/elizabeth-warren-democrats.html)
 - [Defends Israel's continued bombing of Gaza Hospitals and schools.](https://m.huffpost.com/us/entry/5733164)
 - [Supports US troops in South Korea.](https://mobile.twitter.com/senwarren/status/979457592975134720?lang=en) [2](https://i.imgur.com/k6Qx3v3.jpg)
 - [Copies Sanders program of full student debt cancelation, adds eligibility requirements.](https://www.cnn.com/2019/07/23/politics/elizabeth-warren-cancel-student-debt-bill/)
@@ -673,6 +677,10 @@
 ### Biden
 
 - https://www.youtube.com/watch?v=seRaSRZKo2U
+
+# Greta Thunberg
+
+- http://www.wrongkindofgreen.org/2019/01/17/the-manufacturing-of-greta-thunberg-for-consent-the-political-economy-of-the-non-profit-industrial-complex/
 
 ### Others
 
@@ -687,6 +695,7 @@
 
 ## Other Topics
 ### Why are socialists against bitcoin mining?
+
 - [A single bitcoin transaction wastes as much energy as your house uses in a week.](https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change)
 - [Bitcoin mining consumes more electricity per year than all of Ireland.](https://www.theguardian.com/technology/2017/nov/27/bitcoin-mining-consumes-electricity-ireland)
 
@@ -702,6 +711,7 @@
 * [Overpopulation isnt causing climate change. Blame capitalism.  ](https://www.redpepper.org.uk/overpopulation-isnt-causing-climate-change-blame-capitalism/)
 
 ### Why don't socialists support a UBI / Universal Basic income?
+
 - [Would basic income fix our problems?](https://www.reddit.com/r/socialism/comments/8p097l/i_just_realized_that_monopoly_has_integrated/)
 - [A Marxist critique of Basic income.](https://www.reddit.com/r/communism/comments/8wizh9/marxist_critiques_on_the_universal_basic_income/)
 - [Why basic income is a bad idea - Paul Cockshott](https://www.reddit.com/r/socialism/comments/9lj3bh/why_basic_income_is_a_bad_idea/), [2](https://www.youtube.com/watch?v=QGBQwZsp3T0), [3](https://www.reddit.com/r/socialism/comments/9li3gj/what_do_socialists_think_about_a_universal_basic/)

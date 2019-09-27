@@ -21,6 +21,7 @@ Lets unpack the idea that "Capitalism works". In the US, the most developed Capi
 - [Runs least 54 agricultural slave labor camps.](https://en.wikipedia.org/wiki/Prison_farm#In_the_United_States_.28partial_list.29). 
 - [34,000 *undesirables* imprisoned in over 500 immigrant prison
     camps.](https://en.wikipedia.org/wiki/U.S._Immigration_and_Customs_Enforcement#Detention_centers)
+- [US collapse scenarios by 2030.](https://www.salon.com/2010/12/06/america_collapse_2025/)
 - [More here.](https://github.com/dessalines/essays/blob/master/us_atrocities.md#workers-and-the-poor)
 
 Capitalist hegemony has short-circuited people into buying wildly illogical and ridiculous propaganda like: "*Lift yourselves up by the bootstraps*" (which shows the almost religious power of capitalist propaganda, that the impossible can become possible), or "*Communism doesn't work*", when in fact **Communism did work extremely well.**
