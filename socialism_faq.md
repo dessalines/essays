@@ -40,7 +40,9 @@
     + [What about the Tiananmen square massacre?](#what-about-the-tiananmen-square-massacre)
     + [Did Mao kill millions of people?](#did-mao-kill-millions-of-people)
     + [Was the PRC a totalitarian dictatorship?](#was-the-prc-a-totalitarian-dictatorship)
+    + [What about the Falun Gong?](#what-about-the-falun-gong)
     + [Further reading](#further-reading-2)
+  * [On the German Democratic Republic (GDR)](#on-the-german-democratic-republic-gdr)
   * [On Cuba](#on-cuba)
     + [Was Che a murderer and/or a racist?](#was-che-a-murderer-andor-a-racist)
     + [Is Cuba a functioning democracy or a terrible place to live?](#is-cuba-a-functioning-democracy-or-a-terrible-place-to-live)
@@ -61,6 +63,7 @@
     + [What's wrong with Elizabeth Warren?](#whats-wrong-with-elizabeth-warren)
     + [Kamala Harris](#kamala-harris)
     + [Biden](#biden)
+    + [Greta Thunberg](#greta-thunberg)
     + [Others](#others)
   * [Other Topics](#other-topics)
     + [Why are socialists against bitcoin mining?](#why-are-socialists-against-bitcoin-mining)
@@ -300,7 +303,7 @@
 * [How necessary or productive were the torture, mass executions of captives, and labor camps of 20th-century socialist governments and revolutions?](http://www.reddit.com/r/communism101/comments/2ksxum/how_necessary_or_productive_were_the_torture_mass/)
 * [Why did Lenin abolish factory committees established by workers?](http://www.reddit.com/r/communism101/comments/1ypaur/why_did_lenin_abolish_factory_committees/)
 * [How much of the USSR's "dark history" under Stalin can actually be attributed to Yezhov?](http://www.reddit.com/r/communism101/comments/2qlm9z/how_much_of_the_ussrs_dark_history_under_stalin/)
-* [Forced Deportation Under Stalin](http://www.reddit.com/r/communism101/comments/316tey/forced_deportation_under_stalin/)
+* [Forced Deportation Under Stalin](http://www.reddit.com/r/communism101/comments/316tey/forced_deportation_under_stalin/), [2](https://www.reddit.com/r/DebateCommunism/comments/ddedgw/marxistleninistswhat_do_you_think_of_the/f2hwvlm/)
 * [Did the Soviet Union manufacture a famine in Ukraine? What about the Holodomor?](https://reddit.com/r/socialism/comments/a7njo6/66_of_russians_say_that_they_regret_that_the_ussr/ec4skiw?context=3), [2](https://www.reddit.com/r/communism101/comments/1c4to0/is_there_a_different_aspectpov_to_the_holodomor/),[3](https://www.reddit.com/r/communism101/comments/79nmdh/red_famine_by_anne_applebaum_what_is_this_all/),[4](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_the_soviet_union_manufactured_a_famine_in_ukraine),[5](https://sputniknews.com/politics/201508091025560345/), [A podcast on Stalin, Holodomor, and the purges.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 * [Did Stalin / the USSR intentionally wreck the anarchists in the Spanish Civil War / Revolutionary Catalonia?](https://www.reddit.com/r/communism101/comments/1e1bhf/what_was_the_role_of_ussr_in_revolutionary_spain/c9w2jva/) , [2](https://www.reddit.com/r/communism101/comments/1jlpyu/what_contributed_to_the_fallingout_between/cbg3v0p/)
 * [Did the early USSR repress anarchists? What about Nestor Makhno and the Free territory of Ukraine?](https://www.reddit.com/r/communism/comments/64wkgf/polemic_the_anarchokulak_bandits_of_russia_and/) 
@@ -313,6 +316,7 @@
 * [Were the Soviet POWs returning from the front on WW2 treated as spies?](https://www.reddit.com/r/communism101/comments/bmyhq7/treatment_of_soviet_pows_upon_their_return_to_the/)
 * [Wasn't the fall of the Berlin Wall / East Germany a good thing?](https://zcomm.org/zmagazine/fall-of-the-berlin-wall/), [2](http://www.cnn.com/WORLD/europe/9911/08/germany.carpetbaggers/), [3](https://zcomm.org/znetarticle/humpty-dumpty-and-the-fall-of-berlins-wall/), [4](https://www.peoplesworld.org/article/ossies-former-east-germans-compare-socialist-youth-with-life-under-capitalism/)
   *  [Democracy, East Germany, and the Berlin Wall](http://gowans.wordpress.com/2009/10/25/democracy-east-germany-and-the-berlin-wall/) by Stephen Gowans
+* [Is it true that people in the USSR only worked 6 hours per day?](https://www.reddit.com/r/communism101/comments/ddlshm/in_a_communist_economy_are_you_forced_to_work/f2k6sci/)
 * [*Fraud, Famine, and Fascism*](http://rationalrevolution.net/special/library/tottlefraud.pdf) by Douglas Tottle
 * [*The 1932 Harvest and the Famine of 1933*](https://drive.google.com/file/d/0B-eTgjCs2lzpQllPVzQ2UFd3aWM/view?usp=sharing) by Mark Tauger
 * [*Natural Disaster and Human Actions in the Soviet Famine of 1931–1933*](https://drive.google.com/file/d/0B-eTgjCs2lzpNExnSEVhMjBLRlE/view?usp=sharing) by Mark Tauger
@@ -382,6 +386,7 @@
 * [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
+* [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](https://dissidentvoice.org/Articles9/Parenti_Tibet.htm)
 
 ### Democracy / State Capitalism?
 
@@ -428,7 +433,7 @@
 
 ### What's going on with the Uyghurs?
 
-- [What's going on with the Uyghurs / Xinjiang province? (Sorry about missing images, medium censored this post.)](http://archive.is/GUtGZ)
+- [What's going on with the Uyghurs / Xinjiang province?](https://worldaffairs.blog/2019/07/05/xinjiang-and-uyghurs-what-youre-not-being-told/)
 - [A Pakistani Diplomat given full access to “re-education camps” and this is what she found](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang).
 - [China's policies in the Xinjiang Uyghur autonomous region lift 1.85 million people out of poverty from 2014-2017.](http://www.xinhuanet.com/english/2018-10/24/c_137554986.htm?source=post_page---------------------------)
 - [US fuels terrorism in China: “1 million Uyghurs never verified”](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
@@ -468,11 +473,20 @@
 
 - [An investigation by the Refugee Review tribunal of Australia found the claims of organ harvesting, and prison camps, were provided by two unreliable witnesses, and can't be verified, by any of the major sources reporting it.](https://www.refworld.org/pdfid/4b6fe16df.pdf)
 - The claims mainly come from a self-appointed, private organization called the [China Tribunal](https://chinatribunal.com/who-we-are/), run by [British barrister Sir Geoffrey Nice QC](https://en.wikipedia.org/wiki/Geoffrey_Nice), who unsurprisingly served as a prosecutor in a UN trial regarding the former Socialist Republic of Yugoslavia, whose role was attempting to pin war crimes on Slobodan Milošević.
+- The "sources" for the claims are a [few international members of Falun Gong.](https://www.quora.com/I-read-that-China-is-killing-millions-of-spiritual-dissidents-including-Christians-and-harvesting-their-organs-why-doesnt-the-world-governments-scream-foul?share=1) 
 - [Its a cult, outlawed in China, akin to Scientology.](https://www.dailykos.com/stories/2011/5/13/975892/-#comment_41556493) The founder of Falun Gong, Li Hongzhiu, is [racist](http://en.falundafa.org/eng/lectures/1996L.html), and [homophobic](https://www.dailykos.com/stories/2011/5/13/975892/-#comment_41556493). Li teaches that homosexuality is not the standard of being human, the priority of Gods will be to eliminate homosexuals and that gays are demonic in nature.
+- [What is Falun Gong, and why do they believe "Trump was sent by heaven to destroy the communist party."?](https://thegrayzone.com/2019/09/30/reports-china-organ-harvesting-cult-falun-gong/)
+- [CNN claims of organ harvesting are not credible.](http://boston.indymedia.org/newswire/display/224096/index.phpCNN)
+- [The hospital that supposedly holds 6000 falun gong prisoners, was visited by various US officials after the claims, and found to be just a regular hospital.](https://file.wikileaks.org/file/crs/RL33437.pdf)
 
 ### Further reading
 
 * [Suggested reading for an aspiring MLM?](http://www.reddit.com/r/communism101/comments/18hgw2/suggested_reading_for_an_aspiring_mlm/c8fod6n)
+
+## On the German Democratic Republic (GDR)
+
+- [What about the GDR?](https://www.reddit.com/r/communism/comments/cxwul4/masterpost_on_the_german_democratic_republic_east/)
+- [Was the GDR really more democratic than west germany?](https://gowans.blog/2009/10/25/democracy-east-germany-and-the-berlin-wall/)
 
 ## On Cuba
 
@@ -662,12 +676,14 @@
 ### What's wrong with Elizabeth Warren?
 
 - [She supports Capitalism. ](https://www.cnbc.com/2018/07/23/elizabeth-warren-i-am-a-capitalist-but-markets-need-rules.html)
-- [She was a republican most of her adult life, during the Vietnam and Reagan eras... until 1996. She does not talk about her republican past in her autobiography, or speeches. She only became a democrat to support free markets: "I was a Republican because I thought that those were the people who best supported markets. I think that is not true anymore"](https://www.politico.com/magazine/story/2019/04/12/elizabeth-warren-profile-young-republican-2020-president-226613) [2](https://www.washingtonexaminer.com/news/elizabeth-warren-confronted-by-her-republican-past)
+- [She was a republican most of her adult life, during the Vietnam and Reagan eras... until 1996. She does not talk about her republican past in her autobiography, or speeches. She became a democrat to support free markets: "I was a Republican because I thought that those were the people who best supported markets. I think that is not true anymore"](https://www.politico.com/magazine/story/2019/04/12/elizabeth-warren-profile-young-republican-2020-president-226613) [2](https://www.washingtonexaminer.com/news/elizabeth-warren-confronted-by-her-republican-past)
 - [She claims she doesn't take PAC money, that democracy shouldn't be for sale, but much of her funding comes from wealthy donors, at a minumum of $10 Million.](https://jacobinmag.com/2019/09/elizabeth-warren-2020-big-donor-ban-bernie-sanders-corporate-money)
 - [How Elizabeth Warren is courting the establishment democrats.](https://www.nytimes.com/2019/08/26/us/politics/elizabeth-warren-democrats.html)
-- [Defends Israel's continued bombing of Gaza Hospitals and schools.](https://m.huffpost.com/us/entry/5733164)
+- [Defends Israel's continued bombing of Gaza Hospitals and schools.](https://m.huffpost.com/us/entry/5733164) Signs a letter in 2016 [asking Obama to veto any UN resolution for Israeli settlement expansion.](https://www.aipac.org/-/media/publications/policy-and-politics/aipac-analyses/issue-memos/2015/text-of-rounds-gillibrand-letter.pdf?elqTrackId=71FD281E81015C04EADDA6B8D8CFA471)
 - [Supports US troops in South Korea.](https://mobile.twitter.com/senwarren/status/979457592975134720?lang=en) [2](https://i.imgur.com/k6Qx3v3.jpg)
+- [Wants a "green" US military.](https://i.imgur.com/IRjlHxl.jpg)
 - [Copies Sanders program of full student debt cancelation, adds eligibility requirements.](https://www.cnn.com/2019/07/23/politics/elizabeth-warren-cancel-student-debt-bill/)
+- [Marked herself as "American Indian" for 6 years during her professorship at Harvard Law school, makes unverified claims of Cherokee ancestry, despite her family tree consisting of those who dispossessed Cherokees, and growing up in a wealthy white household. Uses her "Cherokee heritage" as political points in campaign speeches and political ads, greatly angering native american groups. Called for the arrest of Greg Grey Cloud, a Crow Creek Sioux activist protesting the Keystone XL pipeline from the Senate gallery.](https://twitter.com/AlytaDeLeon/status/1178019629102505986) [2](https://m.huffpost.com/us/entry/us_5d5ed7e6e4b0dfcbd48a1b01/amp), [3](https://newsmaven.io/indiancountrytoday/opinion/the-white-supremacy-of-elizabeth-warren-q6pZPvG4_0WIwiv__VU_bQ/)
 
 ### Kamala Harris
 
@@ -678,7 +694,7 @@
 
 - https://www.youtube.com/watch?v=seRaSRZKo2U
 
-# Greta Thunberg
+### Greta Thunberg
 
 - http://www.wrongkindofgreen.org/2019/01/17/the-manufacturing-of-greta-thunberg-for-consent-the-political-economy-of-the-non-profit-industrial-complex/
 
@@ -690,16 +706,18 @@
 - [Was Mark Twain a socialist?](https://socialistworker.org/2010/04/21/the-twain-they-didnt-teach)
 - [What's so bad about Ronald Reagan?](https://www.reddit.com/r/ShitLiberalsSay/comments/ce2v7l/rpolitics_straight_up_creaming_their_pants_over/etydg3l/)
 - What's so bad about [Barack Obama?](https://www.reddit.com/r/communism101/comments/cdamsp/what_are_your_opinions_on_obama/etswenc/) Also this [List of US Atrocities](https://github.com/dessalines/essays/blob/master/us_atrocities.md)
-- [What about Tulsi Gabbard?](https://www.jacobinmag.com/2017/05/tulsi-gabbard-president-sanders-democratic-party)
+- [What about Tulsi Gabbard?](https://www.jacobinmag.com/2017/05/tulsi-gabbard-president-sanders-democratic-party),[2](https://bridge.georgetown.edu/research/factsheet-tulsi-gabbard/)
 - [What's going on with the finnish bolshevik being accused of a rape fantasy?](https://www.reddit.com/r/ShitLiberalsSay/comments/8aobas/this_is_the_finnish_bolshevik_with_a_minor/dx09v07/)
 
 ## Other Topics
+
 ### Why are socialists against bitcoin mining?
 
 - [A single bitcoin transaction wastes as much energy as your house uses in a week.](https://motherboard.vice.com/en_us/article/ywbbpm/bitcoin-mining-electricity-consumption-ethereum-energy-climate-change)
 - [Bitcoin mining consumes more electricity per year than all of Ireland.](https://www.theguardian.com/technology/2017/nov/27/bitcoin-mining-consumes-electricity-ireland)
 
 ### Did atom bombs really end WW2?
+
 - [No, the entrance of the USSR into the war against Japan was the cause of Japan's surrender, which the US fully knew about since they were intercepting Japan's communications. The Atom bombing of Japanese civilians was in reality a display of military power against the USSR, and the first act of the cold war.](http://foreignpolicy.com/2013/05/30/the-bomb-didnt-beat-japan-stalin-did/) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoaLP3G2HGj-O5JTepm0Kjt-),
     [Summary](https://www.reddit.com/r/Socialism_101/comments/bd615l/perspectives_on_ww2/eky36vp/?context=3)
 
