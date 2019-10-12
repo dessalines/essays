@@ -244,7 +244,7 @@ Even if we were to fully accept the Western propaganda that socialist regimes ha
 
 Communism is the highest developed stage of socialism wherein there is no state, no money, no class system. The means of production are owned by all and provide for everyone's needs. There are also presumably high levels of automation so [most do not have to work](http://imgur.com/yQpzb).
 
-Many socialists point to [directly democratic](https://en.wikipedia.org/wiki/Direct_democracy) [worker’s councils](https://en.wikipedia.org/wiki/Workers'_council) as an ideal way to organize production, with [gift economies](https://en.wikipedia.org/wiki/Gift_economy) for abundant goods, and [labor voucher](https://en.wikipedia.org/wiki/Labour_voucher) economies for scarce/luxury goods. Here is an example of a [moneyless, Cyber-Communist system.](https://www.youtube.com/watch?v=cI01-5zhwdA)
+Many socialists point to [directly democratic](https://en.wikipedia.org/wiki/Direct_democracy) [worker’s councils](https://en.wikipedia.org/wiki/Workers'_council) as an ideal way to organize production, with [gift economies](https://en.wikipedia.org/wiki/Gift_economy) for abundant goods, and [labor voucher](https://en.wikipedia.org/wiki/Labour_voucher) economies for scarce/luxury goods. Here is an example of a [moneyless, Cyber-Communist system](/paul_cockshott_cyber_communism.md), [video](https://www.youtube.com/watch?v=cI01-5zhwdA).
 
 Past and present socialist/anarchist societies include - [Revolutionary Catalonia](https://en.wikipedia.org/wiki/Revolutionary_Catalonia), [Anarchist Aragon](https://en.wikipedia.org/wiki/Anarchist_Aragon), Shinmin Province in Korea/Manchuria, The [Bavarian Soviet Republic](https://en.wikipedia.org/wiki/Bavarian_Soviet_Republic), The [Paris Commune](https://en.wikipedia.org/wiki/Paris_commune), The Zapatista controlled areas of Chiapas (current day), [Magonista Baja California](https://en.wikipedia.org/wiki/Magonista_rebellion_of_1911), [Shanghai People's Commune](https://en.wikipedia.org/wiki/Shanghai_People%27s_Commune), [Rojava](https://en.wikipedia.org/wiki/Rojava) (current day), [Communist Marinaleda](http://www.theguardian.com/world/2013/oct/20/marinaleda-spanish-communist-village-utopia), [Socialist Federal Republic of Yugoslavia](https://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia), [USSR](https://en.wikipedia.org/wiki/Soviet_Union), [People's Republic of China](https://en.wikipedia.org/wiki/People%27s_Republic_of_China), [Socialist Republic of Vietnam](https://en.wikipedia.org/wiki/Vietnam), [Cuba](https://en.wikipedia.org/wiki/Cuba). 
 
@@ -279,13 +279,13 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ### Modern introductory books
 
-- [Socialist books starter pack (torrent)](magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
   - <pre>magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 - [Paul D’Amatto - the meaning of Marxism](magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
   - <pre>magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 - [Danny Katch -  Socialism…. Seriously](magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc&tr=http://tracker.opentrackr.org/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.zer0day.to:1337/announce)
   - <pre>magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc&dn=Socialism Seriously A Brief Guide to Human Liberation Danny Katch (2015) epub&tr=http://tracker.opentrackr.org/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.zer0day.to:1337/announce</pre>
-- [Jacobin - The ABCs of Socialism](https://s3.jacobinmag.com/issues/jacobin-abcs.pdf)
+- [Socialist books starter pack (torrent)](magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+- [Chris Harman - How Marxism Works](https://www.marxists.org/archive/harman/1979/marxism/index.html)
 - [Peter Gelderloos - How Nonviolence Protects the State](https://theanarchistlibrary.org/library/peter-gelderloos-how-nonviolence-protects-the-state)
 ### Essays/Introductions
 
@@ -294,9 +294,9 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Lenin - The Three Sources and Three Component Parts of Marxism](https://www.marxists.org/archive/lenin/works/1913/mar/x01.htm)
 - [Lenin - A liberal professor on Equality](https://www.marxists.org/archive/lenin/works/1914/mar/11.htm)
 - [Eugene Debs - Capitalism and Socialism](https://www.marxists.org/archive/debs/works/1912/1912-capsoc.htm)
-- [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work) [audiobook](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
+- [Stephen Gowans - Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work) [audiobook](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
 - Why do many socialist attempts end up in an one-party state? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
-- [Pacifism - How to do the enemy's job for them.](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
+- [Red Phoenix - Pacifism - How to do the enemy's job for them.](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/), [audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 ### Marxist literature
 
 - [Engels - Socialism: Utopian and Scientific](http://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm), [audiobook](https://www.youtube.com/watch?v=IS4cpvvLeYo&list=PL0-IkmzWbjobt3oC7Mhq9kHWVbBKRtyg8)
@@ -306,7 +306,6 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/)
 - [Lenin - “Left-Wing” Communism: an Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/)
 - [Lenin - Imperialism, the Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/)
-- [Kropotkin - The Conquest of Bread](https://theanarchistlibrary.org/library/petr-kropotkin-the-conquest-of-bread)
 - [Trotsky - Fascism: What it is and how to Fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm)
 - [Trotsky - In Defense of October](https://www.marxists.org/archive/trotsky/1932/11/oct.htm)
 
