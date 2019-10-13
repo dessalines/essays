@@ -404,7 +404,7 @@
   * If China is imperialist, [why are they funding development in Africa and writing off millions in debt?](https://www.reddit.com/r/Sino/comments/cov03r/lenders_remorse_chinas_africa_projects_need_lots/ewld4v4/)
 * [Is China a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
   * [What kind of democracy does China have, and how is it different from the west?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answers/81676052?share=0ac8c628&srid=JMzz)
-  * In contrast to low US political approval ratings, 96% of Chinese are satisfied with the national government (Edelmans 2016). World Values Surveys says that 83% think the country is run for their benefit rather than for the benefit of special groups–a remarkable testimonial. [How is this possible in a one-party state?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
+  * In contrast to low US political approval ratings, 96% of Chinese are satisfied with the national government (Edelmans 2016). World Values Surveys says that 83% think the country is run for their benefit rather than for the benefit of special groups. [How is this possible in a one-party state? (TED talk by Eric X Li)](https://www.youtube.com/watch?v=s0YjL9rZyR0)
   * [How does China’s political system work?](https://www.youtube.com/watch?v=Qu4QTxl9GVw)
   * [Who runs China? Makeup of the national people's congress.](https://news.cgtn.com/event/2019/whorunschina/index.html)
 * Some stats
