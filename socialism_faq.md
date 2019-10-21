@@ -406,10 +406,13 @@
   * [What kind of democracy does China have, and how is it different from the west?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answers/81676052?share=0ac8c628&srid=JMzz)
   * In contrast to low US political approval ratings, 96% of Chinese are satisfied with the national government (Edelmans 2016). World Values Surveys says that 83% think the country is run for their benefit rather than for the benefit of special groups. [How is this possible in a one-party state? (TED talk by Eric X Li)](https://www.youtube.com/watch?v=s0YjL9rZyR0)
   * [How does China’s political system work?](https://www.youtube.com/watch?v=Qu4QTxl9GVw)
+  * [How are Chinese leaders elected / chosen? How meristocratic is the system? How do elections differ from those in western bourgeois democracies?](https://www.youtube.com/watch?v=TgpQxVCekgw)
   * [Who runs China? Makeup of the national people's congress.](https://news.cgtn.com/event/2019/whorunschina/index.html)
 * Some stats
   * [The real wage (IE the wage adjusted for the prices you pay) has gone up 4x in the past 25 years, more than any other country. This is staggering considering it's the most populous country on the planet. The US real wage by comparison is lower in 2019 than it was in 1973.](https://www.youtube.com/watch?v=Cw8SvK0E5dI)
-  * [US Life expectancy peaked in 2015, is on the decline, and is now lower than in China.](https://www.businessinsider.com/china-boasts-that-its-healthy-life-expectancy-beats-the-us-is-correct-2018-5) [2](http://www.xinhuanet.com/english/2019-09/07/c_138372963.htm) How [healthcare works in China (refuting a fearmongering NYT video about health care in China)](https://www.youtube.com/watch?v=mvpo2jv5eqI)
+  * [US Life expectancy peaked in 2015, is on the decline, and is now lower than in China.](https://www.businessinsider.com/china-boasts-that-its-healthy-life-expectancy-beats-the-us-is-correct-2018-5) [2](http://www.xinhuanet.com/english/2019-09/07/c_138372963.htm) 
+    * How [healthcare works in China (refuting a fearmongering NYT video about health care in China)](https://www.youtube.com/watch?v=mvpo2jv5eqI).
+    * [Uninsured Chinese citizens pay an average of $5-7 to see a specialist (the majority of hospital visits ), and with insurance, its free. 95% of Chinese citizens have insurance](https://hotpot.team/new-york-times-lies/)
   * [Wages themselves are forced to rise in the private sector by the CPC (+16% every years, +400% since 1980) who force the capitalists to accept the presence of CPC chapters who represent the interest of the workers, increasing workers control even in the capitalist parts of the economy. ](https://www.workers.org/2015/07/21/china-rising-wages-and-worker-militancy/#.WXOlQtPytsM)
   * [The west views China as one big sweatshop, but the actual working hours aren't much more than anywhere else. The average for a migrant worker (most vulnerable to exploitation as they are traveling from the countryside) is 8.8 hours, little under an hour more than a typical working day. Labor strikes are rarely suppressed, and usually get the support of the PRC.](https://www.forbes.com/sites/mitchfree/2013/07/11/held-hostage-entrepreneurs-uneasy-over-chinese-govt-inaction/#2431f5463de4)
   * [The workplace safety standards of China are better than in the capitalist countries of the West like in Australia who have an higher rate of work related death despite having a GDP per capita 3-5 times higher.](http://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/)
@@ -428,7 +431,7 @@
 - [Joshua Wong, one of the leaders of the protests, travels to US, seeking US intervention. Meets with Marco Rubio, and other senators to garner support. Senators Rubio and Tom Cotton sponsored legislation that would punish Hong Kong or mainland officials who suppressed basic freedoms in the city.](https://www.scmp.com/news/hong-kong/politics/article/2046914/chinese-government-rebukes-us-over-comments-hong-kong)
 - [Hong Kong Billionaire publisher / media mogul Jimmy Lai, a large donor for the HK protests,  meets with Pence, Pompeo, to discuss US intervention.](https://www.scmp.com/news/hong-kong/politics/article/3017868/beijing-foreign-office-slams-hong-kong-tycoon-jimmy-lai-and), [2](http://www.thestandard.com.hk/breaking-news.php?id=131200&sid=4)
 - [An overview by isgoodrum.](https://mobile.twitter.com/isgoodrum/status/1139979689735278592?s=21&utm_source=share&utm_medium=ios_app) 
-- [The protestors are beating up anyone from China (lots of anti-china racism from hkers)](https://mobile.twitter.com/carlzha/status/1169272640642535424?s=21&utm_source=share&utm_medium=ios_app) [2]((https://mobile.twitter.com/SCMPHongKong/status/1173201595619610624?utm_source=share&utm_medium=ios_app&utm_name=iossmf))
+- [The protestors are beating up anyone from China (lots of anti-china racism from hkers)](https://mobile.twitter.com/carlzha/status/1169272640642535424?s=21&utm_source=share&utm_medium=ios_app) [2](https://mobile.twitter.com/SCMPHongKong/status/1173201595619610624?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 - [“Something else you won't see in imperialist msm: Hong Kongers organizing to show their support for extradition amendment. "Hong Kongers can't be at ease if fugitives are in the large"](https://mobile.twitter.com/redniangzijun/status/1139177913859891202).
 - [“Over 900,000 real name signatures in "Protecting justice & supporting extradition" petition. Reasons listed: HK criminal committed murder in TW; HK current extradition law has flaws & needs amendment asap; HK shouldn't be fugitive heaven, extradition amendment has many safeguards”](https://mobile.twitter.com/redniangzijun/status/1139177921631965189).
 - [Hong Kong - British vs Chinese Perspective.](https://www.reddit.com/r/FULLCOMMUNISM/comments/dg0zpn/imagine_being_china_for_a_moment_and_having_to/)
@@ -446,12 +449,21 @@
 - [US fuels terrorism in China: “1 million Uyghurs never verified”](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
 - [China’s Xinjiang Problem – Made in USA](https://journal-neo.org/2015/11/10/chinas-xinjiang-problem-made-in-usa/).
 - [No, the UN did not report China has ‘massive internment camps’ for Uighur Muslims](https://thegrayzone.com/2018/08/23/un-did-not-report-china-internment-camps-uighur-muslims/).
-- [The Truth About China’s Uyghur Problem](https://21stcenturywire.com/2018/12/14/the-truth-behind-chinas-uyghur-problem/).
 - [Religious freedoms in China explained](https://twitter.com/isgoodrum/status/1004884261051092993?s=21).
 - [Thousands of Muslims from the Uyghur province make Hajj Pilgrimage yearly.](https://www.app.com.pk/over-11000-chinese-muslims-from-xinjiang-proceed-to-saudi-arabia-for-hajj/)
 - [EU rejects China offer of Xinjiang tour](https://www.scmp.com/news/china/diplomacy/article/3003217/eu-rejects-chinas-offer-xinjiang-tour-says-its-open-one-later).
-- [If China Is Anti-Islam, Why Are These Chinese Muslims Enjoying a Faith Revival?]( https://time.com/3099950/china-muslim-hui-xinjiang-uighur-islam/) 
+- [If China Is Anti-Islam, Why Are These Chinese Muslims Enjoying a Faith Revival?](https://time.com/3099950/china-muslim-hui-xinjiang-uighur-islam/) 
 - [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic).
+
+### What about the Falun Gong?
+
+- [An investigation by the Refugee Review tribunal of Australia found the claims of organ harvesting, and prison camps, were provided by two unreliable witnesses, and can't be verified, by any of the major sources reporting it.](https://www.refworld.org/pdfid/4b6fe16df.pdf)
+- The claims mainly come from a self-appointed, private organization called the [China Tribunal](https://chinatribunal.com/who-we-are/), run by [British barrister Sir Geoffrey Nice QC](https://en.wikipedia.org/wiki/Geoffrey_Nice), who unsurprisingly served as a prosecutor in a UN trial regarding the former Socialist Republic of Yugoslavia, whose role was attempting to pin war crimes on Slobodan Milošević.
+- The "sources" for the claims are a [few international members of Falun Gong.](https://www.quora.com/I-read-that-China-is-killing-millions-of-spiritual-dissidents-including-Christians-and-harvesting-their-organs-why-doesnt-the-world-governments-scream-foul?share=1) 
+- [Its a cult, outlawed in China, akin to Scientology.](https://www.dailykos.com/stories/2011/5/13/975892/-#comment_41556493) The founder of Falun Gong, Li Hongzhiu, is [racist](http://en.falundafa.org/eng/lectures/1996L.html), and [homophobic](https://www.dailykos.com/stories/2011/5/13/975892/-#comment_41556493). Li teaches that homosexuality is not the standard of being human, the priority of Gods will be to eliminate homosexuals and that gays are demonic in nature.
+- [What is Falun Gong, and why do they believe "Trump was sent by heaven to destroy the communist party."?](https://thegrayzone.com/2019/09/30/reports-china-organ-harvesting-cult-falun-gong/)
+- [CNN claims of organ harvesting are not credible.](http://boston.indymedia.org/newswire/display/224096/index.phpCNN)
+- [The hospital that supposedly holds 6000 falun gong prisoners, was visited by various US officials after the claims, and found to be just a regular hospital.](https://file.wikileaks.org/file/crs/RL33437.pdf)
 
 ### What about the Tiananmen square massacre?
 
@@ -475,16 +487,6 @@
 - [*Fanshen: A Documentary of Revolution in a Chinese Village*](http://gen.lib.rus.ec/book/index.php?md5=c02e1f533d33ecea7d9946f55a097bd0) by William Hinton
 - [*Shenfan: The Continuing Revolution in a Chinese Village*](http://gen.lib.rus.ec/book/index.php?md5=69633412b4947eb197779d652ba6e331) by William Hinton
 - [*Turning Point in China: An Essay on the Cultural Revolution*](http://gen.lib.rus.ec/book/index.php?md5=FF14AB76713984526357FE8829DEAD3C) by William Hinton
-
-### What about the Falun Gong?
-
-- [An investigation by the Refugee Review tribunal of Australia found the claims of organ harvesting, and prison camps, were provided by two unreliable witnesses, and can't be verified, by any of the major sources reporting it.](https://www.refworld.org/pdfid/4b6fe16df.pdf)
-- The claims mainly come from a self-appointed, private organization called the [China Tribunal](https://chinatribunal.com/who-we-are/), run by [British barrister Sir Geoffrey Nice QC](https://en.wikipedia.org/wiki/Geoffrey_Nice), who unsurprisingly served as a prosecutor in a UN trial regarding the former Socialist Republic of Yugoslavia, whose role was attempting to pin war crimes on Slobodan Milošević.
-- The "sources" for the claims are a [few international members of Falun Gong.](https://www.quora.com/I-read-that-China-is-killing-millions-of-spiritual-dissidents-including-Christians-and-harvesting-their-organs-why-doesnt-the-world-governments-scream-foul?share=1) 
-- [Its a cult, outlawed in China, akin to Scientology.](https://www.dailykos.com/stories/2011/5/13/975892/-#comment_41556493) The founder of Falun Gong, Li Hongzhiu, is [racist](http://en.falundafa.org/eng/lectures/1996L.html), and [homophobic](https://www.dailykos.com/stories/2011/5/13/975892/-#comment_41556493). Li teaches that homosexuality is not the standard of being human, the priority of Gods will be to eliminate homosexuals and that gays are demonic in nature.
-- [What is Falun Gong, and why do they believe "Trump was sent by heaven to destroy the communist party."?](https://thegrayzone.com/2019/09/30/reports-china-organ-harvesting-cult-falun-gong/)
-- [CNN claims of organ harvesting are not credible.](http://boston.indymedia.org/newswire/display/224096/index.phpCNN)
-- [The hospital that supposedly holds 6000 falun gong prisoners, was visited by various US officials after the claims, and found to be just a regular hospital.](https://file.wikileaks.org/file/crs/RL33437.pdf)
 
 ### Further reading
 
@@ -620,13 +622,13 @@
   - 8 variations of  “Jewish?” (Charlie Chaplin), “Polish Jew, (Tom Driberg)” “English Jew,” or “Jewess.”
   - [Paul Robeson](https://en.wikipedia.org/wiki/Paul_Robeson) - "ROBESON, Paul (US Negro) ...Very anti-white. [Henry] Wallace supporter."
     - Paul Robeson wasn't anti-white, just look at the welsh coal miners for whom Robeson Campaigned.
-    - [Relevant testimony of Paul Robeson](https://www.youtube.com/watch?v=kmFjjaFNHKo) to the House of Unamerican activities committee during the red scare.
+    - [The testimony of Paul Robeson](https://www.youtube.com/watch?v=kmFjjaFNHKo) (one of the people Orwell snitched on), to HUAC (House of Unamerican activities committee) during the red scare.
   - [Stephen Spender](https://en.wikipedia.org/wiki/Stephen_Spender)  - "Sentimental sympathiser... Tendency towards homosexuality" 
   - [Hugh MacDiarmid](https://en.wikipedia.org/wiki/Hugh_MacDiarmid), Scottish nationalist poet, and anti-imperialist. 
   - [George Padmore](https://en.wikipedia.org/wiki/George_Padmore), Trinidadian journalist and anti-imperialist campaigner.
 - His books Animal Farm and 1984 are used widely as anti-communist propaganda in schools in the US and UK. So much so that [his animated animal farm film was funded by the CIA](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/).  There's a reason they teach George Orwell in schools and not Franz Fanon, Che, Huey P Newton, Malcolm X, Lenin, CLR James, etc. 
+- [Orwell, anti-communist: A criticism of Orwell and his Work - By Isaac Asimov.](http://www.newworker.org/ncptrory/1984.htm)
 - [Orwell worked as a British imperial cop in Burma for 5 years](http://factsanddetails.com/southeast-asia/Myanmar/sub5_5e/entry-3083.html). His short story, [Shooting an Elephant](http://www.denisedrespling.com/review-shooting-elephant-george-orwell/), uses ethnic slurs and denigrates burmese people. 
-- [The testimony of Paul Robeson](https://www.youtube.com/watch?v=kmFjjaFNHKo) (one of the people Orwell snitched on), to HUAC (House of Unamerican activities committee) during the red scare.
 - [A reddit thread on George Orwell](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/), [Thread #2](https://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/for_those_on_the_right_who_think_orwell_wrote/dpy4zik/).
 
 ### John McCain
@@ -648,7 +650,7 @@
 ### What's wrong with Bernie Sanders?
 
 - [Supports US imperialism](https://leftistcritic.wordpress.com/2017/01/31/bernie-sanders-an-imperialist-worth-despising/). [2](https://www.alternet.org/election-2016/bernie-sanders-troubling-history-supporting-us-military-violence-abroad)
-  - [Voted for US intervention](https://i.imgur.com/HCvaDLp.jpg) in the following nations: Afghanistan, Lebanon, Libya, [Somalia](http://votesmart.org/bill/2732/7934/27110/bernie-sanders-voted-yea-passage-with-amendment-s-j-res-45-authorization-for-use-of-%20us-armed-forces-in-somalia#7934), Syria, Yemen, [Yugoslavia](http://www.libertyunionparty.org/?page_id=363),[2](http://votesmart.org/bill/2808/7948/27110/bosnia-troop-deployment-resolution#.Ve5QZkvJyhG), Bosnia, Haiti, Congo, Liberia, Sudan, and Ukraine.
+  - [Voted for US intervention](https://i.imgur.com/HCvaDLp.jpg) in the following nations: Afghanistan, Lebanon, [Libya](https://www.leftvoice.org/not-on-our-side-on-bernie-sanders-and-imperialism), [Somalia](http://votesmart.org/bill/2732/7934/27110/bernie-sanders-voted-yea-passage-with-amendment-s-j-res-45-authorization-for-use-of-%20us-armed-forces-in-somalia#7934), Syria, Yemen, [Yugoslavia](http://www.libertyunionparty.org/?page_id=363),[2](http://votesmart.org/bill/2808/7948/27110/bosnia-troop-deployment-resolution#.Ve5QZkvJyhG), Bosnia, Haiti, Congo, Liberia, Sudan, and Ukraine.
   - [Warmongers on the Bill O'Reilley show for the US to intervene against Russia, Syria, and China.](https://www.youtube.com/watch?v=EO4Ko-v-q0g&feature=youtu.be&t=2m12s)
   - [Supports drone bombing: "They have, at times, been effective."](https://abcnews.go.com/Politics/bernie-sanders-people-responding-message/story?id=33413601)
   - Staunchly supports Israel in their displacement of Palestinians (while blaming hamas for the conflict). [Says he will not move back the US embassy in Israel back from Jerusalem to Tel Aviv, after Trump moved it the previous year.](https://electronicintifada.net/blogs/ali-abunimah/why-bernie-sanders-still-encouraging-israels-crimes)
@@ -659,6 +661,7 @@
 - [Bernie is against open borders](https://www.youtube.com/watch?v=vf-k6qOfXz0), believes in strong border and anti-immigration policies. [2](https://i.imgur.com/WcQ8bNQ.jpg)
     - When asked about the 2018 Migrant caravan, where Border agents tear gassed migrants, Bernie replied, ["not all migrants seeking asylum at the US-Mexico border have a credible claim. "You have to look at it case-by-case."](https://thehill.com/homenews/senate/418398-bernie-sanders-some-migrants-lack-credible-claim-for-asylum)
   - [Believes that Russians are to blame for the failure of US democracy. "Protecting american democracy from foreign invasion."](https://i.imgur.com/GkSXsZY.jpg)
+- [Why Sanders is not a socialist - Anticonquista ](https://www.youtube.com/watch?v=VbcrJT485r8)
 - [Shills for democrats, campaigned for Hillary Clinton.](https://www.newyorker.com/news/amy-davidson/bernie-sanderss-hard-fight-for-hillary-clinton)
 - [Equates socialism with US corporate bailouts.](https://www.leftvoice.org/sanders-speech-explains-his-vision-of-socialism-it-sounds-a-lot-like-new-deal-liberalism)
 - [Thanked Jeff Bezos for deigning to raise amazon wages](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqM9uBoBvLLw/v1/600x-1.jpg), Bezos [responds with "you're welcome"](https://pbs.twimg.com/media/DohNI5GUUAAin6q.jpg). 
@@ -697,6 +700,7 @@
 
 - https://twitter.com/WillisJermane/status/1090261366789656578
 - https://www.theguardian.com/commentisfree/2019/jan/31/kamala-harris-laughed-jailing-parents-truancy
+- https://www.bloomberg.com/news/articles/2019-10-14/kamala-harris-offices-fought-payments-to-wrongly-convicted
 
 ### Biden
 
