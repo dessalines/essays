@@ -124,6 +124,8 @@
 - [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work) [audiobook](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
 - [My economics teacher said that the planned economies communist countries had are proven failures. Is this true?](https://www.reddit.com/r/communism101/comments/3e68nf/my_economics_teacher_said_that_the_planned/)
 - [Do planned economies have any elegant math behind them?](https://www.reddit.com/r/DebateCommunism/comments/cy5duq/does_communism_have_any_elegant_mathematical/)
+- [Is there a surplus in socialist economies? How is it different from the surplus in capitalism and feudalism?](https://www.youtube.com/watch?v=C-T-Fr6DvFw)
+- [How did early hunter gatherer and agricultural  societies work? Were they egalitarian? How did private property come about? Why did women have a higher status? How did classes and inequality arise?](https://www.youtube.com/watch?v=9u2TtXVABcc)
 - [Towards a new socialism - Cockshott and Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/) [audiobook](https://www.youtube.com/watch?v=yjHCPWs5sl4&list=PL0-IkmzWbjoZNiItBbuVvKQBdE80tsyhx)
 - [Why are communists against markets?](https://github.com/dessalines/essays/blob/master/market_socialism.md)
 
@@ -244,6 +246,9 @@
 - [Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/), [2](https://www.reddit.com/r/me_irl/comments/cccf31/meirl/etnbaxx/)
 - [What is liberalism? (Olly from Philosophy Tube)](https://www.youtube.com/watch?v=VlLgvSduugI)
 - [What about free speech? What about Antifa / Anti-Fascism?](https://www.youtube.com/watch?v=bgwS_FMZ3nQ&t=2398s)
+  - [How do communists feel about free speech? Are they okay with suppression of free speech in places like China?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/et0a5tc/)
+  - [What does free speech really mean?](https://www.reddit.com/r/communism101/comments/8onmz2/free_speech_under_communism/)
+  - [What are the different types of free speech?](https://www.reddit.com/r/socialism/comments/4a44se/a_short_history_of_liberalism_and_free_speech/d0xbncx/)
 - [Why do leftists think that FDR co-opted the left to "save" capitalism?](https://www.hoover.org/research/how-fdr-saved-capitalism)
 - What's wrong with democrats ( insert moderate party here ) ? 
   - [Why not vote for the lesser of two evils (Lesser-evilism)?](https://socialistworker.org/2003-2/465/465_11_LesserEvil.php) 
@@ -288,6 +293,7 @@
 * [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
 * [What about Stalin? Didn't he kill millions? (Revleft podcast on Stalin)](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 * [Was Stalin's USSR State Capitalist?](http://www.reddit.com/r/communism101/comments/383c4i/was_stalins_ussr_state_capitalist/)
+* [Did Stalin really try to resign 4 times?](https://socialistmlmusings.wordpress.com/2017/02/23/stalins-four-attempts-at-resignation/)
 * [Why were there prison labor camps in the USSR and were they justified?](http://www.reddit.com/r/communism101/comments/2hkn8r/why_were_there_prison_labor_camps_in_the_ussr_and/)
 * [Did the USSR really make an alliance with the nazis? (Molotov-Ribbentrop Pact)](https://www.reddit.com/r/communism101/comments/148o4x/1939_sovietnazi_partition_of_poland/c7azkz9/), [2](https://www.telegraph.co.uk/news/worldnews/europe/russia/3223834/Stalin-planned-to-send-a-million-troops-to-stop-Hitler-if-Britain-and-France-agreed-pact.html), [3](https://www.reddit.com/r/communism101/comments/8mg59o/why_did_the_ussr_aid_nazi_germany_in_invading/), [4](https://www.reddit.com/r/communism/comments/4t1p4j/why_did_the_soviet_union_sign_the/), [5](https://i.imgur.com/cAMvQ1O.jpg)
 * [Did the USSR supply the Nazis with raw materials and weapons in the years before WW2?](http://www.reddit.com/r/communism101/comments/a5r9sx/-/eboru9r)
@@ -445,6 +451,7 @@
 
 - [What's going on with the Uyghurs / Xinjiang province?](https://worldaffairs.blog/2019/07/05/xinjiang-and-uyghurs-what-youre-not-being-told/)
 - [A Pakistani Diplomat given full access to “re-education camps” and this is what she found](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang).
+- [A majority of Muslim countries support China's policies in XinJiang, and don't believe the western lies told about it.](https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/) [2](http://www.xinhuanet.com/english/2019-07/13/c_138222183.htm), [3](https://www.cnsnews.com/news/article/patrick-goodenough/china-thanks-37-countries-including-islamic-states-praising-its) Supporters: Algeria, Angola, Bahrain, Belarus, Bolivia, Burkina Faso, Burma, Burundi, Cambodia, Cameroon, Comoros, Congo, Cuba, DR Congo, Egypt, Eritrea, Gabon, Kuwait, Laos, Nigeria, North Korea, Oman, Pakistan, Philippines, Qatar, Russia, Saudi Arabia, Somalia, Sudan, Syria, Tajikistan, Togo, Turkmenistan, UAE, Venezuela, Zimbabwe.
 - [China's policies in the Xinjiang Uyghur autonomous region lift 1.85 million people out of poverty from 2014-2017.](http://www.xinhuanet.com/english/2018-10/24/c_137554986.htm?source=post_page---------------------------)
 - [US fuels terrorism in China: “1 million Uyghurs never verified”](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
 - [China’s Xinjiang Problem – Made in USA](https://journal-neo.org/2015/11/10/chinas-xinjiang-problem-made-in-usa/).
