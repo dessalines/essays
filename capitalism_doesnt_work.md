@@ -19,8 +19,7 @@ Lets unpack the idea that "Capitalism works". In the US, the most developed Capi
 - [Committed countless atrocities](https://github.com/dessalines/essays/blob/master/us_atrocities.md), killing millions directly and indirectly across the globe. Currently maintains an [imperialist network](https://www.youtube.com/watch?v=Df4R-xdKvpM) of over [800 military bases in 70 countries.](https://www.politico.com/magazine/story/2015/06/us-military-bases-around-the-world-119321) (For comparison, all the other countries combined have only 30 bases)
 - [Most prisoners per capita AND by total](https://www.statista.com/statistics/262962/countries-with-the-most-prisoners-per-100-000-inhabitants/). Makes sense, since prison is Capitalism's boarding house. 
 - [Runs least 54 agricultural slave labor camps.](https://en.wikipedia.org/wiki/Prison_farm#In_the_United_States_.28partial_list.29). 
-- [34,000 *undesirables* imprisoned in over 500 immigrant prison
-    camps.](https://en.wikipedia.org/wiki/U.S._Immigration_and_Customs_Enforcement#Detention_centers)
+- [34,000 *undesirables* imprisoned in over 500 immigrant prison camps.](https://en.wikipedia.org/wiki/U.S._Immigration_and_Customs_Enforcement#Detention_centers)
 - [US collapse scenarios by 2030.](https://www.salon.com/2010/12/06/america_collapse_2025/)
 - [More here.](https://github.com/dessalines/essays/blob/master/us_atrocities.md#workers-and-the-poor)
 
