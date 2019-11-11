@@ -83,7 +83,7 @@
 - [Why, in your opinion, have most attempts to form countries based economically on communism and socialism (USSR, Cuba, China) fail?](http://www.reddit.com/r/communism101/comments/1f8obt/honestly_not_trolling_why_in_your_opinion_have/)
 - [What about the authoritarian leaders like Lenin, Stalin, Mao, Pol Pot, etc?](https://www.reddit.com/r/LateStageCapitalism/comments/8xl4bi/stay_angry_comrades/e24fuqs/)
 - [Why did the Soviet Union fail?](http://www.reddit.com/r/communism101/comments/1zrroq/why_did_the_soviet_union_fail/)
-- [What about the gulags?](https://www.greanvillepost.com/2018/10/09/the-truth-about-the-soviet-gulag-surprisingly-revealed-by-the-cia/) [2](https://www.reddit.com/r/communism101/comments/9bem2d/what_were_the_gulags_according_to_self_identified/e52ls2e/) [3](https://espressostalinist.com/the-real-stalin-series/gulag/)
+- [What about the gulags?](https://www.greanvillepost.com/2018/10/09/the-truth-about-the-soviet-gulag-surprisingly-revealed-by-the-cia/) [2](https://www.reddit.com/r/communism101/comments/9bem2d/what_were_the_gulags_according_to_self_identified/e52ls2e/) [3](https://espressostalinist.com/the-real-stalin-series/gulag/), [4](http://www.mariosousa.se/LiesconcerningthehistoryoftheSovietUnion.html)
 - [Didn't the USSR kill millions of it citizens, with most people living in poverty and dying early?](https://en.wikipedia.org/wiki/Demographics_of_the_Soviet_Union#Life_expectancy_and_infant_mortality)
 - [What about Stalin, the purges, the holodomor, etc? A revleft podcast.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 - [Was Stalin actually a good leader?](https://www.reddit.com/r/Socialism_101/comments/cg319t/were_there_any_good_leaders_of_the_soviet_union/euekaxo/)
@@ -104,7 +104,7 @@
 * [What are the differences between Marxism, Marxism-Leninism, Trotskyism, MLM, and Stalinism?](https://www.reddit.com/r/Anarchy101/comments/87apl4/differences_between_marxism_lenninism_trotskyism/dwbj3so/)
 * [Can someone give us a quick like-we're-five rundown of the distinctions between Trotskyism, Maoism, orthodox Marxism, and so on?](http://www.reddit.com/r/communism101/comments/132d5s/can_someone_give_us_a_quick_likewerefive_rundown/)
 * [What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
-* [What's the difference in economic structure ( production and distribution) of anarchism, anarcho-communism, and Marxist communism?](https://old.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/)
+* [What's the difference in economic structure ( production and distribution) of anarchism, anarcho-communism, anarcho-syndicalism, and Marxist communism?](https://old.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/)
 * [What is the communist response to a lot of Anarchist criticisms? A Megathread.](https://www.reddit.com/r/communism/comments/cewriu/masterpost_for_defending_socialism_against/)
 * [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 * [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
@@ -126,6 +126,7 @@
 - [Do planned economies have any elegant math behind them?](https://www.reddit.com/r/DebateCommunism/comments/cy5duq/does_communism_have_any_elegant_mathematical/)
 - [Is there a surplus in socialist economies? How is it different from the surplus in capitalism and feudalism?](https://www.youtube.com/watch?v=C-T-Fr6DvFw)
 - [How did early hunter gatherer and agricultural  societies work? Were they egalitarian? How did private property come about? Why did women have a higher status? How did classes and inequality arise?](https://www.youtube.com/watch?v=9u2TtXVABcc)
+- [How can economic planning solve the climate and food crisis?](https://www.youtube.com/watch?v=-U4CZ92ftE4)
 - [Towards a new socialism - Cockshott and Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/) [audiobook](https://www.youtube.com/watch?v=yjHCPWs5sl4&list=PL0-IkmzWbjoZNiItBbuVvKQBdE80tsyhx)
 - [Why are communists against markets?](https://github.com/dessalines/essays/blob/master/market_socialism.md)
 
@@ -157,6 +158,7 @@
 - [What about Pacifism / pacifist socialism? Is violence necessary to acheive socialism? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) [audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 - [Is a bloodless revolution possible?](https://www.reddit.com/r/communism101/comments/cyanku/is_a_bloody_revolution_really_necessary_for_the/)
 - [Was the civil rights struggle in the US really nonviolent?](http://mshistorynow.mdah.state.ms.us/articles/62/the-civil-rights-movement-in-mississippi-on-violence-and-nonviolence) [Malcolm X - message to the grassroots. ](https://www.youtube.com/watch?v=Ku2JzolPt50)
+- [Engels - on authority. ](https://www.marxists.org/archive/marx/works/1872/10/authority.htm)
 - [An Overview of Leninism](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/), [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) , [audiobook](https://www.youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
 - [Luxemburg - Reform or Revolution](https://www.marxists.org/archive/luxemburg/1900/reform-revolution/), [audiobook](https://www.youtube.com/watch?v=YhzmaUofLS8&list=PL0-IkmzWbjoYqO_Yec4sWzPeeFXMOkPWs)
 - [Trotsky - Fascism - What it is and how to fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm), [audiobook](https://www.youtube.com/watch?v=S39lCH8PnZ8&list=PL0-IkmzWbjoa-4fIC4TbpTJgRM77It6LC)
@@ -290,6 +292,7 @@
 ## On the USSR
 
 * [Did socialism achieve anything in the USSR?](https://www.reddit.com/r/socialism/comments/86tqdd/but_socialism_doesnt_work_s/dw7qco0/)
+* [Why do the majority of Russians regret the collapse of the USSR?](https://www.themoscowtimes.com/2017/12/25/majority-of-russians-regret-soviet-collapse-poll-says-a60039)
 * [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
 * [What about Stalin? Didn't he kill millions? (Revleft podcast on Stalin)](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 * [Was Stalin's USSR State Capitalist?](http://www.reddit.com/r/communism101/comments/383c4i/was_stalins_ussr_state_capitalist/)
@@ -451,7 +454,7 @@
 
 - [What's going on with the Uyghurs / Xinjiang province?](https://worldaffairs.blog/2019/07/05/xinjiang-and-uyghurs-what-youre-not-being-told/)
 - [A Pakistani Diplomat given full access to “re-education camps” and this is what she found](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang).
-- [A majority of Muslim countries support China's policies in XinJiang, and don't believe the western lies told about it.](https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/) [2](http://www.xinhuanet.com/english/2019-07/13/c_138222183.htm), [3](https://www.cnsnews.com/news/article/patrick-goodenough/china-thanks-37-countries-including-islamic-states-praising-its) Supporters: Algeria, Angola, Bahrain, Belarus, Bolivia, Burkina Faso, Burma, Burundi, Cambodia, Cameroon, Comoros, Congo, Cuba, DR Congo, Egypt, Eritrea, Gabon, Kuwait, Laos, Nigeria, North Korea, Oman, Pakistan, Philippines, Qatar, Russia, Saudi Arabia, Somalia, Sudan, Syria, Tajikistan, Togo, Turkmenistan, UAE, Venezuela, Zimbabwe.
+- [A majority of Muslim countries support China's policies in XinJiang](https://i.imgur.com/Cks29xL.jpg), [and don't believe the western lies told about it.](https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/) [2](http://www.xinhuanet.com/english/2019-07/13/c_138222183.htm), [3](https://www.cnsnews.com/news/article/patrick-goodenough/china-thanks-37-countries-including-islamic-states-praising-its) Supporters: Algeria, Angola, Bahrain, Belarus, Bolivia, Burkina Faso, Burma, Burundi, Cambodia, Cameroon, Comoros, Congo, Cuba, DR Congo, Egypt, Eritrea, Gabon, Kuwait, Laos, Nigeria, North Korea, Oman, Pakistan, Philippines, Qatar, Russia, Saudi Arabia, Somalia, Sudan, Syria, Tajikistan, Togo, Turkmenistan, UAE, Venezuela, Zimbabwe.
 - [China's policies in the Xinjiang Uyghur autonomous region lift 1.85 million people out of poverty from 2014-2017.](http://www.xinhuanet.com/english/2018-10/24/c_137554986.htm?source=post_page---------------------------)
 - [US fuels terrorism in China: “1 million Uyghurs never verified”](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
 - [China’s Xinjiang Problem – Made in USA](https://journal-neo.org/2015/11/10/chinas-xinjiang-problem-made-in-usa/).

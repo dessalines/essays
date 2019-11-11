@@ -393,6 +393,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [A place called Chiapas (EZLN)](https://www.imdb.com/title/tt0145394/?ref_=ttls_li_tt)
 - [Loyal Citizens of Pyongyang in Seoul (서울의 평양 시민들)](https://www.youtube.com/watch?v=ktE_3PrJZO0)
 - [The Haircut - A North Korean Adventure](https://www.youtube.com/watch?v=2BO83Ig-E8E)
+- [Weight of Chains - The overthrow of Yugoslavia.](https://en.wikipedia.org/wiki/The_Weight_of_Chains)
 
 # Organizations
 
