@@ -3,6 +3,7 @@
 ## FAQs and Introductions
 
 - [Crash Course Socialism](https://github.com/dessalines/essays/blob/master/crash_course_socialism.md)
+- [Capitalism doesn't work](https://github.com/dessalines/essays/blob/master/capitalism_doesnt_work.md)
 - [Glossary of socialist terms](https://github.com/dessalines/essays/blob/master/glossary_of_socialist_terms.md)
 - [Socialism faq](https://github.com/dessalines/essays/blob/master/socialism_faq.md)
 
