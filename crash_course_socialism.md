@@ -145,7 +145,13 @@ Marxism is a socialist tradition, which places emphasis on the means of producti
 
 Economic systems, such as Capitalism, don't invent, *create* or *build* anything. Workers do (See [Soviet Space Program](https://en.wikipedia.org/wiki/Soviet_space_program)). The "isms" just determine who gets compensated. Nor does [capitalism spur innovation](https://www.reddit.com/r/DebateCommunism/comments/9c9qj6/in_a_communist_society_what_are_people_motivated/); the pursuit of new ideas is fundamental to humanity, and takes place regardless of the economic system in place. Inventions like rocketry, the internet, space travel, GPS, mobile phones, vaccines, [were all developed under public funding](https://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/). 
 
-[The labor theory of value](https://en.wikipedia.org/wiki/Labor_theory_of_value) recognizes that our most valuable resource is time, specifically **socially useful/necessary** labor time. There is after all only a **finite number of hours of work humanity can perform in a given day**; and at least half of that value is going to a few absentee owners. 
+[The labor theory of value (LTV)](https://en.wikipedia.org/wiki/Labor_theory_of_value) recognizes that our most valuable resource is time, specifically **socially useful/necessary** labor time. There is after all only a **finite number of hours of work humanity can perform in a given day**; and at least half of that value is going to a few absentee owners. 
+
+The labor theory was commonly accepted in the 19th century ( especially by Smith and Ricardo ), but fell out of favor as capitalist states began to cement economics as a discipline to justify the new status quo. 
+
+Most capitalist economists treat value like magic fairy dust: it can be created and destroyed with a thought. [Many modern economists and mainstream economics professors serve a role akin to the priests during feudalism](https://truthout.org/articles/economic-theorists-the-high-priests-of-capitalism/): treating value and rewards in idealist terms, rather than as scientific concepts, justifying capitalism's immense inequality ( whilst often getting paid to promote it ), and demonizing other theories ( such as LTV ) as heresy. 
+
+Coming down to reality from idealist and subjective experience, value, like any other scientific concept, such as energy, **is preserved** in a closed system.
 
 The labor theory of value [has been proven empirically correct in recent decades](https://www.youtube.com/watch?v=emnYMfjYh1Q), by comparing the amount of labor required in given industries, and the money output of of those industries. For nearly every country with sufficient economic data, **the correlation is > 95%**. 
 
@@ -261,6 +267,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Socialism FAQ](socialism_faq.md)
 - [Glossary of Socialist Terms](glossary_of_socialist_terms.md)
 - [Does Capitalism work?](capitalism_doesnt_work.md)
+- [Marxist.space - A collection of resources](https://marxist.space/)
 
 # Media
 
@@ -281,6 +288,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [10 minute intro to Capitalism by Professor Richard D. Wolff](https://www.youtube.com/watch?v=YMdIgGOYKhs)
 - [Introduction to Anarchism by Noam Chomsky](https://www.youtube.com/watch?v=7_Bv2MKY7uI), [#1](https://www.youtube.com/watch?v=RUzquEya6Lw), [#2](https://www.youtube.com/watch?v=_FHNMZbnvYU)
 - [Chomsky on american or right-libertarianism](https://www.youtube.com/watch?v=FVt7U2YIgZs)
+
 ## Literature
 
 ### Modern introductory books

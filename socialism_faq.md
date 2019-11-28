@@ -145,11 +145,12 @@
 * [Can cooperatives bring about socialism?](http://www.reddit.com/r/communism101/comments/336mz4/can_cooperatives_bring_about_socialism/)
 * [Couldn't small anarchist / anarcho-communist communes replace Capitalism?](https://old.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/)
 
-## What about democracy?
+## What about democracy? Can't voting fix our problems?
 
 - [How do socialists feel about elections? What about democratic socialism?](https://isreview.org/issue/13/marxists-and-elections)
 - [What about social democracy / democratic socialism / the Nordic model? Isn't Sweden socialist?](https://www.youtube.com/watch?v=Jd03a8Pm1hs)
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
+- [Why not just vote leftists into office: what's wrong with democratic socialism?](https://old.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
 - [Can a one-party state really be a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
 - [Why is Chinas one party system outperforming western democracies that have abysmal approval ratings?](https://www.youtube.com/watch?v=s0YjL9rZyR0)
 
@@ -157,6 +158,7 @@
 
 - [What about Pacifism / pacifist socialism? Is violence necessary to acheive socialism? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) [audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 - [Is a bloodless revolution possible?](https://www.reddit.com/r/communism101/comments/cyanku/is_a_bloody_revolution_really_necessary_for_the/)
+- [What is imperialism?](https://www.reddit.com/r/capitalism_in_decay/comments/cjp4yu/a_medium_length_eli15_answer_to_the_question_what/)
 - [Was the civil rights struggle in the US really nonviolent?](http://mshistorynow.mdah.state.ms.us/articles/62/the-civil-rights-movement-in-mississippi-on-violence-and-nonviolence) [Malcolm X - message to the grassroots. ](https://www.youtube.com/watch?v=Ku2JzolPt50)
 - [Engels - on authority. ](https://www.marxists.org/archive/marx/works/1872/10/authority.htm)
 - [An Overview of Leninism](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/), [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) , [audiobook](https://www.youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
@@ -179,6 +181,7 @@
 * [How does communism deal with niches?](http://www.reddit.com/r/communism101/comments/27o04e/how_does_communism_deal_with_niches/)
 * [How would residentials be fairly distributed under full communism?](http://www.reddit.com/r/communism101/comments/2hnmxx/how_would_residentials_be_fairly_distributed/)
 * [How do police / cops differ in socialism?](https://www.reddit.com/r/DebateCommunism/comments/9hsoll/suppose_police_all_go_away_tomorrow_and_are/e6eguff/)
+  * [An interview with some traffic cops in China.](https://youtu.be/QFJSepGLFTw?t=1450)
 * [What if some people don't wanna be communist?](https://www.reddit.com/r/DebateCommunism/comments/9mtnyt/what_if_some_people_dont_wanna_be_communist/e7hc63u/)
 
 ## On Economics and Sociology
@@ -397,6 +400,7 @@
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
 * [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](https://dissidentvoice.org/Articles9/Parenti_Tibet.htm)
+* [Did China really try to save the GDR?](https://www.reddit.com/r/Sino/comments/dsvsf9/newly_declassified_documents_released_by_german/)
 
 ### Democracy / State Capitalism?
 
@@ -408,6 +412,7 @@
   * [Is the CCP committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
   * [The Long Game and Its Contradictions](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4).
   * [Are capitalists allowed in the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
+  * [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
   * [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/) [Why are many billionaires and CEOs going missing?](https://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html)
   * [50% of the economy is in the socialist public sector and directly follows the plan (40% if you ignore the agricultural sector). 20 to 30% is inside the state capitalist sector, which is the sector partially or totally owned by domestic capitalists but run by the CPC or by local workers councils. The rest is made up of the small bourgeois ownership like in the NEP.](https://chinareporting.blogspot.com/2009/11/class-nature-of-chinese-state-critique_26.html)
   * If China is imperialist, [why are they funding development in Africa and writing off millions in debt?](https://www.reddit.com/r/Sino/comments/cov03r/lenders_remorse_chinas_africa_projects_need_lots/ewld4v4/)
@@ -454,6 +459,7 @@
 
 - [What's going on with the Uyghurs / Xinjiang province?](https://worldaffairs.blog/2019/07/05/xinjiang-and-uyghurs-what-youre-not-being-told/)
 - [A Pakistani Diplomat given full access to “re-education camps” and this is what she found](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang).
+- [XinJiang: Facts vs Fiction.](https://medium.com/@leohezhao/xinjiang-facts-vs-fiction-bdc2aa403c91)
 - [A majority of Muslim countries support China's policies in XinJiang](https://i.imgur.com/Cks29xL.jpg), [and don't believe the western lies told about it.](https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/) [2](http://www.xinhuanet.com/english/2019-07/13/c_138222183.htm), [3](https://www.cnsnews.com/news/article/patrick-goodenough/china-thanks-37-countries-including-islamic-states-praising-its) Supporters: Algeria, Angola, Bahrain, Belarus, Bolivia, Burkina Faso, Burma, Burundi, Cambodia, Cameroon, Comoros, Congo, Cuba, DR Congo, Egypt, Eritrea, Gabon, Kuwait, Laos, Nigeria, North Korea, Oman, Pakistan, Philippines, Qatar, Russia, Saudi Arabia, Somalia, Sudan, Syria, Tajikistan, Togo, Turkmenistan, UAE, Venezuela, Zimbabwe.
 - [China's policies in the Xinjiang Uyghur autonomous region lift 1.85 million people out of poverty from 2014-2017.](http://www.xinhuanet.com/english/2018-10/24/c_137554986.htm?source=post_page---------------------------)
 - [US fuels terrorism in China: “1 million Uyghurs never verified”](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
@@ -463,6 +469,7 @@
 - [Thousands of Muslims from the Uyghur province make Hajj Pilgrimage yearly.](https://www.app.com.pk/over-11000-chinese-muslims-from-xinjiang-proceed-to-saudi-arabia-for-hajj/)
 - [EU rejects China offer of Xinjiang tour](https://www.scmp.com/news/china/diplomacy/article/3003217/eu-rejects-chinas-offer-xinjiang-tour-says-its-open-one-later).
 - [If China Is Anti-Islam, Why Are These Chinese Muslims Enjoying a Faith Revival?](https://time.com/3099950/china-muslim-hui-xinjiang-uighur-islam/) 
+- [A New York Times "expose" of re-education centers in Xinjiang lied and mistranslated every claim.](https://www.quora.com/What-would-be-the-consequences-of-the-New-York-Times-expose-on-Xinjiang/answer/Jamin-Chen-1)
 - [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic).
 
 ### What about the Falun Gong?
@@ -608,6 +615,7 @@
 - [Despite being hailed as a leader in the fight against climate change, he donates 7x more money to Republicans.](https://www.huffingtonpost.com/entry/elon-musk-donations-republicans_us_5b4e4bd8e4b0b15aba897481) “Is it any surprise that a union-busting capitalist donated heavily to the Republican Party? No,” said Sydney Ghazarian, of the Democratic Socialists of America’s environmental justice working group.
 - [Fired his assistance of 12 years for asking for a raise. Divorced his wife after telling her that his life "operated quite smoothly" in her absence.](https://jalopnik.com/elon-musk-is-a-jerk-that-once-fired-his-assistant-of-12-1797699824)
 - As a PR stunt, Musk promised to build a mini-submarine to rescue a boys soccer team that got trapped in a Thai cave in 2018. After receiving vitriol from the Thai and rescue community, [Musk called one of the cave rescuers, a pedophile](https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot),[2](https://www.vox.com/2018/7/18/17576302/elon-musk-thai-cave-rescue-submarine). After the rescuer sues Musk for defamation, Musk pays 50k to a private investigator (and former felon), [to dig up dirt on the rescuer.](https://www.buzzfeednews.com/article/ryanmac/elon-musk-hired-felon-james-howard-higgins-dirt-pedo-guy), and was told to use "aggressive tactics". Musk's team then told the investigator: “We would like you to immediately move forward with ‘leaking’ this information to the UK press. Obviously must be done very carefully.” [Musk and his team even lobbied the Thai gov and prime minister to get a local official to reverse a statement saying the mini-submarine wasn't practical, before the children had been rescued.](https://twitter.com/RMac18/status/1181396377605029888)
+- Goes after whistleblowers, including sending the police after [Martin Tripp](https://www.theverge.com/2019/3/13/18263757/tesla-elon-musk-employee-hack-spying-whistleblower-gigafactory-martin-tripp-drugs) ( who reported on Tesla's fraudulent activities to the SEC ), who Musk claimed was an [active shooter.](https://www.bloomberg.com/news/features/2019-03-13/when-elon-musk-tried-to-destroy-tesla-whistleblower-martin-tripp) Goes after several journalists who criticized him. [A twitter thread of the Nov 2019 swatting police report, and those targeted by Musk.](https://twitter.com/PlainSite/status/1197592445812232192?s=19)
 - [Rocket jesus broken promises #1](https://www.reddit.com/r/EnoughMuskSpam/comments/73eh4m/tracking_elon_musks_visions_promises_and/), [#2](https://www.reddit.com/r/EnoughMuskSpam/comments/7spkqa/happy_2018_everybody_lets_take_a_moment_to_recall/)
 
 ### Whats so bad about Bill Gates?
@@ -625,6 +633,7 @@
 - [Microsoft crimes masterpost.](https://github.com/dessalines/essays/blob/master/microsoft.md)
 - [His charities promote corporate interests above health care](http://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf).
 - [Book about the golden handcuffs of the philanthro-capitalism of Bill Gates.](https://www.versobooks.com/books/2344-no-such-thing-as-a-free-gift)
+- [The Gates foundation has spent over \$1B to break up public schools, in favor of private charter schools.](https://apnews.com/92dc914dd97c487a9b9aa4b006909a8c/AP-Exclusive:-Billionaires-fuel-US-charter-schools-movement) [2](https://www.businessinsider.com/bill-melinda-gates-foundation-education-initiative-failure-2018-6), [3](https://www.washingtonpost.com/education/2019/04/16/um-who-are-melinda-bill-gates-trying-kid/), [4](https://nancyebailey.com/2019/03/08/bill-melinda-gates-dont-discuss-their-takeover-of-americas-public-schools/)
 
 ### What's so bad about George Orwell?
 
@@ -759,6 +768,11 @@
 - [Could Basic income "save" Capitalism?](https://www.reddit.com/r/Socialism_101/comments/92qgzn/realistically_could_universal_basic_income_save/)
 - [Its supported by, and benefits, silicon valley billionaires.](https://www.latimes.com/opinion/op-ed/la-oe-rushkoff-universal-basic-income-silicon-valley-20170721-story.html)
 - [Its used to allay elite fears of revolution.](https://www.reddit.com/r/socialism/comments/87es0k/mrw_i_cite_to_my_libertarian_friend_a_nobel/)
+
+### DSA
+
+- https://twitter.com/camilateleSUR/status/1193767195031068673
+- https://twitter.com/DemSocialists/status/1194298720780791810
 
 ### Others
 - [What is Antifa? (Olly)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
