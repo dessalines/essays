@@ -29,6 +29,8 @@
   * [Audiobooks](#audiobooks)
   * [Films](#films)
   * [Documentaries](#documentaries)
+  * [Podcasts](#podcasts)
+  * [Channels](#channels)
 - [Organizations](#organizations)
   * [Parties / Groups](#parties--groups)
   * [Online Communities](#online-communities)
@@ -402,6 +404,24 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Loyal Citizens of Pyongyang in Seoul (서울의 평양 시민들)](https://www.youtube.com/watch?v=ktE_3PrJZO0)
 - [The Haircut - A North Korean Adventure](https://www.youtube.com/watch?v=2BO83Ig-E8E)
 - [Weight of Chains - The overthrow of Yugoslavia.](https://en.wikipedia.org/wiki/The_Weight_of_Chains)
+## Podcasts
+
+- [Proles of the round table](https://prolespod.libsyn.com/)
+- [Eyes Left](https://soundcloud.com/eyesleft)
+- [Revolutionary Left Radio](https://revolutionaryleftradio.libsyn.com/)
+- [Citations needed](https://soundcloud.com/citationsneeded)
+- [Red Menace](https://redmenace.libsyn.com/)
+- [David Harvey's anti-capitalist chronicles](https://www.democracyatwork.info/acc)
+
+## Channels
+
+- [Anticonqustia](https://www.youtube.com/channel/UCl1bDSVi34xE65YzreytVxQ)
+- [Empire Files](https://www.youtube.com/channel/UCG29FnXZm4F5U8xpqs1cs1Q)
+- [Paul Cockshott](https://invidio.us/channel/UCVBfIU1_zO-P_R9keEGdDHQ)
+- [Richard Wolff - Democracy at Work](https://www.democracyatwork.info/)
+- [Comrade Hakim](https://invidio.us/channel/UCPPZoYsfoSekIpLcz9plX1Q)
+- Vijay Prashad
+- Micheal Parenti
 
 # Organizations
 

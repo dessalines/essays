@@ -13,7 +13,7 @@
   * [Did economic planning work?](#did-economic-planning-work)
   * [Who would sweep the floors under communism?](#who-would-sweep-the-floors-under-communism)
   * [What about cooperatives?](#what-about-cooperatives)
-  * [What about democracy?](#what-about-democracy)
+  * [What about democracy? Can't voting fix our problems?](#what-about-democracy-cant-voting-fix-our-problems)
   * [Pacifism and Violence](#pacifism-and-violence)
   * [What would X be like under communism?](#what-would-x-be-like-under-communism)
   * [On Economics and Sociology](#on-economics-and-sociology)
@@ -33,14 +33,16 @@
     + [Did the citizens of the Soviet Union dislike their government?](#did-the-citizens-of-the-soviet-union-dislike-their-government)
     + [Further reading](#further-reading-1)
   * [On Mao, Maoism, and Marxism-Leninism-Maoism, and the PRC](#on-mao-maoism-and-marxism-leninism-maoism-and-the-prc)
-    + [Democracy / State Capitalism?](#democracy--state-capitalism)
+    + [Is China State Capitalist?](#is-china-state-capitalist)
+    + [Is China a Democracy?](#is-china-a-democracy)
+    + [Is China Imperialist?](#is-china-imperialist)
     + [What about the Hong Kong protests?](#what-about-the-hong-kong-protests)
     + [What about China spying on its own people?](#what-about-china-spying-on-its-own-people)
     + [What's going on with the Uyghurs?](#whats-going-on-with-the-uyghurs)
+    + [What about the Falun Gong?](#what-about-the-falun-gong)
     + [What about the Tiananmen square massacre?](#what-about-the-tiananmen-square-massacre)
     + [Did Mao kill millions of people?](#did-mao-kill-millions-of-people)
     + [Was the PRC a totalitarian dictatorship?](#was-the-prc-a-totalitarian-dictatorship)
-    + [What about the Falun Gong?](#what-about-the-falun-gong)
     + [Further reading](#further-reading-2)
   * [On the German Democratic Republic (GDR)](#on-the-german-democratic-republic-gdr)
   * [On Cuba](#on-cuba)
@@ -70,6 +72,7 @@
     + [Did atom bombs really end WW2?](#did-atom-bombs-really-end-ww2)
     + [What about overpopulation / unsustainability?](#what-about-overpopulation--unsustainability)
     + [Why don't socialists support a UBI / Universal Basic income?](#why-dont-socialists-support-a-ubi--universal-basic-income)
+    + [DSA](#dsa)
     + [Others](#others-1)
 
 <!-- tocstop -->
@@ -402,7 +405,7 @@
 * [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](https://dissidentvoice.org/Articles9/Parenti_Tibet.htm)
 * [Did China really try to save the GDR?](https://www.reddit.com/r/Sino/comments/dsvsf9/newly_declassified_documents_released_by_german/)
 
-### Democracy / State Capitalism?
+### Is China State Capitalist?
 
 *Much credit to /u/bayarea415*
 
@@ -415,7 +418,9 @@
   * [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
   * [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/) [Why are many billionaires and CEOs going missing?](https://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html)
   * [50% of the economy is in the socialist public sector and directly follows the plan (40% if you ignore the agricultural sector). 20 to 30% is inside the state capitalist sector, which is the sector partially or totally owned by domestic capitalists but run by the CPC or by local workers councils. The rest is made up of the small bourgeois ownership like in the NEP.](https://chinareporting.blogspot.com/2009/11/class-nature-of-chinese-state-critique_26.html)
-  * If China is imperialist, [why are they funding development in Africa and writing off millions in debt?](https://www.reddit.com/r/Sino/comments/cov03r/lenders_remorse_chinas_africa_projects_need_lots/ewld4v4/)
+ 
+### Is China a Democracy?
+
 * [Is China a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
   * [What kind of democracy does China have, and how is it different from the west?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answers/81676052?share=0ac8c628&srid=JMzz)
   * In contrast to low US political approval ratings, 96% of Chinese are satisfied with the national government (Edelmans 2016). World Values Surveys says that 83% think the country is run for their benefit rather than for the benefit of special groups. [How is this possible in a one-party state? (TED talk by Eric X Li)](https://www.youtube.com/watch?v=s0YjL9rZyR0)
@@ -433,6 +438,12 @@
 * [The US is losing to China: “Washington is actually far more corrupt than Beijing. If you want to get something done in Washington, you do what you do in Jakarta: just slip some money to the right people.”]( https://www.forbes.com/sites/eamonnfingleton/2014/11/12/obama-in-china-taking-candy-from-a-baby/#27d9d3c1231e)
 * [China 9 years ahead of schedule on meeting its Paris agreement climate change goals. ](https://www.newscientist.com/article/2211366-china-is-on-track-to-meet-its-climate-change-goals-nine-years-early/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news)
 * [A letter to the Trump Administration signed by over 100 US academics and ambassadors: China is not an enemy.](https://www.washingtonpost.com/opinions/making-china-a-us-enemy-is-counterproductive/2019/07/02/647d49d0-9bfa-11e9-b27f-ed2942f73d70_story.html?source=post_page---------------------------&utm_term=.07add96223b6)
+### Is China Imperialist?
+
+- [China has forgiven over $10B in debt, over half to Cuba](https://www.forbes.com/sites/kenrapoza/2019/05/29/china-has-forgiven-nearly-10-billion-in-debt-cuba-accounts-for-over-half/#7a4116c3615b), but also including > 20 African nations, Pakistan, and Cambodia.
+- [China forgives over $5.2B in Cameroon debt](https://edition.cnn.com/2019/02/04/china/cameroon-china-debt-relief-intl/index.html).
+- [China writes off $36m Mozambican debt](https://furtherafrica.com/2017/10/26/china-writes-off-36m-mozambican-debt/).
+- [China writes off substantial amount of Angola debt.](https://www.angop.ao/angola/en_us/noticias/politica/2017/5/23/China-agrees-partial-write-off-Angola-debt,73246665-509c-48a2-ae40-415d3fb65b00.html)
 
 ### What about the Hong Kong protests?
 
@@ -453,14 +464,14 @@
 ### What about China spying on its own people?
 
 - [China’s Social Credit System, and how it isn't actually Black Mirror and how you should stop using facile pop cultural references to demonize countries you haven't bothered to understand.](https://mobile.twitter.com/isgoodrum/status/975536363364696064?lang=en) 
-- [The complex truth about China’s Social Credit system]( https://logicmag.io/07-the-messy-truth-about-social-credit/?fbclid=IwAR2ZZLiRAyJalyvAngv0EvwaoLleeAEOfN99GxPAccxfQpSplf5gbNmtFnA) 
 
 ### What's going on with the Uyghurs?
 
 - [What's going on with the Uyghurs / Xinjiang province?](https://worldaffairs.blog/2019/07/05/xinjiang-and-uyghurs-what-youre-not-being-told/)
-- [A Pakistani Diplomat given full access to “re-education camps” and this is what she found](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang).
 - [XinJiang: Facts vs Fiction.](https://medium.com/@leohezhao/xinjiang-facts-vs-fiction-bdc2aa403c91)
-- [A majority of Muslim countries support China's policies in XinJiang](https://i.imgur.com/Cks29xL.jpg), [and don't believe the western lies told about it.](https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/) [2](http://www.xinhuanet.com/english/2019-07/13/c_138222183.htm), [3](https://www.cnsnews.com/news/article/patrick-goodenough/china-thanks-37-countries-including-islamic-states-praising-its) Supporters: Algeria, Angola, Bahrain, Belarus, Bolivia, Burkina Faso, Burma, Burundi, Cambodia, Cameroon, Comoros, Congo, Cuba, DR Congo, Egypt, Eritrea, Gabon, Kuwait, Laos, Nigeria, North Korea, Oman, Pakistan, Philippines, Qatar, Russia, Saudi Arabia, Somalia, Sudan, Syria, Tajikistan, Togo, Turkmenistan, UAE, Venezuela, Zimbabwe.
+- [A Pakistani Diplomat given full access to “re-education camps” and this is what she found](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang).
+- [Egyptian media delegates provide a detailed insight of the situation in Xinjiang](https://www.thenews.com.pk/latest/430738-egyptian-media-delegates-provide-a-detailed-insight-of-the-situation-in-xinjiang)
+- [A majority of Muslim countries support China's policies in XinJiang](https://i.imgur.com/Cks29xL.jpg), [and don't believe the western lies told about it.](https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/) [2](http://www.xinhuanet.com/english/2019-07/13/c_138222183.htm), [3](https://www.cnsnews.com/news/article/patrick-goodenough/china-thanks-37-countries-including-islamic-states-praising-its), [4](http://www.globaltimes.cn/content/1159357.shtml) Supporters: Algeria, Angola, Bahrain, Belarus, Bolivia, Burkina Faso, Burma, Burundi, Cambodia, Cameroon, Comoros, Congo, Cuba, DR Congo, Egypt, Eritrea, Gabon, Kuwait, Laos, Nigeria, North Korea, Oman, Pakistan, Philippines, Qatar, Russia, Saudi Arabia, Somalia, Sudan, Syria, Tajikistan, Togo, Turkmenistan, UAE, Venezuela, Zimbabwe.
 - [China's policies in the Xinjiang Uyghur autonomous region lift 1.85 million people out of poverty from 2014-2017.](http://www.xinhuanet.com/english/2018-10/24/c_137554986.htm?source=post_page---------------------------)
 - [US fuels terrorism in China: “1 million Uyghurs never verified”](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
 - [China’s Xinjiang Problem – Made in USA](https://journal-neo.org/2015/11/10/chinas-xinjiang-problem-made-in-usa/).
@@ -468,6 +479,7 @@
 - [Religious freedoms in China explained](https://twitter.com/isgoodrum/status/1004884261051092993?s=21).
 - [Thousands of Muslims from the Uyghur province make Hajj Pilgrimage yearly.](https://www.app.com.pk/over-11000-chinese-muslims-from-xinjiang-proceed-to-saudi-arabia-for-hajj/)
 - [EU rejects China offer of Xinjiang tour](https://www.scmp.com/news/china/diplomacy/article/3003217/eu-rejects-chinas-offer-xinjiang-tour-says-its-open-one-later).
+- The sources for an Australian documentary about the uyghurs, turn out to be [members of the FSA and TIP,  right wing, ultra-nationalist Turkish terrorist orgs.](https://twitter.com/ethan_parallels/status/1151153694517260288?s=21) The two men with links to terrorist groups were interviewed on nearly every Australian TV station for a week. [2](https://twitter.com/j_bigboote/status/1182726991675625472?s=21)
 - [If China Is Anti-Islam, Why Are These Chinese Muslims Enjoying a Faith Revival?](https://time.com/3099950/china-muslim-hui-xinjiang-uighur-islam/) 
 - [A New York Times "expose" of re-education centers in Xinjiang lied and mistranslated every claim.](https://www.quora.com/What-would-be-the-consequences-of-the-New-York-Times-expose-on-Xinjiang/answer/Jamin-Chen-1)
 - [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic).
@@ -631,6 +643,7 @@
 - [Citations Needed - The Not-So-Benevolent Billionaire - Bill Gates and Western Media.](https://soundcloud.com/citationsneeded/episode-45-the-not-so-benevolent-billionaire-bill-gates-and-western-media)
 - [Post from a web developer about Microsoft's monopoly practices in the 1990s.](https://www.reddit.com/r/ragecomics/comments/11c1t1/internet_explorer_rfunny_said_i_should_post_it/c6lbhu2/)
 - [Microsoft crimes masterpost.](https://github.com/dessalines/essays/blob/master/microsoft.md)
+- [How Bill Gates got rich / Is he really evil?](https://www.quora.com/Is-Bill-Gates-evil)
 - [His charities promote corporate interests above health care](http://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf).
 - [Book about the golden handcuffs of the philanthro-capitalism of Bill Gates.](https://www.versobooks.com/books/2344-no-such-thing-as-a-free-gift)
 - [The Gates foundation has spent over \$1B to break up public schools, in favor of private charter schools.](https://apnews.com/92dc914dd97c487a9b9aa4b006909a8c/AP-Exclusive:-Billionaires-fuel-US-charter-schools-movement) [2](https://www.businessinsider.com/bill-melinda-gates-foundation-education-initiative-failure-2018-6), [3](https://www.washingtonpost.com/education/2019/04/16/um-who-are-melinda-bill-gates-trying-kid/), [4](https://nancyebailey.com/2019/03/08/bill-melinda-gates-dont-discuss-their-takeover-of-americas-public-schools/)
@@ -773,6 +786,7 @@
 
 - https://twitter.com/camilateleSUR/status/1193767195031068673
 - https://twitter.com/DemSocialists/status/1194298720780791810
+- https://twitter.com/jacobinmag/status/1202641283023376384
 
 ### Others
 - [What is Antifa? (Olly)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
