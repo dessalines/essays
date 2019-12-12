@@ -221,6 +221,7 @@
 - [Thomas Sankara - Women’s liberation and African freedom struggle](http://www.themilitant.com/2011/7502/750249.html)
 - [Clara Zetkin - Lenin and the Women's Question](https://www.marxists.org/archive/zetkin/1920/lenin/zetkin1.htm)
 - [Witchcraft - Class struggle and women's liberation in the middle ages.](https://www.cvltnation.com/rebellion-of-the-damned-witchcraft-as-social-revolt-in-early-modern-france/)
+- [Interviews with Women in the USSR.](https://www.reddit.com/r/communism101/comments/e30gjm/ussr_and_women_rights/f90d0r8/)
 
 ## On Race and Class
 
@@ -277,6 +278,7 @@
 - [What's the role of the state in the revolution, and what is a state?](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/)
 - Why do many socialist attempts end up in an one-party state? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
 - [What did Lenin say about socialism in one country?](https://espressostalinist.com/2012/03/11/lenin-on-socialism-in-one-country-2/)
+- [What is Dialectical Materialism?](https://www.reddit.com/r/Socialism_101/comments/e6iyt3/can_someone_explain_the_concept_of_dialectical/f9r4iep/)
 - [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
 
 ### Further reading
@@ -418,15 +420,20 @@
   * [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
   * [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/) [Why are many billionaires and CEOs going missing?](https://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html)
   * [50% of the economy is in the socialist public sector and directly follows the plan (40% if you ignore the agricultural sector). 20 to 30% is inside the state capitalist sector, which is the sector partially or totally owned by domestic capitalists but run by the CPC or by local workers councils. The rest is made up of the small bourgeois ownership like in the NEP.](https://chinareporting.blogspot.com/2009/11/class-nature-of-chinese-state-critique_26.html)
+  * [The backbone of the economy is state ownership and socialist planning.](https://www.reddit.com/r/communism101/comments/8hdbib/how_is_china_communist_if_it_has_a_ton_of_private/dyj082s/)
+  * [China pushing forward Marxist training in colleges, attracts 1M students.](http://www.globaltimes.cn/content/988795.shtml)
+  * [China tells the US that it has no plans to weaken the role of its State-Owned-Enterprises, one of the US's main demands in the trade war. "Beijing plans to make the state economy stronger, bigger, and better."](https://www.scmp.com/economy/china-economy/article/3038993/china-wont-give-its-state-led-economic-model-top-trade?fbclid=IwAR2ys8_Y_6Nxq2x__BM4SoKdR63it7X_JRy1XJdkLw4QrK0VQ77mXYyrcks)
  
 ### Is China a Democracy?
 
 * [Is China a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
   * [What kind of democracy does China have, and how is it different from the west?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answers/81676052?share=0ac8c628&srid=JMzz)
-  * In contrast to low US political approval ratings, 96% of Chinese are satisfied with the national government (Edelmans 2016). World Values Surveys says that 83% think the country is run for their benefit rather than for the benefit of special groups. [How is this possible in a one-party state? (TED talk by Eric X Li)](https://www.youtube.com/watch?v=s0YjL9rZyR0)
+  * In contrast to low US political approval ratings, 96% of Chinese are satisfied with the national government (Edelmans 2016). World Values Surveys says that 83% think the country is run for their benefit rather than for the benefit of special groups. [87% believe their country is headed in the right direction.](https://stalinsmoustache.org/2017/08/09/china-most-confident-and-optimistic-country-in-world-ipsos-survey/) [How is this possible in a one-party state? (TED talk by Eric X Li)](https://www.youtube.com/watch?v=s0YjL9rZyR0)
   * [How does China’s political system work?](https://www.youtube.com/watch?v=Qu4QTxl9GVw)
   * [How are Chinese leaders elected / chosen? How meristocratic is the system? How do elections differ from those in western bourgeois democracies?](https://www.youtube.com/watch?v=TgpQxVCekgw)
   * [Who runs China? Makeup of the national people's congress.](https://news.cgtn.com/event/2019/whorunschina/index.html)
+  * [US policy-makers are misjudging popular support China's Government.](https://www.marketwatch.com/story/these-numbers-show-just-how-much-the-lives-of-everyday-chinese-have-improved-in-recent-decades-2019-10-02)
+  * [The american dream is alive... in China.](https://www.nytimes.com/interactive/2018/11/18/world/asia/china-social-mobility.html)
 * Some stats
   * [The real wage (IE the wage adjusted for the prices you pay) has gone up 4x in the past 25 years, more than any other country. This is staggering considering it's the most populous country on the planet. The US real wage by comparison is lower in 2019 than it was in 1973.](https://www.youtube.com/watch?v=Cw8SvK0E5dI)
   * [US Life expectancy peaked in 2015, is on the decline, and is now lower than in China.](https://www.businessinsider.com/china-boasts-that-its-healthy-life-expectancy-beats-the-us-is-correct-2018-5) [2](http://www.xinhuanet.com/english/2019-09/07/c_138372963.htm) 
@@ -437,13 +444,14 @@
   * [The workplace safety standards of China are better than in the capitalist countries of the West like in Australia who have an higher rate of work related death despite having a GDP per capita 3-5 times higher.](http://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/)
 * [The US is losing to China: “Washington is actually far more corrupt than Beijing. If you want to get something done in Washington, you do what you do in Jakarta: just slip some money to the right people.”]( https://www.forbes.com/sites/eamonnfingleton/2014/11/12/obama-in-china-taking-candy-from-a-baby/#27d9d3c1231e)
 * [China 9 years ahead of schedule on meeting its Paris agreement climate change goals. ](https://www.newscientist.com/article/2211366-china-is-on-track-to-meet-its-climate-change-goals-nine-years-early/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news)
-* [A letter to the Trump Administration signed by over 100 US academics and ambassadors: China is not an enemy.](https://www.washingtonpost.com/opinions/making-china-a-us-enemy-is-counterproductive/2019/07/02/647d49d0-9bfa-11e9-b27f-ed2942f73d70_story.html?source=post_page---------------------------&utm_term=.07add96223b6)
+
 ### Is China Imperialist?
 
 - [China has forgiven over $10B in debt, over half to Cuba](https://www.forbes.com/sites/kenrapoza/2019/05/29/china-has-forgiven-nearly-10-billion-in-debt-cuba-accounts-for-over-half/#7a4116c3615b), but also including > 20 African nations, Pakistan, and Cambodia.
 - [China forgives over $5.2B in Cameroon debt](https://edition.cnn.com/2019/02/04/china/cameroon-china-debt-relief-intl/index.html).
 - [China writes off $36m Mozambican debt](https://furtherafrica.com/2017/10/26/china-writes-off-36m-mozambican-debt/).
 - [China writes off substantial amount of Angola debt.](https://www.angop.ao/angola/en_us/noticias/politica/2017/5/23/China-agrees-partial-write-off-Angola-debt,73246665-509c-48a2-ae40-415d3fb65b00.html)
+- [Nato's new enemy: the CPC.](https://www.rt.com/news/473935-pompeo-nato-china-communist/)
 
 ### What about the Hong Kong protests?
 
@@ -470,8 +478,9 @@
 - [What's going on with the Uyghurs / Xinjiang province?](https://worldaffairs.blog/2019/07/05/xinjiang-and-uyghurs-what-youre-not-being-told/)
 - [XinJiang: Facts vs Fiction.](https://medium.com/@leohezhao/xinjiang-facts-vs-fiction-bdc2aa403c91)
 - [A Pakistani Diplomat given full access to “re-education camps” and this is what she found](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang).
+  - Despite claims of "erasing Uyghur culture", [they stated](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang): "I did not find any instance of forced labor or cultural and religious repression. The imams we met at the mosques and the students and teachers at the Xinjiang Islamic Institute told us that they enjoy freedom in practicing Islam and that the Chinese government extends support for maintenance of mosques all over Xinjiang. [...]The most visible sign of protection of Uyghur culture by the government is the government-run bilingual kindergarten schools where children learn Putonghua as well as Uyghur language and culture from a very young age."
 - [Egyptian media delegates provide a detailed insight of the situation in Xinjiang](https://www.thenews.com.pk/latest/430738-egyptian-media-delegates-provide-a-detailed-insight-of-the-situation-in-xinjiang)
-- [A majority of Muslim countries support China's policies in XinJiang](https://i.imgur.com/Cks29xL.jpg), [and don't believe the western lies told about it.](https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/) [2](http://www.xinhuanet.com/english/2019-07/13/c_138222183.htm), [3](https://www.cnsnews.com/news/article/patrick-goodenough/china-thanks-37-countries-including-islamic-states-praising-its), [4](http://www.globaltimes.cn/content/1159357.shtml) Supporters: Algeria, Angola, Bahrain, Belarus, Bolivia, Burkina Faso, Burma, Burundi, Cambodia, Cameroon, Comoros, Congo, Cuba, DR Congo, Egypt, Eritrea, Gabon, Kuwait, Laos, Nigeria, North Korea, Oman, Pakistan, Philippines, Qatar, Russia, Saudi Arabia, Somalia, Sudan, Syria, Tajikistan, Togo, Turkmenistan, UAE, Venezuela, Zimbabwe.
+- [A majority of Muslim countries support China's policies in XinJiang](https://i.imgur.com/Cks29xL.jpg), [and don't believe the western lies told about it.](https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/). [54 Countries in total](http://www.globaltimes.cn/content/1168522.shtml). [2](http://www.xinhuanet.com/english/2019-07/13/c_138222183.htm), [3](https://www.cnsnews.com/news/article/patrick-goodenough/china-thanks-37-countries-including-islamic-states-praising-its), [4](http://www.globaltimes.cn/content/1159357.shtml) Supporters: Algeria, Angola, Bahrain, Belarus, Bolivia, Burkina Faso, Burma, Burundi, Cambodia, Cameroon, Comoros, Congo, Cuba, DR Congo, Egypt, Eritrea, Gabon, Kuwait, Laos, Nigeria, North Korea, Oman, Pakistan, Philippines, Qatar, Russia, Saudi Arabia, Somalia, Sudan, Syria, Tajikistan, Togo, Turkmenistan, UAE, Venezuela, Zimbabwe.
 - [China's policies in the Xinjiang Uyghur autonomous region lift 1.85 million people out of poverty from 2014-2017.](http://www.xinhuanet.com/english/2018-10/24/c_137554986.htm?source=post_page---------------------------)
 - [US fuels terrorism in China: “1 million Uyghurs never verified”](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
 - [China’s Xinjiang Problem – Made in USA](https://journal-neo.org/2015/11/10/chinas-xinjiang-problem-made-in-usa/).
@@ -479,9 +488,11 @@
 - [Religious freedoms in China explained](https://twitter.com/isgoodrum/status/1004884261051092993?s=21).
 - [Thousands of Muslims from the Uyghur province make Hajj Pilgrimage yearly.](https://www.app.com.pk/over-11000-chinese-muslims-from-xinjiang-proceed-to-saudi-arabia-for-hajj/)
 - [EU rejects China offer of Xinjiang tour](https://www.scmp.com/news/china/diplomacy/article/3003217/eu-rejects-chinas-offer-xinjiang-tour-says-its-open-one-later).
+- [A wikileaks cable from 2011](https://wikileaks.org/gifiles/docs/13/1305169_-alpha-insight-china-inner-mongolia-movement-cn127-.html) shows that the US coordinated with groups to incite separatism in Mongolia, XinJiang, and Tibet.
 - The sources for an Australian documentary about the uyghurs, turn out to be [members of the FSA and TIP,  right wing, ultra-nationalist Turkish terrorist orgs.](https://twitter.com/ethan_parallels/status/1151153694517260288?s=21) The two men with links to terrorist groups were interviewed on nearly every Australian TV station for a week. [2](https://twitter.com/j_bigboote/status/1182726991675625472?s=21)
 - [If China Is Anti-Islam, Why Are These Chinese Muslims Enjoying a Faith Revival?](https://time.com/3099950/china-muslim-hui-xinjiang-uighur-islam/) 
 - [A New York Times "expose" of re-education centers in Xinjiang lied and mistranslated every claim.](https://www.quora.com/What-would-be-the-consequences-of-the-New-York-Times-expose-on-Xinjiang/answer/Jamin-Chen-1)
+- [Reddit holds an AMA](https://www.reddit.com/r/IAmA/comments/e9ad4n/i_am_rushan_abbas_uyghur_activist_and_survivor_of/) for an "Uyghur Activist", who turns out to be [Rushan Abbas](https://web.archive.org/web/20181207031224/https://www.isi-consultants.com/rushan-abbas/), a CIA agent who worked for Homeland Security, Department of Defense, Department of State, Department of Justice, and various U.S. intelligence agencies, and even worked at Guantanamo bay, the US muslim torture camp. [1](https://www.reddit.com/r/ShitLiberalsSay/comments/e9crzq/shit_liberals_do_claim_to_be_an_uyghur_survivor/) [2](https://medium.com/@rsahthion/a-reddit-ama-claiming-to-be-a-uiyghur-quickly-exposes-a-cia-asset-slandering-china-1d667c098b77)
 - [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic).
 
 ### What about the Falun Gong?
@@ -639,6 +650,7 @@
   - Philanthro-capitalism undermines local communities, dismantling their democracy and autonomy in health care, by making them fully dependent on US billionaires, who are completely unnaccountable.
   - Philanthrocapitalists are currently rushing to take power in a system of global health and population control. Bill Gates warned of “huge population growth in *places where we don’t want it*, like Yemen and Pakistan and parts of Africa.”, echoing  overpopulation fears that have inspired eugenicists since the time of Malthus. Population control is a form of social control, directly targeting the bodies and dignity of poor people, conditioning them to believe that life’s most intimate decisions are outside of their competence and control. 
   - Elite charitable funds are a legal means of **tax avoidance**. Under US law, investments in charitable foundations are tax-free; moreover, investors are not required to sell their stock positions and may continue to vote their shares without restriction. By sheltering foundations, the US Treasury effectively co-finances the activities of Gates foundation and its investors.
+  - Since he is the largest donor to the WHO, [he pushes funding for "headline grabbers" such as Malaria and HIV, despite local experts telling policy-makers that other ailments such as Tuberculosis, malnutrition, and bacterial disease are the biggest causes of death.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(09\)60885-0/fulltext)
   - [Used philanthropy as a front to generate profits for businesses in the agricultural and health sectors. ](https://mobile.edweek.org/c.jsp?cid=25920011&item=http%3A%2F%2Fapi.edweek.org%2Fv1%2Fblog%2F60%2Findex.html%3Fuuid%3D25408)
 - [Citations Needed - The Not-So-Benevolent Billionaire - Bill Gates and Western Media.](https://soundcloud.com/citationsneeded/episode-45-the-not-so-benevolent-billionaire-bill-gates-and-western-media)
 - [Post from a web developer about Microsoft's monopoly practices in the 1990s.](https://www.reddit.com/r/ragecomics/comments/11c1t1/internet_explorer_rfunny_said_i_should_post_it/c6lbhu2/)
@@ -742,6 +754,13 @@
 
 - http://www.wrongkindofgreen.org/2019/01/17/the-manufacturing-of-greta-thunberg-for-consent-the-political-economy-of-the-non-profit-industrial-complex/
 
+### Slavoj Zizek
+
+- ["Immigration has to be restricted to prevent the rise of Fascism."](https://twitter.com/zei_squirrel/status/1186709823250927616)
+- [Helped work to overthrow Yugoslavia.](https://en.wikipedia.org/wiki/Committee_for_the_Defence_of_Human_Rights)
+- [He's anti-USSR, anti bolivarian revolution, supported the coups in Ukraine and Libya](https://alphonsevanworden.tumblr.com/post/146430343445/the-protocols-of-the-learned-lacanian-of)
+- [More here](https://www.reddit.com/r/Marxism/comments/dlz8me/zizek_criticizes_european_leftists_who_reject/f4yl11f/)
+
 ### Others
 
 - [What's so bad about Winston Churchill?](http://www.reddit.com/r/ShitLiberalsSay/comments/80sxhj/-/duy08zm) , [2](https://crimesofbritain.com/2016/09/13/the-trial-of-winston-churchill/)
@@ -787,6 +806,11 @@
 - https://twitter.com/camilateleSUR/status/1193767195031068673
 - https://twitter.com/DemSocialists/status/1194298720780791810
 - https://twitter.com/jacobinmag/status/1202641283023376384
+
+### Buddhism
+
+- https://jacobinmag.com/2019/12/corporate-mindfulness-ron-purser-interview/
+- https://www.cbc.ca/radio/tapestry/mcmindfulness-and-the-case-for-small-talk-1.5369984/mcmindfulness-how-capitalism-hijacked-the-buddhist-teaching-of-mindfulness-1.5369991
 
 ### Others
 - [What is Antifa? (Olly)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
