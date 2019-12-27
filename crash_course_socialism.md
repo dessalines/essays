@@ -284,6 +284,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Michael Parenti on Imperialism and Film - Rambo and the Swarthy Hordes](https://www.youtube.com/watch?v=S33DKRcqvkQ)
 - [Karl Marx and Marxism - BBC documentary by Stuart Hall](http://www.youtube.com/watch?v=m8bdndigRA8)
 - [Dr Gabor Maté - Why Capitalism Makes Us Sick](https://www.youtube.com/watch?v=AaAJQR_9Dg8)
+- [Vijay Prashad - Military power, and the American Empire in decline.](https://invidio.us/watch?v=hTb2uVIWG5Q)
 - [The Philosophy of Antifa (Philosophy Tube)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
 - [3 minute intro to Marxism](https://www.youtube.com/watch?v=Vz3eOb6Yl1s)
 - [10 minute intro to Karl Marx](https://www.youtube.com/watch?v=fSQgCy_iIcc)
