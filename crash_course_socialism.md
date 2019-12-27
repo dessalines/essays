@@ -242,7 +242,7 @@ Socialism as an economic system is distinct from [neoliberalism](https://en.wiki
 
 Some Marxists call the regimes typically called socialist, as more correctly defined as [State Capitalist](https://en.wikipedia.org/wiki/State_capitalism), since production was controlled by state bureaucracies who also distributed the surplus, rather than through the democratic input of workers. Other Marxists call them *siege socialist*, contrasting it with *pure socialism*, stating that siege socialism is a natural reaction to the external pressures of capitalist encirclement, and that *pure socialism* is an ideal which is [ahistorical and nonfalsifiable.](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/) The US for example, has been involved in [militarily crushing nearly every socialist attempt](us_atrocities.md) for the last 80 years, and installing right-wing fascist dictatorships (friendly to US interests) in their place. Needless to say, **capitalist encirclement has a profoundly distorting affect** on the building of socialism; very few attempts have survived US interventionism. [This talk](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be) by Micheal Parenti is a good reflection and criticism on the soviet experiment. 
 
-The early stages of the [1917 Russian Revolution](https://en.m.wikipedia.org/wiki/October_Revolution) were far more progressive than is typically portrayed; Divorce was legalized, **Homosexuality was decriminalized**, land was distributed to the peasantry, banks were nationalized, control of factories was given to worker's councils, **the workday was shortened**, wages were fixed at a higher rate, all elected officials could now be immediately recalled; it created mass literacy drives, free nurseries, communal kitchens, and laundries. 14 Western nations (including the US) [sent troops to Russia](https://en.m.wikipedia.org/wiki/Allied_intervention_in_the_Russian_Civil_War) to fight against the gains of the revolution.
+The early stages of the [1917 Russian Revolution](https://en.wikipedia.org/wiki/October_Revolution) were far more progressive than is typically portrayed; Divorce was legalized, **Homosexuality was decriminalized**, land was distributed to the peasantry, banks were nationalized, control of factories was given to worker's councils, **the workday was shortened**, wages were fixed at a higher rate, all elected officials could now be immediately recalled; it created mass literacy drives, free nurseries, communal kitchens, and laundries. 14 Western nations (including the US) [sent troops to Russia](https://en.wikipedia.org/wiki/Allied_intervention_in_the_Russian_Civil_War) to fight against the gains of the revolution.
 
 Contrary to the popular phrase, [Communism did work](capitalism_doesnt_work.md): within a few short years, the **Soviet Union doubled its life expectancy**, became a world super-power, and the second fastest growing economy of the 1900s. Other achievements include: near-zero unemployment, continuous economic growth for 70+ years (*excluding WW2*), near-zero homelessness, higher caloric intake than the US, 99% literacy, free education, free health-care (most doctors per capita in the world), free childcare, low poverty, and low levels of sex and racial inequality, not to mention the soviet space program's achievements. [1](https://www.reddit.com/r/socialism/comments/86tqdd/but_socialism_doesnt_work_s/dw7qco0/)
 
@@ -364,12 +364,12 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Libertarias (1996)](http://www.imdb.com/title/tt0113649/?ref_=fn_al_tt_1)
 - [The Trotsky (2009)](http://www.imdb.com/title/tt1295072/?ref_=fn_al_tt_1)
 - [The Wind that Shakes the Barley (2006)](https://en.wikipedia.org/wiki/The_Wind_That_Shakes_the_Barley_%28film%29)
-- [Battleship Potemkin (1925)](https://en.m.wikipedia.org/wiki/The_Battleship_Potemkin)
+- [Battleship Potemkin (1925)](https://en.wikipedia.org/wiki/The_Battleship_Potemkin)
 - [Land and Freedom (1995)](http://www.imdb.com/title/tt0114671/?ref_=fn_al_tt_1)
 - [The Spook who sat by the door (1973)](http://www.imdb.com/title/tt0070726/?ref_=fn_al_tt_1)
 - [I, Daniel Blake (2016)](http://www.imdb.com/title/tt5168192/?ref_=fn_al_tt_1)
-- [The Proud Valley (1940)](https://en.m.wikipedia.org/wiki/The_Proud_Valley)
-- [The Young Karl Marx (2017)](https://en.m.wikipedia.org/wiki/Young_Karl_Marx)
+- [The Proud Valley (1940)](https://en.wikipedia.org/wiki/The_Proud_Valley)
+- [The Young Karl Marx (2017)](https://en.wikipedia.org/wiki/Young_Karl_Marx)
 - [Network (1976)](https://en.wikipedia.org/wiki/Network_(1976_film))
 - [The Hospital (1971)](https://en.wikipedia.org/wiki/The_Hospital)
 - [Burn! (1969)](https://en.wikipedia.org/wiki/Burn!_(1969_film))
