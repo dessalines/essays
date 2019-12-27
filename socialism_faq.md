@@ -222,6 +222,7 @@
 - [Clara Zetkin - Lenin and the Women's Question](https://www.marxists.org/archive/zetkin/1920/lenin/zetkin1.htm)
 - [Witchcraft - Class struggle and women's liberation in the middle ages.](https://www.cvltnation.com/rebellion-of-the-damned-witchcraft-as-social-revolt-in-early-modern-france/)
 - [Interviews with Women in the USSR.](https://www.reddit.com/r/communism101/comments/e30gjm/ussr_and_women_rights/f90d0r8/)
+- [What's wrong with "more women CEO" / imperial feminism?](https://twitter.com/RaniaKhalek/status/1207061598680027137?s=20)
 
 ## On Race and Class
 
@@ -411,14 +412,14 @@
 
 *Much credit to /u/bayarea415*
 
-* [A China misinformation Megathread.](https://www.reddit.com/r/socialism/comments/c2b6z5/china_megathread_everything_controversial/)
+* [A China misinformation Megathread.](https://old.reddit.com/r/communism/comments/c2b7ma/china_megathread_everything_a_leftist_must_know/)
 * [Is modern day china communist? Is it staying true to communist values?](https://www.reddit.com/r/communism101/comments/91liw2/how_is_china_staying_true_to_communist_values/e2z3kzu/)
   * [Didn't China go Capitalist with Deng Xiaoping? Didn't it liberalize its economy? Is China's drastic decrease in poverty a result of the increase in free market capitalist policies?](https://www.reddit.com/r/DebateCommunism/comments/b3gjfe/chinas_drastic_decrease_in_poverty_is_a_result_of/ey8depl/?context=3)
   * [Is the CCP committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
   * [The Long Game and Its Contradictions](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4).
   * [Are capitalists allowed in the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
   * [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
-  * [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/) [Why are many billionaires and CEOs going missing?](https://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html)
+  * [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/) [Why are many billionaires and CEOs going missing?](https://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html) [China sentences Ex-Chairman of a major bank, guilty of embezzling ~$100M USD, to death in 2019.](https://www.bloomberg.com/news/articles/2019-12-27/china-sentences-ex-chairman-of-troubled-hengfeng-bank-to-death)
   * [50% of the economy is in the socialist public sector and directly follows the plan (40% if you ignore the agricultural sector). 20 to 30% is inside the state capitalist sector, which is the sector partially or totally owned by domestic capitalists but run by the CPC or by local workers councils. The rest is made up of the small bourgeois ownership like in the NEP.](https://chinareporting.blogspot.com/2009/11/class-nature-of-chinese-state-critique_26.html)
   * [The backbone of the economy is state ownership and socialist planning.](https://www.reddit.com/r/communism101/comments/8hdbib/how_is_china_communist_if_it_has_a_ton_of_private/dyj082s/)
   * [China pushing forward Marxist training in colleges, attracts 1M students.](http://www.globaltimes.cn/content/988795.shtml)
@@ -444,6 +445,7 @@
   * [The workplace safety standards of China are better than in the capitalist countries of the West like in Australia who have an higher rate of work related death despite having a GDP per capita 3-5 times higher.](http://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/)
 * [The US is losing to China: “Washington is actually far more corrupt than Beijing. If you want to get something done in Washington, you do what you do in Jakarta: just slip some money to the right people.”]( https://www.forbes.com/sites/eamonnfingleton/2014/11/12/obama-in-china-taking-candy-from-a-baby/#27d9d3c1231e)
 * [China 9 years ahead of schedule on meeting its Paris agreement climate change goals. ](https://www.newscientist.com/article/2211366-china-is-on-track-to-meet-its-climate-change-goals-nine-years-early/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news)
+* [China meets ultra-low power plant emissions in advance of 2020 goal.](https://www.reddit.com/r/science/comments/dsdam3/china_meets_ultralow_emissions_in_advance_of_the/)
 
 ### Is China Imperialist?
 
@@ -458,6 +460,7 @@
 - [Megathread #1](https://www.reddit.com/r/communism/comments/cpm5q1/we_need_a_serious_discussion_on_the_overwhelming/), [#2](https://bitbucket.org/TheCrypticMan/hong-kong-protests/wiki/2019%20attempted%20'Black%20Revolution')
 - The extradition bill came about when a [man from Hong Kong killed his pregnant girlfriend while in holiday in Taiwan.](https://www.reddit.com/r/communism101/comments/c1nxga/opinions_on_hong_kong_protests/ered9wl/) [1](https://www.scmp.com/news/hong-kong/law-and-crime/article/3008099/sentence-man-who-killed-girlfriend-taiwan-sets) He fled back to Hong Kong. Taiwan asked for him to be extradited, but Hong Kong did not have an extradition treaty with Taiwan, so the administration in Hong Kong proposed a bill that would allow Taiwan, the PRC, and Macau to request extradition, which the judiciary in Hong Kong can then approve. [There were 49 crimes that were to be included in the bill that would allow extradition requests.](https://qz.com/1636663/the-37-crimes-included-in-hong-kongs-proposed-extradition-law/) Some of these were financial crimes (Hong Kong is a popular tax haven for billionaires), and the Capitalists in Hong Kong shit themselves because they are often in breach of PRC law, but protected by Hong Kong's independence as a Special Administrative Region. This bill is completely reasonable, and any fears of the PRC taking over or of the extradition of 'political' criminals is unfounded. The US is encouraging the organizers to keep protesting in order to provoke the administration in Hong Kong to crack down on them, so that they can blame China and keep up their propaganda narrative that 'CHINA BAD!' [More here.](https://www.scmp.com/news/hong-kong/law-and-crime/article/3008099/sentence-man-who-killed-girlfriend-taiwan-sets)
 - [AntiConquista - the History of Hong Kong, and the nature of the protest movement, and who's funding it.](https://invidio.us/watch?v=hY8rCElJ4nQ)
+- [Hong Kong - The Protest movement unmasked. (Also gets into the inequality and housing crisis driving the movement)](https://invidio.us/watch?v=0CUgy-Hzyfo&local=1&nojs=0&player_style=youtube&quality=dash)
 - [The US has admitted that it’s funding the protests](https://www.globalresearch.ca/us-now-admits-funding-occupy-central-hong-kong/5405680). [Hong Kong Human Rights Monitor and HKCTU, along with 68 other Hong Kong “democratic right” organizations earn hundreds of thousands every year from State Department funded NGOs.](https://twitter.com/redniangzijun/status/1137901349750939648)
 - [American government officials caught ON CAMERA colluding with HK protest leaders.](https://www.reddit.com/r/socialism/comments/cndqwh/hk_protest_leaders_caught_meeting_with_us_chief/?utm_source=share&utm_medium=ios_app)
 - [American Government NGOs fuel Hong Kong Protests](https://www.mintpressnews.com/hong-kong-protests/259202/).
@@ -486,7 +489,7 @@
 - [China’s Xinjiang Problem – Made in USA](https://journal-neo.org/2015/11/10/chinas-xinjiang-problem-made-in-usa/).
 - [No, the UN did not report China has ‘massive internment camps’ for Uighur Muslims](https://thegrayzone.com/2018/08/23/un-did-not-report-china-internment-camps-uighur-muslims/).
 - [Religious freedoms in China explained](https://twitter.com/isgoodrum/status/1004884261051092993?s=21).
-- [Thousands of Muslims from the Uyghur province make Hajj Pilgrimage yearly.](https://www.app.com.pk/over-11000-chinese-muslims-from-xinjiang-proceed-to-saudi-arabia-for-hajj/)
+- [Thousands of Muslims from the Uyghur province make Hajj Pilgrimage yearly.](https://www.app.com.pk/over-11000-chinese-muslims-from-xinjiang-proceed-to-saudi-arabia-for-hajj/) [11k Chinese Muslims travel from Xinjiang on free chartered flights to Saudi Arabia for the Hajj, in 2019](https://www.arabnews.com/node/1535241/pakistan).
 - [EU rejects China offer of Xinjiang tour](https://www.scmp.com/news/china/diplomacy/article/3003217/eu-rejects-chinas-offer-xinjiang-tour-says-its-open-one-later).
 - [A wikileaks cable from 2011](https://wikileaks.org/gifiles/docs/13/1305169_-alpha-insight-china-inner-mongolia-movement-cn127-.html) shows that the US coordinated with groups to incite separatism in Mongolia, XinJiang, and Tibet.
 - The sources for an Australian documentary about the uyghurs, turn out to be [members of the FSA and TIP,  right wing, ultra-nationalist Turkish terrorist orgs.](https://twitter.com/ethan_parallels/status/1151153694517260288?s=21) The two men with links to terrorist groups were interviewed on nearly every Australian TV station for a week. [2](https://twitter.com/j_bigboote/status/1182726991675625472?s=21)

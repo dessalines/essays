@@ -22,3 +22,4 @@
 - https://stallman.org/microsoft.html
 - http://www.kmfms.com/whatsbad.html
 - https://www.gnu.org/philosophy/right-to-read.en.html
+- [Steve Ballmer - Linux is communism](https://www.theregister.co.uk/2000/07/31/ms_ballmer_linux_is_communism/)

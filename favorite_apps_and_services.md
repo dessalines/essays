@@ -66,12 +66,12 @@
 
 ## Social Media
 
-- Twitter alternative : [Mastodon](https://mastodon.social/)
+- Twitter alternative : [Pleroma](https://pleroma.social/), [Mastodon](https://mastodon.social/)
 - Facebook : [Friendica](https://friendi.ca/)
 - Reddit : [Lemmy (made by me)](https://github.com/dessalines/lemmy), [PostMill](https://gitlab.com/edgyemma/Postmill), or [Lobste.rs](https://github.com/lobsters/lobsters)
 - Medium : [Plume](https://github.com/Plume-org/Plume), [WriteFreely](https://github.com/writeas/writefreely)
 - YouTube : Torrents, or [peertube](https://github.com/Chocobozzz/PeerTube). 
-- Instagram : [Pixelfed ](https://pixelfed.org/). 
+- Instagram : [Pixelfed ](https://pixelfed.org/)
 
 ## Operating system
 
