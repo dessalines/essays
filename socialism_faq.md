@@ -120,6 +120,7 @@
 * [Is the revolutionary DotP a separate material stage apart from lower phased communism?](http://www.reddit.com/r/communism101/comments/2mrkkj/is_the_revolutionary_dotp_a_separate_material/)
 * [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](https://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_stage_of_communism_or_is/)
 * [What about Left Unity? Engels letter to Bebel.](https://www.marxists.org/archive/marx/works/1873/letters/73_06_20.htm)
+* [Why do most Marxists dislike ultra-lefts / left-communists (the "not real socialism" crowd) ?](https://medium.com/@leohezhao/left-communists-and-ultra-leftists-are-reactionaries-2d2fca4c991a)
 
 ## Did economic planning work?
 
@@ -417,11 +418,11 @@
   * [Didn't China go Capitalist with Deng Xiaoping? Didn't it liberalize its economy? Is China's drastic decrease in poverty a result of the increase in free market capitalist policies?](https://www.reddit.com/r/DebateCommunism/comments/b3gjfe/chinas_drastic_decrease_in_poverty_is_a_result_of/ey8depl/?context=3)
   * [Is the CCP committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
   * [The Long Game and Its Contradictions](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4).
+  * [The backbone of the economy is state ownership and socialist planning.](https://www.reddit.com/r/communism101/comments/8hdbib/how_is_china_communist_if_it_has_a_ton_of_private/dyj082s/)
   * [Are capitalists allowed in the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
   * [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
   * [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/) [Why are many billionaires and CEOs going missing?](https://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html) [China sentences Ex-Chairman of a major bank, guilty of embezzling ~$100M USD, to death in 2019.](https://www.bloomberg.com/news/articles/2019-12-27/china-sentences-ex-chairman-of-troubled-hengfeng-bank-to-death)
   * [50% of the economy is in the socialist public sector and directly follows the plan (40% if you ignore the agricultural sector). 20 to 30% is inside the state capitalist sector, which is the sector partially or totally owned by domestic capitalists but run by the CPC or by local workers councils. The rest is made up of the small bourgeois ownership like in the NEP.](https://chinareporting.blogspot.com/2009/11/class-nature-of-chinese-state-critique_26.html)
-  * [The backbone of the economy is state ownership and socialist planning.](https://www.reddit.com/r/communism101/comments/8hdbib/how_is_china_communist_if_it_has_a_ton_of_private/dyj082s/)
   * [China pushing forward Marxist training in colleges, attracts 1M students.](http://www.globaltimes.cn/content/988795.shtml)
   * [China tells the US that it has no plans to weaken the role of its State-Owned-Enterprises, one of the US's main demands in the trade war. "Beijing plans to make the state economy stronger, bigger, and better."](https://www.scmp.com/economy/china-economy/article/3038993/china-wont-give-its-state-led-economic-model-top-trade?fbclid=IwAR2ys8_Y_6Nxq2x__BM4SoKdR63it7X_JRy1XJdkLw4QrK0VQ77mXYyrcks)
  
@@ -496,7 +497,7 @@
 - [If China Is Anti-Islam, Why Are These Chinese Muslims Enjoying a Faith Revival?](https://time.com/3099950/china-muslim-hui-xinjiang-uighur-islam/) 
 - [A New York Times "expose" of re-education centers in Xinjiang lied and mistranslated every claim.](https://www.quora.com/What-would-be-the-consequences-of-the-New-York-Times-expose-on-Xinjiang/answer/Jamin-Chen-1)
 - [Reddit holds an AMA](https://www.reddit.com/r/IAmA/comments/e9ad4n/i_am_rushan_abbas_uyghur_activist_and_survivor_of/) for an "Uyghur Activist", who turns out to be [Rushan Abbas](https://web.archive.org/web/20181207031224/https://www.isi-consultants.com/rushan-abbas/), a CIA agent who worked for Homeland Security, Department of Defense, Department of State, Department of Justice, and various U.S. intelligence agencies, and even worked at Guantanamo bay, the US muslim torture camp. [1](https://www.reddit.com/r/ShitLiberalsSay/comments/e9crzq/shit_liberals_do_claim_to_be_an_uyghur_survivor/) [2](https://medium.com/@rsahthion/a-reddit-ama-claiming-to-be-a-uiyghur-quickly-exposes-a-cia-asset-slandering-china-1d667c098b77)
-- [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic).
+- [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic). 
 
 ### What about the Falun Gong?
 
