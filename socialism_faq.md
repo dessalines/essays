@@ -151,8 +151,9 @@
 
 ## What about democracy? Can't voting fix our problems?
 
+- [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 - [How do socialists feel about elections? What about democratic socialism?](https://isreview.org/issue/13/marxists-and-elections)
-- [What about social democracy / democratic socialism / the Nordic model? Isn't Sweden socialist?](https://www.youtube.com/watch?v=Jd03a8Pm1hs)
+- [What about social democracy / democratic socialism / the Nordic model? Isn't Sweden socialist?](https://www.youtube.com/watch?v=Jd03a8Pm1hs )
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
 - [Why not just vote leftists into office: what's wrong with democratic socialism?](https://old.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
 - [Can a one-party state really be a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
@@ -706,6 +707,7 @@
   - [Claimed that the 2016 election of Maduro in Venezuela "wasn't free", and called for more "US Aid".](https://www.msnbc.com/all-in/watch/bernie-sanders-tells-chris-hayes-why-he-s-running-1446465091782) Called Maduro a "vicious tyrant" in 2019 Democratic primary debate. 
   - [Goes back on his 1985 semi-pro-cuba statements: "The Cuban economy is a disaster. No, I do not praise Fidel Castro."](https://www.realclearpolitics.com/video/2016/11/27/sanders_on_cuba_of_course_their_economy_is_terrible_but_they_have_good_health_care.html)
   - [Praises the Hong Kong protestors, tells China to back off.](https://imgur.com/mwsMLSS) 
+  - [After the Jan 2020 US assassination of Iranian general Soleimani, Sanders showed remorse for the "4500 brave US troops who died", and trillions of dollars spent on the war in Iraq, instead of the 1M Iraqi civilians killed.](https://i.imgur.com/vRHPO9K.jpg)
 - [Bernie is against open borders](https://www.youtube.com/watch?v=vf-k6qOfXz0), believes in strong border and anti-immigration policies. [2](https://i.imgur.com/WcQ8bNQ.jpg)
     - When asked about the 2018 Migrant caravan, where Border agents tear gassed migrants, Bernie replied, ["not all migrants seeking asylum at the US-Mexico border have a credible claim. "You have to look at it case-by-case."](https://thehill.com/homenews/senate/418398-bernie-sanders-some-migrants-lack-credible-claim-for-asylum)
   - [Believes that Russians are to blame for the failure of US democracy. "Protecting american democracy from foreign invasion."](https://i.imgur.com/GkSXsZY.jpg)
