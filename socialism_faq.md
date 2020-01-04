@@ -407,7 +407,7 @@
 * [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
-* [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](https://dissidentvoice.org/Articles9/Parenti_Tibet.htm)
+* [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](https://dissidentvoice.org/Articles9/Parenti_Tibet.htm) [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZjKom_Qj0jcDReaMb_r52z)
 * [Did China really try to save the GDR?](https://www.reddit.com/r/Sino/comments/dsvsf9/newly_declassified_documents_released_by_german/)
 
 ### Is China State Capitalist?
