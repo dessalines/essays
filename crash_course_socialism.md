@@ -314,6 +314,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Stephen Gowans - Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work) [audiobook](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
 - Why do many socialist attempts end up in an one-party state? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
 - [Red Phoenix - Pacifism - How to do the enemy's job for them.](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/), [audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
+
 ### Marxist literature
 
 - [Engels - Socialism: Utopian and Scientific](http://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm), [audiobook](https://www.youtube.com/watch?v=IS4cpvvLeYo&list=PL0-IkmzWbjobt3oC7Mhq9kHWVbBKRtyg8)
@@ -334,6 +335,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 - [Howard Zinn - A Peoples History of the United States](http://www.historyisaweapon.com/zinnapeopleshistory.html)
 - [CLR James - The Black Jacobins](http://www.ouleft.org/wp-content/uploads/CLR_James_The_Black_Jacobins.pdf)
+- [J. Sakai - Settlers: the Mythology of the White Proletariat](http://readsettlers.org/text-index.html)
 - [John Reid - The Ten Days that Shook the World](https://www.marxists.org/archive/reed/1919/10days/10days/)
 - [Huey P. Newton - Revolutionary Suicide](https://www.amazon.com/Revolutionary-Suicide-Penguin-Classics-Deluxe/dp/0143105329)
 - [Eduardo Galeano - Open Veins of Latin America](https://www.amazon.com/Open-Veins-Latin-America-Centuries/dp/0853459916/ref=sr_1_1?ie=UTF8&qid=1485894404&sr=8-1&keywords=open+veins+of+latin+america)
@@ -352,10 +354,11 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ## Audiobooks
 
-- [Dessalines List of Audiobooks](audiobooks.md)
+- [Dessalines List of Audiobooks](audiobooks.md) (Many of the books and articles above are here)
 - [Dessalines Youtube Channel w/ Audiobooks](https://www.youtube.com/channel/UC7HJWIFGGeMiJi2h3k18CrQ)
 
 ## Films
+
 - [Pride (2014)](http://www.imdb.com/title/tt3169706/?ref_=nv_sr_4)
 - [Reds (1981)](http://www.imdb.com/title/tt0082979/?ref_=fn_al_tt_1)
 - [Salt of the Earth (1954)](http://www.imdb.com/title/tt0047443/?ref_=fn_al_tt_1)
@@ -405,14 +408,16 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Loyal Citizens of Pyongyang in Seoul (서울의 평양 시민들)](https://www.youtube.com/watch?v=ktE_3PrJZO0)
 - [The Haircut - A North Korean Adventure](https://www.youtube.com/watch?v=2BO83Ig-E8E)
 - [Weight of Chains - The overthrow of Yugoslavia.](https://en.wikipedia.org/wiki/The_Weight_of_Chains)
+
 ## Podcasts
 
 - [Proles of the round table](https://prolespod.libsyn.com/)
 - [Eyes Left](https://soundcloud.com/eyesleft)
 - [Revolutionary Left Radio](https://revolutionaryleftradio.libsyn.com/)
-- [Citations needed](https://soundcloud.com/citationsneeded)
 - [Red Menace](https://redmenace.libsyn.com/)
+- [Citations needed](https://soundcloud.com/citationsneeded)
 - [David Harvey's anti-capitalist chronicles](https://www.democracyatwork.info/acc)
+- [Economic Update with Richard Wolff](https://economicupdate.libsyn.com/)
 
 ## Channels
 
@@ -432,6 +437,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ## Online Communities
 
+- [Marxist.space - A collection of resources](https://marxist.space/)
 - [/r/capitalism_in_decay](https://www.reddit.com/r/capitalism_in_decay/)
 - [/r/socialism](https://www.reddit.com/r/socialism/)
 - [/r/communism](https://www.reddit.com/r/communism/)

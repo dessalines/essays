@@ -25,3 +25,7 @@
 
 - [Socialist audiobooks](https://github.com/dessalines/essays/blob/master/audiobooks.md)
 - [Favorite apps and services](https://github.com/dessalines/essays/blob/master/favorite_apps_and_services.md)
+
+## Links
+
+- [Marxist.space - A great collection of resources](https://marxist.space/)

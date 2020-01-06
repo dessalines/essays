@@ -81,12 +81,12 @@
 
 ## Didn't communism fail? It works in theory but not in practice.
 
-- [Did Socialism work in the USSR, and didn't the fall of the USSR bring more prosperity to Russia?](capitalism_doesnt_work.md)
+- [Did Socialism work in the USSR, and didn't the fall of the USSR bring more prosperity to Russia? IE, how to respond to "Communism doesn't work."](capitalism_doesnt_work.md), [2](https://www.reddit.com/r/communism/comments/ea6av0/how_to_respond_to_communism_doesnt_work/)
 - [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work), [audiobook](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
 - [Why, in your opinion, have most attempts to form countries based economically on communism and socialism (USSR, Cuba, China) fail?](http://www.reddit.com/r/communism101/comments/1f8obt/honestly_not_trolling_why_in_your_opinion_have/)
 - [What about the authoritarian leaders like Lenin, Stalin, Mao, Pol Pot, etc?](https://www.reddit.com/r/LateStageCapitalism/comments/8xl4bi/stay_angry_comrades/e24fuqs/)
 - [Why did the Soviet Union fail?](http://www.reddit.com/r/communism101/comments/1zrroq/why_did_the_soviet_union_fail/)
-- [What about the gulags?](https://www.greanvillepost.com/2018/10/09/the-truth-about-the-soviet-gulag-surprisingly-revealed-by-the-cia/) [2](https://www.reddit.com/r/communism101/comments/9bem2d/what_were_the_gulags_according_to_self_identified/e52ls2e/) [3](https://espressostalinist.com/the-real-stalin-series/gulag/), [4](http://www.mariosousa.se/LiesconcerningthehistoryoftheSovietUnion.html)
+- [What about the gulags?](https://www.greanvillepost.com/2018/10/09/the-truth-about-the-soviet-gulag-surprisingly-revealed-by-the-cia/) [2](https://www.reddit.com/r/communism101/comments/9bem2d/what_were_the_gulags_according_to_self_identified/e52ls2e/) [3](https://espressostalinist.com/the-real-stalin-series/gulag/), [4](http://www.mariosousa.se/LiesconcerningthehistoryoftheSovietUnion.html), [5](https://www.reddit.com/r/communism101/comments/ds8qk3/the_truth_about_the_gulags/f6obxuc/)
 - [Didn't the USSR kill millions of it citizens, with most people living in poverty and dying early?](https://en.wikipedia.org/wiki/Demographics_of_the_Soviet_Union#Life_expectancy_and_infant_mortality)
 - [What about Stalin, the purges, the holodomor, etc? A revleft podcast.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 - [Was Stalin actually a good leader?](https://www.reddit.com/r/Socialism_101/comments/cg319t/were_there_any_good_leaders_of_the_soviet_union/euekaxo/)
