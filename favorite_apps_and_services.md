@@ -4,18 +4,17 @@
 
 - Privacy conscious, [end-to-end encrypted (E2EE)](https://en.wikipedia.org/wiki/End-to-end_encryption).
 - Decentralized, **no reliance** on cloud providers like Google, Microsoft, Apple, Spotify, Netflix Youtube, etc. 
-- Self-hosted and self-reliant.
+  - Self-hosted and self-reliant.
   - Simple files preferred over running services.
-- Make sure no sites / services are [US based.](https://www.privacytools.io/#kdl)
+- Make sure no sites / services are [US based.](https://www.privacytools.io/providers/#ukusa)
 
 ## Media
 
-- Download all music / movies locally, using torrents behind a VPN. ([Don't use Tor for torrenting](https://blog.torproject.org/bittorrent-over-tor-isnt-good-idea))
+- Download all music / movies locally, using torrents, behind a VPN. ([Don't use Tor for torrenting](https://blog.torproject.org/bittorrent-over-tor-isnt-good-idea))
   - Use [AirVPN](https://airvpn.org/), [Mullvad](https://mullvad.net/), [NordVPN](https://nordvpn.com/), [ProtonVPN](https://protonvpn.com/) 
-  - Use [qbittorrent](https://www.qbittorrent.org/), [deluge](https://www.deluge-torrent.org/), or [transmission](https://transmissionbt.com/) for a torrent client.
-  - Use [LibreTorrent](https://github.com/proninyaroslav/libretorrent) on android.
+  - Use [qbittorrent](https://www.qbittorrent.org/), [deluge](https://www.deluge-torrent.org/), or [transmission](https://transmissionbt.com/) for PC, [LibreTorrent](https://github.com/proninyaroslav/libretorrent) for android.
 - Use [MPV](https://mpv.io/) or [VLC](https://www.videolan.org/vlc/download-windows.html), open source media players to play media.
-- Use [jellyfin](https://github.com/jellyfin/jellyfin) or SFTP for streaming to other devices, but torrenting is preferred.
+- Use [Jellyfin](https://github.com/jellyfin/jellyfin) or SFTP for streaming to other devices.
 - Instead of centralized, hosted youtube alternatives with upload limits, use torrents, and find a platform to post and comment on the magnet links.
 
 ## Documents and Coding
@@ -31,11 +30,11 @@
 
 - Use a [todo.txt](http://todotxt.org/) file for a personal task list, synced with syncthing.
   - [QTodoTxt](http://qtodotxt.org/) as a desktop client, [todo.txt-vim](https://github.com/freitass/todo.txt-vim), [Simpletask Cloudless](https://play.google.com/store/apps/details?id=nl.mpcjanssen.simpletask&hl=en_US) for Android.
-- For shared task lists, use [Etherpad](http://etherpad.org/), or [CodiMD](https://github.com/hackmdio/codimd).
+- For shared task lists, use [CodiMD](https://github.com/hackmdio/codimd).
 
 ## Collaboration
 
-- Use [Etherpad](http://etherpad.org/), or [CodiMD](https://github.com/hackmdio/codimd).
+- Use [CodiMD](https://github.com/hackmdio/codimd).
 
 ## Browsing
 
@@ -49,7 +48,7 @@
 
 ## Passwords
 
-- Use [KeePassXC](https://keepassxc.org/). 
+- Use [KeePassXC](https://keepassxc.org/) for PC, [KeePassDX](https://www.keepassdx.com/) for android.
   - Install the Firefox KeePassXC plugin.
   - Use a long master pass phrase, with at least 10 words. 
   - Sync your password file everywhere you need using Syncthing.
@@ -70,10 +69,13 @@
 - Facebook : [Friendica](https://friendi.ca/)
 - Reddit : [Lemmy (made by me)](https://github.com/dessalines/lemmy), [PostMill](https://gitlab.com/edgyemma/Postmill), or [Lobste.rs](https://github.com/lobsters/lobsters)
 - Medium : [Plume](https://github.com/Plume-org/Plume), [WriteFreely](https://github.com/writeas/writefreely)
-- YouTube : Torrents, or [peertube](https://github.com/Chocobozzz/PeerTube). 
+- YouTube : Torrents, or [Peertube](https://github.com/Chocobozzz/PeerTube). 
 - Instagram : [Pixelfed ](https://pixelfed.org/)
 
 ## Operating system
 
 - Use Linux. I like Arch Linux. 
 
+## Links
+
+- [PrivacyTools.io](https://www.privacytools.io/)

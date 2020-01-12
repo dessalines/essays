@@ -677,6 +677,7 @@
   - [George Padmore](https://en.wikipedia.org/wiki/George_Padmore), Trinidadian journalist and anti-imperialist campaigner.
 - His books Animal Farm and 1984 are used widely as anti-communist propaganda in schools in the US and UK. So much so that [his animated animal farm film was funded by the CIA](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/).  There's a reason they teach George Orwell in schools and not Franz Fanon, Che, Huey P Newton, Malcolm X, Lenin, CLR James, etc. 
 - [Orwell, anti-communist: A criticism of Orwell and his Work - By Isaac Asimov.](http://www.newworker.org/ncptrory/1984.htm)
+- [Rainer Shea - Orwells 1984 - Anti-communist propaganda.](https://medium.com/@rainershea612/orwells-1984-is-a-deeply-paranoid-piece-of-anti-communist-propaganda-15a741c85d9a)
 - [Orwell worked as a British imperial cop in Burma for 5 years](http://factsanddetails.com/southeast-asia/Myanmar/sub5_5e/entry-3083.html). His short story, [Shooting an Elephant](http://www.denisedrespling.com/review-shooting-elephant-george-orwell/), uses ethnic slurs and denigrates burmese people. 
 - [A reddit thread on George Orwell](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/), [Thread #2](https://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/for_those_on_the_right_who_think_orwell_wrote/dpy4zik/).
 
@@ -745,6 +746,7 @@
 - [Wants a "green" US military.](https://i.imgur.com/IRjlHxl.jpg)
 - [Copies Sanders program of full student debt cancelation, adds eligibility requirements.](https://www.cnn.com/2019/07/23/politics/elizabeth-warren-cancel-student-debt-bill/)
 - [Marked herself as "American Indian" for 6 years during her professorship at Harvard Law school, makes unverified claims of Cherokee ancestry, despite her family tree consisting of those who dispossessed Cherokees, and growing up in a wealthy white household. Uses her "Cherokee heritage" as political points in campaign speeches and political ads, greatly angering native american groups. Called for the arrest of Greg Grey Cloud, a Crow Creek Sioux activist protesting the Keystone XL pipeline from the Senate gallery.](https://twitter.com/AlytaDeLeon/status/1178019629102505986) [2](https://m.huffpost.com/us/entry/us_5d5ed7e6e4b0dfcbd48a1b01/amp), [3](https://newsmaven.io/indiancountrytoday/opinion/the-white-supremacy-of-elizabeth-warren-q6pZPvG4_0WIwiv__VU_bQ/)
+- [Defends the US assasination of Iranian General Soleimani, calls him a terrorist.](https://twitter.com/KumarsSalehi/status/1214610934716665861?s=20)
 
 ### Kamala Harris
 
