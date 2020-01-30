@@ -34,6 +34,8 @@ Notes :
 - Name the specific source and recipient of the atrocity, and provide a source for the claim.
 - Try to do chronologically from recent to past; it should seem like a running log.
 
+[tradução portuguesa](https://telegra.ph/Lista-de-Atrocidades-cometidas-pelas-autoridades-dos-EUA-01-30)
+
 ## Imperialism
 
 - The US empire currently maintains an [imperialist network](https://www.youtube.com/watch?v=Df4R-xdKvpM) of over [800 military bases in 70 countries.](https://www.politico.com/magazine/story/2015/06/us-military-bases-around-the-world-119321) (For comparison, all other countries combined have only 30 bases)
