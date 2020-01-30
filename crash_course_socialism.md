@@ -335,7 +335,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 - [Howard Zinn - A Peoples History of the United States](http://www.historyisaweapon.com/zinnapeopleshistory.html)
 - [CLR James - The Black Jacobins](http://www.ouleft.org/wp-content/uploads/CLR_James_The_Black_Jacobins.pdf)
-- [J. Sakai - Settlers: the Mythology of the White Proletariat](http://readsettlers.org/text-index.html)
+- [J. Sakai - Settlers: the Mythology of the White Proletariat](http://readsettlers.org/text-index.html), [audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoZEICtu8cocz_3oRFS6L7wN)
 - [John Reid - The Ten Days that Shook the World](https://www.marxists.org/archive/reed/1919/10days/10days/)
 - [Huey P. Newton - Revolutionary Suicide](https://www.amazon.com/Revolutionary-Suicide-Penguin-Classics-Deluxe/dp/0143105329)
 - [Eduardo Galeano - Open Veins of Latin America](https://www.amazon.com/Open-Veins-Latin-America-Centuries/dp/0853459916/ref=sr_1_1?ie=UTF8&qid=1485894404&sr=8-1&keywords=open+veins+of+latin+america)
@@ -349,6 +349,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Robert Cialdini - The Psychology of persuasion](magnet:?xt=urn:btih:bad0ad6cca5c00ba8d1f8e8c4e5962f6d611f381&dn=Influence_%20The%20Psychology%20of%20Persuasion%20by%20Robert%20Cialdini&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Feddie4.nl%3A6969&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969&tr=udp%3A%2F%2Fopentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337) (not explicitly Marxist, but a great breakdown of the main psychological tactics used by exploiters to manipulate us)
 
 ### Fiction
+
 - Kim Stanley Robinson - Red Mars / Mars Trilogy
 - Ursula K LeGuin - The Dispossessed
 

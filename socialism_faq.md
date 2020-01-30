@@ -84,6 +84,7 @@
 - [Did Socialism work in the USSR, and didn't the fall of the USSR bring more prosperity to Russia? IE, how to respond to "Communism doesn't work."](capitalism_doesnt_work.md), [2](https://www.reddit.com/r/communism/comments/ea6av0/how_to_respond_to_communism_doesnt_work/)
 - [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work), [audiobook](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
 - [Why, in your opinion, have most attempts to form countries based economically on communism and socialism (USSR, Cuba, China) fail?](http://www.reddit.com/r/communism101/comments/1f8obt/honestly_not_trolling_why_in_your_opinion_have/)
+- [Were people really going hungry / starving in the USSR?](https://www.reddit.com/r/ShitLiberalsSay/comments/euawlv/hahahahahaha_no_food/ffohv83/)
 - [What about the authoritarian leaders like Lenin, Stalin, Mao, Pol Pot, etc?](https://www.reddit.com/r/LateStageCapitalism/comments/8xl4bi/stay_angry_comrades/e24fuqs/)
 - [Why did the Soviet Union fail?](http://www.reddit.com/r/communism101/comments/1zrroq/why_did_the_soviet_union_fail/)
 - [What about the gulags?](https://www.greanvillepost.com/2018/10/09/the-truth-about-the-soviet-gulag-surprisingly-revealed-by-the-cia/) [2](https://www.reddit.com/r/communism101/comments/9bem2d/what_were_the_gulags_according_to_self_identified/e52ls2e/) [3](https://espressostalinist.com/the-real-stalin-series/gulag/), [4](http://www.mariosousa.se/LiesconcerningthehistoryoftheSovietUnion.html), [5](https://www.reddit.com/r/communism101/comments/ds8qk3/the_truth_about_the_gulags/f6obxuc/)
@@ -152,10 +153,11 @@
 ## What about democracy? Can't voting fix our problems?
 
 - [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
-- [How do socialists feel about elections? What about democratic socialism?](https://isreview.org/issue/13/marxists-and-elections)
 - [What about social democracy / democratic socialism / the Nordic model? Isn't Sweden socialist?](https://www.youtube.com/watch?v=Jd03a8Pm1hs )
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
 - [Why not just vote leftists into office: what's wrong with democratic socialism?](https://old.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
+- [Why Sanders is not a socialist - Anticonquista ](https://www.youtube.com/watch?v=VbcrJT485r8)
+- [How do socialists feel about elections? What about democratic socialism?](https://isreview.org/issue/13/marxists-and-elections)
 - [Can a one-party state really be a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
 - [Why is Chinas one party system outperforming western democracies that have abysmal approval ratings?](https://www.youtube.com/watch?v=s0YjL9rZyR0)
 
@@ -165,6 +167,7 @@
 - [Is a bloodless revolution possible?](https://www.reddit.com/r/communism101/comments/cyanku/is_a_bloody_revolution_really_necessary_for_the/)
 - [What is imperialism?](https://www.reddit.com/r/capitalism_in_decay/comments/cjp4yu/a_medium_length_eli15_answer_to_the_question_what/)
 - [Was the civil rights struggle in the US really nonviolent?](http://mshistorynow.mdah.state.ms.us/articles/62/the-civil-rights-movement-in-mississippi-on-violence-and-nonviolence) [Malcolm X - message to the grassroots. ](https://www.youtube.com/watch?v=Ku2JzolPt50)
+    - [FBI cointel directives on "nonviolent" groups.](https://herb.ashp.cuny.edu/items/show/814)
 - [Engels - on authority. ](https://www.marxists.org/archive/marx/works/1872/10/authority.htm)
 - [An Overview of Leninism](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/), [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) , [audiobook](https://www.youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
 - [Luxemburg - Reform or Revolution](https://www.marxists.org/archive/luxemburg/1900/reform-revolution/), [audiobook](https://www.youtube.com/watch?v=YhzmaUofLS8&list=PL0-IkmzWbjoYqO_Yec4sWzPeeFXMOkPWs)
@@ -664,6 +667,7 @@
 - [His charities promote corporate interests above health care](http://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf).
 - [Book about the golden handcuffs of the philanthro-capitalism of Bill Gates.](https://www.versobooks.com/books/2344-no-such-thing-as-a-free-gift)
 - [The Gates foundation has spent over \$1B to break up public schools, in favor of private charter schools.](https://apnews.com/92dc914dd97c487a9b9aa4b006909a8c/AP-Exclusive:-Billionaires-fuel-US-charter-schools-movement) [2](https://www.businessinsider.com/bill-melinda-gates-foundation-education-initiative-failure-2018-6), [3](https://www.washingtonpost.com/education/2019/04/16/um-who-are-melinda-bill-gates-trying-kid/), [4](https://nancyebailey.com/2019/03/08/bill-melinda-gates-dont-discuss-their-takeover-of-americas-public-schools/)
+- Despite the myth of his "humble origins", and a "rags to riches" story, [his mother served on the board of directors for many corporations](https://en.wikipedia.org/wiki/Mary_Maxwell_Gates), and comes from a wealthy banking family. His father was a [wealthy corporate lawyer](https://en.wikipedia.org/wiki/Preston_Gates_%26_Ellis), and co-owner of the law firm Preston, Gates & Ellis. The family owned a summer lake house on Puget Sound, and sent their son to the [most prestigious, private high school](https://en.wikipedia.org/wiki/Lakeside_School_(Seattle%29) in Washington state, where he met fellow Microsoft co-founder Paul Allen.
 
 ### What's so bad about George Orwell?
 
