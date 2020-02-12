@@ -155,11 +155,13 @@
 - [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 - [What about social democracy / democratic socialism / the Nordic model? Isn't Sweden socialist?](https://www.youtube.com/watch?v=Jd03a8Pm1hs )
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
+- [Comrade Hakim - Why electoralism always fails.](https://www.youtube.com/watch?v=WXbaZXQAbuU)
 - [Why not just vote leftists into office: what's wrong with democratic socialism?](https://old.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
 - [Why Sanders is not a socialist - Anticonquista ](https://www.youtube.com/watch?v=VbcrJT485r8)
 - [How do socialists feel about elections? What about democratic socialism?](https://isreview.org/issue/13/marxists-and-elections)
 - [Can a one-party state really be a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
 - [Why is Chinas one party system outperforming western democracies that have abysmal approval ratings?](https://www.youtube.com/watch?v=s0YjL9rZyR0)
+- [How the capitalist democratic party sabotaged the Sanders campaign.](https://medium.com/@rainershea612/the-democratic-party-is-fully-prepared-to-steal-the-primary-from-sanders-again-51b7b1130a8d)
 
 ## Pacifism and Violence
 
@@ -168,6 +170,7 @@
 - [What is imperialism?](https://www.reddit.com/r/capitalism_in_decay/comments/cjp4yu/a_medium_length_eli15_answer_to_the_question_what/)
 - [Was the civil rights struggle in the US really nonviolent?](http://mshistorynow.mdah.state.ms.us/articles/62/the-civil-rights-movement-in-mississippi-on-violence-and-nonviolence) [Malcolm X - message to the grassroots. ](https://www.youtube.com/watch?v=Ku2JzolPt50)
     - [FBI cointel directives on "nonviolent" groups.](https://herb.ashp.cuny.edu/items/show/814)
+- [Is a state really necessary to transition into communism?](https://www.reddit.com/r/communism101/comments/f0l14l/why_is_a_state_necessary_to_transition_into/)
 - [Engels - on authority. ](https://www.marxists.org/archive/marx/works/1872/10/authority.htm)
 - [An Overview of Leninism](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/), [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) , [audiobook](https://www.youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
 - [Luxemburg - Reform or Revolution](https://www.marxists.org/archive/luxemburg/1900/reform-revolution/), [audiobook](https://www.youtube.com/watch?v=YhzmaUofLS8&list=PL0-IkmzWbjoYqO_Yec4sWzPeeFXMOkPWs)
@@ -412,6 +415,7 @@
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
 * [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](https://dissidentvoice.org/Articles9/Parenti_Tibet.htm) [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZjKom_Qj0jcDReaMb_r52z)
 * [Did China really try to save the GDR?](https://www.reddit.com/r/Sino/comments/dsvsf9/newly_declassified_documents_released_by_german/)
+* [What about China's corono-virus response? Is there really any sinophobia?](https://www.reddit.com/r/communism/comments/evwls8/megathread_addressing_sinophobia_and_chinas/) [2](https://amp.theguardian.com/world/2020/jan/28/canada-chinese-community-battles-racist-backlash-amid-coronavirus-outbreak?__twitter_impression=true)
 
 ### Is China State Capitalist?
 
@@ -465,6 +469,7 @@
 - [Megathread #1](https://www.reddit.com/r/communism/comments/cpm5q1/we_need_a_serious_discussion_on_the_overwhelming/), [#2](https://bitbucket.org/TheCrypticMan/hong-kong-protests/wiki/2019%20attempted%20'Black%20Revolution')
 - The extradition bill came about when a [man from Hong Kong killed his pregnant girlfriend while in holiday in Taiwan.](https://www.reddit.com/r/communism101/comments/c1nxga/opinions_on_hong_kong_protests/ered9wl/) [1](https://www.scmp.com/news/hong-kong/law-and-crime/article/3008099/sentence-man-who-killed-girlfriend-taiwan-sets) He fled back to Hong Kong. Taiwan asked for him to be extradited, but Hong Kong did not have an extradition treaty with Taiwan, so the administration in Hong Kong proposed a bill that would allow Taiwan, the PRC, and Macau to request extradition, which the judiciary in Hong Kong can then approve. [There were 49 crimes that were to be included in the bill that would allow extradition requests.](https://qz.com/1636663/the-37-crimes-included-in-hong-kongs-proposed-extradition-law/) Some of these were financial crimes (Hong Kong is a popular tax haven for billionaires), and the Capitalists in Hong Kong shit themselves because they are often in breach of PRC law, but protected by Hong Kong's independence as a Special Administrative Region. This bill is completely reasonable, and any fears of the PRC taking over or of the extradition of 'political' criminals is unfounded. The US is encouraging the organizers to keep protesting in order to provoke the administration in Hong Kong to crack down on them, so that they can blame China and keep up their propaganda narrative that 'CHINA BAD!' [More here.](https://www.scmp.com/news/hong-kong/law-and-crime/article/3008099/sentence-man-who-killed-girlfriend-taiwan-sets)
 - [AntiConquista - the History of Hong Kong, and the nature of the protest movement, and who's funding it.](https://invidio.us/watch?v=hY8rCElJ4nQ)
+- [The Hong Kong Protests: Irrational chaos](https://invidio.us/watch?v=PCokRDKR89c).
 - [Hong Kong - The Protest movement unmasked. (Also gets into the inequality and housing crisis driving the movement)](https://invidio.us/watch?v=0CUgy-Hzyfo&local=1&nojs=0&player_style=youtube&quality=dash)
 - [The US has admitted that it’s funding the protests](https://www.globalresearch.ca/us-now-admits-funding-occupy-central-hong-kong/5405680). [Hong Kong Human Rights Monitor and HKCTU, along with 68 other Hong Kong “democratic right” organizations earn hundreds of thousands every year from State Department funded NGOs.](https://twitter.com/redniangzijun/status/1137901349750939648)
 - [American government officials caught ON CAMERA colluding with HK protest leaders.](https://www.reddit.com/r/socialism/comments/cndqwh/hk_protest_leaders_caught_meeting_with_us_chief/?utm_source=share&utm_medium=ios_app)
@@ -516,6 +521,7 @@
 ### What about the Tiananmen square massacre?
 
 - [Tiananmen Square "Massacre", A Propaganda Hoax](https://www.youtube.com/watch?v=R6RT_s1T050).
+- [The truth about the Tiananmen square protests](https://www.youtube.com/watch?v=sqPI8xlnrwg)
 - [It wasn't a massacre of peaceful students, but a skirmish between PLA soldiers and armed detachments from the pro-capitalist / free market reform movement.]( https://www.liberationnews.org/tiananmen-the-massacre-that-wasnt/) The protest movement, as evidenced by their own accounts, called for market liberalisation, and free market reforms, rallying around a replica of the statue of liberty. After the movement had been building in the square for seven weeks, unarmed soldiers were sent in to disperse the protesters, after which many soldiers were beaten to death, torched, and lynched. The New York Times death count went from 2600, to many thousands, to 8000, to tens of thousands. In reality only around ~200 (including soldiers) were killed or trampled, in smaller clashes outside the square. The on-scene New York Times reporter disavowed the article, especially about machine-gunning of protesters. [A wikileaks cable](https://www.telegraph.co.uk/news/worldnews/wikileaks/8555142/Wikileaks-no-bloodshed-inside-Tiananmen-Square-cables-claim.html) from a US ambassador to the US state department, confirmed that no killings or machine-gunnings took place in the square.
 - [A British Lie]( https://www.globalresearch.ca/tiananmen-square-massacre-is-a-myth-all-were-remembering-are-british-lies/5386080).
 - [Deng XiaoPing was ill at the time, and the CIA had an inside man inside the party, Zhao Ziyang, dubbed China's Gorbachev, who promised to open the door to market liberalisation if the protest movement had succeeded, like those of Ukraine, Yugoslavia, Georgia, and the USSR.](https://medium.com/@leohezhao/notes-for-30th-anniversary-of-tiananmen-incident-f098ef6efbc2)
@@ -701,6 +707,15 @@
 - [Gandhi - The jews should've killed themselves instead.](https://izquotes.com/quote/mahatma-gandhi/hitler-killed-five-million-jews-it-is-the-greatest-crime-of-our-time-but-the-jews-should-have-231149)
 - [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 
+
+### Noam Chomsky
+
+- https://archive.li/YVNk3
+- https://libcom.org/history/john-deutch-chomskys-friend-pentagon-cia
+- https://www.opendemocracy.net/en/why-chomsky-felt-guilty-most-of-time-war-research-and-linguistics-at-mit/
+- https://libcom.org/history/chomsky-pol-pots-genocidal-regime-cambodia
+- https://www.kurdistan24.net/en/news/13cf816e-8e40-41c8-bb76-d453a3261d8b
+
 ### What's wrong with Bernie Sanders?
 
 - [Supports US imperialism](https://leftistcritic.wordpress.com/2017/01/31/bernie-sanders-an-imperialist-worth-despising/). [2](https://www.alternet.org/election-2016/bernie-sanders-troubling-history-supporting-us-military-violence-abroad)
@@ -720,6 +735,7 @@
 - [Shills for democrats, campaigned for Hillary Clinton.](https://www.newyorker.com/news/amy-davidson/bernie-sanderss-hard-fight-for-hillary-clinton)
 - [Equates socialism with US corporate bailouts.](https://www.leftvoice.org/sanders-speech-explains-his-vision-of-socialism-it-sounds-a-lot-like-new-deal-liberalism)
 - [Thanked Jeff Bezos for deigning to raise amazon wages](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqM9uBoBvLLw/v1/600x-1.jpg), Bezos [responds with "you're welcome"](https://pbs.twimg.com/media/DohNI5GUUAAin6q.jpg). 
+- [His election, as well as Medicare-for-all, would, like the new deal, be a bribe between capital and workers in the imperial core: Give us a bigger cut of the profits from exploitation of the global south, and we'll become more invested in preserving the empire](https://www.reddit.com/r/MoreTankieChapo/comments/ew22gi/its_ogre_reformist_capitalism_has_won_guys/ffznca8/).
 
 ### What's wrong with Alexandria Ocasio-Cortez?
 
