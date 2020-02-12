@@ -791,7 +791,7 @@
 
 ### Others
 
-- [What's so bad about Winston Churchill?](http://www.reddit.com/r/ShitLiberalsSay/comments/80sxhj/-/duy08zm) , [2](https://crimesofbritain.com/2016/09/13/the-trial-of-winston-churchill/)
+- [What's so bad about Winston Churchill?](http://www.reddit.com/r/ShitLiberalsSay/comments/80sxhj/-/duy08zm) , [2](https://crimesofbritain.com/2016/09/13/the-trial-of-winston-churchill/), [3](https://www.rbth.com/blogs/2013/06/13/operation_unthinkable_churchills_plan_to_start_world_war_iii_26091)
 - [What about Jordan Peterson?](https://www.reddit.com/r/Socialism_101/comments/85cuay/thoughts_on_jordan_petersons_criticism_of_marxism/dvwnd25/)
 - [Is Christianity / the Bible Communist?](https://www.reddit.com/r/LateStageCapitalism/comments/9b7gsw/joel_osteen/e515qdb/)
 - [Was Mark Twain a socialist?](https://socialistworker.org/2010/04/21/the-twain-they-didnt-teach)
