@@ -109,6 +109,7 @@
 * [Can someone give us a quick like-we're-five rundown of the distinctions between Trotskyism, Maoism, orthodox Marxism, and so on?](http://www.reddit.com/r/communism101/comments/132d5s/can_someone_give_us_a_quick_likewerefive_rundown/)
 * [What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
 * [What's the difference in economic structure ( production and distribution) of anarchism, anarcho-communism, anarcho-syndicalism, and Marxist communism?](https://old.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/)
+* [Parenti on Anarcho-Syndicalism / Worker-Coops](https://invidio.us/watch?v=WEkyW9GwbE8&local=1&nojs=0&player_style=youtube&quality=dash).
 * [What is the communist response to a lot of Anarchist criticisms? A Megathread.](https://www.reddit.com/r/communism/comments/cewriu/masterpost_for_defending_socialism_against/)
 * [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 * [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
@@ -122,6 +123,7 @@
 * [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](https://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_stage_of_communism_or_is/)
 * [What about Left Unity? Engels letter to Bebel.](https://www.marxists.org/archive/marx/works/1873/letters/73_06_20.htm)
 * [Why do most Marxists dislike ultra-lefts / left-communists (the "not real socialism" crowd) ?](https://medium.com/@leohezhao/left-communists-and-ultra-leftists-are-reactionaries-2d2fca4c991a)
+* [Where are communists on the political compass?](https://www.reddit.com/r/communism101/comments/f4a9w9/where_do_communists_fall_on_the_political_spectrum/fhozyg4/)
 
 ## Did economic planning work?
 
@@ -710,6 +712,7 @@
 
 ### Noam Chomsky
 
+- [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
 - https://archive.li/YVNk3
 - https://libcom.org/history/john-deutch-chomskys-friend-pentagon-cia
 - https://www.opendemocracy.net/en/why-chomsky-felt-guilty-most-of-time-war-research-and-linguistics-at-mit/
@@ -773,6 +776,10 @@
 - https://twitter.com/WillisJermane/status/1090261366789656578
 - https://www.theguardian.com/commentisfree/2019/jan/31/kamala-harris-laughed-jailing-parents-truancy
 - https://www.bloomberg.com/news/articles/2019-10-14/kamala-harris-offices-fought-payments-to-wrongly-convicted
+
+### Pete Buttigieg
+
+- https://www.democracynow.org/2020/2/12/pete_buttigieg_south_bend_black_community
 
 ### Biden
 
