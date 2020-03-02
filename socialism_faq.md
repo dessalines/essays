@@ -237,6 +237,7 @@
 ## On Race and Class
 
 - [How is Race related to class / Marxism?](https://socialistworker.org/2011/01/04/race-class-and-marxism)
+- [What about class reductionism / the dirtbag left?](https://www.splicetoday.com/politics-and-media/the-reactionary-grift-of-the-dirtbag-left)
 - [How is racism related to capitalism?](http://www.historicalmaterialism.org/articles/racism-and-logic-capitalism)
 - [Was the US communist movement anti-racist?](http://socialistworker.org/2010/11/18/race-and-us-socialist-tradition)
 - [Is Racism human nature?](http://socialistworker.org/2010/10/21/the-roots-of-racism)
@@ -245,6 +246,7 @@
 - [How would eliminating capitalism help marginalized groups such as women, gays, racial minorities, etc?](https://www.reddit.com/r/communism101/comments/axljq5/how_would_eliminating_capitalism_help/)
 - [What about black-on-black crime (Insert racist thing here)?](https://www.politifact.com/truth-o-meter/statements/2015/nov/23/donald-trump/trump-tweet-blacks-white-homicide-victims/)
 - [What about Beyonce / Black Capitalism?](https://www.independent.co.uk/news/people/beyonces-ivy-park-sportswear-line-denies-claims-its-clothes-were-produced-by-sweatshop-workers-a7035926.html)
+- [What is the labor aristocracy?](https://www.reddit.com/r/communism101/comments/f6u5uv/what_is_defines_the_labor_aristocracy/)
 
 ## On Guns / Firearms / Violence
 
@@ -415,9 +417,10 @@
 * [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
-* [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](https://dissidentvoice.org/Articles9/Parenti_Tibet.htm) [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZjKom_Qj0jcDReaMb_r52z)
+* [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](http://www.michaelparenti.org/Tibet.html) [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZjKom_Qj0jcDReaMb_r52z)
 * [Did China really try to save the GDR?](https://www.reddit.com/r/Sino/comments/dsvsf9/newly_declassified_documents_released_by_german/)
-* [What about China's corono-virus response? Is there really any sinophobia?](https://www.reddit.com/r/communism/comments/evwls8/megathread_addressing_sinophobia_and_chinas/) [2](https://amp.theguardian.com/world/2020/jan/28/canada-chinese-community-battles-racist-backlash-amid-coronavirus-outbreak?__twitter_impression=true)
+* [What about China's corono-virus response? Is there really any sinophobia?](https://www.reddit.com/r/communism/comments/evwls8/megathread_addressing_sinophobia_and_chinas/) [2](https://amp.theguardian.com/world/2020/jan/28/canada-chinese-community-battles-racist-backlash-amid-coronavirus-outbreak?__twitter_impression=true) [3](https://www.youtube.com/watch?v=GasWB8s-tqs&feature=youtu.be)
+* [The US went against the CDC recommendations and evacuated 14 corona-virus infected US citizens, sparking the spread of the virus in the US](https://nypost.com/2020/02/20/coronavirus-infected-americans-flown-back-to-us-on-plane-full-of-healthy-people/).
 
 ### Is China State Capitalist?
 
@@ -453,7 +456,7 @@
     * [Uninsured Chinese citizens pay an average of $5-7 to see a specialist (the majority of hospital visits ), and with insurance, its free. 95% of Chinese citizens have insurance](https://hotpot.team/new-york-times-lies/)
   * [Wages themselves are forced to rise in the private sector by the CPC (+16% every years, +400% since 1980) who force the capitalists to accept the presence of CPC chapters who represent the interest of the workers, increasing workers control even in the capitalist parts of the economy. ](https://www.workers.org/2015/07/21/china-rising-wages-and-worker-militancy/#.WXOlQtPytsM)
   * [The west views China as one big sweatshop, but the actual working hours aren't much more than anywhere else. The average for a migrant worker (most vulnerable to exploitation as they are traveling from the countryside) is 8.8 hours, little under an hour more than a typical working day. Labor strikes are rarely suppressed, and usually get the support of the PRC.](https://www.forbes.com/sites/mitchfree/2013/07/11/held-hostage-entrepreneurs-uneasy-over-chinese-govt-inaction/#2431f5463de4)
-  * [The workplace safety standards of China are better than in the capitalist countries of the West like in Australia who have an higher rate of work related death despite having a GDP per capita 3-5 times higher.](http://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/)
+  * [The workplace safety standards of China are better than in the capitalist countries of the West like in Australia who have an higher rate of work related death despite having a GDP per capita 3-5 times higher.](http://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/
 * [The US is losing to China: “Washington is actually far more corrupt than Beijing. If you want to get something done in Washington, you do what you do in Jakarta: just slip some money to the right people.”]( https://www.forbes.com/sites/eamonnfingleton/2014/11/12/obama-in-china-taking-candy-from-a-baby/#27d9d3c1231e)
 * [China 9 years ahead of schedule on meeting its Paris agreement climate change goals. ](https://www.newscientist.com/article/2211366-china-is-on-track-to-meet-its-climate-change-goals-nine-years-early/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news)
 * [China meets ultra-low power plant emissions in advance of 2020 goal.](https://www.reddit.com/r/science/comments/dsdam3/china_meets_ultralow_emissions_in_advance_of_the/)
@@ -465,6 +468,7 @@
 - [China writes off $36m Mozambican debt](https://furtherafrica.com/2017/10/26/china-writes-off-36m-mozambican-debt/).
 - [China writes off substantial amount of Angola debt.](https://www.angop.ao/angola/en_us/noticias/politica/2017/5/23/China-agrees-partial-write-off-Angola-debt,73246665-509c-48a2-ae40-415d3fb65b00.html)
 - [Nato's new enemy: the CPC.](https://www.rt.com/news/473935-pompeo-nato-china-communist/)
+- [Yanis Varoufakis on China's foreign policy dealing with Greece and Africa](https://www.youtube.com/watch?v=PBgbYQ5QAM0).
 
 ### What about the Hong Kong protests?
 
@@ -661,7 +665,7 @@
 
 - [He's a philanthro-capitalist imperialist: using the bill and melinda gates foundation charity as a bargaining chip to work in the interests of billionaire elites.](https://www.liberationnews.org/real-agenda-gates-foundation/) [Youtube Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZsjovp13f1xCA-4ewzOdqd) 
   - The Gates foundation tests pharmaceutical products on humans for profit, usually in poorer countries without regulatory bodies. [One such mass test, on behalf of Merck and Pfizer, of a harmful HPV vaccine on 23,000 girls in india kills 7 girls, sterilizes hundreds more, and leads to public outrage.](https://m.economictimes.com/industry/healthcare/biotech/healthcare/controversial-vaccine-studies-why-is-bill-melinda-gates-foundation-under-fire-from-critics-in-india/amp_articleshow/41280050.cms) 
-  - The Gates foundation helps big pharma find new markets for drugs deemed unfit for westerners, selling them in the global south. This includes harmful drugs such as Gardasil, Norplant, Cervarix. A South African newspaper declared: “We are guinea pigs for the drugmakers.” In the case of Gardasil, the drug-pushing was cloaked in the language of environmentalism, popular empowerment, and feminism. Melinda Gates evoked “choice” in support of her family planning initiatives, but in reality was not poor women, but a handful of the world’s wealthiest people who have presumed to choose which methods of contraception will be delivered, and to whom.
+  - The Gates foundation helps big pharma find test markets for their drugs, selling them in the global south. This includes drugs such as Gardasil, Norplant, Cervarix. A South African newspaper declared: “We are guinea pigs for the drugmakers.” In the case of Gardasil, the drug-pushing was cloaked in the language of environmentalism, popular empowerment, and feminism. Melinda Gates evoked “choice” in support of her family planning initiatives, but in reality was not poor women, but a handful of the world’s wealthiest people who have presumed to choose which methods of contraception will be delivered, and to whom.
   - [Funnels hundreds of millions in grant money to corporations](https://www.jacobinmag.com/2015/11/philanthropy-charity-banga-carnegie-gates-foundation-development), such as Mastercard, Merck, Pfizer, ABC, NBC, Univision, Scholastic, and Pearson.
   - Philanthro-capitalism undermines local communities, dismantling their democracy and autonomy in health care, by making them fully dependent on US billionaires, who are completely unnaccountable.
   - Philanthrocapitalists are currently rushing to take power in a system of global health and population control. Bill Gates warned of “huge population growth in *places where we don’t want it*, like Yemen and Pakistan and parts of Africa.”, echoing  overpopulation fears that have inspired eugenicists since the time of Malthus. Population control is a form of social control, directly targeting the bodies and dignity of poor people, conditioning them to believe that life’s most intimate decisions are outside of their competence and control. 
@@ -724,7 +728,7 @@
 - [Supports US imperialism](https://leftistcritic.wordpress.com/2017/01/31/bernie-sanders-an-imperialist-worth-despising/). [2](https://www.alternet.org/election-2016/bernie-sanders-troubling-history-supporting-us-military-violence-abroad)
   - [Voted for US intervention](https://i.imgur.com/HCvaDLp.jpg) in the following nations: Afghanistan, Lebanon, [Libya](https://www.leftvoice.org/not-on-our-side-on-bernie-sanders-and-imperialism), [Somalia](http://votesmart.org/bill/2732/7934/27110/bernie-sanders-voted-yea-passage-with-amendment-s-j-res-45-authorization-for-use-of-%20us-armed-forces-in-somalia#7934), Syria, Yemen, [Yugoslavia](http://www.libertyunionparty.org/?page_id=363),[2](http://votesmart.org/bill/2808/7948/27110/bosnia-troop-deployment-resolution#.Ve5QZkvJyhG), Bosnia, Haiti, Congo, Liberia, Sudan, and Ukraine.
   - [Warmongers on the Bill O'Reilley show for the US to intervene against Russia, Syria, and China.](https://www.youtube.com/watch?v=EO4Ko-v-q0g&feature=youtu.be&t=2m12s)
-  - [Supports drone bombing: "They have, at times, been effective."](https://abcnews.go.com/Politics/bernie-sanders-people-responding-message/story?id=33413601)
+  - [Supports drone bombing: "They have, at times, been effective."](https://abcnews.go.com/Politics/bernie-sanders-people-responding-message/story?id=33413601). Another interview: ["Drones have done some good things. They've been selective; they've taken out people who should be taken out"](https://www.telesurenglish.net/news/Bernie-Sanders-Drones-Have-Done-Some-Good-Things-20160330-0006.html)
   - Staunchly supports Israel in their displacement of Palestinians (while blaming hamas for the conflict). [Says he will not move back the US embassy in Israel back from Jerusalem to Tel Aviv, after Trump moved it the previous year.](https://electronicintifada.net/blogs/ali-abunimah/why-bernie-sanders-still-encouraging-israels-crimes)
   - [Supports GW Bush](https://i.imgur.com/tHN9DzG.png). [Supported warmonger John McCain after his death.](https://i.imgur.com/R3cAhdC.jpg)
   - [Claimed that the 2016 election of Maduro in Venezuela "wasn't free", and called for more "US Aid".](https://www.msnbc.com/all-in/watch/bernie-sanders-tells-chris-hayes-why-he-s-running-1446465091782) Called Maduro a "vicious tyrant" in 2019 Democratic primary debate. 
@@ -733,12 +737,13 @@
   - [After the Jan 2020 US assassination of Iranian general Soleimani, Sanders showed remorse for the "4500 brave US troops who died", and trillions of dollars spent on the war in Iraq, instead of the 1M Iraqi civilians killed.](https://i.imgur.com/vRHPO9K.jpg)
 - [Bernie is against open borders](https://www.youtube.com/watch?v=vf-k6qOfXz0), believes in strong border and anti-immigration policies. [2](https://i.imgur.com/WcQ8bNQ.jpg)
     - When asked about the 2018 Migrant caravan, where Border agents tear gassed migrants, Bernie replied, ["not all migrants seeking asylum at the US-Mexico border have a credible claim. "You have to look at it case-by-case."](https://thehill.com/homenews/senate/418398-bernie-sanders-some-migrants-lack-credible-claim-for-asylum)
-  - [Believes that Russians are to blame for the failure of US democracy. "Protecting american democracy from foreign invasion."](https://i.imgur.com/GkSXsZY.jpg)
+  - [Believes that Russians are to blame for the failure of US democracy. "Protecting american democracy from foreign invasion."](https://i.imgur.com/GkSXsZY.jpg). [2020 Campaign trail: "Americans are sick and tired of Russian intereferenc in our elections"](https://twitter.com/thehill/status/1230994357236322304)
 - [Why Sanders is not a socialist - Anticonquista ](https://www.youtube.com/watch?v=VbcrJT485r8)
 - [Shills for democrats, campaigned for Hillary Clinton.](https://www.newyorker.com/news/amy-davidson/bernie-sanderss-hard-fight-for-hillary-clinton)
 - [Equates socialism with US corporate bailouts.](https://www.leftvoice.org/sanders-speech-explains-his-vision-of-socialism-it-sounds-a-lot-like-new-deal-liberalism)
 - [Thanked Jeff Bezos for deigning to raise amazon wages](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqM9uBoBvLLw/v1/600x-1.jpg), Bezos [responds with "you're welcome"](https://pbs.twimg.com/media/DohNI5GUUAAin6q.jpg). 
 - [His election, as well as Medicare-for-all, would, like the new deal, be a bribe between capital and workers in the imperial core: Give us a bigger cut of the profits from exploitation of the global south, and we'll become more invested in preserving the empire](https://www.reddit.com/r/MoreTankieChapo/comments/ew22gi/its_ogre_reformist_capitalism_has_won_guys/ffznca8/).
+- [Why Marxists should not support Sanders.](https://www.reddit.com/r/communism/comments/f7g3dj/paying_one_half_of_the_poor_to_kill_the_other/)
 
 ### What's wrong with Alexandria Ocasio-Cortez?
 
@@ -752,10 +757,14 @@
   - [Thinks the US military is socialist. Thinks social services like schools and libraries are socialist.](https://i.imgur.com/JHOZDlg.png)
   - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
   - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
+
 - [Voted for Trump's 2020 War budget, allocating $738 Billion to military spending (a 3% increase over the previous year).](http://www.idcommunism.com/2019/07/ocasio-cortez-aoc-votes-in-favor-of-trumps-war-budget.html)
 - [She supports Israel, and its genocide of Palestineans.](https://i.imgur.com/K6QsYZo.jpg)
 - [Goes along with democrats and Republicans in backing US puppet Juan Guaido over Maduro in Venezuela.](https://twitter.com/telesurenglish/status/1124924184629583872?s=19) 
+- [Believes, like other democrats, that Russia rigs US elections](https://i.imgur.com/3rmhrAf.png)
+- [After Evo Morales was overthrown in a US-backed coup, she retracts her pro-Morales statements, and poses with a coup-supporting group in Washington.](https://i.imgur.com/mYdPxcG.jpg)
 - [After Trump fires John Bolton (who tried and failed at starting wars with North Korea, Venezuela, and Iran), she goes full neocon, angry that Trump isn't going to war with North Korea.](https://i.imgur.com/3rSM3oU.jpg)
+- [Believes that Trump "betrays" US values.](https://i.imgur.com/H61toBx.png)
 - [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
 
 ### What's wrong with Elizabeth Warren?

@@ -1,0 +1,21 @@
+# Paying one half of the poor to kill the other half: Why Marxists should not support social democrats in the Imperial core.
+
+IE, why pushing for social democracy in the imperial core countries is a terrible idea. 
+
+In Settlers, Sakai talks about how a lot of poor proles from europe who came to the US, *still pushed for the genocide and expropriation of native american lands*, because it meant that they could potentially get land for next to nothing. The colonial bourgeoisie were happy to give them that slice of the american pie, because it meant furthering the US goals of westward expansion, and building a garrison / middle layer of settler troops who would have their same goals in driving out Native Americans.
+
+The same thing happened with the new deal, where workers were bribed with welfare and higher wages to abandon revolutionary organizations, coalitions with black and brown workers, and be pushed into settler unions (and management positions) who could do their bidding against various other working groups, creating yet another grouping of "middle class / labor aristocrats" whose goals aligned more with the bourgeoisie than with the poor. 
+
+This new *new deal* Sanders is proposing is the same idea: that workers in the imperial core will accept a new round of welfare policies. Since the US is primarily a service / consumer goods import economy, social services are entirely funded off the backs of third world workers who get paid next to nothing in wages. [Sanders record of voting for US military intervention in 15+ countries](https://github.com/dessalines/essays/blob/master/socialism_faq.md#whats-wrong-with-bernie-sanders), his preference for lighter skinned social imperialists (like the nordic countries), his denigration of actually existing socialist movements (he calls Maduro a "vicious tyrant"), and his anti-immigration stances are more than enough evidence that he wants to continue the US policy of enslaving the third world to feed the imperial core.
+
+All of these are instances of **one half of the poor being bribed into killing the other half;** but in the modern day, its imperial core workers being bribed into continuing the exploitation of the third world to provide cheap products and enough surplus value to fund welfare policies. Rather than dismantling capitalism / imperialism, Sanders wants to increase taxes on billyahnayas, in which a cut of their imperialist superprofits will go towards first world welfare, thus strengthening the alliance between capital, and its labor aristocracy, much like the new deal. I know, we can call this new class collaborationist garrison of labor aristocrats, the "middle class"! 
+
+In fact, many forward-thinking capitalists are openly in support of this project: [Mark Zuckerberg, Bill Gates, Elon Musk, Richard Branson, Sam Altman, are just a few billionaires who support a universal basic income](https://www.industryleadersmagazine.com/billionaire-entrepreneurs-who-support-universal-basic-income/), seeing its potential use as a finely tunable fuel source to quell class struggle, gain public support, and preserve their fortunes.
+
+To quote /u/Guillotron9000 : 
+
+> Nothing of the sort will happen. Even if Sanders is elected he'll pass M4A and most of his base will be satisfied. And the capitalists won't care too much either. They'll just make up for the losses by fucking over the third world even harder.
+>
+> The whole movement around Bernie isn't about socialism. It's about the Americans demanding a bigger part of the pie from their imperialist overlords. This is just a compromise between the capital and the workers in the imperial core. And it's not at all surprising either. Americans are already provided much more than their counterparts in the developing world.
+
+The Marxist antivenom for this western chauvinist poison is organization that is internationalist in scope/aim, like many movements in the Global south (such as the Bolivarian revolution). Workers in the imperial core must continue to refuse these new deals, these bribes to preserve the US empire / western colonialism, keep supporting actually existing socialist movements, advocate for the [defeat of the US empire](https://www.marxists.org/archive/lenin/works/1915/jul/26.htm), and begin to build armed organization that can eventually challenge their police states.
