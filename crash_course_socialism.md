@@ -297,7 +297,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 ### Modern introductory books
 
   - <pre>magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
-- [Paul D’Amatto - the meaning of Marxism](magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+- [Paul D’Amatto - the meaning of Marxism](magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969). [Youtube audiobook](https://www.youtube.com/watch?v=mX9h_ApIRc0&list=PL0-IkmzWbjoaJXdItsv-JPqE7gBW2M80o)
   - <pre>magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 - [Danny Katch -  Socialism…. Seriously](magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc&tr=http://tracker.opentrackr.org/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.zer0day.to:1337/announce)
   - <pre>magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc&dn=Socialism Seriously A Brief Guide to Human Liberation Danny Katch (2015) epub&tr=http://tracker.opentrackr.org/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.zer0day.to:1337/announce</pre>
@@ -320,9 +320,9 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Engels - Socialism: Utopian and Scientific](http://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm), [audiobook](https://www.youtube.com/watch?v=IS4cpvvLeYo&list=PL0-IkmzWbjobt3oC7Mhq9kHWVbBKRtyg8)
 - [Marx/Engels - The Communist Manifesto](http://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
 - [Marx - Wage Labour and Capital](https://www.marxists.org/archive/marx/works/1847/wage-labour/)
-- [Rosa Luxemburg - Reform or Revolution](http://www.marxists.org/archive/luxemburg/1900/reform-revolution/index.htm) 
-- [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/)
-- [Lenin - “Left-Wing” Communism: an Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/)
+- [Rosa Luxemburg - Reform or Revolution](http://www.marxists.org/archive/luxemburg/1900/reform-revolution/index.htm) . [Audiobook](https://www.youtube.com/watch?v=YhzmaUofLS8&list=PL0-IkmzWbjoYqO_Yec4sWzPeeFXMOkPWs)
+- [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/). [Audiobook](https://www.youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
+- [Lenin - “Left-Wing” Communism: an Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/) . [Audiobook](https://www.youtube.com/watch?v=6wtRQaoSlxs&list=PL0-IkmzWbjob1T8DTNDG7EQaN18eSJ97m)
 - [Lenin - Imperialism, the Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/)
 - [Trotsky - Fascism: What it is and how to Fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm)
 - [Trotsky - In Defense of October](https://www.marxists.org/archive/trotsky/1932/11/oct.htm)

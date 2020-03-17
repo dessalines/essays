@@ -421,6 +421,7 @@
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
 * [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](http://www.michaelparenti.org/Tibet.html) [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZjKom_Qj0jcDReaMb_r52z)
 * [Did China really try to save the GDR?](https://www.reddit.com/r/Sino/comments/dsvsf9/newly_declassified_documents_released_by_german/)
+* [Didn't China cause the Coronavirus? A Megathread.](https://www.reddit.com/r/communism/comments/fi390n/china_and_the_coronavirus/)
 * [What about China's corono-virus response? Is there really any sinophobia?](https://www.reddit.com/r/communism/comments/evwls8/megathread_addressing_sinophobia_and_chinas/) [2](https://amp.theguardian.com/world/2020/jan/28/canada-chinese-community-battles-racist-backlash-amid-coronavirus-outbreak?__twitter_impression=true) [3](https://www.youtube.com/watch?v=GasWB8s-tqs&feature=youtu.be)
 * [The US went against the CDC recommendations and evacuated 14 corona-virus infected US citizens, sparking the spread of the virus in the US](https://nypost.com/2020/02/20/coronavirus-infected-americans-flown-back-to-us-on-plane-full-of-healthy-people/).
 
@@ -433,15 +434,14 @@
   * [Didn't China go Capitalist with Deng Xiaoping? Didn't it liberalize its economy? Is China's drastic decrease in poverty a result of the increase in free market capitalist policies?](https://www.reddit.com/r/DebateCommunism/comments/b3gjfe/chinas_drastic_decrease_in_poverty_is_a_result_of/ey8depl/?context=3)
   * [Is the CCP committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
   * [The Long Game and Its Contradictions](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4).
-  * [The backbone of the economy is state ownership and socialist planning. 24 / 25 of the top revenue companies are state-owned and planned.](https://www.reddit.com/r/communism101/comments/8hdbib/how_is_china_communist_if_it_has_a_ton_of_private/dyj082s/) [1](https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission#Central_SOEs), [2](https://en.wikipedia.org/wiki/List_of_largest_Chinese_companies)
-  * 
+  * [The backbone of the economy is state ownership and socialist planning. 24 / 25 of the top revenue companies are state-owned and planned.](https://www.reddit.com/r/communism101/comments/8hdbib/how_is_china_communist_if_it_has_a_ton_of_private/dyj082s/) [70% of the top 500 companies are State-owned](https://chinapower.csis.org/chinese-companies-global-500/). [1](https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission#Central_SOEs), [2](https://en.wikipedia.org/wiki/List_of_largest_Chinese_companies)
   * [Are capitalists allowed in the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
   * [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
   * [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/) [Why are many billionaires and CEOs going missing?](https://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html) [China sentences Ex-Chairman of a major bank, guilty of embezzling ~$100M USD, to death in 2019.](https://www.bloomberg.com/news/articles/2019-12-27/china-sentences-ex-chairman-of-troubled-hengfeng-bank-to-death)
+  * [How the State runs business in China.](https://www.theguardian.com/world/2019/jul/25/china-business-xi-jinping-communist-party-state-private-enterprise-huawei)
   * [50% of the economy is in the socialist public sector and directly follows the plan (40% if you ignore the agricultural sector). 20 to 30% is inside the state capitalist sector, which is the sector partially or totally owned by domestic capitalists but run by the CPC or by local workers councils. The rest is made up of the small bourgeois ownership like in the NEP.](https://chinareporting.blogspot.com/2009/11/class-nature-of-chinese-state-critique_26.html)
   * [China pushing forward Marxist training in colleges, attracts 1M students.](http://www.globaltimes.cn/content/988795.shtml)
   * [China tells the US that it has no plans to weaken the role of its State-Owned-Enterprises, one of the US's main demands in the trade war. "Beijing plans to make the state economy stronger, bigger, and better."](https://www.scmp.com/economy/china-economy/article/3038993/china-wont-give-its-state-led-economic-model-top-trade?fbclid=IwAR2ys8_Y_6Nxq2x__BM4SoKdR63it7X_JRy1XJdkLw4QrK0VQ77mXYyrcks)
-  * [How the State runs business in China.](https://www.theguardian.com/world/2019/jul/25/china-business-xi-jinping-communist-party-state-private-enterprise-huawei)
  
 ### Is China a Democracy?
 
@@ -468,12 +468,12 @@
 
 ### Is China Imperialist?
 
-- [China has forgiven over $10B in debt, over half to Cuba](https://www.forbes.com/sites/kenrapoza/2019/05/29/china-has-forgiven-nearly-10-billion-in-debt-cuba-accounts-for-over-half/#7a4116c3615b), but also including > 20 African nations, Pakistan, and Cambodia.
+- [China has forgiven over $10B in debt, over half to Cuba](https://www.forbes.com/sites/kenrapoza/2019/05/29/china-has-forgiven-nearly-10-billion-in-debt-cuba-accounts-for-over-half/#7a4116c3615b), but also including > 20 African nations, Pakistan, and Cambodia. [2](https://medium.com/@rainershea612/catagorically-debunking-the-claim-that-china-is-imperialist-a9ae7b280a44)
 - [China forgives over $5.2B in Cameroon debt](https://edition.cnn.com/2019/02/04/china/cameroon-china-debt-relief-intl/index.html).
 - [China writes off $36m Mozambican debt](https://furtherafrica.com/2017/10/26/china-writes-off-36m-mozambican-debt/).
 - [China writes off substantial amount of Angola debt.](https://www.angop.ao/angola/en_us/noticias/politica/2017/5/23/China-agrees-partial-write-off-Angola-debt,73246665-509c-48a2-ae40-415d3fb65b00.html)
 - [Nato's new enemy: the CPC.](https://www.rt.com/news/473935-pompeo-nato-china-communist/)
-- [Yanis Varoufakis on China's foreign policy dealing with Greece and Africa](https://www.youtube.com/watch?v=PBgbYQ5QAM0).
+- [Yanis Varoufakis on China's foreign policy dealings with Greece and Africa](https://www.youtube.com/watch?v=PBgbYQ5QAM0).
 
 ### What about the Hong Kong protests?
 
@@ -517,6 +517,7 @@
 - [If China Is Anti-Islam, Why Are These Chinese Muslims Enjoying a Faith Revival?](https://time.com/3099950/china-muslim-hui-xinjiang-uighur-islam/) 
 - [A New York Times "expose" of re-education centers in Xinjiang lied and mistranslated every claim.](https://www.quora.com/What-would-be-the-consequences-of-the-New-York-Times-expose-on-Xinjiang/answer/Jamin-Chen-1)
 - [Reddit holds an AMA](https://www.reddit.com/r/IAmA/comments/e9ad4n/i_am_rushan_abbas_uyghur_activist_and_survivor_of/) for an "Uyghur Activist", who turns out to be [Rushan Abbas](https://web.archive.org/web/20181207031224/https://www.isi-consultants.com/rushan-abbas/), a CIA agent who worked for Homeland Security, Department of Defense, Department of State, Department of Justice, and various U.S. intelligence agencies, and even worked at Guantanamo bay, the US muslim torture camp. [1](https://www.reddit.com/r/ShitLiberalsSay/comments/e9crzq/shit_liberals_do_claim_to_be_an_uyghur_survivor/) [2](https://medium.com/@rsahthion/a-reddit-ama-claiming-to-be-a-uiyghur-quickly-exposes-a-cia-asset-slandering-china-1d667c098b77)
+- [A case study in Anti-Chinese racism.](https://medium.com/@rsahthion/a-case-study-in-racist-anti-chinese-sentiment-fuelled-by-american-bots-and-western-propaganda-f0a69978d568)
 - [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic). 
 
 ### What about the Falun Gong?
@@ -636,8 +637,7 @@
 - [Who's crashing Venezuelas economy?](https://www.youtube.com/watch?v=YqHzDLSl8U4)
 - [Capitalist sabotage in Venezuela](https://www.youtube.com/watch?v=rk1qlKu_RJo).
 - [What about the black markets?](https://www.youtube.com/watch?v=YUYWrPiUeWY&feature=youtu.be)
-- [What's going on with the crisis in Venezuela?](https://www.reddit.com/r/LateStageCapitalism/comments/9bbg3w/soup_line_is_not_the_same_as_bread_line/e527pcv/)
-- [Are the people in venezeula really starving?](https://monthlyreview.org/2018/06/01/the-politics-of-food-in-venezuela/)
+- [Are the people in VZ really starving?](https://monthlyreview.org/2018/06/01/the-politics-of-food-in-venezuela/)
 - [Are the US after venezuela's oil reserves?](https://www.reddit.com/r/LateStageCapitalism/comments/afdi29/empire_files_venezuela_supermarkets_to_black/edxw7mz/)
 - [Whats going on in Venezuela?](https://www.reddit.com/r/communism101/comments/66f7u5/eli5_comrades_what_is_the_situation_in_venezuela/)
 - [Is venezuela moving towards communism?](https://www.reddit.com/r/communism101/comments/7ixh1h/the_venezuelan_situation_already_understand_most/dr35p31/)
@@ -645,6 +645,7 @@
 - The Venezuelan government [invited the UN](https://www.yahoo.com/news/venezuela-plea-un-send-observers-election-211445340.html)  to send observers to monitor the 2018 elections, but the opposition [opposed](https://www.reuters.com/article/us-venezuela-politics-un/venezuela-opposition-asks-u-n-not-to-send-observers-to-may-vote-idUSKCN1GO2J0) this move and [directly petitioned](https://twitter.com/ADemocratica/status/973345076490457088) the UN not to accept the invitation. [Maduro's May 2018 Election were declared fair by over 1500 international observers](http://journalcontent.mediatheoryjournal.org/index.php/mt/article/view/65/56). 
 - [On the 2019 Venezeulan coup attempt.](https://www.reddit.com/r/socialism/comments/aj46d1/breaking_trump_recognizes_venezuelan_opposition/eesnkhm/) [The Trump administration discussed Coup plans with the plotters shortly before.](https://www.nytimes.com/2018/09/08/world/americas/donald-trump-venezuela-military-coup.html)[The US pushing regime change.](https://www.theguardian.com/commentisfree/2014/feb/18/venezuela-protests-us-support-regime-change-mistake) [Venezuelans march to oppose regime change](https://www.reddit.com/r/socialism/comments/ajd64i/maduro_supporters_enraged_about_the_current/). The hand-picked right wing successor, is a [US puppet.](https://grayzoneproject.com/2019/01/29/the-making-of-juan-guaido-how-the-us-regime-change-laboratory-created-venezuelas-coup-leader/amp/)
 - [A group of Venezuelan military deserters, who are based in Cúcuta (Colombia), are protesting to demand the payment of 250 thousand pesos that Colombian authorities](https://orinocotribune.com/military-deserters-protest-again-in-cucuta-guaido-is-not-paying-his-dues).
+- [A VZ Megathread.](https://www.reddit.com/r/socialism/comments/6s2v17/venezuela_megathread_how_socialists_should/)
 
 ## People
 
@@ -767,7 +768,7 @@
 - [She supports Israel, and its genocide of Palestineans.](https://i.imgur.com/K6QsYZo.jpg)
 - [Goes along with democrats and Republicans in backing US puppet Juan Guaido over Maduro in Venezuela.](https://twitter.com/telesurenglish/status/1124924184629583872?s=19) 
 - [Believes, like other democrats, that Russia rigs US elections](https://i.imgur.com/3rmhrAf.png)
-- [After Evo Morales was overthrown in a US-backed coup, she retracts her pro-Morales statements, and poses with a coup-supporting group in Washington.](https://i.imgur.com/mYdPxcG.jpg)
+- [After Evo Morales was overthrown in a US-backed coup, she retracts her pro-Morales statements, and meets with a coup-supporting group in Washington.](https://i.imgur.com/mYdPxcG.jpg) [1](https://rainershea.com/f/alexandria-ocasio-cortez-meets-with-bolivian-coup-organizers)
 - [After Trump fires John Bolton (who tried and failed at starting wars with North Korea, Venezuela, and Iran), she goes full neocon, angry that Trump isn't going to war with North Korea.](https://i.imgur.com/3rSM3oU.jpg)
 - [Believes that Trump "betrays" US values.](https://i.imgur.com/H61toBx.png)
 - [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)

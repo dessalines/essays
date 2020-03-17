@@ -506,3 +506,4 @@ Notes :
 - [x] Smedly Butler
 - [x] https://en.wikipedia.org/wiki/United_States_involvement_in_regime_change
 - [ ] https://www.globalresearch.ca/us-has-killed-more-than-20-million-people-in-37-victim-nations-since-world-war-ii/5492051
+- [ ] Skim through settlers
