@@ -454,7 +454,7 @@
   * [Who runs China? Makeup of the national people's congress.](https://news.cgtn.com/event/2019/whorunschina/index.html)
   * [US policy-makers are misjudging popular support China's Government.](https://www.marketwatch.com/story/these-numbers-show-just-how-much-the-lives-of-everyday-chinese-have-improved-in-recent-decades-2019-10-02)
   * [The american dream is alive... in China.](https://www.nytimes.com/interactive/2018/11/18/world/asia/china-social-mobility.html)
-* Some stats
+* Some stats: 
   * [The real wage (IE the wage adjusted for the prices you pay) has gone up 4x in the past 25 years, more than any other country. This is staggering considering it's the most populous country on the planet. The US real wage by comparison is lower in 2019 than it was in 1973.](https://www.youtube.com/watch?v=Cw8SvK0E5dI)
   * [US Life expectancy peaked in 2015, is on the decline, and is now lower than in China.](https://www.businessinsider.com/china-boasts-that-its-healthy-life-expectancy-beats-the-us-is-correct-2018-5) [2](http://www.xinhuanet.com/english/2019-09/07/c_138372963.htm) 
     * How [healthcare works in China (refuting a fearmongering NYT video about health care in China)](https://www.youtube.com/watch?v=mvpo2jv5eqI).
@@ -471,6 +471,7 @@
 
 - [Debunking the claim that "China is Imperialist"](https://medium.com/@rainershea612/catagorically-debunking-the-claim-that-china-is-imperialist-a9ae7b280a44)
 - [Yanis Varoufakis on China's foreign policy dealings with Greece and Africa](https://www.youtube.com/watch?v=PBgbYQ5QAM0).
+- [The Belt and Road Initiative: the antithesis of Colonialism.](https://qutnyti.wordpress.com/2018/07/16/belt-road-initiative-an-anti-thesis-of-colonialism/)
 - [China has forgiven over $10B in debt, over half to Cuba](https://www.forbes.com/sites/kenrapoza/2019/05/29/china-has-forgiven-nearly-10-billion-in-debt-cuba-accounts-for-over-half/#7a4116c3615b), but also including > 20 African nations, Pakistan, and Cambodia.
 - [China forgives over $78M in Cameroon debt](https://edition.cnn.com/2019/02/04/china/cameroon-china-debt-relief-intl/index.html).
 - [China writes off $36m Mozambican debt](https://furtherafrica.com/2017/10/26/china-writes-off-36m-mozambican-debt/).
