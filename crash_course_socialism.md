@@ -301,9 +301,11 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
   - <pre>magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</pre>
 - [Danny Katch -  Socialism…. Seriously](magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc&tr=http://tracker.opentrackr.org/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.zer0day.to:1337/announce)
   - <pre>magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc&dn=Socialism Seriously A Brief Guide to Human Liberation Danny Katch (2015) epub&tr=http://tracker.opentrackr.org/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.zer0day.to:1337/announce</pre>
-- [Socialist books starter pack (torrent)](magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
 - [Chris Harman - How Marxism Works](https://www.marxists.org/archive/harman/1979/marxism/index.html)
+- Michael Parenti - Blackshirts and Reds. [Youtube audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoak57jcXDh1rY4n7Ic-EVsE)
 - [Peter Gelderloos - How Nonviolence Protects the State](https://theanarchistlibrary.org/library/peter-gelderloos-how-nonviolence-protects-the-state)
+- [Socialist books starter pack (torrent)](magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+
 ### Essays/Introductions
 
 - [Albert Einstein - Why Socialism?](http://monthlyreview.org/2009/05/01/why-socialism/)

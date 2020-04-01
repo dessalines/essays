@@ -388,7 +388,7 @@
 - [*The Need for Planning*](http://clogic.eserver.org/2010/Ball.pdf) by Joseph Ball
 
 ### [Did the citizens of the Soviet Union dislike their government?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_5.3A_everybody_hated_socialism)
-
+- [66% of Russians polled in 2015 want the USSR back.](https://www.rferl.org/a/russian-regret-at-soviet-collapse-stands-at-14-year-high-poll-shows/29664759.html) The story is the same for all the former eastern-bloc countries: [72% of Hungarians say their country is worse off now than under communism, 57% of East Germans, 63% of Romanians, 77% of Czechs, 81% of Serbs (for Yugoslavia), 70% of Ukrainians, 60% of Bulgarians](https://medium.com/@rsahthion/communist-nostalgia-as-the-reality-of-bourgeois-democracy-hits-home-in-eastern-europe-3960aa341560).
 - [*Homesick for a Dictatorship*](http://www.spiegel.de/international/germany/homesick-for-a-dictatorship-majority-of-eastern-germans-feel-life-better-under-communism-a-634122.html) 
 - [*60% of Russians Want Communism Back*](https://web.archive.org/web/20140223044330/http://www.systemiccapital.com/60-percent-of-russians-want-communism-back/) 
 - [*Former Soviet Countries See More Harm from Breakup*](http://www.gallup.com/poll/166538/former-soviet-countries-harm-breakup.aspx)
@@ -425,6 +425,7 @@
 * [Didn't China cause the Coronavirus? A Megathread.](https://www.reddit.com/r/communism/comments/fi390n/china_and_the_coronavirus/)
 * [What about China's corono-virus response? Is there really any sinophobia?](https://www.reddit.com/r/communism/comments/evwls8/megathread_addressing_sinophobia_and_chinas/) [2](https://amp.theguardian.com/world/2020/jan/28/canada-chinese-community-battles-racist-backlash-amid-coronavirus-outbreak?__twitter_impression=true) [3](https://www.youtube.com/watch?v=GasWB8s-tqs&feature=youtu.be)
 * [The US went against the CDC recommendations and evacuated 14 corona-virus infected US citizens, sparking the spread of the virus in the US](https://nypost.com/2020/02/20/coronavirus-infected-americans-flown-back-to-us-on-plane-full-of-healthy-people/).
+* [Taimur Rahman - How China beat the Coronavirus.](https://www.youtube.com/watch?v=HN8bKQOyw_Q)
 
 ### Is China State Capitalist?
 
@@ -609,8 +610,6 @@
 - [What about Otto Warmbier?](https://nypost.com/2017/09/26/coroners-report-for-otto-warmbier-shows-no-signs-of-torture/)[2](https://www.reddit.com/r/communism101/comments/awuok8/with_all_of_the_news_about_north_korea_going/)
 
 ### [Do North Koreans believe in unicorns and think Kim Jong-Un is immortal?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_north_koreans_believe_in_unicorns_and_they_think_kim_jong-un_is_immortal)
-
-- [Do communists defend the nationalistic (juche) aspects of the DPRK (Democratic People's Republic of North Korea)? short answer: no.](https://www.reddit.com/r/FULLDISCOURSE/comments/60voir/lets_talk_about_the_dprk/)
 - [*Western DPRK Propaganda: The Worst, Occasionally Hilarious, and Often Racist, Lies*]( http://anti-imperialism.org/2014/08/14/western-dprk-propaganda-the-worst-occasionally-hilarious-and-often-racist-lies/) by Alyx Mayer
 - [*Anti-DPRK Propaganda War – a Cavalcade of Comedy*](http://redyouthuk.wordpress.com/2014/08/01/dprk-propaganda-war-a-cavalcade-of-comedy/) by Red Youth
 - [*Tourist who took camera inside North Korea shocked by 'ordinary' lives of citizens*](http://www.dailymail.co.uk/news/article-2638213/Tourist-took-camera-inside-North-Korea-expected-really-really-sad-people-shocked-seemingly-ordinary-lives-citizens.html)
@@ -766,6 +765,7 @@
   - [Thinks the US military is socialist. Thinks social services like schools and libraries are socialist.](https://i.imgur.com/JHOZDlg.png)
   - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
   - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
+  - [As of 2020, replaces some of her more radical staff with political professionals, breaks with Sanders, calling his strategy too "conflict based", wants to start working more with establishment Dems.](https://www.politico.com/news/2020/03/30/new-aoc-divides-the-left-150767)
 
 - [Voted for Trump's 2020 War budget, allocating $738 Billion to military spending (a 3% increase over the previous year).](http://www.idcommunism.com/2019/07/ocasio-cortez-aoc-votes-in-favor-of-trumps-war-budget.html)
 - [She supports Israel, and its genocide of Palestineans.](https://i.imgur.com/K6QsYZo.jpg)
@@ -876,5 +876,7 @@
 - [Why doesn't X minority just lift themselves up by the bootstraps out of poverty? Response by MLK. ](https://streamable.com/eafqq)
 - [To what extent is modern day Vietnam Socialist?](https://medium.com/@otelocarvalho/socialism-today-in-vietnam-ac22ce2edf47)
 - [How is socialism progressing in Bolivia?](https://www.reddit.com/r/communism/comments/cg2t3j/masterpost_on_the_achievements_of_socialism_in/)
+- [Anti-imperialism of Evo Morales - A fight for Bolivia's resources.](https://www.commondreams.org/views/2019/11/12/after-morales-ousted-coup-lithium-question-looms-large-bolivia)
 - [How does the US and British strategy of Balkanization work?](https://youtu.be/niZsLfxNwvI?t=807)
 - Caleb Maupin - [1](https://www.youtube.com/watch?v=i29kWYXlwhw), [2](https://www.youtube.com/watch?v=fmQtvk5elYc), [3](https://www.reddit.com/r/BeardTube/comments/fkwaso/the_successes_of_socialism_in_vietnam/fkwb68a/)
+- MTC: https://www.reddit.com/r/communism/comments/fgdjpc/does_going_against_western_propaganda_ever_make/fk47f81/ , https://i.imgur.com/gBzROhU.png
