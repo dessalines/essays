@@ -41,6 +41,7 @@
     + [What's going on with the Uyghurs?](#whats-going-on-with-the-uyghurs)
     + [What about the Falun Gong?](#what-about-the-falun-gong)
     + [What about the Tiananmen square massacre?](#what-about-the-tiananmen-square-massacre)
+    + [What is Radio Free Asia?](#what-is-radio-free-asia)
     + [Did Mao kill millions of people?](#did-mao-kill-millions-of-people)
     + [Was the PRC a totalitarian dictatorship?](#was-the-prc-a-totalitarian-dictatorship)
     + [Further reading](#further-reading-2)
@@ -60,12 +61,15 @@
     + [John McCain](#john-mccain)
     + [What about the new atheists? (Sam Harris, Richard Dawkins, Christopher Hitchens)](#what-about-the-new-atheists-sam-harris-richard-dawkins-christopher-hitchens)
     + [Gandhi](#gandhi)
+    + [Noam Chomsky](#noam-chomsky)
     + [What's wrong with Bernie Sanders?](#whats-wrong-with-bernie-sanders)
     + [What's wrong with Alexandria Ocasio-Cortez?](#whats-wrong-with-alexandria-ocasio-cortez)
     + [What's wrong with Elizabeth Warren?](#whats-wrong-with-elizabeth-warren)
     + [Kamala Harris](#kamala-harris)
+    + [Pete Buttigieg](#pete-buttigieg)
     + [Biden](#biden)
     + [Greta Thunberg](#greta-thunberg)
+    + [Slavoj Zizek](#slavoj-zizek)
     + [Others](#others)
   * [Other Topics](#other-topics)
     + [Why are socialists against bitcoin mining?](#why-are-socialists-against-bitcoin-mining)
@@ -73,6 +77,7 @@
     + [What about overpopulation / unsustainability?](#what-about-overpopulation--unsustainability)
     + [Why don't socialists support a UBI / Universal Basic income?](#why-dont-socialists-support-a-ubi--universal-basic-income)
     + [DSA](#dsa)
+    + [Buddhism](#buddhism)
     + [Others](#others-1)
 
 <!-- tocstop -->
@@ -156,6 +161,7 @@
 ## What about democracy? Can't voting fix our problems?
 
 - [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
+- [Halim Alrah - Why liberal democracies are a sham. ](https://www.youtube.com/watch?v=oYodY6o172A)
 - [What about social democracy / democratic socialism / the Nordic model? Isn't Sweden socialist?](https://www.youtube.com/watch?v=Jd03a8Pm1hs )
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
 - [Comrade Hakim - Why electoralism always fails.](https://www.youtube.com/watch?v=WXbaZXQAbuU)
@@ -290,7 +296,7 @@
 - [Why does left communism reject national liberation movements?](http://www.reddit.com/r/communism101/comments/27lbru/why_does_left_communism_reject_national/)
 - [Is it true that Socialism has killed X million people, and how many has capitalism killed?](https://www.reddit.com/r/LateStageCapitalism/comments/5q2oak/someone_dies_under_socialism_no_matter_how_its/dcvu8lg/)
 - [What's the role of the state in the revolution, and what is a state?](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/)
-- Why do many socialist attempts end up in an one-party state? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
+- What about the USSR, wasn't it authoritarian? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
 - [What did Lenin say about socialism in one country?](https://espressostalinist.com/2012/03/11/lenin-on-socialism-in-one-country-2/)
 - [What is Dialectical Materialism?](https://www.reddit.com/r/Socialism_101/comments/e6iyt3/can_someone_explain_the_concept_of_dialectical/f9r4iep/)
 - [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
@@ -424,7 +430,10 @@
 * [Did China really try to save the GDR?](https://www.reddit.com/r/Sino/comments/dsvsf9/newly_declassified_documents_released_by_german/)
 * [Didn't China cause the Coronavirus? A Megathread.](https://www.reddit.com/r/communism/comments/fi390n/china_and_the_coronavirus/)
 * [What about China's corono-virus response? Is there really any sinophobia?](https://www.reddit.com/r/communism/comments/evwls8/megathread_addressing_sinophobia_and_chinas/) [2](https://amp.theguardian.com/world/2020/jan/28/canada-chinese-community-battles-racist-backlash-amid-coronavirus-outbreak?__twitter_impression=true) [3](https://www.youtube.com/watch?v=GasWB8s-tqs&feature=youtu.be)
+* [Debunking NYTimes anti-china covid-19 talking points, especially about Dr Li.](https://mronline.org/2020/03/05/yellow-caking-an-epidemic/)
 * [The US went against the CDC recommendations and evacuated 14 corona-virus infected US citizens, sparking the spread of the virus in the US](https://nypost.com/2020/02/20/coronavirus-infected-americans-flown-back-to-us-on-plane-full-of-healthy-people/).
+* [An April 2020 poll of Republicans and Democrats finds that 77% blame China for coronavirus, with 54% saying China owes reparations. ](http://archive.is/FB7KP)
+* [Did China hide covid?](https://www.peoplesworld.org/article/trumps-blame-china-campaign-is-an-effort-to-dodge-responsibility/)
 * [Taimur Rahman - How China beat the Coronavirus.](https://www.youtube.com/watch?v=HN8bKQOyw_Q)
 
 ### Is China State Capitalist?
@@ -434,7 +443,7 @@
 * [A China misinformation Megathread.](https://old.reddit.com/r/communism/comments/c2b7ma/china_megathread_everything_a_leftist_must_know/)
 * [Is modern day china communist? Is it staying true to communist values?](https://www.reddit.com/r/communism101/comments/91liw2/how_is_china_staying_true_to_communist_values/e2z3kzu/)
   * [Didn't China go Capitalist with Deng Xiaoping? Didn't it liberalize its economy? Is China's drastic decrease in poverty a result of the increase in free market capitalist policies?](https://www.reddit.com/r/DebateCommunism/comments/b3gjfe/chinas_drastic_decrease_in_poverty_is_a_result_of/ey8depl/?context=3)
-  * [Is the CCP committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
+  * [Is the CPC committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
   * [The Long Game and Its Contradictions](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4).
   * [The backbone of the economy is state ownership and socialist planning. 24 / 25 of the top revenue companies are state-owned and planned.](https://www.reddit.com/r/communism101/comments/8hdbib/how_is_china_communist_if_it_has_a_ton_of_private/dyj082s/) [70% of the top 500 companies are State-owned](https://chinapower.csis.org/chinese-companies-global-500/). [1](https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission#Central_SOEs), [2](https://en.wikipedia.org/wiki/List_of_largest_Chinese_companies)
   * [Are capitalists allowed in the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
@@ -461,6 +470,7 @@
     * How [healthcare works in China (refuting a fearmongering NYT video about health care in China)](https://www.youtube.com/watch?v=mvpo2jv5eqI).
     * [Uninsured Chinese citizens pay an average of $5-7 to see a specialist (the majority of hospital visits ), and with insurance, its free. 95% of Chinese citizens have insurance](https://hotpot.team/new-york-times-lies/)
   * [Wages themselves are forced to rise in the private sector by the CPC (+16% every years, +400% since 1980) who force the capitalists to accept the presence of CPC chapters who represent the interest of the workers, increasing workers control even in the capitalist parts of the economy. ](https://www.workers.org/2015/07/21/china-rising-wages-and-worker-militancy/#.WXOlQtPytsM)
+  * [Eliminated Urban Poverty. On track to eliminate all poverty within a decade.](https://www.theguardian.com/business/economics-blog/2015/aug/19/china-poverty-inequality-development-goals)
   * [Trade union laws of the PRC.](https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/30352/118793/F1165849917/CHN30352%202.pdf)
   * [The west views China as one big sweatshop, but the actual working hours aren't much more than anywhere else. The average for a migrant worker (most vulnerable to exploitation as they are traveling from the countryside) is 8.8 hours, little under an hour more than a typical working day. Labor strikes are rarely suppressed, and usually get the support of the PRC.](https://www.forbes.com/sites/mitchfree/2013/07/11/held-hostage-entrepreneurs-uneasy-over-chinese-govt-inaction/#2431f5463de4)
   * [The workplace safety standards of China are better than in the capitalist countries of the West like in Australia who have an higher rate of work related death despite having a GDP per capita 3-5 times higher.](http://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/)
@@ -530,7 +540,10 @@
 - The claims mainly come from a self-appointed, private organization called the [China Tribunal](https://chinatribunal.com/who-we-are/), run by [British barrister Sir Geoffrey Nice QC](https://en.wikipedia.org/wiki/Geoffrey_Nice), who unsurprisingly served as a prosecutor in a UN trial regarding the former Socialist Republic of Yugoslavia, whose role was attempting to pin war crimes on Slobodan Milošević.
 - The "sources" for the claims are a [few international members of Falun Gong.](https://www.quora.com/I-read-that-China-is-killing-millions-of-spiritual-dissidents-including-Christians-and-harvesting-their-organs-why-doesnt-the-world-governments-scream-foul?share=1) 
 - [Its a cult, outlawed in China, akin to Scientology.](https://www.dailykos.com/stories/2011/5/13/975892/-#comment_41556493) The founder of Falun Gong, Li Hongzhiu, is [racist](http://en.falundafa.org/eng/lectures/1996L.html), and [homophobic](https://www.dailykos.com/stories/2011/5/13/975892/-#comment_41556493). Li teaches that homosexuality is not the standard of being human, the priority of Gods will be to eliminate homosexuals and that gays are demonic in nature.
-- [What is Falun Gong, and why do they believe "Trump was sent by heaven to destroy the communist party."?](https://thegrayzone.com/2019/09/30/reports-china-organ-harvesting-cult-falun-gong/)
+- [What is Falun Gong, and why do they believe "Trump was sent by heaven to destroy the communist party."?](https://thegrayzone.com/2019/09/30/reports-china-organ-harvesting-cult-falun-gong/) One famous Falun Gong practitioner, Jennifer Zeng, [writes that Chinese people view Trump as their "powerful Grandpa", and hopes that he ends the Communist Party, in the same way that Reagan "got rid of the Communist party of the Soviet Union."](https://www.jenniferzengblog.com/home/2018/8/2/chinese-people-hope-powerful-grandpa-trump-ends-the-chinese-communist-party)
+- [Claims that race-mixing severs our connection to the Gods.](https://falundafa.org/eng/eng/lectures/19961012L.html)
+- [Believes that modern science was invented by Aliens as part of a scheme to take over human bodies.](https://falundafa.org/eng/eng/lectures/19980530L.html)
+- [Believes that feminism, environmentalism, and homosexuality are part of Satan’s plan to make us into communists](https://www.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world-introduction_2547882.html)
 - [CNN claims of organ harvesting are not credible.](http://boston.indymedia.org/newswire/display/224096/index.phpCNN)
 - [The hospital that supposedly holds 6000 falun gong prisoners, was visited by various US officials after the claims, and found to be just a regular hospital.](https://file.wikileaks.org/file/crs/RL33437.pdf)
 
@@ -543,6 +556,11 @@
 - [Deng XiaoPing was ill at the time, and the CIA had an inside man inside the party, Zhao Ziyang, dubbed China's Gorbachev, who promised to open the door to market liberalisation if the protest movement had succeeded, like those of Ukraine, Yugoslavia, Georgia, and the USSR.](https://medium.com/@leohezhao/notes-for-30th-anniversary-of-tiananmen-incident-f098ef6efbc2)
 - [The protest movement followed the line of "color revolutions", in which the US tried to destabilize and create counter-revolutions in eastern Europe and Latin America after the fall of the USSR. The strategy was to stir division within and without, by inundating the media with news of massacres of "peaceful", pro-capitalist / market reformers.](http://www.fightbacknews.org/2019/6/4/reflections-tiananmen-square-and-attempt-end-chinese-socialism) 
 - [The defeat of a counter revolution in China](https://frso.org/main-documents/looking-back-at-tiananmen-square-the-defeat-of-counter-revolution-in-china/).
+
+### What is Radio Free Asia?    
+
+- [It, along with Radio free Europe, and Free Cuba Radio, were created by the CIA in the 1950s-60s, as a propaganda arm of the US.](https://archive.is/vW88U)
+- [In its current form, its controlled by another US government agency called, Broadcasting Board of Governors (BBG), whose aim is to "reinforce one another in a shared mission vital to U.S. national interests".](http://web.archive.org/web/20191225205544/https://www.bbg.gov/who-we-are/) It's [standards include "Be consistent with the broad foreign policy objectives of the US".](http://web.archive.org/web/20191215131808/https://www.bbg.gov/who-we-are/oversight/legislation/standards-principles/)
 
 ### [Did Mao kill millions of people?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_mao_killed_millions_of_people)
 - [*Did Mao Really Kill Millions in the Great Leap Forward?*](http://monthlyreview.org/commentary/did-mao-really-kill-millions-in-the-great-leap-forward/) by Joseph Ball
@@ -661,11 +679,12 @@
 - [Musk fires Tesla worker for testing positive for THC, then goes on the Joe Rogan show and smokes weed himself. In reality the worker was fired for her union organizing and supporting the United Autoworkers Union.](https://thehill.com/policy/technology/405711-ex-tesla-employee-fired-for-failing-drug-test-musk-smoking-like-a-slap-in)
 - [Wants to privatize space travel, leaving colonization and exploration to to the richest few.](https://www.salon.com/2017/10/08/against-mars-a-lago-why-spacexs-mars-colonization-plan-should-terrify-you/)
 - [Actively feeds his own cult of personality, as it raises his company's stock price.](https://www.theverge.com/2018/6/26/17505744/elon-musk-fans-tesla-spacex-fandom) [Criticism of Musk or Tesla is often met with toxic harrassment, especially against women.](https://www.thedailybeast.com/what-its-like-when-elon-musks-twitter-mob-comes-after-you) [Reddit: Why is there such a big cult of personality around Musk?](https://www.reddit.com/r/socialism/comments/8tfmm6/why_is_there_a_cult_of_personality_around_elon/) One such "Tony-Stark" from [Rolling-Stone](https://www.rollingstone.com/culture/culture-features/elon-musk-the-architect-of-tomorrow-120850/).
-- Despite rumours of Musk being a self-made mad scientist genius, he was born into a wealthy white South African family, and his [father owns Emerald mines.](https://www.businessinsider.co.za/how-elon-musks-family-came-to-own-an-emerald-mine-2018-2) His wealth comes not from scientific discovery or innovation, but from his father funding his first business ventures, and from buying and selling companies such as PayPal, SolarCity, SpaceX, and Tesla. 
+- Despite rumours of Musk being a self-made mad scientist genius, he was born into a wealthy white South African family, and his [father owns Emerald mines.](https://www.businessinsider.co.za/how-elon-musks-family-came-to-own-an-emerald-mine-2018-2) His wealth comes not from scientific discovery or innovation, but from his father funding his first business ventures, and from buying and selling companies such as PayPal, Zip2, SolarCity, SpaceX, and Tesla. 
 - [Despite being hailed as a leader in the fight against climate change, he donates 7x more money to Republicans.](https://www.huffingtonpost.com/entry/elon-musk-donations-republicans_us_5b4e4bd8e4b0b15aba897481) Is it any surprise that a union-busting capitalist donated heavily to the Republican Party?
 - Musk takes advantage of international crises to raise Tesla's stock price. In one case, [Musk promised to "fix" Puerto Rico's power grid after it was decimated by Hurricane Maria.](http://inthesetimes.com/article/20601/elon-musk-puerto-rico-privatization-utility-climate-solar-rossello) He deploys solar panels to a hospital, dozens of [news articles](https://thehill.com/policy/technology/354154-musk-tesla-can-rebuild-puerto-rico-power-grid) were written about the [business-saviness of this decision](https://www.inc.com/sally-hogshead/elon-musks-response-to-puerto-rico-is-pure-marketing-genius-should-be-required-reading.html), and the stock price soared. PR reps told Musk they don't want their power grid privatized by billionaries.
 - As a PR stunt, Musk promised to build a mini-submarine to rescue a boys soccer team that got trapped in a Thai cave in 2018. After receiving vitriol from the Thai and rescue community, [Musk called one of the cave rescuers, a pedophile](https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot),[2](https://www.vox.com/2018/7/18/17576302/elon-musk-thai-cave-rescue-submarine). After the rescuer sues Musk for defamation, Musk pays 50k to a private investigator (and former felon), [to dig up dirt on the rescuer.](https://www.buzzfeednews.com/article/ryanmac/elon-musk-hired-felon-james-howard-higgins-dirt-pedo-guy), and was told to use "aggressive tactics". Musk's team then told the investigator: “We would like you to immediately move forward with ‘leaking’ this information to the UK press. Obviously must be done very carefully.” [Musk and his team even lobbied the Thai gov and prime minister to get a local official to reverse a statement saying the mini-submarine wasn't practical, before the children had been rescued.](https://twitter.com/RMac18/status/1181396377605029888)
 - Goes after whistleblowers, including sending the police after [Martin Tripp](https://www.theverge.com/2019/3/13/18263757/tesla-elon-musk-employee-hack-spying-whistleblower-gigafactory-martin-tripp-drugs) ( who reported on Tesla's fraudulent activities to the SEC ), who Musk claimed was an [active shooter.](https://www.bloomberg.com/news/features/2019-03-13/when-elon-musk-tried-to-destroy-tesla-whistleblower-martin-tripp) Goes after several journalists who criticized him. [A twitter thread of the Nov 2019 swatting police report, and those targeted by Musk.](https://twitter.com/PlainSite/status/1197592445812232192?s=19)
+- In another PR stunt in April 2020, after dismissing covid fears as "dumb", [he states that he will send 1k ventilators to the New York City hospital system. He ends up sending 40 out-of-spec ones, that doctors warn could spread the virus further.](https://twitter.com/kenklippenstein/status/1246265058839191554?s=20) He also claims that [SpaceX is working on ventilators.](https://pbs.twimg.com/media/EUurKMRWsAANrsE?format=jpg&name=medium)
 - [Fired his assistant of 12 years for asking for a raise. Divorced his wife after telling her that his life "operated quite smoothly" in her absence.](https://jalopnik.com/elon-musk-is-a-jerk-that-once-fired-his-assistant-of-12-1797699824)
 - [Rocket jesus broken promises #1](https://www.reddit.com/r/EnoughMuskSpam/comments/73eh4m/tracking_elon_musks_visions_promises_and/), [#2](https://www.reddit.com/r/EnoughMuskSpam/comments/7spkqa/happy_2018_everybody_lets_take_a_moment_to_recall/)
 
@@ -730,6 +749,7 @@
 - https://www.opendemocracy.net/en/why-chomsky-felt-guilty-most-of-time-war-research-and-linguistics-at-mit/
 - https://libcom.org/history/chomsky-pol-pots-genocidal-regime-cambodia
 - https://www.kurdistan24.net/en/news/13cf816e-8e40-41c8-bb76-d453a3261d8b
+- [Endorsed Biden in the 2020 election, even after Tara Reide's rape allegations.](https://www.democracynow.org/2020/4/10/noam_chomsky_trump_us_coronavirus_response)
 
 ### What's wrong with Bernie Sanders?
 
@@ -747,7 +767,7 @@
     - When asked about the 2018 Migrant caravan, where Border agents tear gassed migrants, Bernie replied, ["not all migrants seeking asylum at the US-Mexico border have a credible claim. "You have to look at it case-by-case."](https://thehill.com/homenews/senate/418398-bernie-sanders-some-migrants-lack-credible-claim-for-asylum)
   - [Believes that Russians are to blame for the failure of US democracy. "Protecting american democracy from foreign invasion."](https://i.imgur.com/GkSXsZY.jpg). [2020 Campaign trail: "Americans are sick and tired of Russian intereferenc in our elections"](https://twitter.com/thehill/status/1230994357236322304)
 - [Why Sanders is not a socialist - Anticonquista ](https://www.youtube.com/watch?v=VbcrJT485r8)
-- [Shills for democrats, campaigned for Hillary Clinton.](https://www.newyorker.com/news/amy-davidson/bernie-sanderss-hard-fight-for-hillary-clinton)
+- [Shills for democrats, campaigned for Hillary Clinton.](https://www.newyorker.com/news/amy-davidson/bernie-sanderss-hard-fight-for-hillary-clinton) After conceding the 2020 democratic primary to Joe Biden (even after Tara Reide's rape allegations against Biden surfaced), [Sanders tells his supporters that it would be "irresponsible" for progressives to not support Joe Biden.](https://communism.lemmy.ml/pictshare/2dfdmn.png) His support for Biden comes 2 months earlier than the last election when he supported Hillary. When asked about why one of his former secretaries publicly refused to support Biden, Sanders stated, “She is my former press secretary — not on the payroll”. [2](https://apnews.com/a1bfb62e37fe34e09ff123a58a1329fa). “I will do everything I can to help elect Joe,” Sanders continued.
 - [Equates socialism with US corporate bailouts.](https://www.leftvoice.org/sanders-speech-explains-his-vision-of-socialism-it-sounds-a-lot-like-new-deal-liberalism)
 - [Thanked Jeff Bezos for deigning to raise amazon wages](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqM9uBoBvLLw/v1/600x-1.jpg), Bezos [responds with "you're welcome"](https://pbs.twimg.com/media/DohNI5GUUAAin6q.jpg). 
 - [His election, as well as Medicare-for-all, would, like the new deal, be a bribe between capital and workers in the imperial core: Give us a bigger cut of the profits from exploitation of the global south, and we'll become more invested in preserving the empire](https://www.reddit.com/r/MoreTankieChapo/comments/ew22gi/its_ogre_reformist_capitalism_has_won_guys/ffznca8/).
@@ -802,6 +822,7 @@
 ### Biden
 
 - https://www.youtube.com/watch?v=seRaSRZKo2U
+- https://soundcloud.com/katie-halper/joe-bidens-accuser-finally-tells-her-full-story
 
 ### Greta Thunberg
 
@@ -823,7 +844,7 @@
 - [What's so bad about Ronald Reagan?](https://www.reddit.com/r/ShitLiberalsSay/comments/ce2v7l/rpolitics_straight_up_creaming_their_pants_over/etydg3l/)
 - What's so bad about [Barack Obama?](https://www.reddit.com/r/communism101/comments/cdamsp/what_are_your_opinions_on_obama/etswenc/) Also this [List of US Atrocities](https://github.com/dessalines/essays/blob/master/us_atrocities.md)
 - [What about Tulsi Gabbard?](https://www.jacobinmag.com/2017/05/tulsi-gabbard-president-sanders-democratic-party),[2](https://bridge.georgetown.edu/research/factsheet-tulsi-gabbard/)
-- [What's going on with the finnish bolshevik being accused of a rape fantasy?](https://www.reddit.com/r/ShitLiberalsSay/comments/8aobas/this_is_the_finnish_bolshevik_with_a_minor/dx09v07/)
+- [What's going on with the finnish bolshevik being accused of a rape fantasy with a minor?](https://www.reddit.com/r/ShitLiberalsSay/comments/8aobas/this_is_the_finnish_bolshevik_with_a_minor/dx09v07/) [Chat log, Major NSFW](https://external-preview.redd.it/X8qdMN5yw_5Y_geBfDDsdJtUZrpDRhUBKPMiEhdBc4g.jpg?auto=webp&s=c68e810f21a1b643b0ccc0c243bbed11ac80a1fa).
 
 ## Other Topics
 
@@ -879,4 +900,5 @@
 - [Anti-imperialism of Evo Morales - A fight for Bolivia's resources.](https://www.commondreams.org/views/2019/11/12/after-morales-ousted-coup-lithium-question-looms-large-bolivia)
 - [How does the US and British strategy of Balkanization work?](https://youtu.be/niZsLfxNwvI?t=807)
 - Caleb Maupin - [1](https://www.youtube.com/watch?v=i29kWYXlwhw), [2](https://www.youtube.com/watch?v=fmQtvk5elYc), [3](https://www.reddit.com/r/BeardTube/comments/fkwaso/the_successes_of_socialism_in_vietnam/fkwb68a/)
+- [Bordiga](https://libcom.org/forums/history/bordiga-leninist-who-put-his-hopes-axis-27122017)
 - MTC: https://www.reddit.com/r/communism/comments/fgdjpc/does_going_against_western_propaganda_ever_make/fk47f81/ , https://i.imgur.com/gBzROhU.png
