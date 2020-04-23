@@ -167,6 +167,7 @@
 - [Comrade Hakim - Why electoralism always fails.](https://www.youtube.com/watch?v=WXbaZXQAbuU)
 - [Why not just vote leftists into office: what's wrong with democratic socialism?](https://old.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
 - [Why Sanders is not a socialist - Anticonquista ](https://www.youtube.com/watch?v=VbcrJT485r8)
+- [What's wrong with the DSA / Democratic socialism?](https://struggle-sessions.com/2020/04/20/dsa-are-capitalist-pigs/)
 - [How do socialists feel about elections? What about democratic socialism?](https://isreview.org/issue/13/marxists-and-elections)
 - [Can a one-party state really be a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
 - [Why is Chinas one party system outperforming western democracies that have abysmal approval ratings?](https://www.youtube.com/watch?v=s0YjL9rZyR0)
@@ -297,7 +298,9 @@
 - [Is it true that Socialism has killed X million people, and how many has capitalism killed?](https://www.reddit.com/r/LateStageCapitalism/comments/5q2oak/someone_dies_under_socialism_no_matter_how_its/dcvu8lg/)
 - [What's the role of the state in the revolution, and what is a state?](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/)
 - What about the USSR, wasn't it authoritarian? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
+- [What is Socialism in one country? What's the controversy around it w/ respect to Stalin and Trotsky?](https://www.reddit.com/r/communism101/comments/dsj2wv/was_lenin_in_favour_of_socialism_in_one_country/) [2](https://www.reddit.com/r/communism101/comments/7mwac2/how_do_trotskyists_or_trotsky_himself_respond_to/) [3](https://www.reddit.com/r/communism101/comments/774lmt/can_someone_eli5_the_differences_between_stalins/) [4](https://www.reddit.com/r/communism101/comments/4yhc4y/socialism_in_one_country_please_assist_me_in_the/)
 - [What did Lenin say about socialism in one country?](https://espressostalinist.com/2012/03/11/lenin-on-socialism-in-one-country-2/)
+- [Taimur Rahman - Why I am not a Trotskyist](https://www.youtube.com/watch?v=QQ9O5UPqcOE).
 - [What is Dialectical Materialism?](https://www.reddit.com/r/Socialism_101/comments/e6iyt3/can_someone_explain_the_concept_of_dialectical/f9r4iep/)
 - [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
 
@@ -446,6 +449,7 @@
   * [Is the CPC committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
   * [The Long Game and Its Contradictions](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4).
   * [The backbone of the economy is state ownership and socialist planning. 24 / 25 of the top revenue companies are state-owned and planned.](https://www.reddit.com/r/communism101/comments/8hdbib/how_is_china_communist_if_it_has_a_ton_of_private/dyj082s/) [70% of the top 500 companies are State-owned](https://chinapower.csis.org/chinese-companies-global-500/). [1](https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission#Central_SOEs), [2](https://en.wikipedia.org/wiki/List_of_largest_Chinese_companies)
+  * [The myth of Chinese state capitalism. Did Deng really betray Chinese socialism?](http://www.greanvillepost.com/2015/08/20/the-myth-of-chinese-capitalism-2/)
   * [Are capitalists allowed in the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
   * [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
   * [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/) [Why are many billionaires and CEOs going missing?](https://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html) [China sentences Ex-Chairman of a major bank, guilty of embezzling ~$100M USD, to death in 2019.](https://www.bloomberg.com/news/articles/2019-12-27/china-sentences-ex-chairman-of-troubled-hengfeng-bank-to-death)
@@ -489,6 +493,7 @@
 - [China writes off $36m Mozambican debt](https://furtherafrica.com/2017/10/26/china-writes-off-36m-mozambican-debt/).
 - [China writes off substantial amount of Angola debt.](https://www.angop.ao/angola/en_us/noticias/politica/2017/5/23/China-agrees-partial-write-off-Angola-debt,73246665-509c-48a2-ae40-415d3fb65b00.html)
 - [Nato's new enemy: the CPC.](https://www.rt.com/news/473935-pompeo-nato-china-communist/)
+- [The western media's China hysteria.](https://caitlinjohnstone.com/2020/04/20/msm-china-hysteria-gets-way-crazier-and-dumber/)
 
 ### What about the Hong Kong protests?
 
@@ -524,6 +529,7 @@
 - [US fuels terrorism in China: “1 million Uyghurs never verified”](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
 - [China’s Xinjiang Problem – Made in USA](https://journal-neo.org/2015/11/10/chinas-xinjiang-problem-made-in-usa/).
 - [No, the UN did not report China has ‘massive internment camps’ for Uighur Muslims](https://thegrayzone.com/2018/08/23/un-did-not-report-china-internment-camps-uighur-muslims/).
+- [What about Democracy now and the Intercept's claims about the Uyghur camps?](https://medium.com/@rainershea612/liberal-anti-chinese-propaganda-helped-create-the-far-right-campaign-to-blame-china-for-covid-19-7253dca6f429)
 - [Religious freedoms in China explained](https://twitter.com/isgoodrum/status/1004884261051092993?s=21).
 - [Thousands of Muslims from the Uyghur province make Hajj Pilgrimage yearly.](https://www.app.com.pk/over-11000-chinese-muslims-from-xinjiang-proceed-to-saudi-arabia-for-hajj/) [11k Chinese Muslims travel from Xinjiang on free chartered flights to Saudi Arabia for the Hajj, in 2019](https://www.arabnews.com/node/1535241/pakistan).
 - [EU rejects China offer of Xinjiang tour](https://www.scmp.com/news/china/diplomacy/article/3003217/eu-rejects-chinas-offer-xinjiang-tour-says-its-open-one-later).
@@ -750,7 +756,7 @@
 - https://www.opendemocracy.net/en/why-chomsky-felt-guilty-most-of-time-war-research-and-linguistics-at-mit/
 - https://libcom.org/history/chomsky-pol-pots-genocidal-regime-cambodia
 - https://www.kurdistan24.net/en/news/13cf816e-8e40-41c8-bb76-d453a3261d8b
-- [Endorsed Biden in the 2020 election, even after Tara Reide's rape allegations.](https://www.democracynow.org/2020/4/10/noam_chomsky_trump_us_coronavirus_response)
+- [Endorsed Biden in the 2020 election, even after Tara Reide's rape allegations.](https://www.democracynow.org/2020/4/10/noam_chomsky_trump_us_coronavirus_response) [2](https://twitter.com/theintercept/status/1251246784048959490?s=21)
 
 ### What's wrong with Bernie Sanders?
 
@@ -824,6 +830,7 @@
 
 - https://www.youtube.com/watch?v=seRaSRZKo2U
 - https://soundcloud.com/katie-halper/joe-bidens-accuser-finally-tells-her-full-story
+- https://twitter.com/BenjaminNorton/status/1251644551367925760
 
 ### Greta Thunberg
 
@@ -881,6 +888,7 @@
 - https://twitter.com/camilateleSUR/status/1193767195031068673
 - https://twitter.com/DemSocialists/status/1194298720780791810
 - https://twitter.com/jacobinmag/status/1202641283023376384
+- https://struggle-sessions.com/2020/04/20/dsa-are-capitalist-pigs/
 
 ### Buddhism
 
