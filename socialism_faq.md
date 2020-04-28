@@ -219,6 +219,7 @@
 - [can you explain the theory of alienation to me in a "explain like I'm five" manner?](http://www.reddit.com/r/communism101/comments/2jeyaj/can_you_explain_the_theory_of_alienation_to_me_in/)
 - [If private property is abolished, does this mean anyone can enter "one's home" (or where one lives) and cannot be expelled?](http://www.reddit.com/r/communism101/comments/19nx3l/if_private_property_is_abolished_does_this_mean/)
 - [Shouldn't capitalists be rewarded for Risk / Financial investment?](https://www.reddit.com/r/communism101/comments/av92oi/someone_said_the_following_in_a_debate_and_i/) [Well shouldn't business owners be rewarded for their financial risk?](https://www.reddit.com/r/communism101/comments/a8fnlm/counterarguments_to_common_capitalist_economic/) [Do Capitialists deserve profit?](https://www.reddit.com/r/communism101/comments/aany6r/trying_to_get_a_friend_to_the_left/) [Is profit proportional to risk?](https://www.reddit.com/r/communism101/comments/1p7d3u/refutation_of_risk_incentive_and_entrepreneurship/cczoar0/)
+- [What is the power of the US dollar / US currency?](https://news.cgtn.com/news/2019-07-01/Why-has-the-clock-started-ticking-on-the-U-S-dollar-deathwatch--HXc5WwRLWw/index.html)
 
 ## On Nationalism and Internationalism
 
@@ -488,6 +489,7 @@
 - [Is China really imperialist? What's the difference between what Europe did to Africa, and what China is doing?](https://www.reddit.com/r/GenZedong/comments/g0lp70/people_are_saying_that_china_is_colonialist_by/fnanq5x/)
 - [Yanis Varoufakis on China's foreign policy dealings with Greece and Africa](https://www.youtube.com/watch?v=PBgbYQ5QAM0).
 - [The Belt and Road Initiative: the antithesis of Colonialism.](https://qutnyti.wordpress.com/2018/07/16/belt-road-initiative-an-anti-thesis-of-colonialism/)
+- [The war on China : and geopolitical significance of the belt and road initiative](https://izaknovak.wordpress.com/2020/04/17/62/).
 - [China has forgiven over $10B in debt, over half to Cuba](https://www.forbes.com/sites/kenrapoza/2019/05/29/china-has-forgiven-nearly-10-billion-in-debt-cuba-accounts-for-over-half/#7a4116c3615b), but also including > 20 African nations, Pakistan, and Cambodia.
 - [China forgives over $78M in Cameroon debt](https://edition.cnn.com/2019/02/04/china/cameroon-china-debt-relief-intl/index.html).
 - [China writes off $36m Mozambican debt](https://furtherafrica.com/2017/10/26/china-writes-off-36m-mozambican-debt/).
@@ -786,6 +788,7 @@
   - [AOC asks all supporters to vote for democrats, including Andrew Cuomo.](https://youtu.be/iaLpyJI0ltg?t=647)
   - [Calls for budget cuts for DHS, due to their child detention camps and family separations, then goes back on it by voting to fully fund them along with other democrats.](https://i.redd.it/bfiudbz8qm921.jpg)
   - [She votes to keep the US in NATO, who's been responsible for countless atrocities in Europe and the Middle East.](http://clerk.house.gov/evs/2019/roll044.xml)
+  - [AOC says she will vote for Biden in the 2020 election, saying, "I think it’s incredibly important we support the Democratic nominee in November".](https://thehill.com/homenews/campaign/494275-ocasio-cortez-says-she-will-vote-for-biden-in-november)
   - Going back on her promise to only back "progressive democrats" after her election to congress in 2018, she [backs Nancy Pelosi for speaker of the house.](https://www.nbcnews.com/politics/congress/ocasio-cortez-backs-pelosi-speaker-dem-rebellion-falters-n939086)
   - [Says her policies are more reminiscent of Norway than Caracas, repeating the right wing myth of socialism destroying Venezuela, and wrongly conflating nordic social democracy with socialism.](https://i.imgur.com/fTJfV2k.png)
   - [Says its possible to be both a "democratic socialist" and a Capitalist. ](https://www.msnbc.com/mtp-daily/watch/aoc-can-you-be-a-democratic-socialist-and-a-capitalist-it-s-possible-1439125059571?fbclid=IwAR1PmnyrP28stOyVqNP5Bf4vjqEtV5S4MXQIY4sDgcv-XWgEn1u5Z0ne3J8)
@@ -883,11 +886,12 @@
 - [Its supported by, and benefits, silicon valley billionaires.](https://www.latimes.com/opinion/op-ed/la-oe-rushkoff-universal-basic-income-silicon-valley-20170721-story.html)
 - [Its used to allay elite fears of revolution.](https://www.reddit.com/r/socialism/comments/87es0k/mrw_i_cite_to_my_libertarian_friend_a_nobel/)
 
-### DSA
+### DSA / Jacobin
 
 - https://twitter.com/camilateleSUR/status/1193767195031068673
 - https://twitter.com/DemSocialists/status/1194298720780791810
 - https://twitter.com/jacobinmag/status/1202641283023376384
+- https://twitter.com/BenjaminNorton/status/1253737158764044289?s=20
 - https://struggle-sessions.com/2020/04/20/dsa-are-capitalist-pigs/
 
 ### Buddhism
