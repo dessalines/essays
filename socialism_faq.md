@@ -10,6 +10,7 @@
   * [Didn't communism fail? It works in theory but not in practice.](#didnt-communism-fail-it-works-in-theory-but-not-in-practice)
   * [What about human nature?](#what-about-human-nature)
   * [Schools of thought](#schools-of-thought)
+  * [On Ultra-leftism / Left-Communism](#on-ultra-leftism--left-communism)
   * [Did economic planning work?](#did-economic-planning-work)
   * [Who would sweep the floors under communism?](#who-would-sweep-the-floors-under-communism)
   * [What about cooperatives?](#what-about-cooperatives)
@@ -76,7 +77,7 @@
     + [Did atom bombs really end WW2?](#did-atom-bombs-really-end-ww2)
     + [What about overpopulation / unsustainability?](#what-about-overpopulation--unsustainability)
     + [Why don't socialists support a UBI / Universal Basic income?](#why-dont-socialists-support-a-ubi--universal-basic-income)
-    + [DSA](#dsa)
+    + [DSA / Jacobin](#dsa--jacobin)
     + [Buddhism](#buddhism)
     + [Others](#others-1)
 
@@ -127,9 +128,14 @@
 * [Is the revolutionary DotP a separate material stage apart from lower phased communism?](http://www.reddit.com/r/communism101/comments/2mrkkj/is_the_revolutionary_dotp_a_separate_material/)
 * [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](https://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_stage_of_communism_or_is/)
 * [What about Left Unity? Engels letter to Bebel.](https://www.marxists.org/archive/marx/works/1873/letters/73_06_20.htm)
+## On Ultra-leftism / Left-Communism
+
+* What about the USSR, wasn't it authoritarian? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
 * [Why do most Marxists dislike ultra-lefts / left-communists (the "not real socialism" crowd) ?](https://medium.com/@leohezhao/left-communists-and-ultra-leftists-are-reactionaries-2d2fca4c991a)
 * [Hakim - Why the USSR was socialist - A critique of left-communism.](https://www.youtube.com/watch?v=CKggZ22izDs)
+* [Cockshott - Socialism and surplus - Why the USSR was socialist.](https://www.youtube.com/watch?v=C-T-Fr6DvFw)
 * [Where are communists on the political compass?](https://www.reddit.com/r/communism101/comments/f4a9w9/where_do_communists_fall_on_the_political_spectrum/fhozyg4/)
+* [Lenin - "Left-Wing" Communism: An infantile disorder.](https://www.marxists.org/archive/lenin/works/1920/lwc/) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjob1T8DTNDG7EQaN18eSJ97m)
 
 ## Did economic planning work?
 
@@ -437,6 +443,7 @@
 * [Debunking NYTimes anti-china covid-19 talking points, especially about Dr Li.](https://mronline.org/2020/03/05/yellow-caking-an-epidemic/)
 * [The US went against the CDC recommendations and evacuated 14 corona-virus infected US citizens, sparking the spread of the virus in the US](https://nypost.com/2020/02/20/coronavirus-infected-americans-flown-back-to-us-on-plane-full-of-healthy-people/).
 * [An April 2020 poll of Republicans and Democrats finds that 77% blame China for coronavirus, with 54% saying China owes reparations. ](http://archive.is/FB7KP)
+* [Vijay Prashad and Qiao Collective - On the covid timeline, and US Sinophobia.](https://www.qiaocollective.com/home/conversation-vijay-prashad)
 * [Did China hide covid?](https://www.peoplesworld.org/article/trumps-blame-china-campaign-is-an-effort-to-dodge-responsibility/)
 * [Taimur Rahman - How China beat the Coronavirus.](https://www.youtube.com/watch?v=HN8bKQOyw_Q)
 
@@ -488,6 +495,7 @@
 - [Debunking the claim that "China is Imperialist"](https://medium.com/@rainershea612/catagorically-debunking-the-claim-that-china-is-imperialist-a9ae7b280a44)
 - [Is China really imperialist? What's the difference between what Europe did to Africa, and what China is doing?](https://www.reddit.com/r/GenZedong/comments/g0lp70/people_are_saying_that_china_is_colonialist_by/fnanq5x/)
 - [Yanis Varoufakis on China's foreign policy dealings with Greece and Africa](https://www.youtube.com/watch?v=PBgbYQ5QAM0).
+- [Vijay Prashad and Qiao Collective - Is China imperializing Africa?](https://www.qiaocollective.com/home/conversation-vijay-prashad)
 - [The Belt and Road Initiative: the antithesis of Colonialism.](https://qutnyti.wordpress.com/2018/07/16/belt-road-initiative-an-anti-thesis-of-colonialism/)
 - [The war on China : and geopolitical significance of the belt and road initiative](https://izaknovak.wordpress.com/2020/04/17/62/).
 - [China has forgiven over $10B in debt, over half to Cuba](https://www.forbes.com/sites/kenrapoza/2019/05/29/china-has-forgiven-nearly-10-billion-in-debt-cuba-accounts-for-over-half/#7a4116c3615b), but also including > 20 African nations, Pakistan, and Cambodia.
@@ -693,7 +701,7 @@
 - Musk takes advantage of international crises to raise Tesla's stock price. In one case, [Musk promised to "fix" Puerto Rico's power grid after it was decimated by Hurricane Maria.](http://inthesetimes.com/article/20601/elon-musk-puerto-rico-privatization-utility-climate-solar-rossello) He deploys solar panels to a hospital, dozens of [news articles](https://thehill.com/policy/technology/354154-musk-tesla-can-rebuild-puerto-rico-power-grid) were written about the [business-saviness of this decision](https://www.inc.com/sally-hogshead/elon-musks-response-to-puerto-rico-is-pure-marketing-genius-should-be-required-reading.html), and the stock price soared. PR reps told Musk they don't want their power grid privatized by billionaries.
 - As a PR stunt, Musk promised to build a mini-submarine to rescue a boys soccer team that got trapped in a Thai cave in 2018. After receiving vitriol from the Thai and rescue community, [Musk called one of the cave rescuers, a pedophile](https://www.buzzfeednews.com/article/ryanmac/unsworth-reply-elon-musk-fucking-idiot),[2](https://www.vox.com/2018/7/18/17576302/elon-musk-thai-cave-rescue-submarine). After the rescuer sues Musk for defamation, Musk pays 50k to a private investigator (and former felon), [to dig up dirt on the rescuer.](https://www.buzzfeednews.com/article/ryanmac/elon-musk-hired-felon-james-howard-higgins-dirt-pedo-guy), and was told to use "aggressive tactics". Musk's team then told the investigator: “We would like you to immediately move forward with ‘leaking’ this information to the UK press. Obviously must be done very carefully.” [Musk and his team even lobbied the Thai gov and prime minister to get a local official to reverse a statement saying the mini-submarine wasn't practical, before the children had been rescued.](https://twitter.com/RMac18/status/1181396377605029888)
 - Goes after whistleblowers, including sending the police after [Martin Tripp](https://www.theverge.com/2019/3/13/18263757/tesla-elon-musk-employee-hack-spying-whistleblower-gigafactory-martin-tripp-drugs) ( who reported on Tesla's fraudulent activities to the SEC ), who Musk claimed was an [active shooter.](https://www.bloomberg.com/news/features/2019-03-13/when-elon-musk-tried-to-destroy-tesla-whistleblower-martin-tripp) Goes after several journalists who criticized him. [A twitter thread of the Nov 2019 swatting police report, and those targeted by Musk.](https://twitter.com/PlainSite/status/1197592445812232192?s=19)
-- In another PR stunt in April 2020, after dismissing covid fears as "dumb", [he states that he will send 1k ventilators to the New York City hospital system. He ends up sending 40 out-of-spec ones, that doctors warn could spread the virus further.](https://twitter.com/kenklippenstein/status/1246265058839191554?s=20) He also claims that [SpaceX is working on ventilators.](https://pbs.twimg.com/media/EUurKMRWsAANrsE?format=jpg&name=medium)
+- In another PR stunt in April 2020, after dismissing covid fears as "dumb", [he states that he will send 1k ventilators to the New York City hospital system. He ends up sending 40 out-of-spec ones, that doctors warn could spread the virus further.](https://twitter.com/kenklippenstein/status/1246265058839191554?s=20) He also claims that [SpaceX is working on ventilators.](https://pbs.twimg.com/media/EUurKMRWsAANrsE?format=jpg&name=medium) After faltering first quarter 2020 Telsa sales, [he goes on a twitter rant](https://mashable.com/article/elon-musk-anti-lockdown/) to "FREE AMERICA NOW", and demands that the lockdown be ended at its height in April 2020.
 - [Fired his assistant of 12 years for asking for a raise. Divorced his wife after telling her that his life "operated quite smoothly" in her absence.](https://jalopnik.com/elon-musk-is-a-jerk-that-once-fired-his-assistant-of-12-1797699824)
 - [Rocket jesus broken promises #1](https://www.reddit.com/r/EnoughMuskSpam/comments/73eh4m/tracking_elon_musks_visions_promises_and/), [#2](https://www.reddit.com/r/EnoughMuskSpam/comments/7spkqa/happy_2018_everybody_lets_take_a_moment_to_recall/)
 
@@ -913,5 +921,7 @@
 - [Anti-imperialism of Evo Morales - A fight for Bolivia's resources.](https://www.commondreams.org/views/2019/11/12/after-morales-ousted-coup-lithium-question-looms-large-bolivia)
 - [How does the US and British strategy of Balkanization work?](https://youtu.be/niZsLfxNwvI?t=807)
 - Caleb Maupin - [1](https://www.youtube.com/watch?v=i29kWYXlwhw), [2](https://www.youtube.com/watch?v=fmQtvk5elYc), [3](https://www.reddit.com/r/BeardTube/comments/fkwaso/the_successes_of_socialism_in_vietnam/fkwb68a/)
+- Prysner - [1](https://twitter.com/Duophile/status/1256563958141591556?s=20)
+- [Omar](https://electronicintifada.net/blogs/ali-abunimah/ilhan-omar-backs-israel-lobby-campaign-against-iran)
 - [Bordiga](https://libcom.org/forums/history/bordiga-leninist-who-put-his-hopes-axis-27122017)
 - MTC: https://www.reddit.com/r/communism/comments/fgdjpc/does_going_against_western_propaganda_ever_make/fk47f81/ , https://i.imgur.com/gBzROhU.png
