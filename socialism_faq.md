@@ -178,6 +178,7 @@
 - [Can a one-party state really be a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
 - [Why is Chinas one party system outperforming western democracies that have abysmal approval ratings?](https://www.youtube.com/watch?v=s0YjL9rZyR0)
 - [How the capitalist democratic party sabotaged the Sanders campaign.](https://medium.com/@rainershea612/the-democratic-party-is-fully-prepared-to-steal-the-primary-from-sanders-again-51b7b1130a8d)
+- [Paying one half of the poor to kill the other half: Why Marxists should not support Sanders.](https://www.reddit.com/r/communism/comments/f7g3dj/paying_one_half_of_the_poor_to_kill_the_other/)
 
 ## Pacifism and Violence
 
@@ -261,7 +262,7 @@
 - [How would eliminating capitalism help marginalized groups such as women, gays, racial minorities, etc?](https://www.reddit.com/r/communism101/comments/axljq5/how_would_eliminating_capitalism_help/)
 - [What about black-on-black crime (Insert racist thing here)?](https://www.politifact.com/truth-o-meter/statements/2015/nov/23/donald-trump/trump-tweet-blacks-white-homicide-victims/)
 - [What about Beyonce / Black Capitalism?](https://www.independent.co.uk/news/people/beyonces-ivy-park-sportswear-line-denies-claims-its-clothes-were-produced-by-sweatshop-workers-a7035926.html)
-- [What is the labor aristocracy?](https://www.reddit.com/r/communism101/comments/f6u5uv/what_is_defines_the_labor_aristocracy/)
+- [What is the labor aristocracy?](https://www.reddit.com/r/communism101/comments/f6u5uv/what_is_defines_the_labor_aristocracy/) [2](https://www.reddit.com/r/communism/comments/gg24yh/what_is_the_labour_aristocracy_taken_from_zak/) [3](https://www.marxists.org/archive/lenin/works/1916/oct/x01.htm) [4](https://www.reddit.com/r/ABoringDystopia/comments/gh0zf8/the_ruling_class_wins_either_way/fq612jz/)
 
 ## On Guns / Firearms / Violence
 
@@ -310,6 +311,7 @@
 - [Taimur Rahman - Why I am not a Trotskyist](https://www.youtube.com/watch?v=QQ9O5UPqcOE).
 - [What is Dialectical Materialism?](https://www.reddit.com/r/Socialism_101/comments/e6iyt3/can_someone_explain_the_concept_of_dialectical/f9r4iep/)
 - [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
+- [Chomsky's takes - A thread](https://mobile.twitter.com/RodericDay/status/1245340127968333829?s=20)
 
 ### Further reading
 
@@ -633,6 +635,7 @@
 ## On North Korea
 
 - [Is north korea a totalitarian dictatorship? Are they all really required to get the same haircut? A short documentary.](https://www.youtube.com/watch?v=2BO83Ig-E8E)
+- [South Korea boosts reward for defectors to $860k USD](https://www.bbc.com/news/world-asia-39170614).
 - [Are north korean defectors really paid to lie by the south? A short documentary.](https://www.youtube.com/watch?v=ktE_3PrJZO0&feature=youtu.be)
 - [What is everyday life like? A conversation with a North Korean Citizen.](https://cym.ie/2018/05/28/a-conversation-with-a-north-korean-citizen/)
 - [Why do some communists support the DPRK?](http://www.reddit.com/r/communism101/comments/1ypwmd/why_do_some_communists_support_the_dprk/)
@@ -767,6 +770,7 @@
 - https://libcom.org/history/chomsky-pol-pots-genocidal-regime-cambodia
 - https://www.kurdistan24.net/en/news/13cf816e-8e40-41c8-bb76-d453a3261d8b
 - [Endorsed Biden in the 2020 election, even after Tara Reide's rape allegations.](https://www.democracynow.org/2020/4/10/noam_chomsky_trump_us_coronavirus_response) [2](https://twitter.com/theintercept/status/1251246784048959490?s=21)
+- [Awful chomsky takes.](https://twitter.com/RodericDay/status/1245340127968333829?s=20)
 
 ### What's wrong with Bernie Sanders?
 
@@ -842,6 +846,8 @@
 - https://www.youtube.com/watch?v=seRaSRZKo2U
 - https://soundcloud.com/katie-halper/joe-bidens-accuser-finally-tells-her-full-story
 - https://twitter.com/BenjaminNorton/status/1251644551367925760
+- https://twitter.com/historic_ly/status/1258861634812067841?s=20
+- https://twitter.com/MartianMarxist/status/1260067123591700483?s=20
 
 ### Greta Thunberg
 
@@ -861,7 +867,7 @@
 - [Is Christianity / the Bible Communist?](https://www.reddit.com/r/LateStageCapitalism/comments/9b7gsw/joel_osteen/e515qdb/)
 - [Was Mark Twain a socialist?](https://socialistworker.org/2010/04/21/the-twain-they-didnt-teach)
 - [What's so bad about Ronald Reagan?](https://www.reddit.com/r/ShitLiberalsSay/comments/ce2v7l/rpolitics_straight_up_creaming_their_pants_over/etydg3l/)
-- What's so bad about [Barack Obama?](https://www.reddit.com/r/communism101/comments/cdamsp/what_are_your_opinions_on_obama/etswenc/) Also this [List of US Atrocities](https://github.com/dessalines/essays/blob/master/us_atrocities.md)
+- What's so bad about [Barack Obama?](https://www.reddit.com/r/communism101/comments/galon6/anyone_know_of_any_good_resources_on_obamas/fp2nfrx/), [2](https://www.reddit.com/r/communism101/comments/cdamsp/what_are_your_opinions_on_obama/etswenc/), [3](https://twitter.com/wallacemick/status/1261744000396152842?s=20) Also this [List of US Atrocities](https://github.com/dessalines/essays/blob/master/us_atrocities.md). Obama 80%
 - [What about Tulsi Gabbard?](https://www.jacobinmag.com/2017/05/tulsi-gabbard-president-sanders-democratic-party),[2](https://bridge.georgetown.edu/research/factsheet-tulsi-gabbard/)
 - [What's going on with the finnish bolshevik being accused of a rape fantasy with a minor?](https://www.reddit.com/r/ShitLiberalsSay/comments/8aobas/this_is_the_finnish_bolshevik_with_a_minor/dx09v07/) [Chat log, Major NSFW](https://external-preview.redd.it/X8qdMN5yw_5Y_geBfDDsdJtUZrpDRhUBKPMiEhdBc4g.jpg?auto=webp&s=c68e810f21a1b643b0ccc0c243bbed11ac80a1fa).
 
@@ -902,6 +908,14 @@
 - https://twitter.com/BenjaminNorton/status/1253737158764044289?s=20
 - https://struggle-sessions.com/2020/04/20/dsa-are-capitalist-pigs/
 
+### VaushV
+
+- Vaush on LGBT and Trans people: ["The left community online, **particularly the LGBT community**, is cancerous as fuck"](https://twitter.com/lporiginalg/status/1230667829537427462?s=20) "You don't have to be a psychologist to see that a large portion of the broader woket--d cancel-culture idpol left, is predicated on **shared mental illness**. This is **particularly prevalent in the trans community.** If you disagree with me on this, you're wrong. ... These people are sub-human."
+- [Compares the purchase of a computer to the purchase of child-porn.](https://www.reddit.com/r/ShitLiberalsSay/comments/g7bwgd/famous_breadtuber_vaush_i_cant_blame_people_for/)
+- [Defends using the N-word as a "power-move" which he is unashamed of.](https://i.imgur.com/ExE1sFZ.jpg)
+- Calls people ["Mentally ill crybabies"](https://i.imgur.com/T0RnOCC.jpg), "Woke-Scolds", and "Simps".
+- [Vaush - "US geopolitical power is important to me personally, because I'm not ready to lose that to China"](https://twitter.com/AlMuntherO_O/status/1260679840698634242?s=20).
+
 ### Buddhism
 
 - https://jacobinmag.com/2019/12/corporate-mindfulness-ron-purser-interview/
@@ -922,6 +936,6 @@
 - [How does the US and British strategy of Balkanization work?](https://youtu.be/niZsLfxNwvI?t=807)
 - Caleb Maupin - [1](https://www.youtube.com/watch?v=i29kWYXlwhw), [2](https://www.youtube.com/watch?v=fmQtvk5elYc), [3](https://www.reddit.com/r/BeardTube/comments/fkwaso/the_successes_of_socialism_in_vietnam/fkwb68a/)
 - Prysner - [1](https://twitter.com/Duophile/status/1256563958141591556?s=20)
-- [Omar](https://electronicintifada.net/blogs/ali-abunimah/ilhan-omar-backs-israel-lobby-campaign-against-iran)
+- [Omar](https://electronicintifada.net/blogs/ali-abunimah/ilhan-omar-backs-israel-lobby-campaign-against-iran) [2](https://twitter.com/hansalexrazo/status/1258473006419959808?s=20)
 - [Bordiga](https://libcom.org/forums/history/bordiga-leninist-who-put-his-hopes-axis-27122017)
 - MTC: https://www.reddit.com/r/communism/comments/fgdjpc/does_going_against_western_propaganda_ever_make/fk47f81/ , https://i.imgur.com/gBzROhU.png
