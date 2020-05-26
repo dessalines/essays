@@ -444,6 +444,7 @@
 * [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
+* [Deng on why Mao's legacy must be upheld.](http://cpcchina.chinadaily.com.cn/fastfacts/2010-10/18/content_11425373.htm)
 * [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](http://www.michaelparenti.org/Tibet.html) [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZjKom_Qj0jcDReaMb_r52z)
 * [Mao's liberation of Tibet](https://stalinsmoustache.org/2018/09/19/maos-liberation-of-tibet/)
 * [Did China really try to save the GDR?](https://www.reddit.com/r/Sino/comments/dsvsf9/newly_declassified_documents_released_by_german/)
@@ -527,7 +528,7 @@
 - [Joshua Wong, one of the leaders of the protests, travels to US, seeking US intervention. Meets with Marco Rubio, and other senators to garner support. Senators Rubio and Tom Cotton sponsored legislation that would punish Hong Kong or mainland officials who suppressed basic freedoms in the city.](https://www.scmp.com/news/hong-kong/politics/article/2046914/chinese-government-rebukes-us-over-comments-hong-kong)
 - [Hong Kong Billionaire publisher / media mogul Jimmy Lai, a large donor for the HK protests,  meets with Pence, Pompeo, to discuss US intervention.](https://www.scmp.com/news/hong-kong/politics/article/3017868/beijing-foreign-office-slams-hong-kong-tycoon-jimmy-lai-and), [2](http://www.thestandard.com.hk/breaking-news.php?id=131200&sid=4)
 - [An overview by isgoodrum.](https://mobile.twitter.com/isgoodrum/status/1139979689735278592?s=21&utm_source=share&utm_medium=ios_app) 
-- [The protestors are beating up anyone from China (lots of anti-china racism from hkers)](https://mobile.twitter.com/carlzha/status/1169272640642535424?s=21&utm_source=share&utm_medium=ios_app) [2](https://mobile.twitter.com/SCMPHongKong/status/1173201595619610624?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+- [The protestors are beating up anyone from China (lots of anti-china racism from hkers)](https://mobile.twitter.com/carlzha/status/1169272640642535424?s=21&utm_source=share&utm_medium=ios_app) [2](https://mobile.twitter.com/SCMPHongKong/status/1173201595619610624?utm_source=share&utm_medium=ios_app&utm_name=iossmf) [3](https://twitter.com/ajitxsingh/status/1264479391351963649?s=20)
 - [“Something else you won't see in imperialist msm: Hong Kongers organizing to show their support for extradition amendment. "Hong Kongers can't be at ease if fugitives are in the large"](https://mobile.twitter.com/redniangzijun/status/1139177913859891202).
 - [“Over 900,000 real name signatures in "Protecting justice & supporting extradition" petition. Reasons listed: HK criminal committed murder in TW; HK current extradition law has flaws & needs amendment asap; HK shouldn't be fugitive heaven, extradition amendment has many safeguards”](https://mobile.twitter.com/redniangzijun/status/1139177921631965189).
 - [Hong Kong - British vs Chinese Perspective.](https://www.reddit.com/r/FULLCOMMUNISM/comments/dg0zpn/imagine_being_china_for_a_moment_and_having_to/)
@@ -771,13 +772,13 @@
 ### Noam Chomsky
 
 - [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
+- [Awful chomsky takes.](https://twitter.com/RodericDay/status/1245340127968333829?s=20)
 - https://archive.li/YVNk3
 - https://libcom.org/history/john-deutch-chomskys-friend-pentagon-cia
 - https://www.opendemocracy.net/en/why-chomsky-felt-guilty-most-of-time-war-research-and-linguistics-at-mit/
 - https://libcom.org/history/chomsky-pol-pots-genocidal-regime-cambodia
 - https://www.kurdistan24.net/en/news/13cf816e-8e40-41c8-bb76-d453a3261d8b
 - [Endorsed Biden in the 2020 election, even after Tara Reide's rape allegations.](https://www.democracynow.org/2020/4/10/noam_chomsky_trump_us_coronavirus_response) [2](https://twitter.com/theintercept/status/1251246784048959490?s=21)
-- [Awful chomsky takes.](https://twitter.com/RodericDay/status/1245340127968333829?s=20)
 
 ### What's wrong with Bernie Sanders?
 
@@ -849,11 +850,11 @@
 
 ### Biden
 
-- https://www.youtube.com/watch?v=seRaSRZKo2U
+- [Biden on young, black, "super-predators"](https://www.youtube.com/watch?v=seRaSRZKo2U)
 - https://soundcloud.com/katie-halper/joe-bidens-accuser-finally-tells-her-full-story
 - https://twitter.com/BenjaminNorton/status/1251644551367925760
 - https://twitter.com/historic_ly/status/1258861634812067841?s=20
-- https://twitter.com/MartianMarxist/status/1260067123591700483?s=20
+- [Biden's segregationist anti-busing views](https://twitter.com/MartianMarxist/status/1260067123591700483?s=20)
 
 ### Greta Thunberg
 
@@ -1000,6 +1001,7 @@
 - [How does the US and British strategy of Balkanization work?](https://youtu.be/niZsLfxNwvI?t=807)
 - Caleb Maupin - [1](https://www.youtube.com/watch?v=i29kWYXlwhw), [2](https://www.youtube.com/watch?v=fmQtvk5elYc), [3](https://www.reddit.com/r/BeardTube/comments/fkwaso/the_successes_of_socialism_in_vietnam/fkwb68a/)
 - Prysner - [1](https://twitter.com/Duophile/status/1256563958141591556?s=20)
-- [Omar](https://electronicintifada.net/blogs/ali-abunimah/ilhan-omar-backs-israel-lobby-campaign-against-iran) [2](https://twitter.com/hansalexrazo/status/1258473006419959808?s=20)
+- [Omar](https://electronicintifada.net/blogs/ali-abunimah/ilhan-omar-backs-israel-lobby-campaign-against-iran) [2](https://twitter.com/hansalexrazo/status/1258473006419959808?s=20), [3](https://www.washingtonexaminer.com/news/ilhan-omar-says-her-political-role-model-is-inspirationally-bold-margaret-thatcher)
 - [Bordiga](https://libcom.org/forums/history/bordiga-leninist-who-put-his-hopes-axis-27122017)
 - MTC: https://www.reddit.com/r/communism/comments/fgdjpc/does_going_against_western_propaganda_ever_make/fk47f81/ , https://i.imgur.com/gBzROhU.png
+- CPUSA [1](https://www.peoplesworld.org/article/bidens-crisis-presidency-and-potential-for-transformative-change/), [2](https://www.peoplesworld.org/article/biden-and-sanders-establish-task-force-to-unite-party-on-progressive-agenda/)
