@@ -353,7 +353,7 @@
 * [What contributions did Stalin make to Marxism-Leninism?](http://www.reddit.com/r/communism101/comments/1ejidu/what_contributions_did_stalin_make_to/)
 * [Opinions on Defense of Stalin and Mao](http://www.reddit.com/r/communism/comments/11yp4f/opinions_on_defense_of_stalin_and_mao/)
 * [Stalin's Purges](http://www.reddit.com/r/communism/comments/qergf/stalins_purges/)
-* [Was Stalin anti-Semitic? What about the doctors plot?](https://www.reddit.com/r/communism101/comments/b2xtna/was_stalin_antisemitic/)
+* [Was Stalin anti-Semitic? What about the doctors plot?](https://www.reddit.com/r/communism101/comments/b2xtna/was_stalin_antisemitic/) [2](https://www.reddit.com/r/communism101/comments/grc3u1/antisemitism_in_the_ussr/fry3f52/)
 * [What are some legitimate criticisms of Stalin?](http://www.reddit.com/r/communism/comments/10chdq/what_are_some_legitimate_criticisms_of_stalin/)
 * [I need clarification on myths/truths of the USSR/Soviet Union.](http://www.reddit.com/r/communism101/comments/2dzicb/i_need_clarification_on_mythstruths_of_the/)
 * [I'm fascinated by the idea of communism...](http://www.reddit.com/r/communism101/comments/21s0dw/im_fascinated_by_the_idea_of_communism/)
@@ -496,7 +496,9 @@
   * [Trade union laws of the PRC.](https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/30352/118793/F1165849917/CHN30352%202.pdf)
   * [The west views China as one big sweatshop, but the actual working hours aren't much more than anywhere else. The average for a migrant worker (most vulnerable to exploitation as they are traveling from the countryside) is 8.8 hours, little under an hour more than a typical working day. Labor strikes are rarely suppressed, and usually get the support of the PRC.](https://www.forbes.com/sites/mitchfree/2013/07/11/held-hostage-entrepreneurs-uneasy-over-chinese-govt-inaction/#2431f5463de4)
   * [The workplace safety standards of China are better than in the capitalist countries of the West like in Australia who have an higher rate of work related death despite having a GDP per capita 3-5 times higher.](http://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/)
+  * [In a typical example of proletarian police accountability, the CPC sentences a police officer to death for killing a pregnant woman in a restaurant in southern China.](https://www.bbc.com/news/world-asia-26230765)
 * [The US is losing to China: “Washington is actually far more corrupt than Beijing. If you want to get something done in Washington, you do what you do in Jakarta: just slip some money to the right people.”]( https://www.forbes.com/sites/eamonnfingleton/2014/11/12/obama-in-china-taking-candy-from-a-baby/#27d9d3c1231e)
+* [China surpasses the US as of 2015 as the world's largest global trading partner.](https://twitter.com/Anonylyzer13/status/1221033018355113984)
 * [China 9 years ahead of schedule on meeting its Paris agreement climate change goals. ](https://www.newscientist.com/article/2211366-china-is-on-track-to-meet-its-climate-change-goals-nine-years-early/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news)
 * [China meets ultra-low power plant emissions in advance of 2020 goal.](https://www.reddit.com/r/science/comments/dsdam3/china_meets_ultralow_emissions_in_advance_of_the/)
 
@@ -512,6 +514,7 @@
 - [China forgives over $78M in Cameroon debt](https://edition.cnn.com/2019/02/04/china/cameroon-china-debt-relief-intl/index.html).
 - [China writes off $36m Mozambican debt](https://furtherafrica.com/2017/10/26/china-writes-off-36m-mozambican-debt/).
 - [China writes off substantial amount of Angola debt.](https://www.angop.ao/angola/en_us/noticias/politica/2017/5/23/China-agrees-partial-write-off-Angola-debt,73246665-509c-48a2-ae40-415d3fb65b00.html)
+- [After some of Guangdong landlords evicted a group of Africans, the CPC arrested them, apologized to the African Union, paid for hotels for the migrants, and created additional laws and empowered the police to arrest racist actors.](https://twitter.com/qiaocollective/status/1268236184855216128?s=20)
 - [Nato's new enemy: the CPC.](https://www.rt.com/news/473935-pompeo-nato-china-communist/)
 - [The western media's China hysteria.](https://caitlinjohnstone.com/2020/04/20/msm-china-hysteria-gets-way-crazier-and-dumber/)
 
@@ -525,13 +528,15 @@
 - [The US has admitted that it’s funding the protests](https://www.globalresearch.ca/us-now-admits-funding-occupy-central-hong-kong/5405680). [Hong Kong Human Rights Monitor and HKCTU, along with 68 other Hong Kong “democratic right” organizations earn hundreds of thousands every year from State Department funded NGOs.](https://twitter.com/redniangzijun/status/1137901349750939648)
 - [American government officials caught ON CAMERA colluding with HK protest leaders.](https://www.reddit.com/r/socialism/comments/cndqwh/hk_protest_leaders_caught_meeting_with_us_chief/?utm_source=share&utm_medium=ios_app)
 - [American Government NGOs fuel Hong Kong Protests](https://www.mintpressnews.com/hong-kong-protests/259202/).
-- [Joshua Wong, one of the leaders of the protests, travels to US, seeking US intervention. Meets with Marco Rubio, and other senators to garner support. Senators Rubio and Tom Cotton sponsored legislation that would punish Hong Kong or mainland officials who suppressed basic freedoms in the city.](https://www.scmp.com/news/hong-kong/politics/article/2046914/chinese-government-rebukes-us-over-comments-hong-kong)
+- [Joshua Wong, one of the leaders of the protests, travels to US, seeking US intervention. Meets with Marco Rubio, Pelosi, and other senators to garner support. Senators Rubio and Tom Cotton sponsored legislation that would punish Hong Kong or mainland officials who suppressed basic freedoms in the city.](https://www.scmp.com/news/hong-kong/politics/article/2046914/chinese-government-rebukes-us-over-comments-hong-kong) Joshua Wong [wishes neoconservative Marco Rubio a happy birthday.](https://twitter.com/ajitxsingh/status/1266197538152968192?s=20)
 - [Hong Kong Billionaire publisher / media mogul Jimmy Lai, a large donor for the HK protests,  meets with Pence, Pompeo, to discuss US intervention.](https://www.scmp.com/news/hong-kong/politics/article/3017868/beijing-foreign-office-slams-hong-kong-tycoon-jimmy-lai-and), [2](http://www.thestandard.com.hk/breaking-news.php?id=131200&sid=4)
+- [After BLM protests erupt in the US following the murder of George Floyd, Jimmy Lai, one of the leaders of the anti-china protests, distances himself from BLM, stating: "The riots in the US are nothing like the riots in HK... they are destroying everything american, everything HKers are fighting to obtain."](https://twitter.com/ajitxsingh/status/1267835131039035406?s=20)
 - [An overview by isgoodrum.](https://mobile.twitter.com/isgoodrum/status/1139979689735278592?s=21&utm_source=share&utm_medium=ios_app) 
 - [The protestors are beating up anyone from China (lots of anti-china racism from hkers)](https://mobile.twitter.com/carlzha/status/1169272640642535424?s=21&utm_source=share&utm_medium=ios_app) [2](https://mobile.twitter.com/SCMPHongKong/status/1173201595619610624?utm_source=share&utm_medium=ios_app&utm_name=iossmf) [3](https://twitter.com/ajitxsingh/status/1264479391351963649?s=20)
 - [“Something else you won't see in imperialist msm: Hong Kongers organizing to show their support for extradition amendment. "Hong Kongers can't be at ease if fugitives are in the large"](https://mobile.twitter.com/redniangzijun/status/1139177913859891202).
 - [“Over 900,000 real name signatures in "Protecting justice & supporting extradition" petition. Reasons listed: HK criminal committed murder in TW; HK current extradition law has flaws & needs amendment asap; HK shouldn't be fugitive heaven, extradition amendment has many safeguards”](https://mobile.twitter.com/redniangzijun/status/1139177921631965189).
 - [Hong Kong - British vs Chinese Perspective.](https://www.reddit.com/r/FULLCOMMUNISM/comments/dg0zpn/imagine_being_china_for_a_moment_and_having_to/)
+- [How the US seeded a color revolution in Hong Kong.](https://medium.com/@italian4hk/agents-of-chaos-how-the-u-s-seeded-a-colour-revolution-in-hong-kong-2b5050b5ba0f)
 
 ### What about China spying on its own people?
 
@@ -855,6 +860,9 @@
 - https://twitter.com/BenjaminNorton/status/1251644551367925760
 - https://twitter.com/historic_ly/status/1258861634812067841?s=20
 - [Biden's segregationist anti-busing views](https://twitter.com/MartianMarxist/status/1260067123591700483?s=20)
+- [Biden - We need more arrests, triple the police, prosecuters, judges, and prison cells.](https://twitter.com/areltah/status/1266428868547747848?s=20)
+- [Biden - Lock em' up.](https://twitter.com/BethLynch2020/status/1266810765362843650?s=20)
+- [Biden on George Floyd protesters - "Shoot em in the leg instead of the heart."](https://twitter.com/jaboukie/status/1267565376885448706?s=20)
 
 ### Greta Thunberg
 
@@ -999,9 +1007,9 @@
 - [How is socialism progressing in Bolivia?](https://www.reddit.com/r/communism/comments/cg2t3j/masterpost_on_the_achievements_of_socialism_in/)
 - [Anti-imperialism of Evo Morales - A fight for Bolivia's resources.](https://www.commondreams.org/views/2019/11/12/after-morales-ousted-coup-lithium-question-looms-large-bolivia)
 - [How does the US and British strategy of Balkanization work?](https://youtu.be/niZsLfxNwvI?t=807)
-- Caleb Maupin - [1](https://www.youtube.com/watch?v=i29kWYXlwhw), [2](https://www.youtube.com/watch?v=fmQtvk5elYc), [3](https://www.reddit.com/r/BeardTube/comments/fkwaso/the_successes_of_socialism_in_vietnam/fkwb68a/)
+- Caleb Maupin - [1](https://www.youtube.com/watch?v=i29kWYXlwhw), [2](https://www.youtube.com/watch?v=fmQtvk5elYc), [3](https://www.reddit.com/r/BeardTube/comments/fkwaso/the_successes_of_socialism_in_vietnam/fkwb68a/), [4](https://i.imgur.com/kbeSu33.jpg)
 - Prysner - [1](https://twitter.com/Duophile/status/1256563958141591556?s=20)
 - [Omar](https://electronicintifada.net/blogs/ali-abunimah/ilhan-omar-backs-israel-lobby-campaign-against-iran) [2](https://twitter.com/hansalexrazo/status/1258473006419959808?s=20), [3](https://www.washingtonexaminer.com/news/ilhan-omar-says-her-political-role-model-is-inspirationally-bold-margaret-thatcher)
 - [Bordiga](https://libcom.org/forums/history/bordiga-leninist-who-put-his-hopes-axis-27122017)
 - MTC: https://www.reddit.com/r/communism/comments/fgdjpc/does_going_against_western_propaganda_ever_make/fk47f81/ , https://i.imgur.com/gBzROhU.png
-- CPUSA [1](https://www.peoplesworld.org/article/bidens-crisis-presidency-and-potential-for-transformative-change/), [2](https://www.peoplesworld.org/article/biden-and-sanders-establish-task-force-to-unite-party-on-progressive-agenda/)
+- CPUSA [1](https://www.peoplesworld.org/article/bidens-crisis-presidency-and-potential-for-transformative-change/), [2](https://www.peoplesworld.org/article/biden-and-sanders-establish-task-force-to-unite-party-on-progressive-agenda/), [3](https://www.peoplesworld.org/article/a-clear-shot-shows-diversity-on-police-forces-a-good-thing/)

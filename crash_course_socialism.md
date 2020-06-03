@@ -63,7 +63,7 @@ For example, a Copper mine owner neither physically mines the copper, and (livin
 
 A 1983 report by England national income and expenditures found that on average, **26 minutes of every hour worked** (or 43% of labor value added) by English workers across a wide range of industries went to various exploiting or unproductive groups, with workers receiving only *57% of their pre-tax productive output as wages*<sup>[1](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/new_socialism.pdf)</sup>. In other words, at least **40% of the work you do every day is stolen by Capitalists.** 
 
-Capitalists use the surplus to [push out competitors](https://en.wikipedia.org/wiki/Anti-competitive_practices) and gain market share, leading to the destruction of most small businesses, with [just a few companies](http://imgur.com/a/xgnEp) controlling our food, media, energy, transportation, and finances.
+Capitalists use the surplus to [push out competitors](https://en.wikipedia.org/wiki/Anti-competitive_practices) and gain market share, leading to the destruction of most small businesses, with [just a few companies](http://imgur.com/a/xgnEp) controlling our food, media, [news](https://www.youtube.com/watch?v=x6U2Un5kEdI), energy, transportation, and finances.
 
 In the table below, both capital and surplus value are controlled by a company's owners, who usually appoint a board of directors. This owning class (called Capitalists, or the [Bourgeoisie](https://en.wikipedia.org/wiki/Bourgeoisie)) make up a **tiny minority** of the population.
 <table>
