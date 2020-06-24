@@ -135,6 +135,7 @@
 * [Is the revolutionary DotP a separate material stage apart from lower phased communism?](http://www.reddit.com/r/communism101/comments/2mrkkj/is_the_revolutionary_dotp_a_separate_material/)
 * [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](https://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_stage_of_communism_or_is/)
 * [What about Left Unity? Engels letter to Bebel.](https://www.marxists.org/archive/marx/works/1873/letters/73_06_20.htm)
+
 ## On Ultra-leftism / Left-Communism
 
 * What about the USSR, wasn't it authoritarian? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
@@ -143,6 +144,7 @@
 * [Cockshott - Socialism and surplus - Why the USSR was socialist.](https://www.youtube.com/watch?v=C-T-Fr6DvFw)
 * [Where are communists on the political compass?](https://www.reddit.com/r/communism101/comments/f4a9w9/where_do_communists_fall_on_the_political_spectrum/fhozyg4/)
 * [Lenin - "Left-Wing" Communism: An infantile disorder.](https://www.marxists.org/archive/lenin/works/1920/lwc/) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjob1T8DTNDG7EQaN18eSJ97m)
+* [Western Marxism's martyrdom / purity complex.](https://blackagendareport.com/western-marxism-loves-purity-and-martyrdom-not-real-revolution)
 
 ## Did economic planning work?
 
@@ -481,6 +483,7 @@
 * [Is China a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
   * [What kind of democracy does China have, and how is it different from the west?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answers/81676052?share=0ac8c628&srid=JMzz)
   * In contrast to low US political approval ratings, 96% of Chinese are satisfied with the national government (Edelmans 2016). World Values Surveys says that 83% think the country is run for their benefit rather than for the benefit of special groups. [87% believe their country is headed in the right direction.](https://stalinsmoustache.org/2017/08/09/china-most-confident-and-optimistic-country-in-world-ipsos-survey/) [How is this possible in a one-party state? (TED talk by Eric X Li)](https://www.youtube.com/watch?v=s0YjL9rZyR0)
+  * [Workplace democracy in action in the CPC.](https://threadreaderapp.com/thread/1043159032935006208.html)
   * [How does China’s political system work?](https://www.youtube.com/watch?v=Qu4QTxl9GVw)
   * [How are Chinese leaders elected / chosen? How meristocratic is the system? How do elections differ from those in western bourgeois democracies?](https://www.youtube.com/watch?v=TgpQxVCekgw)
   * [Who runs China? Makeup of the national people's congress.](https://news.cgtn.com/event/2019/whorunschina/index.html)
@@ -511,10 +514,12 @@
 - [The Belt and Road Initiative: the antithesis of Colonialism.](https://qutnyti.wordpress.com/2018/07/16/belt-road-initiative-an-anti-thesis-of-colonialism/)
 - [The war on China : and geopolitical significance of the belt and road initiative](https://izaknovak.wordpress.com/2020/04/17/62/).
 - [China has forgiven over $10B in debt, over half to Cuba](https://www.forbes.com/sites/kenrapoza/2019/05/29/china-has-forgiven-nearly-10-billion-in-debt-cuba-accounts-for-over-half/#7a4116c3615b), but also including > 20 African nations, Pakistan, and Cambodia.
+- [After covid, China suspends debt repayment for 77 countries, promises > $2B USD and medical supplies as aid to help developing countries fight covid.](https://www.globaltimes.cn/content/1190790.shtml)
+- [President Xi pledges coronavirus vaccine to Africa first, helps fund African CDC headquarters.](https://www.globaltimes.cn/content/1191988.shtml)
 - [China forgives over $78M in Cameroon debt](https://edition.cnn.com/2019/02/04/china/cameroon-china-debt-relief-intl/index.html).
 - [China writes off $36m Mozambican debt](https://furtherafrica.com/2017/10/26/china-writes-off-36m-mozambican-debt/).
 - [China writes off substantial amount of Angola debt.](https://www.angop.ao/angola/en_us/noticias/politica/2017/5/23/China-agrees-partial-write-off-Angola-debt,73246665-509c-48a2-ae40-415d3fb65b00.html)
-- [After some of Guangdong landlords evicted a group of Africans, the CPC arrested them, apologized to the African Union, paid for hotels for the migrants, and created additional laws and empowered the police to arrest racist actors.](https://twitter.com/qiaocollective/status/1268236184855216128?s=20)
+- [After a group of Guangdong landlords evicted a group of Africans, the CPC arrested them, apologized to the African Union, paid for hotels for the migrants, passed a series of anti-discrimination laws, and spent weeks going to all the restaurants, landlords, and taxis to warn them of the law.](https://twitter.com/qiaocollective/status/1268237570623799304?s=20)
 - [Nato's new enemy: the CPC.](https://www.rt.com/news/473935-pompeo-nato-china-communist/)
 - [The western media's China hysteria.](https://caitlinjohnstone.com/2020/04/20/msm-china-hysteria-gets-way-crazier-and-dumber/)
 
@@ -801,9 +806,10 @@
     - When asked about the 2018 Migrant caravan, where Border agents tear gassed migrants, Bernie replied, ["not all migrants seeking asylum at the US-Mexico border have a credible claim. "You have to look at it case-by-case."](https://thehill.com/homenews/senate/418398-bernie-sanders-some-migrants-lack-credible-claim-for-asylum)
   - [Believes that Russians are to blame for the failure of US democracy. "Protecting american democracy from foreign invasion."](https://i.imgur.com/GkSXsZY.jpg). [2020 Campaign trail: "Americans are sick and tired of Russian intereferenc in our elections"](https://twitter.com/thehill/status/1230994357236322304)
 - [Why Sanders is not a socialist - Anticonquista ](https://www.youtube.com/watch?v=VbcrJT485r8)
-- [Shills for democrats, campaigned for Hillary Clinton.](https://www.newyorker.com/news/amy-davidson/bernie-sanderss-hard-fight-for-hillary-clinton) After conceding the 2020 democratic primary to Joe Biden (even after Tara Reide's rape allegations against Biden surfaced), [Sanders tells his supporters that it would be "irresponsible" for progressives to not support Joe Biden.](https://communism.lemmy.ml/pictshare/2dfdmn.png) His support for Biden comes 2 months earlier than the last election when he supported Hillary. When asked about why one of his former secretaries publicly refused to support Biden, Sanders stated, “She is my former press secretary — not on the payroll”. [2](https://apnews.com/a1bfb62e37fe34e09ff123a58a1329fa). “I will do everything I can to help elect Joe,” Sanders continued.
+- [Shills for democrats, campaigned for Hillary Clinton.](https://www.newyorker.com/news/amy-davidson/bernie-sanderss-hard-fight-for-hillary-clinton) After conceding the 2020 democratic primary to Joe Biden (even after Tara Reide's rape allegations against Biden surfaced), [Sanders tells his supporters that it would be "irresponsible" for progressives to not support Joe Biden.](https://communism.lemmy.ml/pictshare/2dfdmn.png) His support for Biden comes 2 months earlier than the last election when he supported Hillary. When asked about why one of his former secretaries publicly refused to support Biden, Sanders stated, “She is my former press secretary — not on the payroll”. [2](https://apnews.com/a1bfb62e37fe34e09ff123a58a1329fa). “I will do everything I can to help elect Joe,” Sanders continued. [Says Biden will be "more receptive to progressives than past democrats."](https://www.cnbc.com/2020/06/09/sanders-biden-more-receptive-to-progressives-than-past-democrats.html) ["I have a better relationship with Joe Biden than I did with Hillary."](https://i.imgur.com/SHJNerc.png)
 - [Equates socialism with US corporate bailouts.](https://www.leftvoice.org/sanders-speech-explains-his-vision-of-socialism-it-sounds-a-lot-like-new-deal-liberalism)
 - [Thanked Jeff Bezos for deigning to raise amazon wages](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqM9uBoBvLLw/v1/600x-1.jpg), Bezos [responds with "you're welcome"](https://pbs.twimg.com/media/DohNI5GUUAAin6q.jpg). 
+- [In the wake of the George Floyd murder, and the call to defund police, Sanders says the country needs "well-trained, well-educated, and well-paid professionals in police departments."](https://i.imgur.com/48YlZbS.jpg)
 - [His election, as well as Medicare-for-all, would, like the new deal, be a bribe between capital and workers in the imperial core: Give us a bigger cut of the profits from exploitation of the global south, and we'll become more invested in preserving the empire](https://www.reddit.com/r/MoreTankieChapo/comments/ew22gi/its_ogre_reformist_capitalism_has_won_guys/ffznca8/).
 - [Paying one half of the poor to kill the other half: Why Marxists should not support Sanders.](https://www.reddit.com/r/communism/comments/f7g3dj/paying_one_half_of_the_poor_to_kill_the_other/)
 
@@ -819,6 +825,7 @@
   - [Says its possible to be both a "democratic socialist" and a Capitalist. ](https://www.msnbc.com/mtp-daily/watch/aoc-can-you-be-a-democratic-socialist-and-a-capitalist-it-s-possible-1439125059571?fbclid=IwAR1PmnyrP28stOyVqNP5Bf4vjqEtV5S4MXQIY4sDgcv-XWgEn1u5Z0ne3J8)
   - [Thinks the US military is socialist. Thinks social services like schools and libraries are socialist.](https://i.imgur.com/JHOZDlg.png)
   - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
+  - [Defends the NYPD during the George Floyd protests, since there are women, black, latino and asian american cops.](https://i.imgur.com/FT8GMTf.png)
   - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
   - [As of 2020, replaces some of her more radical staff with political professionals, breaks with Sanders, calling his strategy too "conflict based", wants to start working more with establishment Dems.](https://www.politico.com/news/2020/03/30/new-aoc-divides-the-left-150767)
 - [Voted for Trump's 2020 War budget, allocating $738 Billion to military spending (a 3% increase over the previous year).](http://www.idcommunism.com/2019/07/ocasio-cortez-aoc-votes-in-favor-of-trumps-war-budget.html)
@@ -862,7 +869,7 @@
 - [Biden's segregationist anti-busing views](https://twitter.com/MartianMarxist/status/1260067123591700483?s=20)
 - [Biden - We need more arrests, triple the police, prosecuters, judges, and prison cells.](https://twitter.com/areltah/status/1266428868547747848?s=20)
 - [Biden - Lock em' up.](https://twitter.com/BethLynch2020/status/1266810765362843650?s=20)
-- [Biden on George Floyd protesters - "Shoot em in the leg instead of the heart."](https://twitter.com/jaboukie/status/1267565376885448706?s=20)
+- [Biden on George Floyd protesters - "Shoot em in the leg instead of the heart."](https://twitter.com/jaboukie/status/1267565376885448706?s=20) [Then goes on to suggest an additional $300M in funding for police.](https://twitter.com/ajitxsingh/status/1270713176145793024?s=20)
 
 ### Greta Thunberg
 
@@ -993,6 +1000,14 @@
 - https://jacobinmag.com/2019/12/corporate-mindfulness-ron-purser-interview/
 - https://www.cbc.ca/radio/tapestry/mcmindfulness-and-the-case-for-small-talk-1.5369984/mcmindfulness-how-capitalism-hijacked-the-buddhist-teaching-of-mindfulness-1.5369991
 
+### /r/MoreTankieChapo
+
+- [Trolling threads on /r/communism, and banning pro-China posters. Banned one person for pointing out their discord stickied Obama's anti-China docu and said it was "required watching"](https://www.reddit.com/r/communism/comments/fgdjpc/does_going_against_western_propaganda_ever_make/fk47f81/)
+-  Had a "no-dengism" rule on their official subreddit sidebar for over a year. 
+- [Banned me for supporting Stalin.](https://i.imgur.com/gBzROhU.png, https://www.reddit.com/r/MoreTankieChapo/comments/fdfyr8/why_is_this_liberal_allowed_to_be_a_mod_thought/)
+- [Purging their sub off any pro-CPC posters](https://www.reddit.com/r/MoreTankieChapo/comments/gyx1nv/reminder_about_rules_1_and_7/) After a community backlash, they removed the anti dengism rule and one of the mods, [but still continued bans on pro China posters.](https://reddit.com/r/sendinthetanks/comments/gzdmyw/welcome_to_the_newly_banned/ftg1l30) 
+- [Quick TLDR](https://www.reddit.com/r/sendinthetanks/comments/gzjn3i/what_is_happening_in_rmoretankiechapo/).
+
 ### Others
 
 - [What is Antifa? (Olly)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
@@ -1011,5 +1026,4 @@
 - Prysner - [1](https://twitter.com/Duophile/status/1256563958141591556?s=20)
 - [Omar](https://electronicintifada.net/blogs/ali-abunimah/ilhan-omar-backs-israel-lobby-campaign-against-iran) [2](https://twitter.com/hansalexrazo/status/1258473006419959808?s=20), [3](https://www.washingtonexaminer.com/news/ilhan-omar-says-her-political-role-model-is-inspirationally-bold-margaret-thatcher)
 - [Bordiga](https://libcom.org/forums/history/bordiga-leninist-who-put-his-hopes-axis-27122017)
-- MTC: https://www.reddit.com/r/communism/comments/fgdjpc/does_going_against_western_propaganda_ever_make/fk47f81/ , https://i.imgur.com/gBzROhU.png
 - CPUSA [1](https://www.peoplesworld.org/article/bidens-crisis-presidency-and-potential-for-transformative-change/), [2](https://www.peoplesworld.org/article/biden-and-sanders-establish-task-force-to-unite-party-on-progressive-agenda/), [3](https://www.peoplesworld.org/article/a-clear-shot-shows-diversity-on-police-forces-a-good-thing/)

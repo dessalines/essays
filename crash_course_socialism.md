@@ -228,6 +228,8 @@ In Marxist philosophy, [cultural hegemony](https://en.wikipedia.org/wiki/Cultura
 
 The police in Western bourgeois democracies are the [domestic enforcement arm of the capitalists](acab.md), much like the military is the external imperialist enforcement arm. They are the hired goons of the elites of their given city, protecting their factories and workplaces from unionization and worker control, oppressing the poor and homeless, and keeping them separated from other workers by intentional impoverishment via legal means. Cops have [a long history of killing workers and crushing unions](us_atrocities.md#workers-and-the-poor).
 
+Many of the largest corporations in the US, [openly bankroll police departments](https://news.littlesis.org/2020/06/18/corporate-backers-of-the-blue-how-corporations-bankroll-u-s-police-foundations/), helping them buy surveillance equipment, defensive gear, and military weaponry.
+
 ## The State, and Revolution
 
 Private ownership of the means of production was established through force and [private tyranny](https://www.youtube.com/watch?v=FVt7U2YIgZs), and is only upheld through force. The state is a **special organization of force used for the suppression of one class by another** which (in capitalist society) exercises a monopoly on violence to forcibly maintain the right to private property. The modern state developed alongside the emergent capitalist system as the bourgeoisie seized political and economic control. It arises from the irreconcilable class antagonisms that exist in society.
