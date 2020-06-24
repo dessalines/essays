@@ -512,7 +512,7 @@ Notes :
 - [x] Smedly Butler
 - [x] https://en.wikipedia.org/wiki/United_States_involvement_in_regime_change
 - [ ] https://www.globalresearch.ca/us-has-killed-more-than-20-million-people-in-37-victim-nations-since-world-war-ii/5492051
-- [ ] Skim through settlers
+- [ ] [Skim through settlers](http://readsettlers.org/)
 - [ ] https://www.reddit.com/r/AskReddit/comments/fn1uvi/whats_the_most_fucked_up_thing_the_us_government/
 - [ ] https://www.ncbi.nlm.nih.gov/pubmed/16754432
 - [ ] http://download.people.com.cn/waiwen/eight15840920921.pdf
