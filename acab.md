@@ -20,6 +20,8 @@ Sorry I'm so amped about this but they just murdered a [14 year old in Phoenix, 
 
 [ACAB](https://i.imgur.com/LeKwBWt.jpg)
 
+[Confessions of a former bastard cop.](https://medium.com/@OfcrACab/confessions-of-a-former-bastard-cop-bb14d17bc759)
+
 [List of atrocities committed by US authorities.](https://github.com/dessalines/essays/blob/master/us_atrocities.md)
 
 ---
