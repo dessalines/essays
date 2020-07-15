@@ -997,6 +997,7 @@
 ### VaushV
 
 - Vaush on LGBT and Trans people: ["The left community online, **particularly the LGBT community**, is cancerous as fuck"](https://twitter.com/lporiginalg/status/1230667829537427462?s=20) "You don't have to be a psychologist to see that a large portion of the broader woket--d cancel-culture idpol left, is predicated on **shared mental illness**. This is **particularly prevalent in the trans community.** If you disagree with me on this, you're wrong. [...] These people are sub-human."
+- [Vaush says in his discord that: "if trans people didn't exist, my notification feed would be a lot better". Rails on about "trans-advocates".](https://i.imgur.com/lR5NhnF.png)
 - [Compares the purchase of a computer to the purchase of child-porn.](https://www.reddit.com/r/ShitLiberalsSay/comments/g7bwgd/famous_breadtuber_vaush_i_cant_blame_people_for/)
 - [Defends using the N-word as a "power-move" which he is unashamed of.](https://i.imgur.com/ExE1sFZ.jpg)
 - Calls people ["Mentally ill crybabies"](https://i.imgur.com/T0RnOCC.jpg), "Woke-Scolds", and "Simps".
