@@ -350,6 +350,7 @@
 * [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
 * [What about Stalin? Didn't he kill millions? (Revleft podcast on Stalin)](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 * [Was Stalin's USSR State Capitalist?](http://www.reddit.com/r/communism101/comments/383c4i/was_stalins_ussr_state_capitalist/)
+* [What about the term tankies / stalinists? What's the meaning of the term?](https://www.reddit.com/r/communism101/comments/dm2mbz/on_tankies/) [What about the 1956 Hungarian revolt?](https://www.reddit.com/r/communism101/comments/dh6nyi/why_was_the_hungarian_uprising_crushed_by_the_ussr/), [2](https://www.reddit.com/r/communism101/comments/ht4z8a/hungarian_revolution_in_1956/). [MI6 trained the hungarian opposition to fight soviets in the 1956 revolt.](http://archive.is/fMAzu)
 * [Hakim - Why the USSR was socialist - A critique of left-communism.](https://www.youtube.com/watch?v=CKggZ22izDs)
 * [Did Stalin really try to resign 4 times?](https://socialistmlmusings.wordpress.com/2017/02/23/stalins-four-attempts-at-resignation/)
 * [Why were there prison labor camps in the USSR and were they justified?](http://www.reddit.com/r/communism101/comments/2hkn8r/why_were_there_prison_labor_camps_in_the_ussr_and/)
@@ -421,6 +422,8 @@
 
 ### [Did the citizens of the Soviet Union dislike their government?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_5.3A_everybody_hated_socialism)
 - [66% of Russians polled in 2015 want the USSR back.](https://www.rferl.org/a/russian-regret-at-soviet-collapse-stands-at-14-year-high-poll-shows/29664759.html) The story is the same for all the former eastern-bloc countries: [72% of Hungarians say their country is worse off now than under communism, 57% of East Germans, 63% of Romanians, 77% of Czechs, 81% of Serbs (for Yugoslavia), 70% of Ukrainians, 60% of Bulgarians](https://medium.com/@rsahthion/communist-nostalgia-as-the-reality-of-bourgeois-democracy-hits-home-in-eastern-europe-3960aa341560). [A twitter thread.](https://twitter.com/HasBezosDecided/status/1279757591690838017)
+- [81% of Serbs want Yugoslavia back.](https://balkaninsight.com/2010/12/24/for-simon-poll-serbians-unsure-who-runs-their-country/)
+- [72% of Hungarians say they were better off under communism, 71% say intergration into the EU has weakened their country.](https://www.pewresearch.org/fact-tank/2010/04/28/hungary-better-off-under-communism/)
 - [Bulgaria's plummeting birth rate after the fall of the soviet bloc.](https://balkaninsight.com/2020/07/09/bulgaria-writes-new-chapter-in-long-story-of-demographic-decline/)
 - [*Homesick for a Dictatorship*](http://www.spiegel.de/international/germany/homesick-for-a-dictatorship-majority-of-eastern-germans-feel-life-better-under-communism-a-634122.html) 
 - [*60% of Russians Want Communism Back*](https://web.archive.org/web/20140223044330/http://www.systemiccapital.com/60-percent-of-russians-want-communism-back/) 
@@ -465,49 +468,51 @@
 * [Vijay Prashad and Qiao Collective - On the covid timeline, and US Sinophobia.](https://www.qiaocollective.com/home/conversation-vijay-prashad)
 * [Did China hide covid?](https://www.peoplesworld.org/article/trumps-blame-china-campaign-is-an-effort-to-dodge-responsibility/)
 * [Taimur Rahman - How China beat the Coronavirus.](https://www.youtube.com/watch?v=HN8bKQOyw_Q)
+* [What about the suicide nets at Foxconn?](https://www.reddit.com/r/Sino/comments/dnafal/question_suicide_nets/)
 
 ### Is China State Capitalist?
 
 *Much credit to /u/bayarea415*
 
-* [A China misinformation Megathread.](https://old.reddit.com/r/communism/comments/c2b7ma/china_megathread_everything_a_leftist_must_know/)
+* [The backbone of the economy is state ownership and socialist planning. 24 / 25 of the top revenue companies are state-owned and planned.](https://www.reddit.com/r/communism101/comments/8hdbib/how_is_china_communist_if_it_has_a_ton_of_private/dyj082s/) [70% of the top 500 companies are State-owned](https://chinapower.csis.org/chinese-companies-global-500/). [1](https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission#Central_SOEs), [2](https://en.wikipedia.org/wiki/List_of_largest_Chinese_companies)
 * [Is modern day china communist? Is it staying true to communist values?](https://www.reddit.com/r/communism101/comments/91liw2/how_is_china_staying_true_to_communist_values/e2z3kzu/)
-  * [Didn't China go Capitalist with Deng Xiaoping? Didn't it liberalize its economy? Is China's drastic decrease in poverty a result of the increase in free market capitalist policies?](https://www.reddit.com/r/DebateCommunism/comments/b3gjfe/chinas_drastic_decrease_in_poverty_is_a_result_of/ey8depl/?context=3)
-  * [Is the CPC committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
-  * [The Long Game and Its Contradictions](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4).
-  * [The backbone of the economy is state ownership and socialist planning. 24 / 25 of the top revenue companies are state-owned and planned.](https://www.reddit.com/r/communism101/comments/8hdbib/how_is_china_communist_if_it_has_a_ton_of_private/dyj082s/) [70% of the top 500 companies are State-owned](https://chinapower.csis.org/chinese-companies-global-500/). [1](https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission#Central_SOEs), [2](https://en.wikipedia.org/wiki/List_of_largest_Chinese_companies)
-  * [The myth of Chinese state capitalism. Did Deng really betray Chinese socialism?](http://www.greanvillepost.com/2015/08/20/the-myth-of-chinese-capitalism-2/)
-  * [Do capitalists control the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
-  * [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
-  * [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/) [Why are many billionaires and CEOs going missing?](https://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html) [China sentences Ex-Chairman of a major bank, guilty of embezzling ~$100M USD, to death in 2019.](https://www.bloomberg.com/news/articles/2019-12-27/china-sentences-ex-chairman-of-troubled-hengfeng-bank-to-death)
-  * [How the State runs business in China.](https://www.theguardian.com/world/2019/jul/25/china-business-xi-jinping-communist-party-state-private-enterprise-huawei)
-  * [50% of the economy is in the socialist public sector and directly follows the plan (40% if you ignore the agricultural sector). 20 to 30% is inside the state capitalist sector, which is the sector partially or totally owned by domestic capitalists but run by the CPC or by local workers councils. The rest is made up of the small bourgeois ownership like in the NEP.](https://chinareporting.blogspot.com/2009/11/class-nature-of-chinese-state-critique_26.html)
-  * [China pushing forward Marxist training in colleges, attracts 1M students.](http://www.globaltimes.cn/content/988795.shtml)
-  * [China tells the US that it has no plans to weaken the role of its State-Owned-Enterprises, one of the US's main demands in the trade war. "Beijing plans to make the state economy stronger, bigger, and better."](https://www.scmp.com/economy/china-economy/article/3038993/china-wont-give-its-state-led-economic-model-top-trade?fbclid=IwAR2ys8_Y_6Nxq2x__BM4SoKdR63it7X_JRy1XJdkLw4QrK0VQ77mXYyrcks)
+* [Didn't China go Capitalist with Deng Xiaoping? Didn't it liberalize its economy? Is China's drastic decrease in poverty a result of the increase in free market capitalist policies?](https://www.reddit.com/r/DebateCommunism/comments/b3gjfe/chinas_drastic_decrease_in_poverty_is_a_result_of/ey8depl/?context=3)
+* [Is the CPC committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
+* [The Long Game and Its Contradictions](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4).
+* [The myth of Chinese state capitalism. Did Deng really betray Chinese socialism?](http://www.greanvillepost.com/2015/08/20/the-myth-of-chinese-capitalism-2/)
+* [Do capitalists control the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
+* [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
+* [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/) [Why are many billionaires and CEOs going missing?](https://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html) [China sentences Ex-Chairman of a major bank, guilty of embezzling ~$100M USD, to death in 2019.](https://www.bloomberg.com/news/articles/2019-12-27/china-sentences-ex-chairman-of-troubled-hengfeng-bank-to-death)
+* [How the State runs business in China.](https://www.theguardian.com/world/2019/jul/25/china-business-xi-jinping-communist-party-state-private-enterprise-huawei)
+* [50% of the economy is in the socialist public sector and directly follows the plan (40% if you ignore the agricultural sector). 20 to 30% is inside the state capitalist sector, which is the sector partially or totally owned by domestic capitalists but run by the CPC or by local workers councils. The rest is made up of the small bourgeois ownership like in the NEP.](https://chinareporting.blogspot.com/2009/11/class-nature-of-chinese-state-critique_26.html)
+* [China pushing forward Marxist training in colleges, attracts 1M students.](http://www.globaltimes.cn/content/988795.shtml)
+* [China tells the US that it has no plans to weaken the role of its State-Owned-Enterprises, one of the US's main demands in the trade war. "Beijing plans to make the state economy stronger, bigger, and better."](https://www.scmp.com/economy/china-economy/article/3038993/china-wont-give-its-state-led-economic-model-top-trade?fbclid=IwAR2ys8_Y_6Nxq2x__BM4SoKdR63it7X_JRy1XJdkLw4QrK0VQ77mXYyrcks)
+* [A China misinformation Megathread.](https://old.reddit.com/r/communism/comments/c2b7ma/china_megathread_everything_a_leftist_must_know/)
  
 ### Is China a Democracy?
 
 * [Is China a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
-  * [What kind of democracy does China have, and how is it different from the west?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answers/81676052?share=0ac8c628&srid=JMzz)
-  * In contrast to low US political approval ratings, 96% of Chinese are satisfied with the national government (Edelmans 2016). World Values Surveys says that 83% think the country is run for their benefit rather than for the benefit of special groups. [A Harvard research center study of long-term public opinion survey finds that > 95% of Chinese citizens approved their government.](https://news.harvard.edu/gazette/story/2020/07/long-term-survey-reveals-chinese-government-satisfaction/) [How is this possible in a one-party state? (TED talk by Eric X Li)](https://www.youtube.com/watch?v=s0YjL9rZyR0)
-  * 
-  * [Workplace democracy in action in the CPC.](https://threadreaderapp.com/thread/1043159032935006208.html)
-  * [How does China’s political system work?](https://www.youtube.com/watch?v=Qu4QTxl9GVw)
-  * [How are Chinese leaders elected / chosen? How meristocratic is the system? How do elections differ from those in western bourgeois democracies?](https://www.youtube.com/watch?v=TgpQxVCekgw)
-  * [Who runs China? Makeup of the national people's congress.](https://news.cgtn.com/event/2019/whorunschina/index.html)
-  * [US policy-makers are misjudging popular support China's Government.](https://www.marketwatch.com/story/these-numbers-show-just-how-much-the-lives-of-everyday-chinese-have-improved-in-recent-decades-2019-10-02)
-  * [The american dream is alive... in China.](https://www.nytimes.com/interactive/2018/11/18/world/asia/china-social-mobility.html)
-* Some stats: 
-  * [The real wage (IE the wage adjusted for the prices you pay) has gone up 4x in the past 25 years, more than any other country. This is staggering considering it's the most populous country on the planet. The US real wage by comparison is lower in 2019 than it was in 1973.](https://www.youtube.com/watch?v=Cw8SvK0E5dI)
-  * [US Life expectancy peaked in 2015, is on the decline, and is now lower than in China.](https://www.businessinsider.com/china-boasts-that-its-healthy-life-expectancy-beats-the-us-is-correct-2018-5) [2](http://www.xinhuanet.com/english/2019-09/07/c_138372963.htm) 
-    * How [healthcare works in China (refuting a fearmongering NYT video about health care in China)](https://www.youtube.com/watch?v=mvpo2jv5eqI).
-    * [Uninsured Chinese citizens pay an average of $5-7 to see a specialist (the majority of hospital visits ), and with insurance, its free. 95% of Chinese citizens have insurance](https://hotpot.team/new-york-times-lies/)
-  * [Wages themselves are forced to rise in the private sector by the CPC (+16% every years, +400% since 1980) who force the capitalists to accept the presence of CPC chapters who represent the interest of the workers, increasing workers control even in the capitalist parts of the economy. ](https://www.workers.org/2015/07/21/china-rising-wages-and-worker-militancy/#.WXOlQtPytsM)
-  * [Eliminated Urban Poverty. On track to eliminate all poverty within a decade.](https://www.theguardian.com/business/economics-blog/2015/aug/19/china-poverty-inequality-development-goals)
-  * [Trade union laws of the PRC.](https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/30352/118793/F1165849917/CHN30352%202.pdf)
-  * [The west views China as one big sweatshop, but the actual working hours aren't much more than anywhere else. The average for a migrant worker (most vulnerable to exploitation as they are traveling from the countryside) is 8.8 hours, little under an hour more than a typical working day. Labor strikes are rarely suppressed, and usually get the support of the PRC.](https://www.forbes.com/sites/mitchfree/2013/07/11/held-hostage-entrepreneurs-uneasy-over-chinese-govt-inaction/#2431f5463de4)
-  * [The workplace safety standards of China are better than in the capitalist countries of the West like in Australia who have an higher rate of work related death despite having a GDP per capita 3-5 times higher.](http://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/)
-  * [In a typical example of proletarian police accountability, the CPC sentences a police officer to death for killing a pregnant woman in a restaurant in southern China.](https://www.bbc.com/news/world-asia-26230765)
+* [Workplace democracy in action in the CPC.](https://threadreaderapp.com/thread/1043159032935006208.html)
+* [What kind of democracy does China have, and how is it different from the west?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answers/81676052?share=0ac8c628&srid=JMzz)
+* In contrast to low US political approval ratings, 96% of Chinese are satisfied with the national government (Edelmans 2016). World Values Surveys says that 83% think the country is run for their benefit rather than for the benefit of special groups. [A Harvard research center study of long-term public opinion survey finds that > 95% of Chinese citizens approved their government.](https://news.harvard.edu/gazette/story/2020/07/long-term-survey-reveals-chinese-government-satisfaction/) [How is this possible in a one-party state? (TED talk by Eric X Li)](https://www.youtube.com/watch?v=s0YjL9rZyR0)
+* [How does China’s political system work?](https://www.youtube.com/watch?v=Qu4QTxl9GVw)
+* [How are Chinese leaders elected / chosen? How meristocratic is the system? How do elections differ from those in western bourgeois democracies?](https://www.youtube.com/watch?v=TgpQxVCekgw)
+* [Who runs China? Makeup of the national people's congress.](https://news.cgtn.com/event/2019/whorunschina/index.html)
+* [US policy-makers are misjudging popular support China's Government.](https://www.marketwatch.com/story/these-numbers-show-just-how-much-the-lives-of-everyday-chinese-have-improved-in-recent-decades-2019-10-02)
+* [The american dream is alive... in China.](https://www.nytimes.com/interactive/2018/11/18/world/asia/china-social-mobility.html)
+
+### Workers rights
+
+* [The real wage (IE the wage adjusted for the prices you pay) has gone up 4x in the past 25 years, more than any other country. This is staggering considering it's the most populous country on the planet. The US real wage by comparison is lower in 2019 than it was in 1973.](https://www.youtube.com/watch?v=Cw8SvK0E5dI)
+* [US Life expectancy peaked in 2015, is on the decline, and is now lower than in China.](https://www.businessinsider.com/china-boasts-that-its-healthy-life-expectancy-beats-the-us-is-correct-2018-5) [2](http://www.xinhuanet.com/english/2019-09/07/c_138372963.htm) 
+  * How [healthcare works in China (refuting a fearmongering NYT video about health care in China)](https://www.youtube.com/watch?v=mvpo2jv5eqI).
+  * [Uninsured Chinese citizens pay an average of $5-7 to see a specialist (the majority of hospital visits ), and with insurance, its free. 95% of Chinese citizens have insurance](https://hotpot.team/new-york-times-lies/)
+* [Wages themselves are forced to rise in the private sector by the CPC (+16% every years, +400% since 1980) who force the capitalists to accept the presence of CPC chapters who represent the interest of the workers, increasing workers control even in the capitalist parts of the economy. ](https://www.workers.org/2015/07/21/china-rising-wages-and-worker-militancy/#.WXOlQtPytsM)
+* [Eliminated Urban Poverty. On track to eliminate all poverty within a decade.](https://www.theguardian.com/business/economics-blog/2015/aug/19/china-poverty-inequality-development-goals)
+* [Trade union laws of the PRC.](https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/30352/118793/F1165849917/CHN30352%202.pdf)
+* [The west views China as one big sweatshop, but the actual working hours aren't much more than anywhere else. The average for a migrant worker (most vulnerable to exploitation as they are traveling from the countryside) is 8.8 hours, little under an hour more than a typical working day. Labor strikes are rarely suppressed, and usually get the support of the PRC.](https://www.forbes.com/sites/mitchfree/2013/07/11/held-hostage-entrepreneurs-uneasy-over-chinese-govt-inaction/#2431f5463de4)
+* [The workplace safety standards of China are better than in the capitalist countries of the West like in Australia who have an higher rate of work related death despite having a GDP per capita 3-5 times higher.](http://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/)
+* [In a typical example of proletarian police accountability, the CPC sentences a police officer to death for killing a pregnant woman in a restaurant in southern China.](https://www.bbc.com/news/world-asia-26230765)
 * [The US is losing to China: “Washington is actually far more corrupt than Beijing. If you want to get something done in Washington, you do what you do in Jakarta: just slip some money to the right people.”]( https://www.forbes.com/sites/eamonnfingleton/2014/11/12/obama-in-china-taking-candy-from-a-baby/#27d9d3c1231e)
 * [China surpasses the US as of 2015 as the world's largest global trading partner.](https://twitter.com/Anonylyzer13/status/1221033018355113984)
 * [China 9 years ahead of schedule on meeting its Paris agreement climate change goals. ](https://www.newscientist.com/article/2211366-china-is-on-track-to-meet-its-climate-change-goals-nine-years-early/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news)
@@ -519,6 +524,7 @@
 - [Is China really imperialist? What's the difference between what Europe did to Africa, and what China is doing?](https://www.reddit.com/r/GenZedong/comments/g0lp70/people_are_saying_that_china_is_colonialist_by/fnanq5x/)
 - [Yanis Varoufakis on China's foreign policy dealings with Greece and Africa](https://www.youtube.com/watch?v=PBgbYQ5QAM0).
 - [Vijay Prashad and Qiao Collective - Is China imperializing Africa?](https://www.qiaocollective.com/home/conversation-vijay-prashad)
+- [Danny Haiphong from BlackAgenaReport interview with Anya Parampil from thegrayzone: on the new cold war, and a myriad of lies about China.](https://thegrayzone.com/2020/08/24/42711/)
 - [The Belt and Road Initiative: the antithesis of Colonialism.](https://qutnyti.wordpress.com/2018/07/16/belt-road-initiative-an-anti-thesis-of-colonialism/)
 - [The war on China : and geopolitical significance of the belt and road initiative](https://izaknovak.wordpress.com/2020/04/17/62/).
 - [China has forgiven over $10B in debt, over half to Cuba](https://www.forbes.com/sites/kenrapoza/2019/05/29/china-has-forgiven-nearly-10-billion-in-debt-cuba-accounts-for-over-half/#7a4116c3615b), but also including > 20 African nations, Pakistan, and Cambodia.
@@ -537,6 +543,7 @@
 - The extradition bill came about when a [man from Hong Kong killed his pregnant girlfriend while in holiday in Taiwan.](https://www.reddit.com/r/communism101/comments/c1nxga/opinions_on_hong_kong_protests/ered9wl/) [1](https://www.scmp.com/news/hong-kong/law-and-crime/article/3008099/sentence-man-who-killed-girlfriend-taiwan-sets) He fled back to Hong Kong. Taiwan asked for him to be extradited, but Hong Kong did not have an extradition treaty with Taiwan, so the administration in Hong Kong proposed a bill that would allow Taiwan, the PRC, and Macau to request extradition, which the judiciary in Hong Kong can then approve. [There were 49 crimes that were to be included in the bill that would allow extradition requests.](https://qz.com/1636663/the-37-crimes-included-in-hong-kongs-proposed-extradition-law/) Some of these were financial crimes (Hong Kong is a popular tax haven for billionaires), and the Capitalists in Hong Kong shit themselves because they are often in breach of PRC law, but protected by Hong Kong's independence as a Special Administrative Region. This bill is completely reasonable, and any fears of the PRC taking over or of the extradition of 'political' criminals is unfounded. The US is encouraging the organizers to keep protesting in order to provoke the administration in Hong Kong to crack down on them, so that they can blame China and keep up their propaganda narrative that 'CHINA BAD!' [More here.](https://www.scmp.com/news/hong-kong/law-and-crime/article/3008099/sentence-man-who-killed-girlfriend-taiwan-sets)
 - [AntiConquista - the History of Hong Kong, and the nature of the protest movement, and who's funding it.](https://invidio.us/watch?v=hY8rCElJ4nQ)
 - [The Hong Kong Protests: Irrational chaos](https://invidio.us/watch?v=PCokRDKR89c).
+- [Bayarea415 on The Hong Kong Protests, and color revolutions](https://www.youtube.com/watch?v=ClKkoteV1ts).
 - [Hong Kong - The Protest movement unmasked. (Also gets into the inequality and housing crisis driving the movement)](https://invidio.us/watch?v=0CUgy-Hzyfo&local=1&nojs=0&player_style=youtube&quality=dash)
 - [The US has admitted that it’s funding the protests](https://www.globalresearch.ca/us-now-admits-funding-occupy-central-hong-kong/5405680). [Hong Kong Human Rights Monitor and HKCTU, along with 68 other Hong Kong “democratic right” organizations earn hundreds of thousands every year from State Department funded NGOs.](https://twitter.com/redniangzijun/status/1137901349750939648)
 - [American government officials caught ON CAMERA colluding with HK protest leaders.](https://www.reddit.com/r/socialism/comments/cndqwh/hk_protest_leaders_caught_meeting_with_us_chief/?utm_source=share&utm_medium=ios_app)
@@ -772,6 +779,7 @@
   - [George Padmore](https://en.wikipedia.org/wiki/George_Padmore), Trinidadian journalist and anti-imperialist campaigner.
 - His books Animal Farm and 1984 are used widely as anti-communist propaganda in schools in the US and UK. So much so that [his animated animal farm film was funded by the CIA](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/).  There's a reason they teach George Orwell in schools and not Franz Fanon, Che, Huey P Newton, Malcolm X, Lenin, CLR James, etc. 
 - [Orwell, anti-communist: A criticism of Orwell and his Work - By Isaac Asimov.](http://www.newworker.org/ncptrory/1984.htm)
+- [Orwell - "I have never really disliked Hitler."](https://twitter.com/SarahTheHaider/status/1300360063845126144?s=20)
 - [Rainer Shea - Orwells 1984 - Anti-communist propaganda.](https://medium.com/@rainershea612/orwells-1984-is-a-deeply-paranoid-piece-of-anti-communist-propaganda-15a741c85d9a)
 - [Orwell worked as a British imperial cop in Burma for 5 years](http://factsanddetails.com/southeast-asia/Myanmar/sub5_5e/entry-3083.html). His short story, [Shooting an Elephant](http://www.denisedrespling.com/review-shooting-elephant-george-orwell/), uses ethnic slurs and denigrates burmese people. 
 - [A reddit thread on George Orwell](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/), [Thread #2](https://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/for_those_on_the_right_who_think_orwell_wrote/dpy4zik/).
@@ -917,6 +925,7 @@
 ### Biden
 
 - [Biden on young, black, "super-predators"](https://www.youtube.com/watch?v=seRaSRZKo2U)
+- [Biden - "I don't want to defund the police, we need more police. Trump wants to tho"](https://twitter.com/PplsCityCouncil/status/1297035723485323264?s=20)
 - https://soundcloud.com/katie-halper/joe-bidens-accuser-finally-tells-her-full-story
 - https://twitter.com/BenjaminNorton/status/1251644551367925760
 - https://twitter.com/historic_ly/status/1258861634812067841?s=20
@@ -1052,7 +1061,7 @@
 - Calls people ["Mentally ill crybabies"](https://i.imgur.com/T0RnOCC.jpg), "Woke-Scolds", and "Simps".
 - ["US geopolitical power is important to me personally, because I'm not ready to lose that to China"](https://twitter.com/AlMuntherO_O/status/1260679840698634242?s=20). *got removed*
 - [Is against decolonization.](https://twitter.com/trikstr_/status/1280053214117793792)  "We're not going to fkn leave America, white people are staying... we're not gonna give something back to native Americans... the best way forward is to integrate our communities". Vaush responds to a native person talking about indigenous movements and rights by saying: ["I'll listen to the scientists."](https://twitter.com/guajirx/status/1280314035217588224?s=21)
-[Says: "If you identify as LGBT, then you must consider North Korea your enemy", citing wapo, the geneva US mission, and CIA NK org. Ignores the DPRK's pro-lgbt stances.](https://i.redd.it/nvgx1vz4z3b51.png) [2](https://web.archive.org/web/20050806002431/http://www.korea-dpr.com/faq.htm#20)
+- [Says: "If you identify as LGBT, then you must consider North Korea your enemy", citing wapo, the geneva US mission, and CIA NK org. Ignores the DPRK's pro-lgbt stances.](https://i.redd.it/nvgx1vz4z3b51.png) [2](https://web.archive.org/web/20050806002431/http://www.korea-dpr.com/faq.htm#20)
 - He's in no leftist orgs, plays video games all day, and takes home [$1.5k / month from his subscribers by holding "debates" where he just rants at people.](https://www.patreon.com/vaush)
 - ["Marxism isn't a rejection of liberalism, it's about making it better." ](https://twitter.com/commiefr0g/status/1290343782450434049)
 - [Claims that tankies only exist in "small online circles", ignoring the millions of communists in the global south.](https://twitter.com/duck_azz/status/1291635709154033664?s=20)
@@ -1091,3 +1100,4 @@
 - CPUSA [1](https://www.peoplesworld.org/article/bidens-crisis-presidency-and-potential-for-transformative-change/), [2](https://www.peoplesworld.org/article/biden-and-sanders-establish-task-force-to-unite-party-on-progressive-agenda/), [3](https://www.peoplesworld.org/article/a-clear-shot-shows-diversity-on-police-forces-a-good-thing/)
 - [Ziq](https://web.archive.org/web/20180405002453/https://raddle.me/f/lobby/28422/i-m-stepping-down-as-admin-because-of-some-shit-i-did-emma)
 - [Robert Evans](https://twitter.com/BenjaminNorton/status/1288116233133424648) [2](https://communism.lemmy.ml/pictrs/image/XwBw0R0M59.jpg)
+- [A response to David Harvey's theories of Imperialism by John Smith.](https://urpe.wordpress.com/2018/01/11/a-critique-of-david-harvey-on-imperialism/)

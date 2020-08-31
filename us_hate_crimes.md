@@ -13,6 +13,7 @@
 
 ## Racially motivated
 
+- https://www.reddit.com/r/ChapoTrapHouse/comments/h8kpvq/two_black_men_have_been_found_hanged_in_public_in/ TODO 
 - According to hate crimes researcher Brian Levin, hate crimes in nine US metropolitan areas [have risen by 20%](http://www.nbcnews.com/news/us-news/u-s-hate-crimes-20-percent-2016-fueled-election-campaign-n733306) in the years following Trump's election. <sup>[1](http://www.nbcnews.com/news/us-news/u-s-hate-crimes-20-percent-2016-fueled-election-campaign-n733306) [2](https://theintercept.com/2018/10/27/here-is-a-list-of-far-right-attackers-trump-inspired-cesar-sayoc-wasnt-the-first-and-wont-be-the-last/) [3](https://www.bbc.com/news/world-us-canada-41975573) [4](http://saalt.org/wp-content/uploads/2018/01/Communities-on-Fire.pdf)</sup>
 - US citizens are [7 times more likely to be killed by a far-right extremist than a Muslim attacker.](https://thinkprogress.org/you-are-more-than-7-times-as-likely-to-be-killed-by-a-right-wing-extremist-than-by-muslim-terrorists-417f3c3461db/)
 ---
