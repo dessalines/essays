@@ -343,6 +343,10 @@
 - [Did Stalin 'betray' the revolution? (repost of deleted question)](http://www.reddit.com/r/communism101/comments/1dp6qw/did_stalin_betray_the_revolution_repost_of/)
 - [Why was "Lenin's testament" suppressed by the Party after Lenin's death?](http://www.reddit.com/r/communism101/comments/2lfc5f/why_was_lenins_testament_suppressed_by_the_party/)
 
+## On India
+
+- [An overview of the communist movement in India.](https://www.thetricontinental.org/dossier-32-communist-movement-in-india/)
+
 ## On the USSR
 
 * [Did socialism achieve anything in the USSR?](https://www.reddit.com/r/socialism/comments/86tqdd/but_socialism_doesnt_work_s/dw7qco0/)
@@ -760,6 +764,7 @@
   - [Used philanthropy as a front to generate profits for businesses in the agricultural and health sectors. ](https://mobile.edweek.org/c.jsp?cid=25920011&item=http%3A%2F%2Fapi.edweek.org%2Fv1%2Fblog%2F60%2Findex.html%3Fuuid%3D25408)
 - [Citations Needed - The Not-So-Benevolent Billionaire - Bill Gates and Western Media.](https://soundcloud.com/citationsneeded/episode-45-the-not-so-benevolent-billionaire-bill-gates-and-western-media)
 - [Post from a web developer about Microsoft's monopoly practices in the 1990s.](https://www.reddit.com/r/ragecomics/comments/11c1t1/internet_explorer_rfunny_said_i_should_post_it/c6lbhu2/)
+- [Bill acting like a sociopath in the depositions for Microsofts anti-trust lawsuit](https://arstechnica.com/tech-policy/2020/09/revisiting-the-spectacular-failure-that-was-the-bill-gates-deposition/)
 - [Microsoft crimes masterpost.](https://github.com/dessalines/essays/blob/master/microsoft.md)
 - [How Bill Gates got rich / Is he really evil?](https://www.quora.com/Is-Bill-Gates-evil)
 - [His charities promote corporate interests above health care](http://www.globaljustice.org.uk/sites/default/files/files/resources/gjn_gates_report_june_2016_web_final_version_2.pdf).
@@ -925,7 +930,8 @@
 ### Biden
 
 - [Biden on young, black, "super-predators"](https://www.youtube.com/watch?v=seRaSRZKo2U)
-- [Biden - "I don't want to defund the police, we need more police. Trump wants to tho"](https://twitter.com/PplsCityCouncil/status/1297035723485323264?s=20)
+- [Biden - "I don't want to defund the police, we need more police. Trump wants to tho"](https://twitter.com/PplsCityCouncil/status/1297035723485323264?s=20) [2](https://twitter.com/BethLynch2020/status/1303377661545324545?s=20)
+- ["I have no plans for defense cuts."](https://www.stripes.com/news/us/biden-says-us-must-maintain-small-force-in-middle-east-has-no-plans-for-major-defense-cuts-1.644631)
 - https://soundcloud.com/katie-halper/joe-bidens-accuser-finally-tells-her-full-story
 - https://twitter.com/BenjaminNorton/status/1251644551367925760
 - https://twitter.com/historic_ly/status/1258861634812067841?s=20
@@ -1086,7 +1092,7 @@
 - [Why are socialists against Israel / Zionism?](https://www.youtube.com/watch?v=BT5L4YU_Fl4&feature=youtu.be)
 - [Do most US troops come from poor neighborhoods? (Yes, debunking the heritage foundation debunkers)](https://www.boiseweekly.com/boise/poor-and-uneducated-like-we-thought/Content?oid=933196)
 - [Why communists do not participate in anti-russia hysteria, pushed by the democrats.](https://www.reddit.com/r/communism/comments/90i5yp/why_the_marxist_left_is_opposed_to_and_does_not/), [2](https://www.reddit.com/r/LateStageCapitalism/comments/9vaw8f/-/e9b1kxr)
-- [Is there any real evidence for Russian interference in US elections?](https://www.realclearinvestigations.com/articles/2019/07/05/crowdstrikeout_muellers_own_report_undercuts_its_core_russia-meddling_claims.html)
+- [Is there any real evidence for Russian interference in US elections?](https://www.realclearinvestigations.com/articles/2019/07/05/crowdstrikeout_muellers_own_report_undercuts_its_core_russia-meddling_claims.html) [2](https://thegrayzone.com/2020/05/11/bombshell-crowdstrike-admits-no-evidence-russia-stole-emails-from-dnc-server/)
 - [Why don't communists call trump treasonous? Aren't Putin and Trump collaborating and meddling in US elections?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmcel1/)
 - [Why doesn't X minority just lift themselves up by the bootstraps out of poverty? Response by MLK. ](https://streamable.com/eafqq)
 - [To what extent is modern day Vietnam Socialist?](https://medium.com/@otelocarvalho/socialism-today-in-vietnam-ac22ce2edf47)

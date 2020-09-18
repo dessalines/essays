@@ -329,7 +329,6 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Lenin - “Left-Wing” Communism: an Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/) . [Audiobook](https://www.youtube.com/watch?v=6wtRQaoSlxs&list=PL0-IkmzWbjob1T8DTNDG7EQaN18eSJ97m)
 - [Lenin - Imperialism, the Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/)
 - [Trotsky - Fascism: What it is and how to Fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm)
-- [Trotsky - In Defense of October](https://www.marxists.org/archive/trotsky/1932/11/oct.htm)
 
 ### Marxian economics
 
@@ -344,7 +343,6 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Huey P. Newton - Revolutionary Suicide](https://www.amazon.com/Revolutionary-Suicide-Penguin-Classics-Deluxe/dp/0143105329)
 - [Eduardo Galeano - Open Veins of Latin America](https://www.amazon.com/Open-Veins-Latin-America-Centuries/dp/0853459916/ref=sr_1_1?ie=UTF8&qid=1485894404&sr=8-1&keywords=open+veins+of+latin+america)
 - [Fidel Castro - My Life](https://en.wikipedia.org/wiki/My_Life_(Fidel_Castro_autobiography))
-- [Trotsky - History of the Russian Revolution](https://www.marxists.org/archive/trotsky/1930/hrr/)
 - [Joshua Bloom - Black Against Empire](https://www.amazon.com/Black-against-Empire-Politics-Foundation/dp/0520293282/ref=sr_1_1?ie=UTF8&qid=1485894343&sr=8-1&keywords=black+against+empire)
 - [Parenti - Blackshirts and Reds](https://www.amazon.com/Blackshirts-Reds-Rational-Overthrow-Communism/dp/0872863298)
 
