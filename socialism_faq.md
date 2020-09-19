@@ -1015,13 +1015,13 @@
 
 ### Ruth Bader Ginsberg
 
-- [Ruled against the Oneida tribe over a dispute regarding its territorial claim: "we hold that the tribe cannot unilaterally revive its ancient sovereignty, in whole or in part, over the parcels at issue."](https://michaelleroyoberg.com/uncategorized/on-the-notorious-rbg-and-sherrill/) [2](https://en.wikipedia.org/wiki/City_of_Sherrill_v._Oneida_Indian_Nation_of_New_York)
+- [Ruled against the Oneida tribe over a dispute regarding its territorial claim: "We hold that the tribe cannot unilaterally revive its ancient sovereignty, in whole or in part, over the parcels at issue."](https://michaelleroyoberg.com/uncategorized/on-the-notorious-rbg-and-sherrill/) [2](https://en.wikipedia.org/wiki/City_of_Sherrill_v._Oneida_Indian_Nation_of_New_York)
 - [Helped push through the Atlantic coast pipeline, to allow it to cross through federal lands.](https://www.politico.com/news/2020/06/15/supreme-court-allows-atlantic-coast-pipeline-to-cross-appalachian-trail-320466), [2](https://en.wikipedia.org/wiki/United_States_Forest_Service_v._Cowpasture_River_Preservation_Assn.)
   - [Refused to block keystone XL pipeline.](https://archive.is/5ppOn)
 - [In Brogan v United States, ruled that due process does not apply to those being questioned by law enforcement.](https://en.wikipedia.org/wiki/Brogan_v._United_States)
 - [In her final supreme court decision, helped push through Trump's fast-track deportation bill.](https://www.npr.org/2020/06/25/883312496/supreme-court-sides-with-trump-administration-in-deportation-case), [2](https://en.wikipedia.org/wiki/Department_of_Homeland_Security_v._Thuraissigiam)
 - [On Black Lives Matter / Colin Kaepernick's kneeling protest: "I think its dumb and disrespectful, but I wouldn't lock a person up for doing it."](https://www.cnn.com/2016/10/10/politics/ruth-bader-ginsburg-colin-kaepernick/index.html) Later retracted her statement after receiving public backlash.
-- [Refused to retire in 2014: "Tell me who the president could have nominated this spring that you would rather see on the court than me?"](https://www.reuters.com/article/us-usa-court-ginsburg/u-s-justice-ginsburg-hits-back-at-liberals-who-want-her-to-retire-idUSKBN0G12V020140801)
+- [Refused to retire in 2014 at 81 years old: "Tell me who the president could have nominated this spring that you would rather see on the court than me?"](https://www.reuters.com/article/us-usa-court-ginsburg/u-s-justice-ginsburg-hits-back-at-liberals-who-want-her-to-retire-idUSKBN0G12V020140801)
 
 ### Others
 
