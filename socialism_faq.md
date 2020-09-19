@@ -27,6 +27,7 @@
   * [On Leninism](#on-leninism)
     + [Further reading](#further-reading)
   * [On Trotskyism](#on-trotskyism)
+  * [On India](#on-india)
   * [On the USSR](#on-the-ussr)
     + [Did the Soviet Union repress and kill millions of people?](#did-the-soviet-union-repress-and-kill-millions-of-people)
     + [Did the Soviet Union and the Warsaw pact nations have functioning democracies?](#did-the-soviet-union-and-the-warsaw-pact-nations-have-functioning-democracies)
@@ -36,6 +37,7 @@
   * [On Mao, Maoism, and Marxism-Leninism-Maoism, and the PRC](#on-mao-maoism-and-marxism-leninism-maoism-and-the-prc)
     + [Is China State Capitalist?](#is-china-state-capitalist)
     + [Is China a Democracy?](#is-china-a-democracy)
+    + [Workers rights](#workers-rights)
     + [Is China Imperialist?](#is-china-imperialist)
     + [What about the Hong Kong protests?](#what-about-the-hong-kong-protests)
     + [What about China spying on its own people?](#what-about-china-spying-on-its-own-people)
@@ -76,6 +78,7 @@
       - [Empowering Finance Capital](#empowering-finance-capital)
       - [Mass Imprisonment](#mass-imprisonment)
       - [Mass surveillance](#mass-surveillance)
+    + [Ruth Bader Ginsberg](#ruth-bader-ginsberg)
       - [More](#more)
     + [Others](#others)
   * [Other Topics](#other-topics)
@@ -86,6 +89,7 @@
     + [DSA / Jacobin](#dsa--jacobin)
     + [VaushV](#vaushv)
     + [Buddhism](#buddhism)
+    + [/r/MoreTankieChapo](#rmoretankiechapo)
     + [Others](#others-1)
 
 <!-- tocstop -->
@@ -1004,6 +1008,16 @@
 - [Obama ruthlessly went after and jailed whistleblowers](https://www.sandiegouniontribune.com/opinion/the-conversation/sd-before-trump-obama-prosecuted-leaks-20170804-htmlstory.html), [2](https://www.theguardian.com/us-news/2015/mar/16/whistleblowers-double-standard-obama-david-petraeus-chelsea-manning), indicting [more than all previous presidents combined.](https://www.youtube.com/watch?v=x-iT51XSTgE) [2](https://www.youtube.com/watch?v=wS9TXJqxkSQ), [3](https://www.youtube.com/watch?v=YIWjon88lWc)
   - In 2010, [Chelsea Manning](https://en.wikipedia.org/wiki/Chelsea_Manning) was imprisoned under the espionage act for a series of leaks which embarrassed the US government, including the [July 12, 2007 Baghdad airstrike](https://en.wikipedia.org/wiki/July_12,_2007_Baghdad_airstrike), [Afghan War documents](https://en.wikipedia.org/wiki/Afghan_War_documents_leak), [Iraq War documents leak](https://en.wikipedia.org/wiki/Iraq_War_documents_leak), [US diplomatic cables leak](https://en.wikipedia.org/wiki/United_States_diplomatic_cables_leak), and the [Guantanamo Bay files leak](https://en.wikipedia.org/wiki/Guantanamo_Bay_files_leak). The leak was, in Manning's Words: "possibly one of the most significant documents of our time, removing the fog of war and revealing the true nature of 21st century asymmetric warfare". [1](https://en.wikipedia.org/wiki/Chelsea_Manning)
 - [Encouraged the FBI to use informants to infiltrate US Muslim communities, blocked their exposure by expanding the definition of state secrets.](https://www.colorlines.com/articles/obamas-unprecedented-use-state-secrets-defend-religious-profiling)
+
+### Ruth Bader Ginsberg
+
+- [Ruled against the Oneida tribe over a dispute regarding its territorial claim: "we hold that the tribe cannot unilaterally revive its ancient sovereignty, in whole or in part, over the parcels at issue."](https://michaelleroyoberg.com/uncategorized/on-the-notorious-rbg-and-sherrill/) [2](https://en.wikipedia.org/wiki/City_of_Sherrill_v._Oneida_Indian_Nation_of_New_York)
+- [Helped push through the Atlantic coast pipeline, to allow it to cross through federal lands.](https://www.politico.com/news/2020/06/15/supreme-court-allows-atlantic-coast-pipeline-to-cross-appalachian-trail-320466), [2](https://en.wikipedia.org/wiki/United_States_Forest_Service_v._Cowpasture_River_Preservation_Assn.)
+  - [Refused to block keystone XL pipeline.](https://archive.is/5ppOn)
+- [In Brogan v United States, ruled that due process does not apply to those being questioned by law enforcement.](https://en.wikipedia.org/wiki/Brogan_v._United_States)
+- [In her final supreme court decision, helped push through Trump's fast-track deportation bill.](https://www.npr.org/2020/06/25/883312496/supreme-court-sides-with-trump-administration-in-deportation-case), [2](https://en.wikipedia.org/wiki/Department_of_Homeland_Security_v._Thuraissigiam)
+- [On Black Lives Matter / Colin Kaepernick's kneeling protest: "I think its dumb and disrespectful, but I wouldn't lock a person up for doing it."](https://www.cnn.com/2016/10/10/politics/ruth-bader-ginsburg-colin-kaepernick/index.html) Later retracted her statement after receiving public backlash.
+- [Refused to retire in 2014: "Tell me who the president could have nominated this spring that you would rather see on the court than me?"](https://www.reuters.com/article/us-usa-court-ginsburg/u-s-justice-ginsburg-hits-back-at-liberals-who-want-her-to-retire-idUSKBN0G12V020140801)
 
 #### More
 
