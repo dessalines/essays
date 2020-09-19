@@ -1009,6 +1009,10 @@
   - In 2010, [Chelsea Manning](https://en.wikipedia.org/wiki/Chelsea_Manning) was imprisoned under the espionage act for a series of leaks which embarrassed the US government, including the [July 12, 2007 Baghdad airstrike](https://en.wikipedia.org/wiki/July_12,_2007_Baghdad_airstrike), [Afghan War documents](https://en.wikipedia.org/wiki/Afghan_War_documents_leak), [Iraq War documents leak](https://en.wikipedia.org/wiki/Iraq_War_documents_leak), [US diplomatic cables leak](https://en.wikipedia.org/wiki/United_States_diplomatic_cables_leak), and the [Guantanamo Bay files leak](https://en.wikipedia.org/wiki/Guantanamo_Bay_files_leak). The leak was, in Manning's Words: "possibly one of the most significant documents of our time, removing the fog of war and revealing the true nature of 21st century asymmetric warfare". [1](https://en.wikipedia.org/wiki/Chelsea_Manning)
 - [Encouraged the FBI to use informants to infiltrate US Muslim communities, blocked their exposure by expanding the definition of state secrets.](https://www.colorlines.com/articles/obamas-unprecedented-use-state-secrets-defend-religious-profiling)
 
+#### More
+
+- Search for Obama on this [List of US Atrocities](https://github.com/dessalines/essays/blob/master/us_atrocities.md). [More here](https://www.reddit.com/r/communism101/comments/galon6/anyone_know_of_any_good_resources_on_obamas/fp2nfrx/), [2](https://www.reddit.com/r/communism101/comments/cdamsp/what_are_your_opinions_on_obama/etswenc/), [3](https://twitter.com/wallacemick/status/1261744000396152842?s=20) 
+
 ### Ruth Bader Ginsberg
 
 - [Ruled against the Oneida tribe over a dispute regarding its territorial claim: "we hold that the tribe cannot unilaterally revive its ancient sovereignty, in whole or in part, over the parcels at issue."](https://michaelleroyoberg.com/uncategorized/on-the-notorious-rbg-and-sherrill/) [2](https://en.wikipedia.org/wiki/City_of_Sherrill_v._Oneida_Indian_Nation_of_New_York)
@@ -1018,10 +1022,6 @@
 - [In her final supreme court decision, helped push through Trump's fast-track deportation bill.](https://www.npr.org/2020/06/25/883312496/supreme-court-sides-with-trump-administration-in-deportation-case), [2](https://en.wikipedia.org/wiki/Department_of_Homeland_Security_v._Thuraissigiam)
 - [On Black Lives Matter / Colin Kaepernick's kneeling protest: "I think its dumb and disrespectful, but I wouldn't lock a person up for doing it."](https://www.cnn.com/2016/10/10/politics/ruth-bader-ginsburg-colin-kaepernick/index.html) Later retracted her statement after receiving public backlash.
 - [Refused to retire in 2014: "Tell me who the president could have nominated this spring that you would rather see on the court than me?"](https://www.reuters.com/article/us-usa-court-ginsburg/u-s-justice-ginsburg-hits-back-at-liberals-who-want-her-to-retire-idUSKBN0G12V020140801)
-
-#### More
-
-- Search for Obama on this [List of US Atrocities](https://github.com/dessalines/essays/blob/master/us_atrocities.md). [More here](https://www.reddit.com/r/communism101/comments/galon6/anyone_know_of_any_good_resources_on_obamas/fp2nfrx/), [2](https://www.reddit.com/r/communism101/comments/cdamsp/what_are_your_opinions_on_obama/etswenc/), [3](https://twitter.com/wallacemick/status/1261744000396152842?s=20) 
 
 ### Others
 
