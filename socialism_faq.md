@@ -1023,6 +1023,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 #### Native peoples, immigrants, and treatment of minorities.
 
 - [Ruled against the Oneida tribe over a dispute regarding its territorial claim, her majority opinion stating: "We hold that the tribe cannot unilaterally revive its ancient sovereignty, in whole or in part, over the parcels at issue."](https://michaelleroyoberg.com/uncategorized/on-the-notorious-rbg-and-sherrill/) [2](https://en.wikipedia.org/wiki/City_of_Sherrill_v._Oneida_Indian_Nation_of_New_York)
+- [A podcast by Red Nation, w/ Rebecca Nagle, on the Supreme court's Oklahoma Decision.](https://soundcloud.com/therednationpod/oklahoma-welcome-to-the-rez-w)
 - [Helped push through the Atlantic coast pipeline, to allow it to cross through federal and native lands.](https://www.politico.com/news/2020/06/15/supreme-court-allows-atlantic-coast-pipeline-to-cross-appalachian-trail-320466), [2](https://en.wikipedia.org/wiki/United_States_Forest_Service_v._Cowpasture_River_Preservation_Assn.)
   - [Refused to block keystone XL pipeline.](https://archive.is/5ppOn)
 - [In her final supreme court decision, helped push through Trump's fast-track deportation bill.](https://www.npr.org/2020/06/25/883312496/supreme-court-sides-with-trump-administration-in-deportation-case), [2](https://en.wikipedia.org/wiki/Department_of_Homeland_Security_v._Thuraissigiam)
