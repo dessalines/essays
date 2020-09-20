@@ -78,9 +78,12 @@
       - [Empowering Finance Capital](#empowering-finance-capital)
       - [Mass Imprisonment](#mass-imprisonment)
       - [Mass surveillance](#mass-surveillance)
-    + [Ruth Bader Ginsberg](#ruth-bader-ginsberg)
       - [More](#more)
-    + [Others](#others)
+    + [Ruth Bader Ginsberg](#ruth-bader-ginsberg)
+      - [Native peoples, immigrants, and treatment of minorities.](#native-peoples-immigrants-and-treatment-of-minorities)
+      - [Law and Order](#law-and-order)
+      - [Others](#others)
+    + [Others](#others-1)
   * [Other Topics](#other-topics)
     + [Why are socialists against bitcoin mining?](#why-are-socialists-against-bitcoin-mining)
     + [Did atom bombs really end WW2?](#did-atom-bombs-really-end-ww2)
@@ -90,7 +93,7 @@
     + [VaushV](#vaushv)
     + [Buddhism](#buddhism)
     + [/r/MoreTankieChapo](#rmoretankiechapo)
-    + [Others](#others-1)
+    + [Others](#others-2)
 
 <!-- tocstop -->
 
@@ -1015,12 +1018,31 @@
 
 ### Ruth Bader Ginsberg
 
-- [Ruled against the Oneida tribe over a dispute regarding its territorial claim: "We hold that the tribe cannot unilaterally revive its ancient sovereignty, in whole or in part, over the parcels at issue."](https://michaelleroyoberg.com/uncategorized/on-the-notorious-rbg-and-sherrill/) [2](https://en.wikipedia.org/wiki/City_of_Sherrill_v._Oneida_Indian_Nation_of_New_York)
-- [Helped push through the Atlantic coast pipeline, to allow it to cross through federal lands.](https://www.politico.com/news/2020/06/15/supreme-court-allows-atlantic-coast-pipeline-to-cross-appalachian-trail-320466), [2](https://en.wikipedia.org/wiki/United_States_Forest_Service_v._Cowpasture_River_Preservation_Assn.)
+Much credit to [David Kinder's current affairs article, the rise of the Ruth Bader Ginsburg cult.](https://www.currentaffairs.org/2016/03/the-rise-of-the-ruth-bader-ginsburg-cult)
+
+#### Native peoples, immigrants, and treatment of minorities.
+
+- [Ruled against the Oneida tribe over a dispute regarding its territorial claim, her majority opinion stating: "We hold that the tribe cannot unilaterally revive its ancient sovereignty, in whole or in part, over the parcels at issue."](https://michaelleroyoberg.com/uncategorized/on-the-notorious-rbg-and-sherrill/) [2](https://en.wikipedia.org/wiki/City_of_Sherrill_v._Oneida_Indian_Nation_of_New_York)
+- [Helped push through the Atlantic coast pipeline, to allow it to cross through federal and native lands.](https://www.politico.com/news/2020/06/15/supreme-court-allows-atlantic-coast-pipeline-to-cross-appalachian-trail-320466), [2](https://en.wikipedia.org/wiki/United_States_Forest_Service_v._Cowpasture_River_Preservation_Assn.)
   - [Refused to block keystone XL pipeline.](https://archive.is/5ppOn)
-- [In Brogan v United States, ruled that due process does not apply to those being questioned by law enforcement.](https://en.wikipedia.org/wiki/Brogan_v._United_States)
 - [In her final supreme court decision, helped push through Trump's fast-track deportation bill.](https://www.npr.org/2020/06/25/883312496/supreme-court-sides-with-trump-administration-in-deportation-case), [2](https://en.wikipedia.org/wiki/Department_of_Homeland_Security_v._Thuraissigiam)
 - [On Black Lives Matter / Colin Kaepernick's kneeling protest: "I think its dumb and disrespectful, but I wouldn't lock a person up for doing it."](https://www.cnn.com/2016/10/10/politics/ruth-bader-ginsburg-colin-kaepernick/index.html) Later retracted her statement after receiving public backlash.
+- [RBG hired 1 POC staffer in 25 years. Kavanaugh, a conservative justice, has 25% POC out of his 48 law clerks. One writer noted that Kavanaughs views on affirmative action don't reflect his diverse hiring practices, while Ginsburg's progressive views don't extend to her chambers. This is an improvement from her 13-year tenure on the U.S. Court of Appeals for the DC Circuit, when Ginsburg never had any black clerks. When this issue was raised during her Supreme Court confirmation hearings in 1993, Ginsburg said: “If you confirm me for this job, my attractiveness to black candidates is going to improve.” That promise was ignored.](https://www.nationalreview.com/bench-memos/ruth-bader-ginsburg-can-learn-from-justice-kavanaugh) [2](https://www.washingtonpost.com/opinions/ruth-bader-ginsburg-can-learn-something-from-brett-kavanaugh/2018/10/15/b8974a86-cd77-11e8-a360-85875bac0b1f_story.html)
+- [Her best friend on the court was the most racist, conservative justice in modern times, Scalia.](https://www.currentaffairs.org/2016/03/the-rise-of-the-ruth-bader-ginsburg-cult) In the fawning book *Notorious RBG*, one of the few mentions of race is in the book’s discussion of Bush v. Gore, the contentious decision that decided the 2000 presidential election. The authors mention that Ginsburg’s draft of her dissent had a footnote alluding to the possible suppression of Black voters in Florida. Justice Scalia responded to this draft by flying into a rage, telling Ginsburg that she was using “Al Sharpton tactics.” Ginsburg removed the footnote before it saw the light of day. This anecdote’s inclusion in the book is baffling, as Ginsburg contemplates calling anti-Black racism in the most facile of ways. But when her friend Justice Scalia plucks an argument straight from right-wing talk radio to shame her out of doing so, Ginsburg instantly capitulates. Scalia called the Voting rights act ["racial entitlement"](https://www.newyorker.com/news/amy-davidson/in-voting-rights-scalia-sees-a-racial-entitlement), opposed women's rights, and consistently defended anti-gay measures, yet these views did not stop her calling Scalia her ["best buddy" on the court, their families even spending every new year together.](https://www.vox.com/2016/2/14/10990156/scalia-ginsburg-friends) 
+
+#### Law and Order
+
+- [In Brogan v United States, ruled that due process does not apply to those being questioned by law enforcement.](https://en.wikipedia.org/wiki/Brogan_v._United_States)
+- [In Kansas v. Carr, the Kansas Supreme Court had overturned a pair of death sentences, on the grounds that the defendants’ Eighth Amendment rights had been violated in the instructions given to the jury. The U.S. Supreme swooped in, informing Kansas that it had made a mistake; nobody’s Eighth Amendment rights had been violated, thus the defendants ought to have continued unimpeded along the path toward execution. The Court’s decision was 8-1, with Ginsburg putting her name on Justice Scalia’s majority opinion.](https://en.wikipedia.org/wiki/Kansas_v._Carr)
+- [In Samson v. California, she went against the other liberal judges, on the issue of whether police could conduct warrantless searches of parolees merely because they were on parole. She sided with the police.](https://en.wikipedia.org/wiki/Samson_v._California)
+- [In Heien v. North Carolina, Ginsburg held that the police may justifiably pull over cars if they believe they are violating the law, even if the police are misunderstanding the law, so long as the mistake was reasonable.](https://en.wikipedia.org/wiki/Heien_v._North_Carolina)
+- [In Plumhoff v. Rickard, she concurred with the court that held that the family of two men could not sue the police after they had shot and killed them for fleeing a police stop.](https://en.wikipedia.org/wiki/Plumhoff_v._Rickard)
+- [In Taylor v. Barkes, she concurred with the Court that held that the family of a suicidal man who was jailed and then killed himself could not sue the jail for failing to implement anti-suicide measures.](https://www.scotusblog.com/case-files/cases/taylor-v-barkes/)
+- [As a law and order liberal, she consistently stands with police against outspoken Justice Sotomayer.](https://slate.com/news-and-politics/2015/11/sonia-sotomayor-dissents-in-mullenix-police-shooting-case.html)
+
+#### Others
+
+- [Ruled that temp workers didn't deserve paid compensation for being required to watch amazon's anti-theft videos.](https://en.wikipedia.org/wiki/Integrity_Staffing_Solutions,_Inc._v._Busk)
 - [Refused to retire in 2014 at 81 years old: "Tell me who the president could have nominated this spring that you would rather see on the court than me?"](https://www.reuters.com/article/us-usa-court-ginsburg/u-s-justice-ginsburg-hits-back-at-liberals-who-want-her-to-retire-idUSKBN0G12V020140801)
 
 ### Others
