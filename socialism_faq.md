@@ -597,6 +597,7 @@
 - [Reddit holds yet another AMA with Sophie Richardson, the "China director" at the US soft-power regime change agency Human Rights Watch. The comments expose her as not speaking chinese, and spreading blatant lies about China.](https://www.reddit.com/r/worldnews/comments/hwi7ub/i_am_sophie_richardson_china_director_at_human/)
 - [A case study in Anti-Chinese racism.](https://medium.com/@rsahthion/a-case-study-in-racist-anti-chinese-sentiment-fuelled-by-american-bots-and-western-propaganda-f0a69978d568)
 - [RodericDay - A thread about the key sources for Uyghur Genocide (Especially Adrian Zenz).](https://threadreaderapp.com/thread/1287411708374454273.html)
+- [Zenz makes a claim that 500,000 tibetans (1 out of every 3 working age Tibetans) are in forced labor camps.](https://www.reddit.com/r/GenZedong/comments/ixmy9p/china_has_somehow_put_16_of_the_entire_tibetan/)
 - [Breaking down the BBC's visit to XinJiang.](https://medium.com/@sunfeiyang/breaking-down-the-bbcs-visit-to-hotan-xinjiang-e284934a7aab)
 - [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic). 
 
@@ -946,6 +947,7 @@
 - [Biden - We need more arrests, triple the police, prosecuters, judges, and prison cells.](https://twitter.com/areltah/status/1266428868547747848?s=20)
 - [Biden - Lock em' up.](https://twitter.com/BethLynch2020/status/1266810765362843650?s=20)
 - [Biden on George Floyd protesters - "Shoot em in the leg instead of the heart."](https://twitter.com/jaboukie/status/1267565376885448706?s=20) [Then goes on to suggest an additional $300M in funding for police.](https://twitter.com/ajitxsingh/status/1270713176145793024?s=20)
+- [Biden: "Socialism will never happen here. I beat the socialist ( Sanders, who immediately began campaigning for him )"](https://www.mediaite.com/news/joe-biden-torpedoes-bernie-sanders-in-pitch-to-wisconsin-voters-worried-about-socialism-i-beat-the-socialist/)
 
 ### Greta Thunberg
 
@@ -1016,7 +1018,7 @@
 
 - Search for Obama on this [List of US Atrocities](https://github.com/dessalines/essays/blob/master/us_atrocities.md). [More here](https://www.reddit.com/r/communism101/comments/galon6/anyone_know_of_any_good_resources_on_obamas/fp2nfrx/), [2](https://www.reddit.com/r/communism101/comments/cdamsp/what_are_your_opinions_on_obama/etswenc/), [3](https://twitter.com/wallacemick/status/1261744000396152842?s=20) 
 
-### Ruth Bader Ginsberg
+### Ruth Bader Ginsburg
 
 Much credit to [David Kinder's current affairs article, the rise of the Ruth Bader Ginsburg cult.](https://www.currentaffairs.org/2016/03/the-rise-of-the-ruth-bader-ginsburg-cult)
 
@@ -1024,7 +1026,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 
 - [Ruled against the Oneida tribe over a dispute regarding its territorial claim, her majority opinion stating: "We hold that the tribe cannot unilaterally revive its ancient sovereignty, in whole or in part, over the parcels at issue."](https://michaelleroyoberg.com/uncategorized/on-the-notorious-rbg-and-sherrill/) [2](https://en.wikipedia.org/wiki/City_of_Sherrill_v._Oneida_Indian_Nation_of_New_York)
 - [In Navajo Nation v. United States Forest Service, she ruled against the Navajo nation, who have consistently protested US encroachment of a US forest-service run ski resort on Navajo territory known as the sacred San Francisco Peaks.](https://en.wikipedia.org/wiki/Navajo_Nation_v._United_States_Forest_Service)
-- [In Inyo County v. Paiute-Shoshone Indians, the Paiute tribe asserted that it was against their privacy policy to allow Inyo county district attorneys to investigate their employees. They stated that their tribe's status as a sovereign nation made them immune to state processes under federal law and asserted that the state authorized the seizure of tribal records. RBG concurred with the rest of the supreme court in dismissing their complaint suit.](https://en.wikipedia.org/wiki/Inyo_County_v._Paiute-Shoshone_Indians_of_the_Bishop_Community)
+- [In Inyo County v. Paiute-Shoshone Indians, the Paiute tribe asserted that it was against their privacy policy to allow Inyo county district attorneys to investigate their employees. They stated that their tribe's status as a sovereign nation made them immune to state processes under federal law and asserted that the state authorized the seizure of tribal records. RBG concurred with the supreme court in dismissing their complaint suit.](https://en.wikipedia.org/wiki/Inyo_County_v._Paiute-Shoshone_Indians_of_the_Bishop_Community)
 - [In Salazar_v. Ramah_Navajo Chapter, the issue in question was whether the US government, when it enters into a contract with a Native American (Indian) tribe for services, must pay contracts in full, even if Congress has not appropriated enough money to pay all tribal contractors. In a 5-4 decision, Ginsburg sided with the minority that stated the government shouldn't have to pay.](https://en.wikipedia.org/wiki/Salazar_v._Ramah_Navajo_Chapter)
 - [In Atkinson Trading Co. v. Shirley, the supreme court unanimously ruled against the Navajo nation that charged a hotel occupancy tax for providing services (police, fire, and ambulances) for fee land (non-indian territory within indian territory). The court ruled that the tribe's imposition of a tax upon nonmembers on non-Indian fee land within the reservation was presumptively invalid without establishing that the tax was related to a consensual relationship with Atkinson.](https://en.wikipedia.org/wiki/Atkinson_Trading_Co._v._Shirley)
 - [In Kiowa Tribe of Oklahoma v. Manufacturing Technologies, Ginsburg dissented with the majority, who ruled that an Indian Nation were entitled to sovereign immunity from contract lawsuits, whether made on or off reservation, or involving governmental or commercial activities.](https://en.wikipedia.org/wiki/Kiowa_Tribe_of_Oklahoma_v._Manufacturing_Technologies,_Inc.)
