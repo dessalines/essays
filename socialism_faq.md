@@ -948,6 +948,7 @@
 - [Biden - Lock em' up.](https://twitter.com/BethLynch2020/status/1266810765362843650?s=20)
 - [Biden on George Floyd protesters - "Shoot em in the leg instead of the heart."](https://twitter.com/jaboukie/status/1267565376885448706?s=20) [Then goes on to suggest an additional $300M in funding for police.](https://twitter.com/ajitxsingh/status/1270713176145793024?s=20)
 - [Biden: "Socialism will never happen here. I beat the socialist ( Sanders, who immediately began campaigning for him )"](https://www.mediaite.com/news/joe-biden-torpedoes-bernie-sanders-in-pitch-to-wisconsin-voters-worried-about-socialism-i-beat-the-socialist/)
+- [Biden: "Iraq was a problem that had to be dealt with sooner rather than later."](https://twitter.com/richimedhurst/status/1313831422495465473?s=20)
 
 ### Greta Thunberg
 
