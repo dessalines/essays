@@ -784,7 +784,7 @@
 
 ### What's so bad about George Orwell?
 
-- He's antisemitic, homophobic, and racist. Specifically, [he snitched out Jews, Black people, Homosexuals, and communists to British Intelligence.](https://bennorton.com/george-orwell-list-leftists-snitch-british-government/) His list includes him writing:
+- He's antisemitic, homophobic, and racist. Specifically, [he snitched out Jews, Black people, Homosexuals, and communists to British Intelligence.](https://bennorton.com/george-orwell-list-leftists-snitch-british-government/) His list, [here](https://imgur.com/a/k13y8lv), includes him writing:
   - 8 variations of  “Jewish?” (Charlie Chaplin), “Polish Jew, (Tom Driberg)” “English Jew,” or “Jewess.”
   - [Paul Robeson](https://en.wikipedia.org/wiki/Paul_Robeson) - "ROBESON, Paul (US Negro) ...Very anti-white. [Henry] Wallace supporter."
     - Paul Robeson wasn't anti-white, just look at the welsh coal miners for whom Robeson Campaigned.
@@ -931,13 +931,14 @@
   - [Fought to limit amount of land indigenous tribes could place in trust and tried to take reservation land away from a tribe just to keep them from evicting a non-indigenous man who had lived there without paying rent for 24 years.](https://www.indianz.com/News/2017/10/10/supreme-court-puts-end-to-case-challengi.asp)
 - [Mocks the activist call to “build more schools, less jails”.](https://twitter.com/_waleedshahid/status/1090067362907340800?lang=en)  [Mocks criminal justice reformers as unrealistic.](https://twitter.com/WalkerBragman/status/1089984902706200576).
   - [Says that Kaepernick's take-a-knee protest in support of black lives matter, was a russian op. Claims that "russian bots" are targeting her.](https://twitter.com/zei_squirrel/status/1293286190892888067?s=20)
+  - [Laughs out loud when its suggested that she's a progressive.](https://twitter.com/colbyhall/status/1320522050902122497?s=20)
 - [Voted two different times to block federal funding for abortions.](https://www.politico.com/newsletters/playbook/2019/06/06/guess-who-else-voted-against-federal-funding-for-abortion-443667?cid=su_tw_pb)
 
 ### Pete Buttigieg
 
 - https://www.democracynow.org/2020/2/12/pete_buttigieg_south_bend_black_community
 
-### Biden
+### Joe Biden
 
 - [Biden on young, black, "super-predators"](https://www.youtube.com/watch?v=seRaSRZKo2U)
 - [Biden - "I don't want to defund the police, we need more police. Trump wants to tho"](https://twitter.com/PplsCityCouncil/status/1297035723485323264?s=20) [2](https://twitter.com/BethLynch2020/status/1303377661545324545?s=20)
@@ -951,6 +952,7 @@
 - [Biden on George Floyd protesters - "Shoot em in the leg instead of the heart."](https://twitter.com/jaboukie/status/1267565376885448706?s=20) [Then goes on to suggest an additional $300M in funding for police.](https://twitter.com/ajitxsingh/status/1270713176145793024?s=20)
 - [Biden: "Socialism will never happen here. I beat the socialist ( Sanders, who immediately began campaigning for him )"](https://www.mediaite.com/news/joe-biden-torpedoes-bernie-sanders-in-pitch-to-wisconsin-voters-worried-about-socialism-i-beat-the-socialist/)
 - [Biden: "Iraq was a problem that had to be dealt with sooner rather than later."](https://twitter.com/richimedhurst/status/1313831422495465473?s=20)
+- ["Israel is the best 3B dollar investment we have. If Israel didn't exist, we'd have to go out and invent an Israel."](https://youtu.be/vK-nRcnLdMQ)
 
 ### Greta Thunberg
 
