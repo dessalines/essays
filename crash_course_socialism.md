@@ -392,7 +392,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 ## Documentaries
 
 - [Seeing Red](https://www.youtube.com/watch?v=nhmGVnHxtf0)
-- [Tsar to Lenin](magnet:?xt=urn:btih:02a5f8e618049ddcc8885360abeffd1db562d6d8&dn=Tsar.To.Lenin.720p.x264.MP3.MVGroup.Forum.org.avi)
+- [Tsar to Lenin](https://www.youtube.com/watch?v=k3hWg3_CLGc)
 - [Fidel - The untold story (Cuban Revolution)](https://www.youtube.com/watch?v=P2Obp6YS4SY)
 - [How Yukong moved the mountains (Chinese Revolution)](https://www.youtube.com/watch?v=zLN-jRZRPrc&list=PLMt0ncvnKoz3ar_f78qBeA29-0kwrsXvT)
 - [Malcolm X - Make it Plain](https://www.youtube.com/watch?v=3zIGNkR62Mo)
