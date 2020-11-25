@@ -6,6 +6,7 @@
 - [Capitalism doesn't work](https://github.com/dessalines/essays/blob/master/capitalism_doesnt_work.md)
 - [Glossary of socialist terms](https://github.com/dessalines/essays/blob/master/glossary_of_socialist_terms.md)
 - [Socialism faq](https://github.com/dessalines/essays/blob/master/socialism_faq.md)
+- [Marxism Study Plan](https://github.com/dessalines/essays/blob/master/dessalines_marxism_study_plan.md)
 
 ## Lists
 

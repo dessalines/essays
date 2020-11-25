@@ -191,13 +191,14 @@
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
 - [Comrade Hakim - Why electoralism always fails.](https://www.youtube.com/watch?v=WXbaZXQAbuU)
 - [Why not just vote leftists into office: what's wrong with democratic socialism?](https://old.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
+- [W.E.B. Dubois - Why I don't vote](http://www.hartford-hwp.com/archives/45a/298.html)
 - [What about harm reduction?](http://www.indigenousaction.org/voting-is-not-harm-reduction-an-indigenous-perspective/)
-- [Why Sanders is not a socialist - Anticonquista ](https://www.youtube.com/watch?v=VbcrJT485r8)
 - [What's wrong with the DSA / Democratic socialism?](https://struggle-sessions.com/2020/04/20/dsa-are-capitalist-pigs/)
 - [How do socialists feel about elections? What about democratic socialism?](https://isreview.org/issue/13/marxists-and-elections)
 - [Can a one-party state really be a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
 - [Why is Chinas one party system outperforming western democracies that have abysmal approval ratings?](https://www.youtube.com/watch?v=s0YjL9rZyR0)
 - [How the capitalist democratic party sabotaged the Sanders campaign.](https://medium.com/@rainershea612/the-democratic-party-is-fully-prepared-to-steal-the-primary-from-sanders-again-51b7b1130a8d)
+- [Why Sanders is not a socialist - Anticonquista ](https://www.youtube.com/watch?v=VbcrJT485r8)
 - [Paying one half of the poor to kill the other half: Why Marxists should not support Sanders.](https://www.reddit.com/r/communism/comments/f7g3dj/paying_one_half_of_the_poor_to_kill_the_other/)
 
 ## Pacifism and Violence
@@ -232,6 +233,7 @@
 * [How do police / cops differ in socialism?](https://www.reddit.com/r/DebateCommunism/comments/9hsoll/suppose_police_all_go_away_tomorrow_and_are/e6eguff/)
   * [An interview with some traffic cops in China.](https://youtu.be/QFJSepGLFTw?t=1450)
 * [What if some people don't wanna be communist?](https://www.reddit.com/r/DebateCommunism/comments/9mtnyt/what_if_some_people_dont_wanna_be_communist/e7hc63u/)
+* [What about drugs / drug use?](https://en.prolewiki.org/wiki/Critique:On_drug_use)
 
 ## On Economics and Sociology
 
@@ -943,8 +945,8 @@
 - [Biden on young, black, "super-predators"](https://www.youtube.com/watch?v=seRaSRZKo2U)
 - [Biden - "I don't want to defund the police, we need more police. Trump wants to tho"](https://twitter.com/PplsCityCouncil/status/1297035723485323264?s=20) [2](https://twitter.com/BethLynch2020/status/1303377661545324545?s=20)
 - ["I have no plans for defense cuts."](https://www.stripes.com/news/us/biden-says-us-must-maintain-small-force-in-middle-east-has-no-plans-for-major-defense-cuts-1.644631)
-- https://soundcloud.com/katie-halper/joe-bidens-accuser-finally-tells-her-full-story
-- https://twitter.com/BenjaminNorton/status/1251644551367925760
+- [He's a confirmed rapist.](https://soundcloud.com/katie-halper/joe-bidens-accuser-finally-tells-her-full-story)
+- [His campaign is based on sinophobia.](https://twitter.com/BenjaminNorton/status/1251644551367925760)
 - https://twitter.com/historic_ly/status/1258861634812067841?s=20
 - [Biden's segregationist anti-busing views](https://twitter.com/MartianMarxist/status/1260067123591700483?s=20)
 - [Biden - We need more arrests, triple the police, prosecuters, judges, and prison cells.](https://twitter.com/areltah/status/1266428868547747848?s=20)
@@ -953,6 +955,7 @@
 - [Biden: "Socialism will never happen here. I beat the socialist ( Sanders, who immediately began campaigning for him )"](https://www.mediaite.com/news/joe-biden-torpedoes-bernie-sanders-in-pitch-to-wisconsin-voters-worried-about-socialism-i-beat-the-socialist/)
 - [Biden: "Iraq was a problem that had to be dealt with sooner rather than later."](https://twitter.com/richimedhurst/status/1313831422495465473?s=20)
 - ["Israel is the best 3B dollar investment we have. If Israel didn't exist, we'd have to go out and invent an Israel."](https://youtu.be/vK-nRcnLdMQ)
+- [Danny Haiphong - Biden's victory in the 2020 election is still a loss for humanity](https://blackagendareport.com/joe-bidens-victory-still-loss-humanity)
 
 ### Greta Thunberg
 
