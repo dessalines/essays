@@ -822,6 +822,7 @@
 
 - [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
 - [Awful chomsky takes.](https://twitter.com/RodericDay/status/1245340127968333829?s=20)
+- [Gowans - The US has produced very few anti-imperialists: Chomsky isn't among them.](https://gowans.blog/2019/11/03/the-united-states-has-produced-very-few-anti-imperialists-noam-chomsky-isnt-among-them/)
 - https://archive.li/YVNk3
 - https://libcom.org/history/john-deutch-chomskys-friend-pentagon-cia
 - https://www.opendemocracy.net/en/why-chomsky-felt-guilty-most-of-time-war-research-and-linguistics-at-mit/
@@ -966,6 +967,7 @@
 - ["Immigration has to be restricted to prevent the rise of Fascism."](https://twitter.com/zei_squirrel/status/1186709823250927616)
 - [Helped work to overthrow Yugoslavia.](https://en.wikipedia.org/wiki/Committee_for_the_Defence_of_Human_Rights)
 - [He's anti-USSR, anti bolivarian revolution, supported the coups in Ukraine and Libya](https://alphonsevanworden.tumblr.com/post/146430343445/the-protocols-of-the-learned-lacanian-of)
+- [Thinks socialism died a long time ago in Cuba, that everyone lives there because of a misguided devotion to Castro, and thinks the bolivarian revolution will soon fail.](https://inthesetimes.com/article/the-left-fidelity-castration-slavoj-zizek-fidel-castro-cuba-che-communism)
 - [More here](https://www.reddit.com/r/Marxism/comments/dlz8me/zizek_criticizes_european_leftists_who_reject/f4yl11f/)
 
 ### What's wrong with Barack Obama?
@@ -1127,6 +1129,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Says: "If you identify as LGBT, then you must consider North Korea your enemy", citing wapo, the geneva US mission, and CIA NK org. Ignores the DPRK's pro-lgbt stances.](https://i.redd.it/nvgx1vz4z3b51.png) [2](https://web.archive.org/web/20050806002431/http://www.korea-dpr.com/faq.htm#20)
 - He's in no leftist orgs, plays video games all day, and takes home [$1.5k / month from his subscribers by holding "debates" where he just rants at people.](https://www.patreon.com/vaush)
 - ["Marxism isn't a rejection of liberalism, it's about making it better." ](https://twitter.com/commiefr0g/status/1290343782450434049)
+- [Hakim - Vaush has no idea what he's talking about.](https://www.youtube.com/watch?v=NX9_kXYMSck)
 - [Claims that tankies only exist in "small online circles", ignoring the millions of communists in the global south.](https://twitter.com/duck_azz/status/1291635709154033664?s=20)
 - ["Tacoma wept."](https://twitter.com/TrueAnonPod/status/1300197204443893760)
 
