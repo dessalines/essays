@@ -1120,11 +1120,12 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 
 - [A compilation of his takes.](https://www.youtube.com/watch?v=xyaRosqQOxk)
 - Vaush on LGBT and Trans people: ["The left community online, **particularly the LGBT community**, is cancerous as fuck"](https://twitter.com/lporiginalg/status/1230667829537427462?s=20) "You don't have to be a psychologist to see that a large portion of the broader woket--d cancel-culture idpol left, is predicated on **shared mental illness**. This is **particularly prevalent in the trans community.** If you disagree with me on this, you're wrong. [...] These people are sub-human."
+  - [Vaush says in his discord that: "if trans people didn't exist, my notification feed would be a lot better". Rails on about "trans-advocates".](https://i.imgur.com/lR5NhnF.png)
 - [Harrasses a woman by asking her if she wanted to see his penis even though she said no repeatedly. Sends her a picture of himself in the shower anyway.](https://www.reddit.com/r/ShitLiberalsSay/comments/i5nka7/vaush_says_tankies_are_irrelevant_because_he_has/g0raeoh?utm_source=share&utm_medium=web2x)
-- [Vaush says in his discord that: "if trans people didn't exist, my notification feed would be a lot better". Rails on about "trans-advocates".](https://i.imgur.com/lR5NhnF.png)
 - [Compares the purchase of a computer to the purchase of child-porn.](https://www.reddit.com/r/ShitLiberalsSay/comments/g7bwgd/famous_breadtuber_vaush_i_cant_blame_people_for/)
 - [Very happy to say the n-word.](https://twitter.com/high_define/status/1265033740075634688?s=20) [again](https://twitter.com/comradecorm/status/1263512305800810503?s=20)
   - [Defends using the N-word as a "power-move" which he is unashamed of.](https://i.imgur.com/ExE1sFZ.jpg)
+  - [Bans a black woman from his discord for finding his use of the n-word highly offensive.](https://twitter.com/high_define/status/1322473467434991617?s=20)
   - [Justifying his "non-racist use" of the n-word](https://twitter.com/high_define/status/1265033740075634688)
 - Calls people ["Mentally ill crybabies"](https://i.imgur.com/T0RnOCC.jpg), "Woke-Scolds", and "Simps".
 - ["US geopolitical power is important to me personally, because I'm not ready to lose that to China"](https://twitter.com/AlMuntherO_O/status/1260679840698634242?s=20). *got removed*
