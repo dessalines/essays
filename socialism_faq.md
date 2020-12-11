@@ -871,6 +871,7 @@
 - [Voted for Trump's 2020 War budget, allocating $738 Billion to military spending (a 3% increase over the previous year).](http://www.idcommunism.com/2019/07/ocasio-cortez-aoc-votes-in-favor-of-trumps-war-budget.html)
 - [She supports Israel, and its genocide of Palestineans.](https://i.imgur.com/K6QsYZo.jpg)
 - [Goes along with democrats and Republicans in backing US puppet Juan Guaido over Maduro in Venezuela.](https://twitter.com/telesurenglish/status/1124924184629583872?s=19) 
+- [After the December 2020 Elections in Venezuala, she defends Juan Guaido, and calls Maduro an "authoritarian" yet again.](https://twitter.com/SameeraKhan/status/1336139779281457153)
 - [Believes, like other democrats, that Russia rigs US elections](https://i.imgur.com/3rmhrAf.png)
 - [After Evo Morales was overthrown in a US-backed coup, she retracts her pro-Morales statements, and meets with a coup-supporting group in Washington.](https://i.imgur.com/mYdPxcG.jpg) [1](https://rainershea.com/f/alexandria-ocasio-cortez-meets-with-bolivian-coup-organizers)
 - [After Trump fires John Bolton (who tried and failed at starting wars with North Korea, Venezuela, and Iran), she goes full neocon, angry that Trump isn't going to war with North Korea.](https://i.imgur.com/3rSM3oU.jpg)
@@ -1122,7 +1123,9 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Harrasses a woman by asking her if she wanted to see his penis even though she said no repeatedly. Sends her a picture of himself in the shower anyway.](https://www.reddit.com/r/ShitLiberalsSay/comments/i5nka7/vaush_says_tankies_are_irrelevant_because_he_has/g0raeoh?utm_source=share&utm_medium=web2x)
 - [Vaush says in his discord that: "if trans people didn't exist, my notification feed would be a lot better". Rails on about "trans-advocates".](https://i.imgur.com/lR5NhnF.png)
 - [Compares the purchase of a computer to the purchase of child-porn.](https://www.reddit.com/r/ShitLiberalsSay/comments/g7bwgd/famous_breadtuber_vaush_i_cant_blame_people_for/)
-- [Defends using the N-word as a "power-move" which he is unashamed of.](https://i.imgur.com/ExE1sFZ.jpg)
+- [Very happy to say the n-word.](https://twitter.com/high_define/status/1265033740075634688?s=20) [again](https://twitter.com/comradecorm/status/1263512305800810503?s=20)
+  - [Defends using the N-word as a "power-move" which he is unashamed of.](https://i.imgur.com/ExE1sFZ.jpg)
+  - [Justifying his "non-racist use" of the n-word](https://twitter.com/high_define/status/1265033740075634688)
 - Calls people ["Mentally ill crybabies"](https://i.imgur.com/T0RnOCC.jpg), "Woke-Scolds", and "Simps".
 - ["US geopolitical power is important to me personally, because I'm not ready to lose that to China"](https://twitter.com/AlMuntherO_O/status/1260679840698634242?s=20). *got removed*
 - [Is against decolonization.](https://twitter.com/trikstr_/status/1280053214117793792)  "We're not going to fkn leave America, white people are staying... we're not gonna give something back to native Americans... the best way forward is to integrate our communities". Vaush responds to a native person talking about indigenous movements and rights by saying: ["I'll listen to the scientists."](https://twitter.com/guajirx/status/1280314035217588224?s=21)
