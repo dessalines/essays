@@ -365,6 +365,7 @@
 * [What about Stalin? Didn't he kill millions? (Revleft podcast on Stalin)](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 * [Was Stalin's USSR State Capitalist?](http://www.reddit.com/r/communism101/comments/383c4i/was_stalins_ussr_state_capitalist/)
 * [What about the term tankies / stalinists? What's the meaning of the term?](https://www.reddit.com/r/communism101/comments/dm2mbz/on_tankies/) [What about the 1956 Hungarian revolt?](https://www.reddit.com/r/communism101/comments/dh6nyi/why_was_the_hungarian_uprising_crushed_by_the_ussr/), [2](https://www.reddit.com/r/communism101/comments/ht4z8a/hungarian_revolution_in_1956/). [MI6 trained the hungarian opposition to fight soviets in the 1956 revolt.](http://archive.is/fMAzu)
+* [RedSails - on "Tankies"](https://redsails.org/tankies/)
 * [Hakim - Why the USSR was socialist - A critique of left-communism.](https://www.youtube.com/watch?v=CKggZ22izDs)
 * [Did Stalin really try to resign 4 times?](https://socialistmlmusings.wordpress.com/2017/02/23/stalins-four-attempts-at-resignation/)
 * [Why were there prison labor camps in the USSR and were they justified?](http://www.reddit.com/r/communism101/comments/2hkn8r/why_were_there_prison_labor_camps_in_the_ussr_and/)
@@ -576,6 +577,8 @@
 ### What about China spying on its own people?
 
 - [China’s Social Credit System, and how it isn't actually Black Mirror and how you should stop using facile pop cultural references to demonize countries you haven't bothered to understand.](https://mobile.twitter.com/isgoodrum/status/975536363364696064?lang=en) 
+- [Nathan Rich - the US is lying about Huawei 5g.](https://www.youtube.com/watch?v=IfxfdHJ3k9Y)
+- [numuves - How the US dominates tech](https://www.youtube.com/watch?v=EgzB4_Zw3RE)
 
 ### What's going on with the Uyghurs?
 
@@ -587,15 +590,18 @@
 - [Egyptian media delegates provide a detailed insight of the situation in Xinjiang](https://www.thenews.com.pk/latest/430738-egyptian-media-delegates-provide-a-detailed-insight-of-the-situation-in-xinjiang)
 - [A majority of Muslim countries support China's policies in XinJiang](https://i.imgur.com/Cks29xL.jpg), [and don't believe the western lies told about it.](https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/). [54 Countries in total](http://www.globaltimes.cn/content/1168522.shtml). [2](http://www.xinhuanet.com/english/2019-07/13/c_138222183.htm), [3](https://www.cnsnews.com/news/article/patrick-goodenough/china-thanks-37-countries-including-islamic-states-praising-its), [4](http://www.globaltimes.cn/content/1159357.shtml) Supporters: Algeria, Angola, Bahrain, Belarus, Bolivia, Burkina Faso, Burma, Burundi, Cambodia, Cameroon, Comoros, Congo, Cuba, DR Congo, Egypt, Eritrea, Gabon, Kuwait, Laos, Nigeria, North Korea, Oman, Pakistan, Philippines, Qatar, Russia, Saudi Arabia, Somalia, Sudan, Syria, Tajikistan, Togo, Turkmenistan, UAE, Venezuela, Zimbabwe.
 - [China's policies in the Xinjiang Uyghur autonomous region lift 1.85 million people out of poverty from 2014-2017.](http://www.xinhuanet.com/english/2018-10/24/c_137554986.htm?source=post_page---------------------------)
-- [US fuels terrorism in China: “1 million Uyghurs never verified”](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
+- [US fuels terrorism in China.](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
+- [Wiki on the Turkestan Islamic Party (has a full list of terrorist attacks committed by east turkestan separatists)](https://en.wikipedia.org/wiki/Turkistan_Islamic_Party)
+- [About the TiP (Turkestan Islamic Party)](https://journal-neo.org/2018/10/05/china-s-uyghur-problem-the-unmentioned-part/)
+- [The TiP militants fighting in Syria.](https://apnews.com/article/591f9b238c84477b87cfac68bfe169fc)
 - [China’s Xinjiang Problem – Made in USA](https://journal-neo.org/2015/11/10/chinas-xinjiang-problem-made-in-usa/).
 - [No, the UN did not report China has ‘massive internment camps’ for Uighur Muslims](https://thegrayzone.com/2018/08/23/un-did-not-report-china-internment-camps-uighur-muslims/).
 - [What about Democracy now and the Intercept's claims about the Uyghur camps?](https://medium.com/@rainershea612/liberal-anti-chinese-propaganda-helped-create-the-far-right-campaign-to-blame-china-for-covid-19-7253dca6f429)
 - [Religious freedoms in China explained](https://twitter.com/isgoodrum/status/1004884261051092993?s=21).
 - [Thousands of Muslims from the Uyghur province make Hajj Pilgrimage yearly.](https://www.app.com.pk/over-11000-chinese-muslims-from-xinjiang-proceed-to-saudi-arabia-for-hajj/) [11k Chinese Muslims travel from Xinjiang on free chartered flights to Saudi Arabia for the Hajj, in 2019](https://www.arabnews.com/node/1535241/pakistan).
 - [EU rejects China offer of Xinjiang tour](https://www.scmp.com/news/china/diplomacy/article/3003217/eu-rejects-chinas-offer-xinjiang-tour-says-its-open-one-later).
+- The sources for an Australian documentary about the uyghurs, turn out to be [members of the FSA and TIP, right wing, ultra-nationalist Turkish terrorist orgs.](https://twitter.com/ethan_parallels/status/1151153694517260288?s=21) The two men with links to terrorist groups were interviewed on nearly every Australian TV station for a week. [2](https://twitter.com/j_bigboote/status/1182726991675625472?s=21)
 - [A wikileaks cable from 2011](https://wikileaks.org/gifiles/docs/13/1305169_-alpha-insight-china-inner-mongolia-movement-cn127-.html) shows that the US coordinated with groups to incite separatism in Mongolia, XinJiang, and Tibet.
-- The sources for an Australian documentary about the uyghurs, turn out to be [members of the FSA and TIP,  right wing, ultra-nationalist Turkish terrorist orgs.](https://twitter.com/ethan_parallels/status/1151153694517260288?s=21) The two men with links to terrorist groups were interviewed on nearly every Australian TV station for a week. [2](https://twitter.com/j_bigboote/status/1182726991675625472?s=21)
 - [If China Is Anti-Islam, Why Are These Chinese Muslims Enjoying a Faith Revival?](https://time.com/3099950/china-muslim-hui-xinjiang-uighur-islam/) 
 - [A New York Times "expose" of re-education centers in Xinjiang lied and mistranslated every claim.](https://www.quora.com/What-would-be-the-consequences-of-the-New-York-Times-expose-on-Xinjiang/answer/Jamin-Chen-1)
 - [Reddit holds an AMA](https://www.reddit.com/r/IAmA/comments/e9ad4n/i_am_rushan_abbas_uyghur_activist_and_survivor_of/) for an "Uyghur Activist", who turns out to be [Rushan Abbas](https://web.archive.org/web/20181207031224/https://www.isi-consultants.com/rushan-abbas/), a CIA agent who worked for Homeland Security, Department of Defense, Department of State, Department of Justice, and various U.S. intelligence agencies, and even worked at Guantanamo bay, the US muslim torture camp. [1](https://www.reddit.com/r/ShitLiberalsSay/comments/e9crzq/shit_liberals_do_claim_to_be_an_uyghur_survivor/) [2](https://medium.com/@rsahthion/a-reddit-ama-claiming-to-be-a-uiyghur-quickly-exposes-a-cia-asset-slandering-china-1d667c098b77)
@@ -861,7 +867,8 @@
   - [Calls for budget cuts for DHS, due to their child detention camps and family separations, then goes back on it by voting to fully fund them along with other democrats.](https://i.redd.it/bfiudbz8qm921.jpg)
   - [She votes to keep the US in NATO, who's been responsible for countless atrocities in Europe and the Middle East.](http://clerk.house.gov/evs/2019/roll044.xml)
   - [AOC says she will vote for Biden in the 2020 election, saying, "I think it’s incredibly important we support the Democratic nominee in November".](https://thehill.com/homenews/campaign/494275-ocasio-cortez-says-she-will-vote-for-biden-in-november)
-  - Going back on her promise to only back "progressive democrats" after her election to congress in 2018, she [backs Nancy Pelosi for speaker of the house.](https://www.nbcnews.com/politics/congress/ocasio-cortez-backs-pelosi-speaker-dem-rebellion-falters-n939086)
+  - Going back on her promise to only back "progressive democrats" after her election to congress in 2018, she [backs Nancy Pelosi for speaker of the house.](https://www.nbcnews.com/politics/congress/ocasio-cortez-backs-pelosi-speaker-dem-rebellion-falters-n939086) 
+  - States to a booing crowd, [her support for Nancy Pelosi](https://twitter.com/anyaparampil/status/1338304905983963138?s=20) and Pelosi's background of "activism" and "civic engagement".
   - [Says her policies are more reminiscent of Norway than Caracas, repeating the right wing myth of socialism destroying Venezuela, and wrongly conflating nordic social democracy with socialism.](https://i.imgur.com/fTJfV2k.png)
   - [Says its possible to be both a "democratic socialist" and a Capitalist. ](https://www.msnbc.com/mtp-daily/watch/aoc-can-you-be-a-democratic-socialist-and-a-capitalist-it-s-possible-1439125059571?fbclid=IwAR1PmnyrP28stOyVqNP5Bf4vjqEtV5S4MXQIY4sDgcv-XWgEn1u5Z0ne3J8)
   - [Thinks the US military is socialist. Thinks social services like schools and libraries are socialist.](https://i.imgur.com/JHOZDlg.png)
@@ -869,6 +876,7 @@
   - [Defends the NYPD during the George Floyd protests, since there are women, black, latino and asian american cops.](https://i.imgur.com/FT8GMTf.png)
   - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
   - [As of 2020, replaces some of her more radical staff with political professionals, breaks with Sanders, calling his strategy too "conflict based", wants to start working more with establishment Dems.](https://www.politico.com/news/2020/03/30/new-aoc-divides-the-left-150767)
+  - [In December 2020, after a proposal by comic Jimmy Dore, for house democrats to refuse support for House Speaker Nancy Pelosi, unless she agrees to bring a Medicare for all bill to the house, to bring relief for US citizens who lost healthcare during the pandemic. AOC and the rest of the "squad" refused, and backed Pelosi, citing concerns that the bill would not win anyway. Dore retorted that 9 / 10 democratic voters, and even a majority of republican voters support medicare for all.](https://www.corporatecrimereporter.com/news/200/jimmy-dore-calls-on-democrats-to-withhold-support-for-nancy-pelosi-unless-she-brings-single-payer-medicare-for-all-to-a-vote/)
 - [Voted for Trump's 2020 War budget, allocating $738 Billion to military spending (a 3% increase over the previous year).](http://www.idcommunism.com/2019/07/ocasio-cortez-aoc-votes-in-favor-of-trumps-war-budget.html)
 - [She supports Israel, and its genocide of Palestineans.](https://i.imgur.com/K6QsYZo.jpg)
 - [Goes along with democrats and Republicans in backing US puppet Juan Guaido over Maduro in Venezuela.](https://twitter.com/telesurenglish/status/1124924184629583872?s=19) 
