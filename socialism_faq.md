@@ -120,6 +120,7 @@
 - [History and human nature.](https://github.com/dessalines/essays/blob/master/crash_course_socialism.md#history-and-human-nature)
 - [What about human nature?](http://www.reddit.com/r/communism101/comments/2yk3xl/what_about_human_nature_answer_but_add_yours_too/)
 - [Doesn't socialism go against human nature?](http://newdemocracyworld.org/culture/human_nature.html)
+- [Advertising is a cancer](http://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html)
 
 ## Schools of thought
 
@@ -134,6 +135,7 @@
 * [Comrade Hakim - On the difference betweeen "liberatarian" and "authoritarian" socialism.](https://www.youtube.com/watch?v=6GM893c1X8s)
 * [Huey P. Newton on the faults of western anarchism.](https://www.prisoncensorship.info/archive/etext/bpp/bpp161168.htm)
 * [What is the communist response to a lot of Anarchist criticisms? A Megathread.](https://www.reddit.com/r/communism/comments/cewriu/masterpost_for_defending_socialism_against/)
+* [The tyranny of structurelessness - The failure of anarchist-style organizing in the womens movement.](https://www.jofreeman.com/joreen/tyranny.htm)
 * [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 * [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
 * [Looking for reference to types of communism.](http://www.reddit.com/r/communism101/comments/1fcc6o/looking_for_reference_to_types_of_communism/)
@@ -151,10 +153,12 @@
 * What about the USSR, wasn't it authoritarian? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
 * [Why do most Marxists dislike ultra-lefts / left-communists (the "not real socialism" crowd) ?](https://medium.com/@leohezhao/left-communists-and-ultra-leftists-are-reactionaries-2d2fca4c991a)
 * [Hakim - Why the USSR was socialist - A critique of left-communism.](https://www.youtube.com/watch?v=CKggZ22izDs)
+* [Cockshott - In what sense was the USSR socialist?](https://www.youtube.com/watch?v=Nu85byBBddY)
 * [Cockshott - Socialism and surplus - Why the USSR was socialist.](https://www.youtube.com/watch?v=C-T-Fr6DvFw)
 * [Where are communists on the political compass?](https://www.reddit.com/r/communism101/comments/f4a9w9/where_do_communists_fall_on_the_political_spectrum/fhozyg4/)
 * [Lenin - "Left-Wing" Communism: An infantile disorder.](https://www.marxists.org/archive/lenin/works/1920/lwc/) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjob1T8DTNDG7EQaN18eSJ97m)
 * [Western Marxism's martyrdom / purity complex.](https://blackagendareport.com/western-marxism-loves-purity-and-martyrdom-not-real-revolution)
+- [The CIA reads french postmodernist theory: how the CIA pushed "post-Marxist" theory to build support for imperialism.](https://thephilosophicalsalon.com/the-cia-reads-french-theory-on-the-intellectual-labor-of-dismantling-the-cultural-left/)
 
 ## Did economic planning work?
 
@@ -189,6 +193,7 @@
 - [Halim Alrah - Why liberal democracies are a sham. ](https://www.youtube.com/watch?v=oYodY6o172A)
 - [What about social democracy / democratic socialism / the Nordic model? Isn't Sweden socialist?](https://www.youtube.com/watch?v=Jd03a8Pm1hs )
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
+- [Paul Cockshott - On Socialism and Democracy.](https://www.youtube.com/watch?v=bHN0foV4Ntk) [2](https://www.youtube.com/watch?v=98lvNhNfse4&t=1518s) [3](https://www.youtube.com/watch?v=EjKYVQd4r9E)
 - [Comrade Hakim - Why electoralism always fails.](https://www.youtube.com/watch?v=WXbaZXQAbuU)
 - [Why not just vote leftists into office: what's wrong with democratic socialism?](https://old.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
 - [W.E.B. Dubois - Why I don't vote](http://www.hartford-hwp.com/archives/45a/298.html)
@@ -200,6 +205,7 @@
 - [How the capitalist democratic party sabotaged the Sanders campaign.](https://medium.com/@rainershea612/the-democratic-party-is-fully-prepared-to-steal-the-primary-from-sanders-again-51b7b1130a8d)
 - [Why Sanders is not a socialist - Anticonquista ](https://www.youtube.com/watch?v=VbcrJT485r8)
 - [Paying one half of the poor to kill the other half: Why Marxists should not support Sanders.](https://www.reddit.com/r/communism/comments/f7g3dj/paying_one_half_of_the_poor_to_kill_the_other/)
+- [The propaganda multiplier: How the wests propaganda machine functions.](https://swprs.org/the-propaganda-multiplier/)
 
 ## Pacifism and Violence
 
@@ -316,6 +322,7 @@
   - [Can't we change the democrats from within?](https://socialistworker.org/2005-1/533/533_13_TwoParties.php) 
   - [What about "moderates" like Jimmy Carter? Can't we push them to change?](https://socialistworker.org/2006-1/572/572_09_Carter.php)
   - [Can't we use voting to solve our problem? Is violence really necessary? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) [audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
+- [Malcolm X on liberals.](https://twitter.com/redfishstream/status/1349144127615676418?s=20)
 
 ## On Leninism
 
@@ -473,8 +480,11 @@
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
 * [Deng on why Mao's legacy must be upheld.](http://cpcchina.chinadaily.com.cn/fastfacts/2010-10/18/content_11425373.htm)
 * [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](http://www.michaelparenti.org/Tibet.html) [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZjKom_Qj0jcDReaMb_r52z)
+* [Tibet, China, and the Violent reaction of a wealthy elite.](https://historicly.substack.com/p/tibet-china-and-the-violent-reaction)
 * [Mao's liberation of Tibet](https://stalinsmoustache.org/2018/09/19/maos-liberation-of-tibet/)
+* [Dalai Lama - Forgive Pinochet](https://www.cbc.ca/news/world/forgive-pinochet-says-dalai-lama-1.187150)
 * [Dalai Lama admits his organization recieved millions from the CIA yearly](https://www.nytimes.com/1998/10/02/world/world-news-briefs-dalai-lama-group-says-it-got-money-from-cia.html).
+* [Dalai Lama - If the next Dalai Lama is a female, her face must be attractive, otherwise its not much use... she should use makeup.](https://twitter.com/DanielDumbrill/status/1345465786907774976?s=20)
 * [Did China really try to save the GDR?](https://www.reddit.com/r/Sino/comments/dsvsf9/newly_declassified_documents_released_by_german/)
 * [Didn't China cause the Coronavirus? A Megathread.](https://www.reddit.com/r/communism/comments/fi390n/china_and_the_coronavirus/)
 * [What about China's corono-virus response? Is there really any sinophobia?](https://www.reddit.com/r/communism/comments/evwls8/megathread_addressing_sinophobia_and_chinas/) [2](https://amp.theguardian.com/world/2020/jan/28/canada-chinese-community-battles-racist-backlash-amid-coronavirus-outbreak?__twitter_impression=true) [3](https://www.youtube.com/watch?v=GasWB8s-tqs&feature=youtu.be)
@@ -573,6 +583,7 @@
 - [“Over 900,000 real name signatures in "Protecting justice & supporting extradition" petition. Reasons listed: HK criminal committed murder in TW; HK current extradition law has flaws & needs amendment asap; HK shouldn't be fugitive heaven, extradition amendment has many safeguards”](https://mobile.twitter.com/redniangzijun/status/1139177921631965189).
 - [Hong Kong - British vs Chinese Perspective.](https://www.reddit.com/r/FULLCOMMUNISM/comments/dg0zpn/imagine_being_china_for_a_moment_and_having_to/)
 - [How the US seeded a color revolution in Hong Kong.](https://medium.com/@italian4hk/agents-of-chaos-how-the-u-s-seeded-a-colour-revolution-in-hong-kong-2b5050b5ba0f)
+- [@CatContentOnly - A thread on how nearly every anti-China op-ed writer, is funded by US weapons contractors.](https://twitter.com/catcontentonly/status/1343282499833765890?s=20)
 
 ### What about China spying on its own people?
 
@@ -627,13 +638,16 @@
 
 ### What about the Tiananmen square massacre?
 
-- [Tiananmen Square "Massacre", A Propaganda Hoax](https://www.youtube.com/watch?v=R6RT_s1T050).
-- [The truth about the Tiananmen square protests](https://www.youtube.com/watch?v=sqPI8xlnrwg)
-- [It wasn't a massacre of peaceful students, but a skirmish between PLA soldiers and armed detachments from the pro-capitalist / free market reform movement.]( https://www.liberationnews.org/tiananmen-the-massacre-that-wasnt/) The protest movement, as evidenced by their own accounts, called for market liberalisation, and free market reforms, rallying around a replica of the statue of liberty. After the movement had been building in the square for seven weeks, unarmed soldiers were sent in to disperse the protesters, after which many soldiers were beaten to death, torched, and lynched. The New York Times death count went from 2600, to many thousands, to 8000, to tens of thousands. In reality only around ~200 (including soldiers) were killed or trampled, in smaller clashes outside the square. The on-scene New York Times reporter disavowed the article, especially about machine-gunning of protesters. [A wikileaks cable](https://www.telegraph.co.uk/news/worldnews/wikileaks/8555142/Wikileaks-no-bloodshed-inside-Tiananmen-Square-cables-claim.html) from a US ambassador to the US state department, confirmed that no killings or machine-gunnings took place in the square.
-- [A British Lie]( https://www.globalresearch.ca/tiananmen-square-massacre-is-a-myth-all-were-remembering-are-british-lies/5386080).
-- [Deng XiaoPing was ill at the time, and the CIA had an inside man inside the party, Zhao Ziyang, dubbed China's Gorbachev, who promised to open the door to market liberalisation if the protest movement had succeeded, like those of Ukraine, Yugoslavia, Georgia, and the USSR.](https://medium.com/@leohezhao/notes-for-30th-anniversary-of-tiananmen-incident-f098ef6efbc2)
+- [Notes for the 30th anniversary of the Tiannment incident.](https://medium.com/@leohezhao/notes-for-30th-anniversary-of-tiananmen-incident-f098ef6efbc2)
+- [It wasn't a massacre of peaceful students, but a skirmish between PLA soldiers and armed detachments from the pro-capitalist / free market reform movement.](https://www.liberationnews.org/tiananmen-the-massacre-that-wasnt/) The protest movement, as evidenced by their own accounts, called for market liberalisation, and free market reforms, rallying around a replica of the statue of liberty. After the movement had been building in the square for seven weeks, unarmed soldiers were sent in to disperse the protesters, after which many soldiers were beaten to death, torched, and lynched. The New York Times death count went from 2600, to many thousands, to 8000, to tens of thousands. In reality only around ~200 (including soldiers) were killed or trampled, in smaller clashes outside the square. The on-scene New York Times reporter disavowed the article, especially about machine-gunning of protesters. [A wikileaks cable](https://www.telegraph.co.uk/news/worldnews/wikileaks/8555142/Wikileaks-no-bloodshed-inside-Tiananmen-Square-cables-claim.html) from a US ambassador to the US state department, confirmed that no killings or machine-gunnings took place in the square.
+- [Latin American diplomat eyewitness account of June 3-4 events on Tiananmen Square wikileaks (PDF)](https://peds-ansichten.de/wp-content/uploads/2019/05/1989-07-12_Lilley_Gallo_Tiananmen_WikiLeaks.pdf)
+- [There was a Spanish television crew that covered the entire Tiananmen Square incident as it unfolded. Their footage showed that there was no massacre. A few things worthy of pointing out - Liu Xiaobo and Hou Dejian, both student leaders of the Tiananmen protests, have been recorded as saying that they never saw anyone killed at the protests.](https://vimeo.com/448970787)
 - [The protest movement followed the line of "color revolutions", in which the US tried to destabilize and create counter-revolutions in eastern Europe and Latin America after the fall of the USSR. The strategy was to stir division within and without, by inundating the media with news of massacres of "peaceful", pro-capitalist / market reformers.](http://www.fightbacknews.org/2019/6/4/reflections-tiananmen-square-and-attempt-end-chinese-socialism) 
 - [The defeat of a counter revolution in China](https://frso.org/main-documents/looking-back-at-tiananmen-square-the-defeat-of-counter-revolution-in-china/).
+- [Interviews from some of the student leaders.](https://www.youtube.com/watch?v=Vu3zmbFGwQA)
+- [An account from a resident.](https://old.reddit.com/r/AskAChinese/comments/grdaqv/thoughts_on_tiananmen_square_massacre/g45hnv0)
+- [Tiananmen Square "Massacre", A Propaganda Hoax](https://www.youtube.com/watch?v=R6RT_s1T050).
+- [The truth about the Tiananmen square protests](https://www.youtube.com/watch?v=sqPI8xlnrwg)
 
 ### What is Radio Free Asia?    
 
@@ -804,6 +818,7 @@
 - His books Animal Farm and 1984 are used widely as anti-communist propaganda in schools in the US and UK. So much so that [his animated animal farm film was funded by the CIA](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/).  There's a reason they teach George Orwell in schools and not Franz Fanon, Che, Huey P Newton, Malcolm X, Lenin, CLR James, etc. 
 - [Orwell, anti-communist: A criticism of Orwell and his Work - By Isaac Asimov.](http://www.newworker.org/ncptrory/1984.htm)
 - [Orwell - "I have never really disliked Hitler."](https://twitter.com/SarahTheHaider/status/1300360063845126144?s=20)
+- [He attempted to rape one of his first courtships: "Previously the young couple had kissed, but now, during a late summer walk, he had wanted more. At only five feet to his six feet and four inches, Jacintha had shouted, screamed and kicked before running home with a torn skirt and bruised hip. It was "this" rather than any gradual parting of the ways that explains why Jacintha broke off all contact with her childhood friend, never to learn that he had transformed himself into George Orwell."](https://www.theguardian.com/books/2007/feb/17/georgeorwell.biography)
 - [Rainer Shea - Orwells 1984 - Anti-communist propaganda.](https://medium.com/@rainershea612/orwells-1984-is-a-deeply-paranoid-piece-of-anti-communist-propaganda-15a741c85d9a)
 - [Orwell worked as a British imperial cop in Burma for 5 years](http://factsanddetails.com/southeast-asia/Myanmar/sub5_5e/entry-3083.html). His short story, [Shooting an Elephant](http://www.denisedrespling.com/review-shooting-elephant-george-orwell/), uses ethnic slurs and denigrates burmese people. 
 - [A reddit thread on George Orwell](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/), [Thread #2](https://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/for_those_on_the_right_who_think_orwell_wrote/dpy4zik/).
@@ -828,6 +843,7 @@
 ### Noam Chomsky
 
 - [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
+- [Roderic Day - On Chomsky](https://redsails.org/on-chomsky/)
 - [Awful chomsky takes.](https://twitter.com/RodericDay/status/1245340127968333829?s=20)
 - [Gowans - The US has produced very few anti-imperialists: Chomsky isn't among them.](https://gowans.blog/2019/11/03/the-united-states-has-produced-very-few-anti-imperialists-noam-chomsky-isnt-among-them/)
 - https://archive.li/YVNk3
@@ -872,6 +888,7 @@
   - [Says her policies are more reminiscent of Norway than Caracas, repeating the right wing myth of socialism destroying Venezuela, and wrongly conflating nordic social democracy with socialism.](https://i.imgur.com/fTJfV2k.png)
   - [Says its possible to be both a "democratic socialist" and a Capitalist. ](https://www.msnbc.com/mtp-daily/watch/aoc-can-you-be-a-democratic-socialist-and-a-capitalist-it-s-possible-1439125059571?fbclid=IwAR1PmnyrP28stOyVqNP5Bf4vjqEtV5S4MXQIY4sDgcv-XWgEn1u5Z0ne3J8)
   - [Thinks the US military is socialist. Thinks social services like schools and libraries are socialist.](https://i.imgur.com/JHOZDlg.png)
+  - [After the 2021 capitol riots, AOC defends law and order, and calls the republicans cowards for not supporting the police.](https://twitter.com/thehill/status/1349405734128250885)
   - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
   - [Defends the NYPD during the George Floyd protests, since there are women, black, latino and asian american cops.](https://i.imgur.com/FT8GMTf.png)
   - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
@@ -978,6 +995,7 @@
 - [Helped work to overthrow Yugoslavia.](https://en.wikipedia.org/wiki/Committee_for_the_Defence_of_Human_Rights)
 - [He's anti-USSR, anti bolivarian revolution, supported the coups in Ukraine and Libya](https://alphonsevanworden.tumblr.com/post/146430343445/the-protocols-of-the-learned-lacanian-of)
 - [Thinks socialism died a long time ago in Cuba, that everyone lives there because of a misguided devotion to Castro, and thinks the bolivarian revolution will soon fail.](https://inthesetimes.com/article/the-left-fidelity-castration-slavoj-zizek-fidel-castro-cuba-che-communism)
+- [Defines Marxism: "Marx wanted a return to traditional values."](https://youtu.be/YTCiVDwmZ6U?t=147)
 - [More here](https://www.reddit.com/r/Marxism/comments/dlz8me/zizek_criticizes_european_leftists_who_reject/f4yl11f/)
 
 ### What's wrong with Barack Obama?
