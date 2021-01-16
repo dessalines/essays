@@ -2,30 +2,30 @@
 
 ## FAQs and Introductions
 
-- [Crash Course Socialism](https://github.com/dessalines/essays/blob/master/crash_course_socialism.md)
-- [Capitalism doesn't work](https://github.com/dessalines/essays/blob/master/capitalism_doesnt_work.md)
-- [Glossary of socialist terms](https://github.com/dessalines/essays/blob/master/glossary_of_socialist_terms.md)
-- [Socialism faq](https://github.com/dessalines/essays/blob/master/socialism_faq.md)
-- [Marxism Study Plan](https://github.com/dessalines/essays/blob/master/dessalines_marxism_study_plan.md)
+- [Crash Course Socialism](crash_course_socialism.md)
+- [Capitalism doesn't work](capitalism_doesnt_work.md)
+- [Glossary of socialist terms](glossary_of_socialist_terms.md)
+- [Socialism faq](socialism_faq.md)
+- [Marxism Study Plan](dessalines_marxism_study_plan.md)
 
 ## Lists
 
-- [List of US Atrocities](https://github.com/dessalines/essays/blob/master/us_atrocities.md)
-- [List of US hate crimes](https://github.com/dessalines/essays/blob/master/us_hate_crimes.md)
+- [List of US Atrocities](us_atrocities.md)
+- [List of US hate crimes](us_hate_crimes.md)
 
 ## Essays
 
-- [Capitalism doesn't work](https://github.com/dessalines/essays/blob/master/capitalism_doesnt_work.md)
-- [Why do we say all cops are bastards?](https://github.com/dessalines/essays/blob/master/acab.md)
-- [Paul Cockshott's Cyber-Communist System](https://github.com/dessalines/essays/blob/master/paul_cockshott_cyber_communism.md)
-- [Lenin's revolutionary strategy](https://github.com/dessalines/essays/blob/master/lenin_lwc.md)
-- [Why not Market Socialism?](https://github.com/dessalines/essays/blob/master/market_socialism.md)
-- [Whats wrong with Nietzsche?](https://github.com/dessalines/essays/blob/master/nietzsche.md)
+- [Capitalism doesn't work](capitalism_doesnt_work.md)
+- [Why do we say all cops are bastards?](acab.md)
+- [Paul Cockshott's Cyber-Communist System](paul_cockshott_cyber_communism.md)
+- [Lenin's revolutionary strategy](lenin_lwc.md)
+- [Why not Market Socialism?](market_socialism.md)
+- [Whats wrong with Nietzsche?](nietzsche.md)
 
 ## Media
 
-- [Socialist audiobooks](https://github.com/dessalines/essays/blob/master/audiobooks.md)
-- [Favorite apps and services](https://github.com/dessalines/essays/blob/master/favorite_apps_and_services.md)
+- [Socialist audiobooks](audiobooks.md)
+- [Favorite apps and services](favorite_apps_and_services.md)
 
 ## Links
 
