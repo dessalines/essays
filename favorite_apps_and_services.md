@@ -34,7 +34,7 @@
 
 ## Collaboration
 
-- Use [CodiMD](https://github.com/hackmdio/codimd).
+- Use [CodiMD](https://github.com/hackmdio/codimd), a live / collaborative markdown editor.
 
 ## Browsing
 
@@ -54,23 +54,28 @@
   - Sync your password file everywhere you need using Syncthing.
 - [Bitwarden](https://bitwarden.com/) if you want to host a server. 
 
+## Mobile keyboard
+
+- Use a secure keyboard on android if you don't want your passwords stolen by google.
+- [OpenBoard](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/), or [AnySoftKey](https://anysoftkeyboard.github.io/) work.
+
 ## Calendars / Contacts
 
 - Use Syncthing + [DecSync](https://github.com/39aldo39/DecSync) for calendar and contact sync from android to desktop. [Radicale is a server based solution. ](https://radicale.org/)
 
 ## Chat / Communication
 
-- Use Matrix / [Riot](https://about.riot.im/), turn on e2ee in rooms. 
+- Use Matrix / [Element](https://element.io/), turn on e2ee in rooms. 
 - Use [Thunderbird](https://www.thunderbird.net/en-US/) for email, e2ee with pgp if possible. 
 
 ## Social Media
 
 - Twitter alternative : [Pleroma](https://pleroma.social/), [Mastodon](https://mastodon.social/)
 - Facebook : [Friendica](https://friendi.ca/)
-- Reddit : [Lemmy (made by me)](https://github.com/dessalines/lemmy), [PostMill](https://gitlab.com/edgyemma/Postmill), or [Lobste.rs](https://github.com/lobsters/lobsters)
+- Reddit : [Lemmy (I'm a dev)](https://github.com/dessalines/lemmy), [PostMill](https://gitlab.com/edgyemma/Postmill), or [Lobste.rs](https://github.com/lobsters/lobsters)
 - Medium : [Plume](https://github.com/Plume-org/Plume), [WriteFreely](https://github.com/writeas/writefreely)
 - YouTube : Torrents, or [Peertube](https://github.com/Chocobozzz/PeerTube). 
-- Instagram : [Pixelfed ](https://pixelfed.org/)
+- Instagram : [Pixelfed](https://pixelfed.org/)
 
 ## Operating system
 
