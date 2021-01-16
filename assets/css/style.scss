@@ -1,8 +1,7 @@
 ---
 ---
 
-@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
-@import "minima/initialize";
+@import "";
 
 a:link {color:#9cf}
 a:hover, a:visited:hover {color:#cef}
