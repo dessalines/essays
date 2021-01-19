@@ -1,5 +1,26 @@
 # Favorite apps and services
 
+## Contents
+
+<!-- toc -->
+
+- [Goals](#goals)
+- [Media](#media)
+- [Documents and Coding](#documents-and-coding)
+  * [Hosting](#hosting)
+- [Tasks / Todos](#tasks--todos)
+- [Collaboration](#collaboration)
+- [Browsing](#browsing)
+- [Passwords](#passwords)
+- [Mobile keyboard](#mobile-keyboard)
+- [Calendars / Contacts](#calendars--contacts)
+- [Chat / Communication](#chat--communication)
+- [Social Media](#social-media)
+- [Operating system](#operating-system)
+- [Links](#links)
+
+<!-- tocstop -->
+
 ## Goals
 
 - Privacy conscious, [end-to-end encrypted (E2EE)](https://en.wikipedia.org/wiki/End-to-end_encryption).
@@ -45,7 +66,6 @@
 
 - Use Firefox or Tor Browser, with the addons:
   - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-  - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17)
   - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container) - Keeps all Facebook stuff in it's own container.
   - [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/)
 - [Startpage](https://www.startpage.com/), [Searx](https://searx.me/) ([onion service](http://searchb5a7tmimez.onion/)), as a search engine
@@ -77,7 +97,7 @@
 
 - Twitter alternative : [Pleroma](https://pleroma.social/), [Mastodon](https://mastodon.social/)
 - Facebook : [Friendica](https://friendi.ca/)
-- Reddit : [Lemmy (I'm a dev)](https://github.com/dessalines/lemmy), [PostMill](https://gitlab.com/edgyemma/Postmill), or [Lobste.rs](https://github.com/lobsters/lobsters)
+- Reddit : [Lemmy (I'm a dev)](https://github.com/LemmyNet/lemmy), [PostMill](https://gitlab.com/edgyemma/Postmill), or [Lobste.rs](https://github.com/lobsters/lobsters)
 - Medium : [Plume](https://github.com/Plume-org/Plume), [WriteFreely](https://github.com/writeas/writefreely)
 - YouTube : Torrents, or [Peertube](https://github.com/Chocobozzz/PeerTube). 
 - Instagram : [Pixelfed](https://pixelfed.org/)
