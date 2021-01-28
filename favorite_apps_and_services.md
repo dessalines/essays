@@ -36,6 +36,7 @@
   - Use [qbittorrent](https://www.qbittorrent.org/), [deluge](https://www.deluge-torrent.org/), or [transmission](https://transmissionbt.com/) for PC, [LibreTorrent](https://github.com/proninyaroslav/libretorrent) for android.
 - Use [MPV](https://mpv.io/) or [VLC](https://www.videolan.org/vlc/download-windows.html), open source media players to play media.
 - Use [Jellyfin](https://github.com/jellyfin/jellyfin) or SFTP for streaming to other devices.
+- Use [Navidrome](https://github.com/deluan/navidrome) for a self-hosted music server, and [DSub](https://github.com/daneren2005/Subsonic) for an android client.
 - Instead of centralized, hosted youtube alternatives with upload limits, use torrents, and find a platform to post and comment on the magnet links.
 
 ## Documents and Coding

@@ -404,6 +404,7 @@
 * [Were the Soviet POWs returning from the front on WW2 treated as spies?](https://www.reddit.com/r/communism101/comments/bmyhq7/treatment_of_soviet_pows_upon_their_return_to_the/)
 * [Wasn't the fall of the Berlin Wall / East Germany a good thing?](https://zcomm.org/zmagazine/fall-of-the-berlin-wall/), [2](http://www.cnn.com/WORLD/europe/9911/08/germany.carpetbaggers/), [3](https://zcomm.org/znetarticle/humpty-dumpty-and-the-fall-of-berlins-wall/), [4](https://www.peoplesworld.org/article/ossies-former-east-germans-compare-socialist-youth-with-life-under-capitalism/)
   *  [Democracy, East Germany, and the Berlin Wall](http://gowans.wordpress.com/2009/10/25/democracy-east-germany-and-the-berlin-wall/) by Stephen Gowans
+* [Was the USSR imperialist?](https://i.redd.it/swwro1vqd4d61.png)
 * [Is it true that people in the USSR only worked 6 hours per day?](https://www.reddit.com/r/communism101/comments/ddlshm/in_a_communist_economy_are_you_forced_to_work/f2k6sci/)
 * [*Fraud, Famine, and Fascism*](http://rationalrevolution.net/special/library/tottlefraud.pdf) by Douglas Tottle
 * [*The 1932 Harvest and the Famine of 1933*](https://drive.google.com/file/d/0B-eTgjCs2lzpQllPVzQ2UFd3aWM/view?usp=sharing) by Mark Tauger
@@ -539,7 +540,8 @@
 * [The west views China as one big sweatshop, but the actual working hours aren't much more than anywhere else. The average for a migrant worker (most vulnerable to exploitation as they are traveling from the countryside) is 8.8 hours, little under an hour more than a typical working day. Labor strikes are rarely suppressed, and usually get the support of the PRC.](https://www.forbes.com/sites/mitchfree/2013/07/11/held-hostage-entrepreneurs-uneasy-over-chinese-govt-inaction/#2431f5463de4)
 * [The workplace safety standards of China are better than in the capitalist countries of the West like in Australia who have an higher rate of work related death despite having a GDP per capita 3-5 times higher.](http://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/)
 * [In a typical example of proletarian police accountability, the CPC sentences a police officer to death for killing a pregnant woman in a restaurant in southern China.](https://www.bbc.com/news/world-asia-26230765)
-* [The US is losing to China: “Washington is actually far more corrupt than Beijing. If you want to get something done in Washington, you do what you do in Jakarta: just slip some money to the right people.”]( https://www.forbes.com/sites/eamonnfingleton/2014/11/12/obama-in-china-taking-candy-from-a-baby/#27d9d3c1231e)
+* [The US is losing to China: “Washington is actually far more corrupt than Beijing. If you want to get something done in Washington, you do what you do in Jakarta: just slip some money to the right people.”](https://www.forbes.com/sites/eamonnfingleton/2014/11/12/obama-in-china-taking-candy-from-a-baby/#27d9d3c1231e)
+* [The consequences of moving from Industrial to Finance Capital in the US](https://consortiumnews.com/2021/01/07/the-consequences-of-moving-from-industrial-to-financial-capitalism/)
 * [China surpasses the US as of 2015 as the world's largest global trading partner.](https://twitter.com/Anonylyzer13/status/1221033018355113984)
 * [China 9 years ahead of schedule on meeting its Paris agreement climate change goals. ](https://www.newscientist.com/article/2211366-china-is-on-track-to-meet-its-climate-change-goals-nine-years-early/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news)
 * [China meets ultra-low power plant emissions in advance of 2020 goal.](https://www.reddit.com/r/science/comments/dsdam3/china_meets_ultralow_emissions_in_advance_of_the/)
@@ -621,6 +623,7 @@
 - [RodericDay - A thread about the key sources for Uyghur Genocide (Especially Adrian Zenz).](https://threadreaderapp.com/thread/1287411708374454273.html)
 - [Zenz makes a claim that 500,000 tibetans (1 out of every 3 working age Tibetans) are in forced labor camps.](https://www.reddit.com/r/GenZedong/comments/ixmy9p/china_has_somehow_put_16_of_the_entire_tibetan/)
 - [Breaking down the BBC's visit to XinJiang.](https://medium.com/@sunfeiyang/breaking-down-the-bbcs-visit-to-hotan-xinjiang-e284934a7aab)
+- [A rebuttal of a Guardian article by Gulbahar Haitiwaji](https://twitter.com/moghilemear13/status/1351397520358957058) [2](https://www.reddit.com/r/communism/comments/kwew3n/contradictions_in_the_new_uighur_story_by/)
 - [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic). 
 
 ### What about the Falun Gong?
@@ -865,6 +868,7 @@
   - [Goes back on his 1985 semi-pro-cuba statements: "The Cuban economy is a disaster. No, I do not praise Fidel Castro."](https://www.realclearpolitics.com/video/2016/11/27/sanders_on_cuba_of_course_their_economy_is_terrible_but_they_have_good_health_care.html)
   - [Praises the Hong Kong protestors, tells China to back off.](https://imgur.com/mwsMLSS) 
   - [After the Jan 2020 US assassination of Iranian general Soleimani, Sanders showed remorse for the "4500 brave US troops who died", and trillions of dollars spent on the war in Iraq, instead of the 1M Iraqi civilians killed.](https://i.imgur.com/vRHPO9K.jpg)
+  - [Calls for Russia to pardon white-nationalist Alexei Navalny](https://i.imgur.com/8R84SWi.png).
 - [Bernie is against open borders](https://www.youtube.com/watch?v=vf-k6qOfXz0), believes in strong border and anti-immigration policies. [2](https://i.imgur.com/WcQ8bNQ.jpg)
     - When asked about the 2018 Migrant caravan, where Border agents tear gassed migrants, Bernie replied, ["not all migrants seeking asylum at the US-Mexico border have a credible claim. "You have to look at it case-by-case."](https://thehill.com/homenews/senate/418398-bernie-sanders-some-migrants-lack-credible-claim-for-asylum)
   - [Believes that Russians are to blame for the failure of US democracy. "Protecting american democracy from foreign invasion."](https://i.imgur.com/GkSXsZY.jpg). [2020 Campaign trail: "Americans are sick and tired of Russian intereferenc in our elections"](https://twitter.com/thehill/status/1230994357236322304)
@@ -957,7 +961,7 @@
   - [Accepted thousands of dollars of campaign funds from Donald and Ivanka Trump multiple times.](https://www.sacbee.com/news/politics-government/capitol-alert/article226975319.html). [Accepted money from Reed Hastings, Netflix CEO and a charter school magnate.](https://www.desertsun.com/story/news/politics/elections/2019/01/19/california-senator-kamala-harris-enter-democratic-presidential-primary-mlk-day/2455046002/) [2](https://capitalandmain.com/reed-hastings-the-disrupter-1101)
 - [Voted to give Trump increased military spending](https://justfacts.votesmart.org/bill/23430/61033/120012/national-defense-authorization-act-for-fiscal-year-2018#.XQQgLtNKifQ) two [different times.](https://justfacts.votesmart.org/bill/25215/64284/120012/department-of-defense-and-labor-health-and-human-services-and-education-appropriations-act-2019#.XQQhV9NKifQ)
   - [Supports Trump escalating the war in Syria](https://thegrayzone.com/2019/05/24/bipartisan-war-congress-trump-syria-iran-russia-hezbollah/). [Co-sponsored a "destabilize Iran" bill](https://www.congress.gov/bill/115th-congress/senate-bill/722/cosponsors?searchResultViewType=expanded).[2](https://thinkprogress.org/media-outlets-lawmakers-us-violated-iran-nuclear-deal-5907a0e5743a/)
-  - [Supports Israel’s right-wing government and cozies up to AIPAC](https://theintercept.com/2018/03/07/kamala-harris-israel-aipac/), co-sponsored resolution against Obama in [support of illegal settlements, does not support Palestinian rights](https://www.counterpunch.org/2019/01/31/kamala-harris-and-israel-taking-the-aipac-line/), and [calls BDS “anti-semitic”](https://twitter.com/AbbyMartin/status/1146595730489876480). [2](https://thegrayzone.com/2020/08/11/netanyahu-top-cop-kamala-harris-israel-racism/)
+  - [Supports Israel’s right-wing government and cozies up to AIPAC](https://theintercept.com/2018/03/07/kamala-harris-israel-aipac/), co-sponsored resolution against Obama in [support of illegal settlements, does not support Palestinian rights](https://www.counterpunch.org/2019/01/31/kamala-harris-and-israel-taking-the-aipac-line/), and [calls BDS “anti-semitic”](https://twitter.com/AbbyMartin/status/1146595730489876480). [Another Anti-Palestine rant at AIPAC](https://twitter.com/acsofian/status/1351928124209045507?s=20), [2](https://thegrayzone.com/2020/08/11/netanyahu-top-cop-kamala-harris-israel-racism/).
   - [Is against open borders, opposed calls to tear down 700 miles of border fence.](https://www.foxnews.com/politics/kamala-harris-says-we-cant-have-open-borders-as-she-swipes-at-beto-orourke-far-left-dems)
   - [Fought to limit amount of land indigenous tribes could place in trust and tried to take reservation land away from a tribe just to keep them from evicting a non-indigenous man who had lived there without paying rent for 24 years.](https://www.indianz.com/News/2017/10/10/supreme-court-puts-end-to-case-challengi.asp)
 - [Mocks the activist call to “build more schools, less jails”.](https://twitter.com/_waleedshahid/status/1090067362907340800?lang=en)  [Mocks criminal justice reformers as unrealistic.](https://twitter.com/WalkerBragman/status/1089984902706200576).
@@ -985,6 +989,7 @@
 - [Biden: "Iraq was a problem that had to be dealt with sooner rather than later."](https://twitter.com/richimedhurst/status/1313831422495465473?s=20)
 - ["Israel is the best 3B dollar investment we have. If Israel didn't exist, we'd have to go out and invent an Israel."](https://youtu.be/vK-nRcnLdMQ)
 - [Danny Haiphong - Biden's victory in the 2020 election is still a loss for humanity](https://blackagendareport.com/joe-bidens-victory-still-loss-humanity)
+- [LiberationNews - On Biden taking office](https://www.liberationnews.org/psl-statement-biden-in-office-capitalists-in-power/)
 
 ### Greta Thunberg
 
