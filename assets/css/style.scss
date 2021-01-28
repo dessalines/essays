@@ -1,14 +1,16 @@
 ---
 ---
 #a-title > h1:nth-child(1) { 
-  font-size: 1em;
+  font-size: 0.8em;
   margin-bottom: 2px;
+  line-height: initial;
 }
 div.container:nth-child(1) > h2:nth-child(2) {
   font-size: 0px;
 }
 a.btn.btn-github {
-  font-size: 0.7em;
+  font-size: 0.8em;
+  line-height: initial;
 }
 
 table, td, th {
