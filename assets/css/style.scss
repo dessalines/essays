@@ -11,6 +11,11 @@ a.btn.btn-github {
   font-size: 0.7em;
 }
 
+table, td, th {
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+
 a:link {color:#9cf}
 a:hover, a:visited:hover {color:#cef}
 a:visited {color:#c9f}
