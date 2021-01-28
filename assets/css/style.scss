@@ -1,5 +1,12 @@
 ---
 ---
+#a-title > h1:nth-child(1) { 
+  font-size: 1em;
+  margin-bottom: 2px;
+}
+a.btn.btn-github {
+  font-size: 0.7em;
+}
 
 a:link {color:#9cf}
 a:hover, a:visited:hover {color:#cef}
