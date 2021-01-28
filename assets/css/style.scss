@@ -4,6 +4,9 @@
   font-size: 1em;
   margin-bottom: 2px;
 }
+div.container:nth-child(1) > h2:nth-child(2) {
+  font-size: 0px;
+}
 a.btn.btn-github {
   font-size: 0.7em;
 }
