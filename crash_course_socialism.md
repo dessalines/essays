@@ -286,7 +286,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Michael Parenti on Imperialism and Film - Rambo and the Swarthy Hordes](https://www.youtube.com/watch?v=S33DKRcqvkQ)
 - [Karl Marx and Marxism - BBC documentary by Stuart Hall](http://www.youtube.com/watch?v=m8bdndigRA8)
 - [Dr Gabor Maté - Why Capitalism Makes Us Sick](https://www.youtube.com/watch?v=AaAJQR_9Dg8)
-- [Vijay Prashad - Military power, and the American Empire in decline.](https://invidio.us/watch?v=hTb2uVIWG5Q)
+- [Vijay Prashad - Military power, and the American Empire in decline.](https://youtube.com/watch?v=hTb2uVIWG5Q)
 - [The Philosophy of Antifa (Philosophy Tube)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
 - [3 minute intro to Marxism](https://www.youtube.com/watch?v=Vz3eOb6Yl1s)
 - [10 minute intro to Karl Marx](https://www.youtube.com/watch?v=fSQgCy_iIcc)
@@ -424,9 +424,9 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 - [Anticonqustia](https://www.youtube.com/channel/UCl1bDSVi34xE65YzreytVxQ)
 - [Empire Files](https://www.youtube.com/channel/UCG29FnXZm4F5U8xpqs1cs1Q)
-- [Paul Cockshott](https://invidio.us/channel/UCVBfIU1_zO-P_R9keEGdDHQ)
+- [Paul Cockshott](https://youtube.com/channel/UCVBfIU1_zO-P_R9keEGdDHQ)
 - [Richard Wolff - Democracy at Work](https://www.democracyatwork.info/)
-- [Comrade Hakim](https://invidio.us/channel/UCPPZoYsfoSekIpLcz9plX1Q)
+- [Comrade Hakim](https://youtube.com/channel/UCPPZoYsfoSekIpLcz9plX1Q)
 - Vijay Prashad
 - Micheal Parenti
 
