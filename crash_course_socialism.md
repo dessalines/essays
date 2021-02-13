@@ -49,7 +49,7 @@ The [means of production](https://en.wikipedia.org/wiki/Means_of_production) are
 
 Private property in the socialist context shouldn't be confused with [personal property](https://en.wikipedia.org/wiki/Personal_property#Personal_versus_private_property), such as your home, car, computer, and other possessions, which would be protected. Private property is in actuality another word for *absentee property*, whose ownership is claimed through title only (and not use), for the purpose of extracting rent from the *actual* users, occupants, or workers.
 
-In a Capitalist society the means of production are owned and controlled privately, by those that can afford them (the Capitalist, aka those with Capital). Production is carried out to **benefit the capitalist** (production for profit). Workers are paid a wage, and **receive that amount regardless of how much value they produce**.
+In a Capitalist society the means of production are owned and controlled privately, by those that can afford them (the Capitalist, aka those with Capital). Production is carried out to [benefit the capitalist](https://www.reddit.com/r/communism101/comments/a0mwut/what_exactly_is_capitalism/eaj3b4a/) (production for profit). Workers are paid a wage, and [receive that amount regardless of how much value they produce](https://www.marxists.org/archive/harman/1979/marxism/ch04.html).
 
 Socialists call this difference the [surplus](https://en.wikipedia.org/wiki/Surplus_value), profit, unpaid labor, exploitation, or **wage theft**.
 

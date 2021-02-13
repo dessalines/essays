@@ -243,7 +243,7 @@
 
 ## On Economics and Sociology
 
-- [What is surplus value?](crash_course_socialism.md#surplus-value), [2](https://www.marxists.org/archive/harman/1979/marxism/ch04.html)
+- [What is surplus value?](crash_course_socialism.md#surplus-value)
 - [Can someone ELI 5 the Labor Theory of Value?](http://www.reddit.com/r/communism101/comments/2otlcz/can_someone_eli_5_the_labor_theory_of_value/)
 - [Is the Labor theory of value (LTV) scientifically correct? What about academic economists and the subjective theory of value (STV)?](https://www.reddit.com/r/DebateCommunism/comments/9xo7l7/questions_about_ltv_and_stv/e9ts0k1/)
 - [Is human labor the source of value because human beings do not normally work for free?](http://www.reddit.com/r/communism101/comments/1hjpgk/is_human_labor_the_source_of_value_because_human/)
