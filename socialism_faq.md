@@ -492,6 +492,7 @@
 * [What about China's coronavirus response? Is there really any sinophobia?](https://www.reddit.com/r/communism/comments/evwls8/megathread_addressing_sinophobia_and_chinas/) [2](https://amp.theguardian.com/world/2020/jan/28/canada-chinese-community-battles-racist-backlash-amid-coronavirus-outbreak?__twitter_impression=true) [3](https://www.youtube.com/watch?v=GasWB8s-tqs&feature=youtu.be)
 * [The New York Times anti-China Syndrome (about the coronavirus)](https://fair.org/home/nyts-china-syndrome/)
 * [Debunking NYTimes anti-china covid-19 talking points, especially about Dr Li.](https://mronline.org/2020/03/05/yellow-caking-an-epidemic/)
+* [NYT misquotes WHO doctors who went to China, the doctors refute them.](https://twitter.com/catcontentonly/status/1360731850034053120?s=20)
 * [The US went against the CDC recommendations and evacuated 14 corona-virus infected US citizens, sparking the spread of the virus in the US](https://nypost.com/2020/02/20/coronavirus-infected-americans-flown-back-to-us-on-plane-full-of-healthy-people/).
 * [An April 2020 poll of Republicans and Democrats finds that 77% blame China for coronavirus, with 54% saying China owes reparations. ](http://archive.is/FB7KP)
 * [Vijay Prashad and Qiao Collective - On the covid timeline, and US Sinophobia.](https://www.qiaocollective.com/home/conversation-vijay-prashad)
