@@ -298,13 +298,13 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ### Modern introductory books
 
-  - [Introductory books](magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
-- [Paul D’Amatto - the meaning of Marxism](magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969). [Youtube audiobook](https://www.youtube.com/watch?v=mX9h_ApIRc0&list=PL0-IkmzWbjoaJXdItsv-JPqE7gBW2M80o)
-- [Danny Katch -  Socialism…. Seriously](magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc&tr=http://tracker.opentrackr.org/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.zer0day.to:1337/announce)
+  - [Introductory books](magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack)
+- [Paul D’Amatto - the meaning of Marxism](magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub)
+- [Danny Katch -  Socialism…. Seriously](magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc)
 - [Chris Harman - How Marxism Works](https://www.marxists.org/archive/harman/1979/marxism/index.html). [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjob9lPqBGAyQAX6lhxm5fE_d)
 - Michael Parenti - Blackshirts and Reds. [Youtube audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoak57jcXDh1rY4n7Ic-EVsE)
 - [Peter Gelderloos - How Nonviolence Protects the State](https://theanarchistlibrary.org/library/peter-gelderloos-how-nonviolence-protects-the-state)
-- [Socialist books starter pack (torrent)](magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969)
+- [Socialist books starter pack (torrent)](magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack)
 
 ### Essays/Introductions
 
@@ -346,7 +346,7 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ### Psychology
 
-- [Robert Cialdini - The Psychology of persuasion](magnet:?xt=urn:btih:bad0ad6cca5c00ba8d1f8e8c4e5962f6d611f381&dn=Influence_%20The%20Psychology%20of%20Persuasion%20by%20Robert%20Cialdini&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969&tr=udp%3A%2F%2Feddie4.nl%3A6969&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969&tr=udp%3A%2F%2Fopentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337) (not explicitly Marxist, but a great breakdown of the main psychological tactics used by exploiters to manipulate us)
+- [Robert Cialdini - The Psychology of persuasion](magnet:?xt=urn:btih:bad0ad6cca5c00ba8d1f8e8c4e5962f6d611f381&dn=Influence_%20The%20Psychology%20of%20Persuasion%20by%20Robert%20Cialdini) (not explicitly Marxist, but a great breakdown of the main psychological tactics used by exploiters to manipulate us)
 
 ### Fiction
 
