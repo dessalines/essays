@@ -29,6 +29,10 @@
 - [Cheka - The State And Revolution - An Overview](magnet:?xt=urn:btih:2e5a3aaa408fbc7c36e3a0367eb84ec84a5198e4&dn=Cheka%20-%20The%20State%20And%20Revolution%20-%20An%20Overview%20%5baudiobook%5d%20by%20dessalines)
 - [Anne Helen Petersen - How Millenials Became The Burnout Generation](magnet:?xt=urn:btih:d0788a8c897c7847622b221f591a9c4fcc91a4ad&dn=Anne%20Helen%20Petersen%20-%20How%20Millenials%20Became%20The%20Burnout%20Generation%20%5baudiobook%5d%20by%20dessalines)
 - [Mark Laskey - Rebellion of the Damned](magnet:?xt=urn:btih:489FABD768DAA28A25BAFE5D095F6D4C1594D2B4&dn=Mark+Laskey+-+Rebellion+of+the+Damned+%5Baudiobook%5D+by+dessalines)
+- [André Gorz - The Social Ideology of the Motorcar](magnet:?xt=urn:btih:6CBA6640690A243EF92876C67B40258C2D7946A0&dn=Andr%26eacute%3B+Gorz+-+The+Social+Ideology+of+the+Motorcar+%5Baudiobook%5D+by+dessalines)
+- [The Dhammapada - Translated by Gil Fronsdal](magnet:?xt=urn:btih:9f5bdf280e88ff3734331de0b72d7dfd88507182&dn=The%20Dhammapada%20-%20Translated%20by%20Gil%20Fronsdal%20%5baudiobook%5d%20by%20dessalines)
+- [Jones Manoel - Western Marxism Loves Purity and Martyrdom, But Not Real Revolution](magnet:?xt=urn:btih:a3684bb031ae6ced97bd7039a828d07eaf6db27b&dn=Jones%20Manoel%20-%20Western%20Marxism%20Loves%20Purity%20and%20Martyrdom%2c%20But%20Not%20Real%20Revolution%20%5baudiobook%5d%20by%20dessalines)
+- [He Zhao - The Long Game and Its Contradictions](magnet:?xt=urn:btih:aff6ab5ecaed61450f9fd920de63df3db8f27940&dn=He%20Zhao%20-%20The%20Long%20Game%20and%20Its%20Contradictions%20%5baudiobook%5d%20by%20dessalines)
 
 ## Read by others
 
