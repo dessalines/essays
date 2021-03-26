@@ -147,6 +147,7 @@
 * [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](https://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_stage_of_communism_or_is/)
 * [What about Left Unity? Engels letter to Bebel.](https://www.marxists.org/archive/marx/works/1873/letters/73_06_20.htm)
 * [What about Marxism and Empiricism? Is Marxism falsifiable?](https://www.reddit.com/r/communism101/comments/8978hb/is_marxism_falsifiable/)
+* [Hakim - On Capitalism and Corporatism](https://www.youtube.com/watch?v=luB9VUsXRs8)
 
 ## On Ultra-leftism / Left-Communism
 
@@ -157,7 +158,7 @@
 * [Cockshott - Socialism and surplus - Why the USSR was socialist.](https://www.youtube.com/watch?v=C-T-Fr6DvFw)
 * [Where are communists on the political compass?](https://www.reddit.com/r/communism101/comments/f4a9w9/where_do_communists_fall_on_the_political_spectrum/fhozyg4/)
 * [Lenin - "Left-Wing" Communism: An infantile disorder.](https://www.marxists.org/archive/lenin/works/1920/lwc/) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjob1T8DTNDG7EQaN18eSJ97m)
-* [Western Marxism's martyrdom / purity complex.](https://blackagendareport.com/western-marxism-loves-purity-and-martyrdom-not-real-revolution)
+* [Western Marxism's martyrdom / purity complex.](https://blackagendareport.com/western-marxism-loves-purity-and-martyrdom-not-real-revolution) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoaZIsNaAcjt87etb0A_0FWB)
 - [The CIA reads french postmodernist theory: how the CIA pushed "post-Marxist" theory to build support for imperialism.](https://thephilosophicalsalon.com/the-cia-reads-french-theory-on-the-intellectual-labor-of-dismantling-the-cultural-left/)
 
 ## Did economic planning work?
@@ -218,7 +219,7 @@
     - [FBI cointel directives on "nonviolent" groups.](https://herb.ashp.cuny.edu/items/show/814)
 - [Is a state really necessary to transition into communism?](https://www.reddit.com/r/communism101/comments/f0l14l/why_is_a_state_necessary_to_transition_into/)
 - [Engels - on authority. ](https://www.marxists.org/archive/marx/works/1872/10/authority.htm)
-- [An Overview of Leninism](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/), [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) , [audiobook](https://www.youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
+- [An Overview of Leninism](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/), [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoaFTdUpdzXv-zCvYsz4sB01). [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) , [audiobook](https://www.youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
 - [Luxemburg - Reform or Revolution](https://www.marxists.org/archive/luxemburg/1900/reform-revolution/), [audiobook](https://www.youtube.com/watch?v=YhzmaUofLS8&list=PL0-IkmzWbjoYqO_Yec4sWzPeeFXMOkPWs)
 - [Trotsky - Fascism - What it is and how to fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm), [audiobook](https://www.youtube.com/watch?v=S39lCH8PnZ8&list=PL0-IkmzWbjoa-4fIC4TbpTJgRM77It6LC)
 
@@ -277,7 +278,7 @@
 - [What about the history of Marxist Feminism?](https://isreview.org/issue/93/womens-liberation-marxist-tradition)
 - [Thomas Sankara - Women’s liberation and African freedom struggle](http://www.themilitant.com/2011/7502/750249.html)
 - [Clara Zetkin - Lenin and the Women's Question](https://www.marxists.org/archive/zetkin/1920/lenin/zetkin1.htm)
-- [Witchcraft - Class struggle and women's liberation in the middle ages.](https://www.cvltnation.com/rebellion-of-the-damned-witchcraft-as-social-revolt-in-early-modern-france/)
+- [Witchcraft - Class struggle and women's liberation in the middle ages.](https://www.cvltnation.com/rebellion-of-the-damned-witchcraft-as-social-revolt-in-early-modern-france/) [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoYf68CgjTOc88IDu1mvI4_L)
 - [Interviews with Women in the USSR.](https://www.reddit.com/r/communism101/comments/e30gjm/ussr_and_women_rights/f90d0r8/)
 - [What's wrong with "more women CEO" / imperial feminism?](https://twitter.com/RaniaKhalek/status/1207061598680027137?s=20)
 
@@ -349,7 +350,7 @@
 
 - [*The Leninist Theory of Organisation*](http://www.marxists.org/archive/mandel/196x/leninism/index.htm) by Ernest Mandel
 - [*Lenin: A Study on the Unity of his Thought*](http://www.marxists.org/archive/lukacs/works/1924/lenin/) by Georg Lukacs
-- [*Socialism: Utopian and Scientific*](https://www.marxists.org/archive/marx/works/1880/soc-utop/) by Friedrich Engels
+- [*Socialism: Utopian and Scientific*](https://www.marxists.org/archive/marx/works/1880/soc-utop/) by Friedrich Engels [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjobt3oC7Mhq9kHWVbBKRtyg8)
 
 ## On Trotskyism
 
@@ -500,6 +501,7 @@
 * [Did China hide covid?](https://www.peoplesworld.org/article/trumps-blame-china-campaign-is-an-effort-to-dodge-responsibility/)
 * [Taimur Rahman - How China beat the Coronavirus.](https://www.youtube.com/watch?v=HN8bKQOyw_Q)
 * [What about the suicide nets at Foxconn?](https://www.reddit.com/r/Sino/comments/dnafal/question_suicide_nets/)
+* [Is china persecuting gay people?](https://twitter.com/isgoodrum/status/1366919923390324737)
 
 ### Is China State Capitalist?
 
@@ -509,7 +511,7 @@
 * [Is modern day china communist? Is it staying true to communist values?](https://www.reddit.com/r/communism101/comments/91liw2/how_is_china_staying_true_to_communist_values/e2z3kzu/)
 * [Didn't China go Capitalist with Deng Xiaoping? Didn't it liberalize its economy? Is China's drastic decrease in poverty a result of the increase in free market capitalist policies?](https://www.reddit.com/r/DebateCommunism/comments/b3gjfe/chinas_drastic_decrease_in_poverty_is_a_result_of/ey8depl/?context=3)
 * [Is the CPC committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
-* [The Long Game and Its Contradictions](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4).
+* [The Long Game and Its Contradictions](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4). [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoali1j-mai9MtggjA-Vzc4x)
 * [The myth of Chinese state capitalism. Did Deng really betray Chinese socialism?](http://www.greanvillepost.com/2015/08/20/the-myth-of-chinese-capitalism-2/)
 * [Do capitalists control the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
 * [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
@@ -543,6 +545,7 @@
 * [Trade union laws of the PRC.](https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/30352/118793/F1165849917/CHN30352%202.pdf)
 * [The west views China as one big sweatshop, but the actual working hours aren't much more than anywhere else. The average for a migrant worker (most vulnerable to exploitation as they are traveling from the countryside) is 8.8 hours, little under an hour more than a typical working day. Labor strikes are rarely suppressed, and usually get the support of the PRC.](https://www.forbes.com/sites/mitchfree/2013/07/11/held-hostage-entrepreneurs-uneasy-over-chinese-govt-inaction/#2431f5463de4)
 * [The workplace safety standards of China are better than in the capitalist countries of the West like in Australia who have an higher rate of work related death despite having a GDP per capita 3-5 times higher.](http://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/)
+* [70% of Chinese millenials own their own home, and 91% as of 2021 plan to buy their own home within the next 5 years.](https://www.bbc.com/news/world-39512599)
 * [In a typical example of proletarian police accountability, the CPC sentences a police officer to death for killing a pregnant woman in a restaurant in southern China.](https://www.bbc.com/news/world-asia-26230765)
 * [The US is losing to China: “Washington is actually far more corrupt than Beijing. If you want to get something done in Washington, you do what you do in Jakarta: just slip some money to the right people.”](https://www.forbes.com/sites/eamonnfingleton/2014/11/12/obama-in-china-taking-candy-from-a-baby/#27d9d3c1231e)
 * [The consequences of moving from Industrial to Finance Capital in the US](https://consortiumnews.com/2021/01/07/the-consequences-of-moving-from-industrial-to-financial-capitalism/)
@@ -553,8 +556,9 @@
 ### Is China Imperialist?
 
 - [Debunking the claim that "China is Imperialist"](https://medium.com/@rainershea612/catagorically-debunking-the-claim-that-china-is-imperialist-a9ae7b280a44)
-- [The demeanor of Chinese leaders (Xi Jinping) vs Western leaders (Nancy Pelosi) towards African nations. One of the reasons why African nations favor China instead of the West.](https://www.reddit.com/r/GenZedong/comments/kxabq5/the_demeanor_of_chinese_leaders_xi_jinping_vs/)
+- [The demeanor of Chinese leaders (Xi Jinping) vs Western leaders (Nancy Pelosi) towards African nations. One of the reasons why African nations favor China instead of the West.](https://www.reddit.com/r/GenZedong/comments/kxabq5/the_demeanor_of_chinese_leaders_xi_jinping_vs/) [Full video here](https://www.youtube.com/watch?v=P5uzxV8ub9k)
 - [Is China really imperialist? What's the difference between what Europe did to Africa, and what China is doing?](https://www.reddit.com/r/GenZedong/comments/g0lp70/people_are_saying_that_china_is_colonialist_by/fnanq5x/)
+- [US air force veteran Bill Brown breaks down the history of anti-chinese propaganda, and why China is not colonialist like the west.](https://twitter.com/thouse_opinions/status/1371723368832004099)
 - [Yanis Varoufakis on China's foreign policy dealings with Greece and Africa](https://www.youtube.com/watch?v=PBgbYQ5QAM0).
 - [Vijay Prashad and Qiao Collective - Is China imperializing Africa?](https://www.qiaocollective.com/home/conversation-vijay-prashad)
 - [Danny Haiphong from BlackAgenaReport interview with Anya Parampil from thegrayzone: on the new cold war, and a myriad of lies about China.](https://thegrayzone.com/2020/08/24/42711/)
@@ -563,6 +567,7 @@
 - [China has forgiven over $10B in debt, over half to Cuba](https://www.forbes.com/sites/kenrapoza/2019/05/29/china-has-forgiven-nearly-10-billion-in-debt-cuba-accounts-for-over-half/#7a4116c3615b), but also including > 20 African nations, Pakistan, and Cambodia.
 - [After covid, China suspends debt repayment for 77 countries, promises > $2B USD and medical supplies as aid to help developing countries fight covid.](https://www.globaltimes.cn/content/1190790.shtml)
 - [President Xi pledges coronavirus vaccine to Africa first, helps fund African CDC headquarters.](https://www.globaltimes.cn/content/1191988.shtml)
+- [China writes off $6M in debt to rwanda, provides another $60M in grants.](https://www.newtimes.co.rw/news/china-cancels-6-million-debt-rwanda-offers-extra-grants)
 - [China forgives over $78M in Cameroon debt](https://edition.cnn.com/2019/02/04/china/cameroon-china-debt-relief-intl/index.html).
 - [China writes off $36m Mozambican debt](https://furtherafrica.com/2017/10/26/china-writes-off-36m-mozambican-debt/).
 - [China writes off substantial amount of Angola debt.](https://www.angop.ao/angola/en_us/noticias/politica/2017/5/23/China-agrees-partial-write-off-Angola-debt,73246665-509c-48a2-ae40-415d3fb65b00.html)
@@ -608,7 +613,10 @@
 - [Egyptian media delegates provide a detailed insight of the situation in Xinjiang](https://www.thenews.com.pk/latest/430738-egyptian-media-delegates-provide-a-detailed-insight-of-the-situation-in-xinjiang)
 - [A majority of Muslim countries support China's policies in XinJiang](https://i.imgur.com/Cks29xL.jpg), [and don't believe the western lies told about it.](https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/). [54 Countries in total](http://www.globaltimes.cn/content/1168522.shtml). [2](http://www.xinhuanet.com/english/2019-07/13/c_138222183.htm), [3](https://www.cnsnews.com/news/article/patrick-goodenough/china-thanks-37-countries-including-islamic-states-praising-its), [4](http://www.globaltimes.cn/content/1159357.shtml) Supporters: Algeria, Angola, Bahrain, Belarus, Bolivia, Burkina Faso, Burma, Burundi, Cambodia, Cameroon, Comoros, Congo, Cuba, DR Congo, Egypt, Eritrea, Gabon, Kuwait, Laos, Nigeria, North Korea, Oman, Pakistan, Philippines, Qatar, Russia, Saudi Arabia, Somalia, Sudan, Syria, Tajikistan, Togo, Turkmenistan, UAE, Venezuela, Zimbabwe.
 - [China's policies in the Xinjiang Uyghur autonomous region lift 1.85 million people out of poverty from 2014-2017.](http://www.xinhuanet.com/english/2018-10/24/c_137554986.htm?source=post_page---------------------------)
+- [Dan Cohen - Is China committing genocide? Behind the US goverments propaganda campaign.](https://www.youtube.com/watch?v=Hjurb61SZgk)
+- [Redsails - The Xinjiang atrocity propaganda blitz](https://redsails.org/the-xinjiang-atrocity-propaganda-blitz/)
 - [RodericDay - A thread about the key sources for Uyghur Genocide (Especially Adrian Zenz).](https://threadreaderapp.com/thread/1287411708374454273.html)
+- [BayArea415 - american debunks major western propaganda on Uyghurs and Xinjiang](https://www.youtube.com/watch?v=8yURIS7S9zg)
 - [US fuels terrorism in China.](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
 - [Wiki on the Turkestan Islamic Party (has a full list of terrorist attacks committed by east turkestan separatists)](https://en.wikipedia.org/wiki/Turkistan_Islamic_Party)
 - [About the TiP (Turkestan Islamic Party)](https://journal-neo.org/2018/10/05/china-s-uyghur-problem-the-unmentioned-part/)
@@ -625,7 +633,8 @@
 - [If China Is Anti-Islam, Why Are These Chinese Muslims Enjoying a Faith Revival?](https://time.com/3099950/china-muslim-hui-xinjiang-uighur-islam/) 
 - [A New York Times "expose" of re-education centers in Xinjiang lied and mistranslated every claim.](https://www.quora.com/What-would-be-the-consequences-of-the-New-York-Times-expose-on-Xinjiang/answer/Jamin-Chen-1)
 - [Reddit holds an AMA](https://www.reddit.com/r/IAmA/comments/e9ad4n/i_am_rushan_abbas_uyghur_activist_and_survivor_of/) for an "Uyghur Activist", who turns out to be [Rushan Abbas](https://web.archive.org/web/20181207031224/https://www.isi-consultants.com/rushan-abbas/), a CIA agent who worked for Homeland Security, Department of Defense, Department of State, Department of Justice, and various U.S. intelligence agencies, and even worked at Guantanamo bay, the US muslim torture camp. [1](https://www.reddit.com/r/ShitLiberalsSay/comments/e9crzq/shit_liberals_do_claim_to_be_an_uyghur_survivor/) [2](https://medium.com/@rsahthion/a-reddit-ama-claiming-to-be-a-uiyghur-quickly-exposes-a-cia-asset-slandering-china-1d667c098b77)
-- [Reddit holds yet another AMA with Sophie Richardson, the "China director" at the US soft-power regime change agency Human Rights Watch. The comments expose her as not speaking chinese, and spreading blatant lies about China.](https://www.reddit.com/r/worldnews/comments/hwi7ub/i_am_sophie_richardson_china_director_at_human/)
+- [Reddit holds yet another AMA with Sophie Richardson, the "China director" at the US soft-power regime-change agency Human Rights Watch. The comments expose her as not speaking chinese, and spreading blatant lies about China.](https://www.reddit.com/r/worldnews/comments/hwi7ub/i_am_sophie_richardson_china_director_at_human/)
+- [Reddit holds another AMA with a grifting author, Amelia Pang](https://www.reddit.com/r/IAmA/comments/m99tvp/im_the_author_of_made_in_china_a_prisoner_an_sos/), who wrote a NYTimes best selling book about going undercover into an Uyghur prison. It turns out that she worked for the Epoch Times for many years, and also never visited or talked with a single prisoner. Her book is based on extrapolations from a 1991 film. She leaves the AMA after leaving all the top questions unanswered.
 - [A case study in Anti-Chinese racism.](https://medium.com/@rsahthion/a-case-study-in-racist-anti-chinese-sentiment-fuelled-by-american-bots-and-western-propaganda-f0a69978d568)
 - [Debunking an article from the intercept about Uyghurs.](https://twitter.com/RodericDay/status/1355383514137554944?s=20)
 - [Zenz makes a claim that 500,000 tibetans (1 out of every 3 working age Tibetans) are in forced labor camps.](https://www.reddit.com/r/GenZedong/comments/ixmy9p/china_has_somehow_put_16_of_the_entire_tibetan/)
@@ -904,6 +913,7 @@
   - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
   - [As of 2020, replaces some of her more radical staff with political professionals, breaks with Sanders, calling his strategy too "conflict based", wants to start working more with establishment Dems.](https://www.politico.com/news/2020/03/30/new-aoc-divides-the-left-150767)
   - [In December 2020, after a proposal by comic Jimmy Dore, for house democrats to refuse support for House Speaker Nancy Pelosi, unless she agrees to bring a Medicare for all bill to the house, to bring relief for US citizens who lost healthcare during the pandemic. AOC and the rest of the "squad" refused, and backed Pelosi, citing concerns that the bill would not win anyway. Dore retorted that 9 / 10 democratic voters, and even a majority of republican voters support medicare for all.](https://www.corporatecrimereporter.com/news/200/jimmy-dore-calls-on-democrats-to-withhold-support-for-nancy-pelosi-unless-she-brings-single-payer-medicare-for-all-to-a-vote/)
+  - [AOC pays homage to "Tibetan Uprising Day"](https://twitter.com/BenjaminNorton/status/1370755518122373121?s=20), a CIA-sponsored campaign to restore the brutal Tibetan theocracy and re-institute slavery.
 - [Voted for Trump's 2020 War budget, allocating $738 Billion to military spending (a 3% increase over the previous year).](http://www.idcommunism.com/2019/07/ocasio-cortez-aoc-votes-in-favor-of-trumps-war-budget.html)
 - [She supports Israel, and its genocide of Palestineans.](https://i.imgur.com/K6QsYZo.jpg)
 - [Is against pardoning Julian Assange.](https://twitter.com/SameeraKhan/status/1359550389578854406?s=20)
@@ -915,6 +925,7 @@
 - [After Trump fires John Bolton (who tried and failed at starting wars with North Korea, Venezuela, and Iran), she goes full neocon, angry that Trump isn't going to war with North Korea.](https://i.imgur.com/3rSM3oU.jpg)
 - [Believes that Trump "betrays" US values.](https://i.imgur.com/H61toBx.png)
 - [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
+- [After Biden opens new child immigrant detention facilities in February 2021, she stops calling them "concentration camps", and names them "influx facilities".](https://i.imgur.com/oSlwtda.jpg)
 
 ### What's wrong with Elizabeth Warren?
 
@@ -982,6 +993,7 @@
 
 ### Joe Biden
 
+- [Breaks every single campaign promise.](https://twitter.com/nickwestes/status/1369670676299214852?s=20)
 - [Biden on young, black, "super-predators"](https://www.youtube.com/watch?v=seRaSRZKo2U)
 - [Biden - "I don't want to defund the police, we need more police. Trump wants to tho"](https://twitter.com/PplsCityCouncil/status/1297035723485323264?s=20) [2](https://twitter.com/BethLynch2020/status/1303377661545324545?s=20)
 - ["I have no plans for defense cuts."](https://www.stripes.com/news/us/biden-says-us-must-maintain-small-force-in-middle-east-has-no-plans-for-major-defense-cuts-1.644631)
@@ -999,6 +1011,7 @@
 - [Danny Haiphong - Biden's victory in the 2020 election is still a loss for humanity](https://blackagendareport.com/joe-bidens-victory-still-loss-humanity)
 - [LiberationNews - On Biden taking office](https://www.liberationnews.org/psl-statement-biden-in-office-capitalists-in-power/)
 - Biden breaks nearly every campaign promise his first few weeks in office, including a promise to [raise the minimum wage, telling governors its not going to happen.](https://www.politico.com/news/2021/02/18/biden-governors-minimum-wage-469898)
+- [Airstrikes Syria his first few days in office. It took Trump over a year to do the same.](https://www.reuters.com/article/us-usa-syria-strike/exclusive-u-s-carries-out-airstrike-against-iranian-backed-militia-target-in-syria-officials-idUSKBN2AP33D)
 
 ### Greta Thunberg
 
@@ -1169,6 +1182,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
   - [Defends using the N-word as a "power-move" which he is unashamed of.](https://i.imgur.com/ExE1sFZ.jpg)
   - [Bans a black woman from his discord for finding his use of the n-word highly offensive.](https://twitter.com/high_define/status/1322473467434991617?s=20)
   - [Justifying his "non-racist use" of the n-word](https://twitter.com/high_define/status/1265033740075634688)
+- ["Fuck black culture."](https://www.reddit.com/r/Enough_Vaush_Spam/comments/lv9qu8/vaush_patronizes_a_black_nationalist/)
 - Calls people ["Mentally ill crybabies"](https://i.imgur.com/T0RnOCC.jpg), "Woke-Scolds", and "Simps".
 - ["US geopolitical power is important to me personally, because I'm not ready to lose that to China"](https://twitter.com/AlMuntherO_O/status/1260679840698634242?s=20). *got removed*
 - [Is against decolonization.](https://twitter.com/trikstr_/status/1280053214117793792)  "We're not going to fkn leave America, white people are staying... we're not gonna give something back to native Americans... the best way forward is to integrate our communities". Vaush responds to a native person talking about indigenous movements and rights by saying: ["I'll listen to the scientists."](https://twitter.com/guajirx/status/1280314035217588224?s=21)
@@ -1178,6 +1192,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - ["Marxism isn't about collectivism, its about freedom from tyranny. Collectivism is groupthink."](https://www.youtube.com/watch?v=gWsrVEyEIcI)
 - [Hakim - Vaush has no idea what he's talking about.](https://www.youtube.com/watch?v=NX9_kXYMSck)
 - [Claims that tankies only exist in "small online circles", ignoring the millions of communists in the global south.](https://twitter.com/duck_azz/status/1291635709154033664?s=20)
+- [Supports US presence in the middle east as a "stabilizing force"](https://twitter.com/SpookySocialist/status/1367635044311957506?s=20)
 - ["Tacoma wept."](https://twitter.com/TrueAnonPod/status/1300197204443893760)
 
 ### Buddhism
@@ -1214,4 +1229,5 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - CPUSA [1](https://www.peoplesworld.org/article/bidens-crisis-presidency-and-potential-for-transformative-change/), [2](https://www.peoplesworld.org/article/biden-and-sanders-establish-task-force-to-unite-party-on-progressive-agenda/), [3](https://www.peoplesworld.org/article/a-clear-shot-shows-diversity-on-police-forces-a-good-thing/)
 - [Ziq](https://web.archive.org/web/20180405002453/https://raddle.me/f/lobby/28422/i-m-stepping-down-as-admin-because-of-some-shit-i-did-emma)
 - [Robert Evans](https://twitter.com/BenjaminNorton/status/1288116233133424648) [2](https://communism.lemmy.ml/pictrs/image/XwBw0R0M59.jpg)
+- Paul Morrin - [China is imperialist](https://twitter.com/LurkerUntamed/status/1372732445146165251?s=20), [Cuba, China, the DPRK, and the USSR are "social imperialist".](https://twitter.com/ANTICONQUISTA/status/1375213633186193413)
 - [A response to David Harvey's theories of Imperialism by John Smith.](https://urpe.wordpress.com/2018/01/11/a-critique-of-david-harvey-on-imperialism/)

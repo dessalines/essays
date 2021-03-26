@@ -86,11 +86,6 @@ Notes:
 | [Communalism](https://en.wikipedia.org/wiki/Communalism)     | A system that integrates communal ownership and federations of highly localised independent communities, developed by libertarian socialist Murray Bookchin. |
 | [Utopian Socialism](https://en.wikipedia.org/wiki/Utopian_socialism) | A collection of socialist ideas that predated Marx, namely those of Owen, Fourier, and Saint-Simon. They focus on the presentation of visions and outlines for imaginary or futuristic ideal societies, with positive ideals being the main reason for moving society in such a direction. Later socialists such as Marx and Engels criticized utopian socialism as not being grounded in the material conditions of existing society, and for not identifying the wage-earning class capable of making the transition, and relying on wealthy utopian reformers acting within a capitalist framework. |
 
-
-
-
-
-
 ## Sources
 
 - [Principles of communism](https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm)
