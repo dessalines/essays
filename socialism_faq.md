@@ -139,6 +139,7 @@
 * [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
 * [Looking for reference to types of communism.](http://www.reddit.com/r/communism101/comments/1fcc6o/looking_for_reference_to_types_of_communism/)
 * [What was Engels Contribution to Marxism?](https://necessityandfreedom.wordpress.com/2017/04/16/without-engels-there-would-be-no-marxism/)
+* [Was Marx anti-semitic? ( On the Jewish Question )](https://www.reddit.com/r/communism101/comments/exfvbe/for_anyone_who_are_confused_by_marx_is/)
 * [Were the nazis socialist? What about national socialism, the national socialist movement (NSM), and the national front?](https://www.snopes.com/news/2017/09/05/were-nazis-socialists/), [2](https://www.reddit.com/r/Socialism_101/comments/79kvin/what_is_the_difference_between_socialists_here/), [3](https://www.reddit.com/r/therewasanattempt/comments/cblf1y/to_commit_a_hate_crime/ethf3t8/), [4](https://www.reddit.com/r/ShitLiberalsSay/wiki/index#wiki_the_nazis_were_socialists.2C_communists_or_leftists)
 * [What is Fascism?](http://www.nybooks.com/articles/1995/06/22/ur-fascism/)
 * [Did Karl Marx use "socialism" and "communism" interchangeably?](http://www.reddit.com/r/communism101/comments/2msa39/did_karl_marx_use_socialism_and_communism/)
@@ -193,6 +194,8 @@
 - [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 - [Halim Alrah - Why liberal democracies are a sham. ](https://www.youtube.com/watch?v=oYodY6o172A)
 - [What about social democracy / democratic socialism / the Nordic model? Isn't Sweden socialist?](https://www.youtube.com/watch?v=Jd03a8Pm1hs )
+- [Rainer shea - How social democrats help usher in fascism in Germany, and in the US today. ](https://rainershea612.medium.com/social-democrats-helped-usher-in-fascism-in-germany-theyre-doing-it-again-in-america-f84f71846e91)
+- [Scandinavia's covert role in western imperialism](https://www.telesurenglish.net/analysis/Scandinavias-Covert-Role-in-Western-Imperialism-20170320-0022.html)
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
 - [Paul Cockshott - On Socialism and Democracy.](https://www.youtube.com/watch?v=bHN0foV4Ntk) [2](https://www.youtube.com/watch?v=98lvNhNfse4&t=1518s) [3](https://www.youtube.com/watch?v=EjKYVQd4r9E)
 - [Comrade Hakim - Why electoralism always fails.](https://www.youtube.com/watch?v=WXbaZXQAbuU)
@@ -483,6 +486,7 @@
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
 * [Deng on why Mao's legacy must be upheld.](http://cpcchina.chinadaily.com.cn/fastfacts/2010-10/18/content_11425373.htm)
+* [Deng Xiaoping - a visionary marxist-leninist.](https://twitter.com/RodericDay/status/1353776771573948418?s=20)
 * [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](http://www.michaelparenti.org/Tibet.html) [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZjKom_Qj0jcDReaMb_r52z)
 * [Tibet, China, and the Violent reaction of a wealthy elite.](https://historicly.substack.com/p/tibet-china-and-the-violent-reaction)
 * [Mao's liberation of Tibet](https://stalinsmoustache.org/2018/09/19/maos-liberation-of-tibet/)
@@ -502,6 +506,7 @@
 * [Taimur Rahman - How China beat the Coronavirus.](https://www.youtube.com/watch?v=HN8bKQOyw_Q)
 * [What about the suicide nets at Foxconn?](https://www.reddit.com/r/Sino/comments/dnafal/question_suicide_nets/)
 * [Is china persecuting gay people?](https://twitter.com/isgoodrum/status/1366919923390324737)
+* [Deng Xiaoping - on the question of national minorities and Han chauvinism](https://redsails.org/the-question-of-minority-nationalities-in-the-southwest/)
 
 ### Is China State Capitalist?
 
@@ -545,6 +550,7 @@
 * [Trade union laws of the PRC.](https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/30352/118793/F1165849917/CHN30352%202.pdf)
 * [The west views China as one big sweatshop, but the actual working hours aren't much more than anywhere else. The average for a migrant worker (most vulnerable to exploitation as they are traveling from the countryside) is 8.8 hours, little under an hour more than a typical working day. Labor strikes are rarely suppressed, and usually get the support of the PRC.](https://www.forbes.com/sites/mitchfree/2013/07/11/held-hostage-entrepreneurs-uneasy-over-chinese-govt-inaction/#2431f5463de4)
 * [The workplace safety standards of China are better than in the capitalist countries of the West like in Australia who have an higher rate of work related death despite having a GDP per capita 3-5 times higher.](http://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/)
+* [/u/cheezicle - My experience as a factory worker in a Chinese "sweatshop"](https://archive.is/B6ZBi)
 * [70% of Chinese millenials own their own home, and 91% as of 2021 plan to buy their own home within the next 5 years.](https://www.bbc.com/news/world-39512599)
 * [In a typical example of proletarian police accountability, the CPC sentences a police officer to death for killing a pregnant woman in a restaurant in southern China.](https://www.bbc.com/news/world-asia-26230765)
 * [The US is losing to China: “Washington is actually far more corrupt than Beijing. If you want to get something done in Washington, you do what you do in Jakarta: just slip some money to the right people.”](https://www.forbes.com/sites/eamonnfingleton/2014/11/12/obama-in-china-taking-candy-from-a-baby/#27d9d3c1231e)
@@ -605,7 +611,7 @@
 
 ### What's going on with the Uyghurs?
 
-- [What's going on with the Uyghurs / Xinjiang province?](https://worldaffairs.blog/2019/07/05/xinjiang-and-uyghurs-what-youre-not-being-told/)
+- [What's going on with the Uyghurs / Xinjiang province?](https://archive.is/DqRCn)
 - [XinJiang: Facts vs Fiction.](https://medium.com/@leohezhao/xinjiang-facts-vs-fiction-bdc2aa403c91)
 - [A Pakistani Diplomat given full access to “re-education camps” and this is what she found](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang).
   - Despite claims of "erasing Uyghur culture", [they stated](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang): "I did not find any instance of forced labor or cultural and religious repression. The imams we met at the mosques and the students and teachers at the Xinjiang Islamic Institute told us that they enjoy freedom in practicing Islam and that the Chinese government extends support for maintenance of mosques all over Xinjiang. [...]The most visible sign of protection of Uyghur culture by the government is the government-run bilingual kindergarten schools where children learn Putonghua as well as Uyghur language and culture from a very young age."
@@ -617,6 +623,8 @@
 - [Redsails - The Xinjiang atrocity propaganda blitz](https://redsails.org/the-xinjiang-atrocity-propaganda-blitz/)
 - [RodericDay - A thread about the key sources for Uyghur Genocide (Especially Adrian Zenz).](https://threadreaderapp.com/thread/1287411708374454273.html)
 - [BayArea415 - american debunks major western propaganda on Uyghurs and Xinjiang](https://www.youtube.com/watch?v=8yURIS7S9zg)
+- [The Xinjiang "Genocide" - an excerpt from the Genocide panel.](https://www.youtube.com/watch?v=mH-0l_zToN4)
+- [TheCanadaFiles - Subcommittee report declaring “Uighur Genocide” dominated by researchers and groups funded by CIA cut-out, National Endowment for Democracy.](https://www.thecanadafiles.com/articles/subcommittee-report-declaring-uighur-genocide-dominated-by-researchers-and-groups-funded-by-cia-cut-out-national-endowment-for-democracy)
 - [US fuels terrorism in China.](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
 - [Wiki on the Turkestan Islamic Party (has a full list of terrorist attacks committed by east turkestan separatists)](https://en.wikipedia.org/wiki/Turkistan_Islamic_Party)
 - [About the TiP (Turkestan Islamic Party)](https://journal-neo.org/2018/10/05/china-s-uyghur-problem-the-unmentioned-part/)
@@ -625,6 +633,7 @@
 - [US Col Lawrence Wilkerson admits to USA involvement in fomenting civil unrest in Xinjiang China using Uighurs.](https://www.youtube.com/watch?v=00Cvx0R8iDo)
 - [No, the UN did not report China has ‘massive internment camps’ for Uighur Muslims](https://thegrayzone.com/2018/08/23/un-did-not-report-china-internment-camps-uighur-muslims/).
 - [What about Democracy now and the Intercept's claims about the Uyghur camps?](https://medium.com/@rainershea612/liberal-anti-chinese-propaganda-helped-create-the-far-right-campaign-to-blame-china-for-covid-19-7253dca6f429)
+- [The better cotton initiative, a global advocacy group for cotton laborers, found that no forced labor was taking place in Xinjiang.](https://www.dimsumdaily.hk/better-cotton-initiative-bci-in-shanghai-reiterates-no-forced-labour-found-in-xinjiang/) 
 - [Religious freedoms in China explained](https://twitter.com/isgoodrum/status/1004884261051092993?s=21).
 - [Thousands of Muslims from the Uyghur province make Hajj Pilgrimage yearly.](https://www.app.com.pk/over-11000-chinese-muslims-from-xinjiang-proceed-to-saudi-arabia-for-hajj/) [11k Chinese Muslims travel from Xinjiang on free chartered flights to Saudi Arabia for the Hajj, in 2019](https://www.arabnews.com/node/1535241/pakistan).
 - [EU rejects China offer of Xinjiang tour](https://www.scmp.com/news/china/diplomacy/article/3003217/eu-rejects-chinas-offer-xinjiang-tour-says-its-open-one-later).
@@ -640,6 +649,7 @@
 - [Zenz makes a claim that 500,000 tibetans (1 out of every 3 working age Tibetans) are in forced labor camps.](https://www.reddit.com/r/GenZedong/comments/ixmy9p/china_has_somehow_put_16_of_the_entire_tibetan/)
 - [Breaking down the BBC's visit to XinJiang.](https://medium.com/@sunfeiyang/breaking-down-the-bbcs-visit-to-hotan-xinjiang-e284934a7aab)
 - [A rebuttal of a Guardian article by Gulbahar Haitiwaji](https://twitter.com/moghilemear13/status/1351397520358957058) [2](https://www.reddit.com/r/communism/comments/kwew3n/contradictions_in_the_new_uighur_story_by/)
+- [A short, shareable version on why this isn't a genocide - cynthiakao](https://www.tiktok.com/@cynthiakao/video/6945108711006309638)
 - [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic). 
 
 ### What about the Falun Gong?
@@ -899,6 +909,7 @@
 - [She's a social democrat, not a socialist, fronting for the Democratic party](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party).
   - [AOC asks all supporters to vote for democrats, including Andrew Cuomo.](https://youtu.be/iaLpyJI0ltg?t=647)
   - [Danny Haiphong from BlackAgendaReport - On the Obama-ification of "the squad".](https://popularresistance.org/the-obama-fication-of-the-squad-strengthens-the-right-at-the-expense-of-the-left/)
+  - [Richard Medhurst - On the squad as a branding exercise, and AOC's support for US bombings and prison camps.](https://twitter.com/richimedhurst/status/1376005285140123648?s=20)
   - [Calls for budget cuts for DHS, due to their child detention camps and family separations, then goes back on it by voting to fully fund them along with other democrats.](https://i.redd.it/bfiudbz8qm921.jpg)
   - [She votes to keep the US in NATO, who's been responsible for countless atrocities in Europe and the Middle East.](http://clerk.house.gov/evs/2019/roll044.xml)
   - [AOC says she will vote for Biden in the 2020 election, saying, "I think it’s incredibly important we support the Democratic nominee in November".](https://thehill.com/homenews/campaign/494275-ocasio-cortez-says-she-will-vote-for-biden-in-november)
@@ -911,7 +922,8 @@
   - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
   - [Defends the NYPD during the George Floyd protests, since there are women, black, latino and asian american cops.](https://i.imgur.com/FT8GMTf.png)
   - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
-  - [As of 2020, replaces some of her more radical staff with political professionals, breaks with Sanders, calling his strategy too "conflict based", wants to start working more with establishment Dems.](https://www.politico.com/news/2020/03/30/new-aoc-divides-the-left-150767)
+  - [Attacks critics of Biden as being "privileged" and "wanting to reinvent themselves", when she herself used to work for startup incubators. ](https://threadreaderapp.com/thread/1375760351027986432.html)
+  - [Says that "Left wing opponents of Biden are doing a disservice to the cause of justice. ](https://i.postimg.cc/BQz9Sgsw/aoc-biden-critics.jpg)
   - [In December 2020, after a proposal by comic Jimmy Dore, for house democrats to refuse support for House Speaker Nancy Pelosi, unless she agrees to bring a Medicare for all bill to the house, to bring relief for US citizens who lost healthcare during the pandemic. AOC and the rest of the "squad" refused, and backed Pelosi, citing concerns that the bill would not win anyway. Dore retorted that 9 / 10 democratic voters, and even a majority of republican voters support medicare for all.](https://www.corporatecrimereporter.com/news/200/jimmy-dore-calls-on-democrats-to-withhold-support-for-nancy-pelosi-unless-she-brings-single-payer-medicare-for-all-to-a-vote/)
   - [AOC pays homage to "Tibetan Uprising Day"](https://twitter.com/BenjaminNorton/status/1370755518122373121?s=20), a CIA-sponsored campaign to restore the brutal Tibetan theocracy and re-institute slavery.
 - [Voted for Trump's 2020 War budget, allocating $738 Billion to military spending (a 3% increase over the previous year).](http://www.idcommunism.com/2019/07/ocasio-cortez-aoc-votes-in-favor-of-trumps-war-budget.html)
@@ -1186,6 +1198,8 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - Calls people ["Mentally ill crybabies"](https://i.imgur.com/T0RnOCC.jpg), "Woke-Scolds", and "Simps".
 - ["US geopolitical power is important to me personally, because I'm not ready to lose that to China"](https://twitter.com/AlMuntherO_O/status/1260679840698634242?s=20). *got removed*
 - [Is against decolonization.](https://twitter.com/trikstr_/status/1280053214117793792)  "We're not going to fkn leave America, white people are staying... we're not gonna give something back to native Americans... the best way forward is to integrate our communities". Vaush responds to a native person talking about indigenous movements and rights by saying: ["I'll listen to the scientists."](https://twitter.com/guajirx/status/1280314035217588224?s=21)
+- [Vaush talks down to a Korean person, saying that he hates Korean people, and doesn't know anything about them.](https://twitter.com/aboIishamerica/status/1376891876222107653?s=20)
+- [Vaush calls Korea, "a festering shithole", and says the North Koreans "got dabbed on", referring to the 4-5 Million deaths the US inflicted.](https://twitter.com/NatalieRevolts/status/1377327842313265154?s=20)
 - [Says: "If you identify as LGBT, then you must consider North Korea your enemy", citing wapo, the geneva US mission, and CIA NK org. Ignores the DPRK's pro-lgbt stances.](https://i.redd.it/nvgx1vz4z3b51.png) [2](https://web.archive.org/web/20050806002431/http://www.korea-dpr.com/faq.htm#20)
 - He's in no leftist orgs, plays video games all day, and takes home [$1.5k / month from his subscribers by holding "debates" where he just rants at people.](https://www.patreon.com/vaush)
 - ["Marxism isn't a rejection of liberalism, it's about making it better." ](https://twitter.com/commiefr0g/status/1290343782450434049)
