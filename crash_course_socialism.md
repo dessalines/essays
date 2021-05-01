@@ -51,6 +51,8 @@ Private property in the socialist context shouldn't be confused with [personal p
 
 In a Capitalist society the means of production are owned and controlled privately, by those that can afford them (the Capitalist, aka those with Capital). Production is carried out to [benefit the capitalist](https://www.reddit.com/r/communism101/comments/a0mwut/what_exactly_is_capitalism/eaj3b4a/) (production for profit). Workers are paid a wage, and [receive that amount regardless of how much value they produce](https://www.marxists.org/archive/harman/1979/marxism/ch04.html).
 
+This price of labor power ( called the wage )  becomes a commodity like any other, whose value isn't determined by how much real value the worker adds, but by the absolute minimum amount required for workers to sustain themselves and raise the next generation of workers ( called the cost of social reproduction ). 
+
 Socialists call this difference the [surplus](https://en.wikipedia.org/wiki/Surplus_value), profit, unpaid labor, exploitation, or **wage theft**.
 
 `Wage Theft = Worker Value Added - Wage Paid`
@@ -60,6 +62,16 @@ Socialists call this difference the [surplus](https://en.wikipedia.org/wiki/Surp
 Unlike workers, Capitalists make their living, not by clocking in and being paid a certain fixed wage per hour, but through [absentee ownership](https://www.reddit.com/r/communism101/comments/a0mwut/what_exactly_is_capitalism/eaj3b4a/). **Their wealth is earned while sleeping, playing golf, or visiting the mailbox** to collect pieces of this wage theft, often in the form of stock dividends. A worker's wealth is dependent on the number of hours they can work; a Capitalist's wealth is based on how much absentee property they can accumulate, and as such can multiply indefinitely. Some Capitalists earn an average worker's yearly salary in a single night's sleep.
 
 For example, a Copper mine owner neither physically mines the copper, and (living thousands of miles away) likely delegates day-to-day operations to a hired manager. Yet, **because they have a piece of paper that says they own it, they get a large cut of everything that was mined**: the ultimate free lunch.
+
+Let's say that a garment factory owner spends $90k to buy a facility, machines, and all the other startup costs, as well as $10k per year on operating costs, such as yarn ( called constant capital ). They hire 10 workers, all of whom are paid $20k / year in wages ( called variable capital, or the price of labor power ). They do $400k / year in sales, meaning the owner makes $10k / worker / year ( surplus value ). After 1 year, ( 10 workers * $10k = $100k ), the owner has made up their initial investment. 
+
+`Surplus value = Product sales - Constant Capital - Variable capital`
+
+`100k = 400k - 100k - 200k` total, or
+
+`10k = 40k - 10k - 20k` per worker. 
+ 
+From that year onward, the owner pockets $100k / year, even after fully paying off their initial investment. They've fully paid off their initial investment, yet are "rewarded" indefinitely.
 
 A 1983 report by England national income and expenditures found that on average, **26 minutes of every hour worked** (or 43% of labor value added) by English workers across a wide range of industries went to various exploiting or unproductive groups, with workers receiving only *57% of their pre-tax productive output as wages*<sup>[1](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/new_socialism.pdf)</sup>. In other words, at least **40% of the work you do every day is stolen by Capitalists.** 
 

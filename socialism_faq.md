@@ -114,6 +114,7 @@
 - [Why are there no modern revolutions, in the past 40 years?](https://www.reddit.com/r/communism101/comments/9y34ea/why_are_there_no_revolutions/)
 - [Didn't Capitalism bring people out of poverty? The UN says poverty has halved in the last few years.](https://www.reddit.com/r/coolguides/comments/9kdz7p/world_population_living_in_extreme_poverty/e6ypvus/) 
 - [Isn't worldwide global poverty decreasing?](https://www.jasonhickel.org/blog/2019/2/3/pinker-and-global-poverty)
+- [On the black panther's community programs.](https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=3883&context=jssw)
 
 ## What about human nature?
 
@@ -377,7 +378,7 @@
 * [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
 * [What about Stalin? Didn't he kill millions? (Revleft podcast on Stalin)](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 * [Was Stalin's USSR State Capitalist?](http://www.reddit.com/r/communism101/comments/383c4i/was_stalins_ussr_state_capitalist/)
-* [What about the term tankies / stalinists? What's the meaning of the term?](https://www.reddit.com/r/communism101/comments/dm2mbz/on_tankies/) [What about the 1956 Hungarian revolt?](https://www.reddit.com/r/communism101/comments/dh6nyi/why_was_the_hungarian_uprising_crushed_by_the_ussr/), [2](https://www.reddit.com/r/communism101/comments/ht4z8a/hungarian_revolution_in_1956/). [MI6 trained the hungarian opposition to fight soviets in the 1956 revolt.](http://archive.is/fMAzu)
+* [What about the term tankies / stalinists? What's the meaning of the term?](https://www.reddit.com/r/communism101/comments/dm2mbz/on_tankies/) [What about the 1956 Hungarian revolt?](https://www.reddit.com/r/communism101/comments/dh6nyi/why_was_the_hungarian_uprising_crushed_by_the_ussr/), [2](https://www.reddit.com/r/communism101/comments/ht4z8a/hungarian_revolution_in_1956/). [MI6 trained the hungarian opposition to fight soviets in the 1956 revolt.](http://archive.is/fMAzu [3](https://www.reddit.com/r/PartyofCommunistsUSA/comments/9kqkt5/anticommunist_and_antijewish_pogroms_of_hungarys/)  [4](http://www3.sympatico.ca/thidas/Hungarian-history/Exodus.html)
 * [RedSails - on "Tankies"](https://redsails.org/tankies/)
 * [Hakim - Why the USSR was socialist - A critique of left-communism.](https://www.youtube.com/watch?v=CKggZ22izDs)
 * [Did Stalin really try to resign 4 times?](https://socialistmlmusings.wordpress.com/2017/02/23/stalins-four-attempts-at-resignation/)
@@ -485,6 +486,7 @@
 * [What's the difference between MZT (Mao-Zedong-Thought) and MLM (Marxism-Leninism-Maoism)? How does Socialism with Chinese Characteristics (SWCC) differ from MLM? Does modern China uphold Mao? What about the cultural revolution?](http://cpcchina.chinadaily.com.cn/fastfacts/2010-10/18/content_11425373.htm) [2](https://leohezhao.medium.com/wrong-turns-on-the-revolutionary-road-ultra-leftism-and-the-cultural-revolution-2e090793dfad) [3](https://leohezhao.medium.com/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub) [3](https://leohezhao.medium.com/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub)
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
+* [Was Sun Yat Sen a communist?](https://www.youtube.com/watch?v=3kvAMVX0bjE)
 * [Deng on why Mao's legacy must be upheld.](http://cpcchina.chinadaily.com.cn/fastfacts/2010-10/18/content_11425373.htm)
 * [Deng Xiaoping - a visionary marxist-leninist.](https://twitter.com/RodericDay/status/1353776771573948418?s=20)
 * [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](http://www.michaelparenti.org/Tibet.html) [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZjKom_Qj0jcDReaMb_r52z)
@@ -542,6 +544,7 @@
 ### Workers rights
 
 * [The real wage (IE the wage adjusted for the prices you pay) has gone up 4x in the past 25 years, more than any other country. This is staggering considering it's the most populous country on the planet. The US real wage by comparison is lower in 2019 than it was in 1973.](https://www.youtube.com/watch?v=Cw8SvK0E5dI)
+* [Workplace democracy in action in the CPC.](https://threadreaderapp.com/thread/1043159032935006208.html)
 * [US Life expectancy peaked in 2015, is on the decline, and is now lower than in China.](https://www.businessinsider.com/china-boasts-that-its-healthy-life-expectancy-beats-the-us-is-correct-2018-5) [2](http://www.xinhuanet.com/english/2019-09/07/c_138372963.htm) 
   * How [healthcare works in China (refuting a fearmongering NYT video about health care in China)](https://www.youtube.com/watch?v=mvpo2jv5eqI).
   * [Uninsured Chinese citizens pay an average of $5-7 to see a specialist (the majority of hospital visits ), and with insurance, its free. 95% of Chinese citizens have insurance](https://hotpot.team/new-york-times-lies/)
@@ -631,6 +634,7 @@
 - [The TiP militants fighting in Syria.](https://apnews.com/article/591f9b238c84477b87cfac68bfe169fc)
 - [China’s Xinjiang Problem – Made in USA](https://journal-neo.org/2015/11/10/chinas-xinjiang-problem-made-in-usa/).
 - [US Col Lawrence Wilkerson admits to USA involvement in fomenting civil unrest in Xinjiang China using Uighurs.](https://www.youtube.com/watch?v=00Cvx0R8iDo)
+- [Former FBI Agent turned whistleblower Sibel Edmonds talks about how US-funded Gladio operatives from Turkey have been smuggling out young Uyghurs, turning them into militants, and sending them back to poorer areas in Xinjiang to commit terrorist attacks, as part of an effort to destabilize Xinjiang and disrupt Chinese trade.](https://www.youtube.com/watch?v=6gIKdsAlWcE)
 - [No, the UN did not report China has ‘massive internment camps’ for Uighur Muslims](https://thegrayzone.com/2018/08/23/un-did-not-report-china-internment-camps-uighur-muslims/).
 - [What about Democracy now and the Intercept's claims about the Uyghur camps?](https://medium.com/@rainershea612/liberal-anti-chinese-propaganda-helped-create-the-far-right-campaign-to-blame-china-for-covid-19-7253dca6f429)
 - [The better cotton initiative, a global advocacy group for cotton laborers, found that no forced labor was taking place in Xinjiang.](https://www.dimsumdaily.hk/better-cotton-initiative-bci-in-shanghai-reiterates-no-forced-labour-found-in-xinjiang/) 
@@ -819,6 +823,7 @@
   - Elite charitable funds are a legal means of **tax avoidance**. Under US law, investments in charitable foundations are tax-free; moreover, investors are not required to sell their stock positions and may continue to vote their shares without restriction. By sheltering foundations, the US Treasury effectively co-finances the activities of Gates foundation and its investors.
   - [The Bill Gates global health empire promises more empire and less public health.](https://thegrayzone.com/2020/07/08/bill-gates-global-health-policy/)
   - Since he is the largest donor to the WHO, [he pushes funding for "headline grabbers" such as Malaria and HIV, despite local experts telling policy-makers that other ailments such as Tuberculosis, malnutrition, and bacterial disease are the biggest causes of death.](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(09\)60885-0/fulltext)
+  - [During the COVID-19 pandemic, he worked on behalf of big pharma again to protect vaccine intellectual property rights, prioritizing wealthy northern countries over the global south. As of April 2021, fewer than 600 million vaccine doses have been administered around the world; three-quarters of those in just 10 mostly high-income countries. The timeline for supplying poor and middle-income countries with enough vaccines to achieve herd immunity, meanwhile, has been pushed into 2024. These numbers represent more than the “catastrophic moral failure” the director general of the WHO warned about. It is a stark reminder than any policy that obstructs or inhibits vaccine production risks being self-defeating for the rich countries defending exclusive rights and gobbling up the lion’s share of available vaccine supplies.](https://archive.is/9bkpq)
   - [Used philanthropy as a front to generate profits for businesses in the agricultural and health sectors. ](https://mobile.edweek.org/c.jsp?cid=25920011&item=http%3A%2F%2Fapi.edweek.org%2Fv1%2Fblog%2F60%2Findex.html%3Fuuid%3D25408)
 - [Citations Needed - The Not-So-Benevolent Billionaire - Bill Gates and Western Media.](https://soundcloud.com/citationsneeded/episode-45-the-not-so-benevolent-billionaire-bill-gates-and-western-media)
 - [Post from a web developer about Microsoft's monopoly practices in the 1990s.](https://www.reddit.com/r/ragecomics/comments/11c1t1/internet_explorer_rfunny_said_i_should_post_it/c6lbhu2/)
@@ -841,6 +846,7 @@
   - [Hugh MacDiarmid](https://en.wikipedia.org/wiki/Hugh_MacDiarmid), Scottish nationalist poet, and anti-imperialist. 
   - [George Padmore](https://en.wikipedia.org/wiki/George_Padmore), Trinidadian journalist and anti-imperialist campaigner.
 - His books Animal Farm and 1984 are used widely as anti-communist propaganda in schools in the US and UK. So much so that [his animated animal farm film was funded by the CIA](https://www.telegraph.co.uk/books/authors/how-cia-brought-animal-farm-to-the-screen/). There's a reason they teach George Orwell in schools and not Franz Fanon, Che, Huey P Newton, Malcolm X, Lenin, CLR James, etc. 
+- In 1941, illustrator Elias Gertrude approached Orwell, then an editor for the British Ministry of information, with an idea for a satirical cartoon film, portraying the Nazis as pig characters ruling a farm in a kind of dysfunctional fairy story. [He told her that there was not much call for her idea, stole it, changed the name from *A Fairy Story* to *Animal Farm*, and changed the pig-nazis into Communists.](https://www.radnorshire-fine-arts.co.uk/brand/elias-gertrude-1913-1988/)
 - [Between 1952 and 1957, from three sites in West Germany, a CIA operation codenamed ‘Aedinosaur’ launched millions of ten-foot balloons carrying copies of George Orwell’s Animal Farm, and dropped them over Poland, Hungary and Czechoslovakia — whose airforces were ordered to shoot the balloons down.](https://www.spectator.co.uk/article/novel-explosives-of-the-cold-war). 
 - [Orwell, anti-communist: A criticism of Orwell and his Work - By Isaac Asimov.](http://www.newworker.org/ncptrory/1984.htm)
 - [Orwell - "I have never really disliked Hitler."](https://twitter.com/SarahTheHaider/status/1300360063845126144?s=20)
@@ -928,6 +934,7 @@
   - [AOC pays homage to "Tibetan Uprising Day"](https://twitter.com/BenjaminNorton/status/1370755518122373121?s=20), a CIA-sponsored campaign to restore the brutal Tibetan theocracy and re-institute slavery.
 - [Voted for Trump's 2020 War budget, allocating $738 Billion to military spending (a 3% increase over the previous year).](http://www.idcommunism.com/2019/07/ocasio-cortez-aoc-votes-in-favor-of-trumps-war-budget.html)
 - [She supports Israel, and its genocide of Palestineans.](https://i.imgur.com/K6QsYZo.jpg)
+- After an anti-war activist posted a video of AOC waffling on a question about Palestine, [he's interrogated by California highway patrol who claimed he issued a death threat against AOC](https://thegrayzone.com/2021/04/09/anti-war-activist-police-aoc-video/). In reality, his tweet said: "her response was underwhelming to say the least." Its unknown whether AOC initiated the interrogation.
 - [Is against pardoning Julian Assange.](https://twitter.com/SameeraKhan/status/1359550389578854406?s=20)
 - [Goes along with democrats and Republicans in backing US puppet Juan Guaido over Maduro in Venezuela.](https://twitter.com/telesurenglish/status/1124924184629583872?s=19) 
 - [After the December 2020 Elections in Venezuala, she defends Juan Guaido, and calls Maduro an "authoritarian" yet again.](https://twitter.com/SameeraKhan/status/1336139779281457153)
@@ -938,6 +945,7 @@
 - [Believes that Trump "betrays" US values.](https://i.imgur.com/H61toBx.png)
 - [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
 - [After Biden opens new child immigrant detention facilities in February 2021, she stops calling them "concentration camps", and names them "influx facilities".](https://i.imgur.com/oSlwtda.jpg)
+- [After bucking M4A during the COVID pandemic, AOC touts a FEMA funeral reimbursement program as an acheivement.](https://lemmygrad.ml/pictrs/image/c7lHG9fFCI.png)
 
 ### What's wrong with Elizabeth Warren?
 
@@ -1177,6 +1185,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 
 ### DSA / Jacobin
 
+- https://archive.is/pzWy6
 - https://twitter.com/camilateleSUR/status/1193767195031068673
 - https://twitter.com/DemSocialists/status/1194298720780791810
 - https://twitter.com/jacobinmag/status/1202641283023376384
@@ -1244,4 +1253,5 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Ziq](https://web.archive.org/web/20180405002453/https://raddle.me/f/lobby/28422/i-m-stepping-down-as-admin-because-of-some-shit-i-did-emma)
 - [Robert Evans](https://twitter.com/BenjaminNorton/status/1288116233133424648) [2](https://communism.lemmy.ml/pictrs/image/XwBw0R0M59.jpg)
 - Paul Morrin - [China is imperialist](https://twitter.com/LurkerUntamed/status/1372732445146165251?s=20), [Cuba, China, the DPRK, and the USSR are "social imperialist".](https://twitter.com/ANTICONQUISTA/status/1375213633186193413)
+- [Blackredguard](https://twitter.com/BlackRedGuard1/status/1383849476863844359?s=20)
 - [A response to David Harvey's theories of Imperialism by John Smith.](https://urpe.wordpress.com/2018/01/11/a-critique-of-david-harvey-on-imperialism/)

@@ -76,3 +76,29 @@ In 1933, W.E.B. Du Bois characterized the split within the global working class 
 > Thus the engineers and saving better-paid workers, form a new petty bourgeois class, whose interests are bound up with those of the capitalists and antagonistic to those of common labor. On the other hand, common labor in America and white Europe far from being motivated by any vision of revolt against capitalism, has been blinded by the American vision of the possibility of layer after layer of the workers escaping into the wealthy class and becoming managers and employers of labor[...].
 
 > The second influence on white labor both in America and Europe has been the fact that the extension of the world market by imperial expanding industry has established a worldwide new proletariat of colored workers, toiling under the worst conditions of 19th century capitalism, herded as slaves and serfs and furnishing by the lowest paid wage in modern history a mass of raw material for industry. With this largesse the capitalists have consolidated their economic power, nullified universal suffrage and bribed the white workers by high wages, visions of wealth and the opportunity to drive "n____." Soldiers and sailors from the white workers are used to keep "d____" in their "places" and white foremen and engineers have been established as irresponsible satraps in China and India, Africa and the West Indies, backed by the organized and centralized ownership of machines, raw materials, finished commodities and land monopoly over the whole world.
+
+## ILO statistics
+
+Just how much more are imperial core workers making? As of 2012, according to the ILO, **11x more.**
+
+---
+
+Average Monthly Wage Rates for male OECD workers in 2002–2003 = $2,104
+
+Average Monthly Wage Rates for male non-OECD workers in 2002–2003 = $224
+
+Inflation-adjusted Average Monthly Wage Rates for male OECD workers in 2007[2] = $2,378
+
+Inflation-adjusted Average Yearly Wage Rates for male OECD workers in 2007 = $28,536
+
+Inflation-adjusted Average Monthly Wage Rates for male non-OECD workers in 2007 = $253
+
+Inflation-adjusted Average Yearly Wage Rates for male non-OECD workers in 2007 = $3,036
+
+Inflation-adjusted Average Hourly Wage Rates for male OECD workers in 2007[3] = $17
+
+Inflation-adjusted Average Hourly Wage Rates for male non-OECD workers in 2007 = $1.50
+
+Factoral Difference between OECD and non-OECD wages = 11
+
+Median Global Hourly wage = $9.25

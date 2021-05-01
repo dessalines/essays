@@ -56,12 +56,12 @@
 ## Tasks / Todos
 
 - Use a [todo.txt](http://todotxt.org/) file for a personal task list, synced with syncthing.
-  - [QTodoTxt](http://qtodotxt.org/) as a desktop client, [todo.txt-vim](https://github.com/freitass/todo.txt-vim), [Simpletask Cloudless](https://play.google.com/store/apps/details?id=nl.mpcjanssen.simpletask&hl=en_US) for Android.
-- For shared task lists, use [CodiMD](https://github.com/hackmdio/codimd).
+  - [QTodoTxt2](https://github.com/QTodoTxt/QTodoTxt2) as a desktop client, [todo.txt-vim](https://github.com/freitass/todo.txt-vim), [Simpletask Cloudless](https://play.google.com/store/apps/details?id=nl.mpcjanssen.simpletask&hl=en_US) for Android.
+- For shared task lists, use [Hedgedoc](https://hedgedoc.org/).
 
 ## Collaboration
 
-- Use [CodiMD](https://github.com/hackmdio/codimd), a live / collaborative markdown editor.
+- Use [Hedgedoc](https://hedgedoc.org/), a live / collaborative markdown editor.
 
 ## Browsing
 
@@ -98,7 +98,7 @@
 
 - Twitter alternative : [Pleroma](https://pleroma.social/), [Mastodon](https://mastodon.social/)
 - Facebook : [Friendica](https://friendi.ca/)
-- Reddit : [Lemmy (I'm a dev)](https://github.com/LemmyNet/lemmy), [PostMill](https://gitlab.com/edgyemma/Postmill), or [Lobste.rs](https://github.com/lobsters/lobsters)
+- Reddit : [Lemmy (I'm a dev)](https://github.com/LemmyNet/lemmy), [Lobste.rs](https://github.com/lobsters/lobsters), or [PostMill](https://gitlab.com/postmill/Postmill).
 - Medium : [Plume](https://github.com/Plume-org/Plume), [WriteFreely](https://github.com/writeas/writefreely)
 - YouTube : Torrents, or [Peertube](https://github.com/Chocobozzz/PeerTube). 
 - Instagram : [Pixelfed](https://pixelfed.org/)
