@@ -557,7 +557,8 @@
 * [70% of Chinese millenials own their own home, and 91% as of 2021 plan to buy their own home within the next 5 years.](https://www.bbc.com/news/world-39512599)
 * [In a typical example of proletarian police accountability, the CPC sentences a police officer to death for killing a pregnant woman in a restaurant in southern China.](https://www.bbc.com/news/world-asia-26230765)
 * [The US is losing to China: “Washington is actually far more corrupt than Beijing. If you want to get something done in Washington, you do what you do in Jakarta: just slip some money to the right people.”](https://www.forbes.com/sites/eamonnfingleton/2014/11/12/obama-in-china-taking-candy-from-a-baby/#27d9d3c1231e)
-* [The consequences of moving from Industrial to Finance Capital in the US](https://consortiumnews.com/2021/01/07/the-consequences-of-moving-from-industrial-to-financial-capitalism/)
+* [Hudson and Escobar - The consequences of moving from Industrial to Finance Capital in the US](https://consortiumnews.com/2021/01/07/the-consequences-of-moving-from-industrial-to-financial-capitalism/)
+* [Hudson and Escobar - China, the US, Russia - Finance capitalism, Industrial capitalism, and rent seeking](https://www.youtube.com/watch?v=IquO_TcMZIQ)
 * [China surpasses the US as of 2015 as the world's largest global trading partner.](https://twitter.com/Anonylyzer13/status/1221033018355113984)
 * [China 9 years ahead of schedule on meeting its Paris agreement climate change goals. ](https://www.newscientist.com/article/2211366-china-is-on-track-to-meet-its-climate-change-goals-nine-years-early/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news)
 * [China meets ultra-low power plant emissions in advance of 2020 goal.](https://www.reddit.com/r/science/comments/dsdam3/china_meets_ultralow_emissions_in_advance_of_the/)
@@ -633,6 +634,7 @@
 - [About the TiP (Turkestan Islamic Party)](https://journal-neo.org/2018/10/05/china-s-uyghur-problem-the-unmentioned-part/)
 - [The TiP militants fighting in Syria.](https://apnews.com/article/591f9b238c84477b87cfac68bfe169fc)
 - [China’s Xinjiang Problem – Made in USA](https://journal-neo.org/2015/11/10/chinas-xinjiang-problem-made-in-usa/).
+- [Numeves: US Col Wilkerson - Why the US is in Afghanistan and Pakistan, in 2 minutes.](https://www.youtube.com/watch?v=4N385vKhXYQ)
 - [US Col Lawrence Wilkerson admits to USA involvement in fomenting civil unrest in Xinjiang China using Uighurs.](https://www.youtube.com/watch?v=00Cvx0R8iDo)
 - [Former FBI Agent turned whistleblower Sibel Edmonds talks about how US-funded Gladio operatives from Turkey have been smuggling out young Uyghurs, turning them into militants, and sending them back to poorer areas in Xinjiang to commit terrorist attacks, as part of an effort to destabilize Xinjiang and disrupt Chinese trade.](https://www.youtube.com/watch?v=6gIKdsAlWcE)
 - [No, the UN did not report China has ‘massive internment camps’ for Uighur Muslims](https://thegrayzone.com/2018/08/23/un-did-not-report-china-internment-camps-uighur-muslims/).
@@ -1216,6 +1218,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Hakim - Vaush has no idea what he's talking about.](https://www.youtube.com/watch?v=NX9_kXYMSck)
 - [Claims that tankies only exist in "small online circles", ignoring the millions of communists in the global south.](https://twitter.com/duck_azz/status/1291635709154033664?s=20)
 - [Supports US presence in the middle east as a "stabilizing force"](https://twitter.com/SpookySocialist/status/1367635044311957506?s=20)
+- [Despite labeling himself as a socialist, he supports Neo-Keynesianism: "I feel like they have the answers."](https://www.reddit.com/r/Enough_Vaush_Spam/comments/n45u9q/i_feel_neokeyensian_economists_have_the_answer/)
 - ["Tacoma wept."](https://twitter.com/TrueAnonPod/status/1300197204443893760)
 
 ### Buddhism
