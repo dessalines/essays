@@ -39,6 +39,7 @@ Notes :
 ## Imperialism
 
 - The US empire currently maintains an [imperialist network](https://www.youtube.com/watch?v=Df4R-xdKvpM) of over [800 military bases in 70 countries.](https://www.politico.com/magazine/story/2015/06/us-military-bases-around-the-world-119321) (For comparison, all other countries combined have only 30 bases)
+- The US has always been in a state of perpetual war; [as of 2021, it has been at war 225 / 243 years of its existence.](https://www.thenews.com.pk/print/595752-the-us-has-been-at-war-225-out-of-243-years-since-1776)
 
 ### Middle East
 
