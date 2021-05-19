@@ -217,6 +217,7 @@
 - [What about Pacifism / pacifist socialism? Is violence necessary to acheive socialism? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) [audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 - [Why not just vote leftists into office: what's wrong with democratic socialism?](https://old.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
 - [Is a bloodless revolution possible?](https://www.reddit.com/r/communism101/comments/cyanku/is_a_bloody_revolution_really_necessary_for_the/)
+- "Can the hungry go on a hunger strike? Non-violence is a piece of theatre. You need an audience. What can you do when you have no audience? People have the right to resist annihilation." - Arundhati Roy.
 - [What is imperialism?](https://www.reddit.com/r/capitalism_in_decay/comments/cjp4yu/a_medium_length_eli15_answer_to_the_question_what/)
 - [The CIA, Gene sharp, and it's pacifist color revolution regime change tactics. ](https://web.archive.org/web/20130503221026/http://www.dailycensored.com/the-cia-and-nonviolent-resistance-3/)
 - [Was the civil rights struggle in the US really nonviolent?](http://mshistorynow.mdah.state.ms.us/articles/62/the-civil-rights-movement-in-mississippi-on-violence-and-nonviolence) [Malcolm X - message to the grassroots. ](https://www.youtube.com/watch?v=Ku2JzolPt50)
@@ -514,7 +515,8 @@
 
 *Much credit to /u/bayarea415*
 
-* The backbone of the economy is [state ownership and socialist planning](https://lemmygrad.ml/pictrs/image/1NSG54IaEm.png?format=webp). [24 / 25 of the top revenue companies are state-owned and planned.](https://www.reddit.com/r/communism101/comments/8hdbib/how_is_china_communist_if_it_has_a_ton_of_private/dyj082s/) [70% of the top 500 companies are State-owned](https://chinapower.csis.org/chinese-companies-global-500/). [1](https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission#Central_SOEs), [2](https://en.wikipedia.org/wiki/List_of_largest_Chinese_companies)
+* The backbone of the economy is [state ownership and socialist planning](https://lemmygrad.ml/pictrs/image/1NSG54IaEm.png?format=webp). [24 / 25 of the top revenue companies are state-owned and planned.](https://www.reddit.com/r/communism101/comments/8hdbib/how_is_china_communist_if_it_has_a_ton_of_private/dyj082s/) [70% of the top 500 companies are State-owned](https://chinapower.csis.org/chinese-companies-global-500/). [1](https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission#Central_SOEs), [2](https://en.wikipedia.org/wiki/List_of_largest_Chinese_companies) The largest bank, construction, electricity, and energy companies in the world, are CPC controlled entities, subject to the [5 year plans laid out by the central committee.](https://news.cgtn.com/news/2020-10-29/19th-CPC-Central-Committee-concludes-fifth-plenary-session-UZ8ZC4kHhm/index.html)
+* [Workplace democracy in action in the CPC.](https://threadreaderapp.com/thread/1043159032935006208.html)
 * [Is modern day china communist? Is it staying true to communist values?](https://www.reddit.com/r/communism101/comments/91liw2/how_is_china_staying_true_to_communist_values/e2z3kzu/)
 * [Didn't China go Capitalist with Deng Xiaoping? Didn't it liberalize its economy? Is China's drastic decrease in poverty a result of the increase in free market capitalist policies?](https://www.reddit.com/r/DebateCommunism/comments/b3gjfe/chinas_drastic_decrease_in_poverty_is_a_result_of/ey8depl/?context=3)
 * [Is the CPC committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
@@ -875,7 +877,7 @@
 - [Was Gandhi really a racist? What about Gandhi's legacy? A great lecture by Arundati Roy.](https://www.youtube.com/watch?v=CrN8PgZzc6k)
 - [Gandhi - The jews should've killed themselves instead.](https://izquotes.com/quote/mahatma-gandhi/hitler-killed-five-million-jews-it-is-the-greatest-crime-of-our-time-but-the-jews-should-have-231149)
 - [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
-
+- "Can the hungry go on a hunger strike? Non-violence is a piece of theatre. You need an audience. What can you do when you have no audience? People have the right to resist annihilation." - Arundhati Roy.
 
 ### Noam Chomsky
 
@@ -1031,6 +1033,7 @@
 - [Biden: "Socialism will never happen here. I beat the socialist ( Sanders, who immediately began campaigning for him )"](https://www.mediaite.com/news/joe-biden-torpedoes-bernie-sanders-in-pitch-to-wisconsin-voters-worried-about-socialism-i-beat-the-socialist/)
 - [Biden: "Iraq was a problem that had to be dealt with sooner rather than later."](https://twitter.com/richimedhurst/status/1313831422495465473?s=20)
 - ["Israel is the best 3B dollar investment we have. If Israel didn't exist, we'd have to go out and invent an Israel."](https://youtu.be/vK-nRcnLdMQ)
+- [Biden: "I am a Zionist."](https://twitter.com/SarcasmStardust/status/1392825468999684103?s=20)
 - ["If Haiti quietly sunk into the Caribbean, it wouldn't matter a whole lot to our interests."](https://twitter.com/RaniaKhalek/status/1362900547062403072?s=20)
 - [Danny Haiphong - Biden's victory in the 2020 election is still a loss for humanity](https://blackagendareport.com/joe-bidens-victory-still-loss-humanity)
 - [LiberationNews - On Biden taking office](https://www.liberationnews.org/psl-statement-biden-in-office-capitalists-in-power/)
@@ -1220,6 +1223,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Hakim - Vaush has no idea what he's talking about.](https://www.youtube.com/watch?v=NX9_kXYMSck)
 - [Claims that tankies only exist in "small online circles", ignoring the millions of communists in the global south.](https://twitter.com/duck_azz/status/1291635709154033664?s=20)
 - [Supports US presence in the middle east as a "stabilizing force"](https://twitter.com/SpookySocialist/status/1367635044311957506?s=20)
+- [Says the US military needs to stay in Afghanistan.](https://www.youtube.com/watch?v=tcB_HklU7aA)
 - [Despite labeling himself as a socialist, he supports Neo-Keynesianism: "I feel like they have the answers."](https://www.reddit.com/r/Enough_Vaush_Spam/comments/n45u9q/i_feel_neokeyensian_economists_have_the_answer/)
 - ["Tacoma wept."](https://twitter.com/TrueAnonPod/status/1300197204443893760)
 
@@ -1260,3 +1264,4 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - Paul Morrin - [China is imperialist](https://twitter.com/LurkerUntamed/status/1372732445146165251?s=20), [Cuba, China, the DPRK, and the USSR are "social imperialist".](https://twitter.com/ANTICONQUISTA/status/1375213633186193413)
 - [Blackredguard](https://twitter.com/BlackRedGuard1/status/1383849476863844359?s=20)
 - [A response to David Harvey's theories of Imperialism by John Smith.](https://urpe.wordpress.com/2018/01/11/a-critique-of-david-harvey-on-imperialism/)
+- [Is signal secure? Yasha Levine](https://yasha.substack.com/p/signal-is-a-government-op-85e)

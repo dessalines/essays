@@ -33,6 +33,15 @@
 - [The Dhammapada - Translated by Gil Fronsdal](magnet:?xt=urn:btih:9f5bdf280e88ff3734331de0b72d7dfd88507182&dn=The%20Dhammapada%20-%20Translated%20by%20Gil%20Fronsdal%20%5baudiobook%5d%20by%20dessalines)
 - [Jones Manoel - Western Marxism Loves Purity and Martyrdom, But Not Real Revolution](magnet:?xt=urn:btih:a3684bb031ae6ced97bd7039a828d07eaf6db27b&dn=Jones%20Manoel%20-%20Western%20Marxism%20Loves%20Purity%20and%20Martyrdom%2c%20But%20Not%20Real%20Revolution%20%5baudiobook%5d%20by%20dessalines)
 - [He Zhao - The Long Game and Its Contradictions](magnet:?xt=urn:btih:aff6ab5ecaed61450f9fd920de63df3db8f27940&dn=He%20Zhao%20-%20The%20Long%20Game%20and%20Its%20Contradictions%20%5baudiobook%5d%20by%20dessalines)
+- [Zak Cope - Divided World Divided Class](magnet:?xt=urn:btih:ee038d64569ada1106e78cae0bf28ca0ccfd426b&dn=Zak%20Cope%20-%20Divided%20World%20Divided%20Class%20%5baudiobook%5d%20by%20dessalines)
+- [MoonMouse5 - The Anarcho-Kulak Bandits of Russia and Ukraine](magnet:?xt=urn:btih:CEBD1BCE2848C1070C5EA8544C887F442C3981B7&dn=MoonMouse5+-+The+Anarcho-Kulak+Bandits+of+Russia+and+Ukraine+%5Baudiobook%5D+by+dessalines)
+- [Jo Freeman - The Tyranny of Structurelessness](magnet:?xt=urn:btih:19AA313972B6DD91891B56E18BBB9E1843BE07AB&dn=Jo+Freeman+-+The+Tyranny+of+Structurelessness+%5Baudiobook%5D+by+dessalines)
+- [John Molyneux - Tolkiens World - A Marxist Analysis](magnet:?xt=urn:btih:171EA49884AEABDABDF26B9D8C6DCE9A6758944A&dn=John+Molyneux+-+Tolkiens+World+-+A+Marxist+Analysis+%5Baudiobook%5D+by+dessalines)
+- [Stalin - Anarchism or Socialism](magnet:?xt=urn:btih:74DAC865F679EB366FD66B350D502E9DED052A6F&dn=Stalin+-+Anarchism+or+Socialism+%5Baudiobook%5D+by+dessalines)
+- [Deng Xiaoping interviewed by Oriana Fallaci](magnet:?xt=urn:btih:74ACC8B39D2D62E093CC4A2EF34687FAEC761582&dn=Deng+Xiaoping+interviewed+by+Oriana+Fallaci+%5Baudiobook%5D+by+dessalines)
+- [A.M. Gittlitz - Make It So: Star Trek and its debt to revolutionary socialism](magnet:?xt=urn:btih:0818ED789B26C06715B9D0EE62CA7DBC894051A1&dn=A.M.+Gittlitz+-+Make+It+So%3A+Star+Trek+and+its+debt+to+revolutionary+socialism+%5Baudiobook%5D+by+dessalines)
+- [Roland Boer - Capitalism, Communism, Christianity and Christmas](magnet:?xt=urn:btih:1F13A99B02B4C77EF983AC0E697058F307A7C61B&dn=Roland+Boer+-+Capitalism%2C+Communism%2C+Christianity+and+Christmas+%5Baudiobook%5D+by+dessalines)
+- [Dessalines - Paying one half of the poor to kill the other half: Why Marxists should not support social democrats in the imperial core](magnet:?xt=urn:btih:9A45FCE8EFFF13154EF77BFD13FCED85F3F7E8A0&dn=Dessalines+-+Paying+one+half+of+the+poor+to+kill+the+other+half%3A+Why+Marxists+should+not+support+social+democrats+in+the+imperial+core+%5Baudiobook%5D+by+dessalines)
 
 ## Read by others
 
