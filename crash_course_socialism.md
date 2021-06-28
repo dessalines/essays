@@ -346,15 +346,18 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ### History books
 
-- [Howard Zinn - A Peoples History of the United States](http://www.historyisaweapon.com/zinnapeopleshistory.html)
-- [CLR James - The Black Jacobins](http://www.ouleft.org/wp-content/uploads/CLR_James_The_Black_Jacobins.pdf)
 - [J. Sakai - Settlers: the Mythology of the White Proletariat](http://readsettlers.org/text-index.html), [audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoZEICtu8cocz_3oRFS6L7wN)
-- [John Reid - The Ten Days that Shook the World](https://www.marxists.org/archive/reed/1919/10days/10days/)
-- [Huey P. Newton - Revolutionary Suicide](https://www.amazon.com/Revolutionary-Suicide-Penguin-Classics-Deluxe/dp/0143105329)
-- [Eduardo Galeano - Open Veins of Latin America](https://www.amazon.com/Open-Veins-Latin-America-Centuries/dp/0853459916/ref=sr_1_1?ie=UTF8&qid=1485894404&sr=8-1&keywords=open+veins+of+latin+america)
-- [Fidel Castro - My Life](https://en.wikipedia.org/wiki/My_Life_(Fidel_Castro_autobiography))
-- [Joshua Bloom - Black Against Empire](https://www.amazon.com/Black-against-Empire-Politics-Foundation/dp/0520293282/ref=sr_1_1?ie=UTF8&qid=1485894343&sr=8-1&keywords=black+against+empire)
+- [Howard Zinn - A Peoples History of the United States](http://www.historyisaweapon.com/zinnapeopleshistory.html)
+- [Roxanne Dunbar-Ortiz - An indigenous peoples history of the US. ](magnet:?xt=urn:btih:1ae24bda86bd23da6edad32568ad5ff574663f88&dn=Roxanne%20Dunbar-Ortiz%20-%20An%20Indigenous%20Peoples'%20History%20of%20the%20United%20States.mp3)
 - [Parenti - Blackshirts and Reds](https://www.amazon.com/Blackshirts-Reds-Rational-Overthrow-Communism/dp/0872863298)
+- [Eduardo Galeano - Open Veins of Latin America](https://www.amazon.com/Open-Veins-Latin-America-Centuries/dp/0853459916/ref=sr_1_1?ie=UTF8&qid=1485894404&sr=8-1&keywords=open+veins+of+latin+america)
+- [Walter Rodney - How Europe underdeveloped Africa](magnet:?xt=urn:btih:C8EA24A6B93F427D17585CBDE9F31EE2F5ACF2EB&dn=Walter+Rodney+-+How+Europe+Underdeveloped+Africa+%5Baudiobook%5D+audible)
+- [CLR James - The Black Jacobins](http://www.ouleft.org/wp-content/uploads/CLR_James_The_Black_Jacobins.pdf)
+- [John Reid - The Ten Days that Shook the World](https://www.marxists.org/archive/reed/1919/10days/10days/)
+- [Joshua Bloom - Black Against Empire](https://www.amazon.com/Black-against-Empire-Politics-Foundation/dp/0520293282/ref=sr_1_1?ie=UTF8&qid=1485894343&sr=8-1&keywords=black+against+empire)
+- [Huey P. Newton - Revolutionary Suicide](https://www.amazon.com/Revolutionary-Suicide-Penguin-Classics-Deluxe/dp/0143105329)
+- [Fidel Castro - My Life](magnet:?xt=urn:btih:ef3e4f927248fc05e6f7834f7d473532de9c07b8&dn=Fidel%20Castro%20-%20My%20Life)
+- [Autobiography of Malcolm X - as told to Alex Haley](magnet:?xt=urn:btih:4e1ba39a81f987fddf7e6abf9e49e2a0c8490168&dn=Malcolm X - The Autobiography of Malcolm X)
 
 ### Psychology
 

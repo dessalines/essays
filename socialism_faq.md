@@ -484,7 +484,7 @@
 * [Why did Mao launch the Cultural Revolution? What was he trying to achieve as distinct from the Revolution the Chinese Communists had already won? To what extent did he succeed? Does it have any continuing impact? (x-post from /r/AskHistorians)](http://www.reddit.com/r/communism101/comments/23958h/why_did_mao_launch_the_cultural_revolution_what/)
 * [What was the cultural revolution? A Documentary series on it, called How yukong moved the mountains](https://www.youtube.com/watch?v=zLN-jRZRPrc&list=PLMt0ncvnKoz3ar_f78qBeA29-0kwrsXvT)
 * [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
-* [What's the difference between MZT (Mao-Zedong-Thought) and MLM (Marxism-Leninism-Maoism)? How does Socialism with Chinese Characteristics (SWCC) differ from MLM? Does modern China uphold Mao? What about the cultural revolution?](http://cpcchina.chinadaily.com.cn/fastfacts/2010-10/18/content_11425373.htm) [2](https://leohezhao.medium.com/wrong-turns-on-the-revolutionary-road-ultra-leftism-and-the-cultural-revolution-2e090793dfad) [3](https://leohezhao.medium.com/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub) [3](https://leohezhao.medium.com/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub)
+* [What's the difference between MZT (Mao-Zedong-Thought) and MLM (Marxism-Leninism-Maoism)? How does Socialism with Chinese Characteristics (SWCC) differ from MLM? Does modern China uphold Mao? What about the cultural revolution?](http://cpcchina.chinadaily.com.cn/fastfacts/2010-10/18/content_11425373.htm) [2](https://leohezhao.medium.com/wrong-turns-on-the-revolutionary-road-ultra-leftism-and-the-cultural-revolution-2e090793dfad) [3](https://leohezhao.medium.com/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub)
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
 * [Was Sun Yat Sen a communist?](https://www.youtube.com/watch?v=3kvAMVX0bjE)
@@ -553,6 +553,7 @@
   * [Uninsured Chinese citizens pay an average of $5-7 to see a specialist (the majority of hospital visits ), and with insurance, its free. 95% of Chinese citizens have insurance](https://hotpot.team/new-york-times-lies/)
 * [Wages themselves are forced to rise in the private sector by the CPC (+16% every years, +400% since 1980) who force the capitalists to accept the presence of CPC chapters who represent the interest of the workers, increasing workers control even in the capitalist parts of the economy. ](https://www.workers.org/2015/07/21/china-rising-wages-and-worker-militancy/#.WXOlQtPytsM)
 * [Eliminated Urban Poverty. On track to eliminate all poverty within a decade.](https://www.theguardian.com/business/economics-blog/2015/aug/19/china-poverty-inequality-development-goals)
+* [CGTN documentary - China's war on poverty](https://www.youtube.com/watch?v=nuaJGPZCBYU)
 * [Trade union laws of the PRC.](https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/30352/118793/F1165849917/CHN30352%202.pdf)
 * [The west views China as one big sweatshop, but the actual working hours aren't much more than anywhere else. The average for a migrant worker (most vulnerable to exploitation as they are traveling from the countryside) is 8.8 hours, little under an hour more than a typical working day. Labor strikes are rarely suppressed, and usually get the support of the PRC.](https://www.forbes.com/sites/mitchfree/2013/07/11/held-hostage-entrepreneurs-uneasy-over-chinese-govt-inaction/#2431f5463de4)
 * [The workplace safety standards of China are better than in the capitalist countries of the West like in Australia who have an higher rate of work related death despite having a GDP per capita 3-5 times higher.](http://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/)
@@ -630,6 +631,8 @@
 - [Redsails - The Xinjiang atrocity propaganda blitz](https://redsails.org/the-xinjiang-atrocity-propaganda-blitz/)
 - [RodericDay - A thread about the key sources for Uyghur Genocide (Especially Adrian Zenz).](https://threadreaderapp.com/thread/1287411708374454273.html)
 - [BayArea415 - american debunks major western propaganda on Uyghurs and Xinjiang](https://www.youtube.com/watch?v=8yURIS7S9zg)
+- [Dr. Asata Bair - The six basic problems of the Uyghur genocide narrative.](https://nitter.cc/i/status/1367632236007202819)
+- [Nuance - The sad truth about Muslims in China.](https://www.youtube.com/watch?v=BPxZfqcKPF0)
 - [The Xinjiang "Genocide" - an excerpt from the Genocide panel.](https://www.youtube.com/watch?v=mH-0l_zToN4)
 - [TheCanadaFiles - Subcommittee report declaring “Uighur Genocide” dominated by researchers and groups funded by CIA cut-out, National Endowment for Democracy.](https://www.thecanadafiles.com/articles/subcommittee-report-declaring-uighur-genocide-dominated-by-researchers-and-groups-funded-by-cia-cut-out-national-endowment-for-democracy)
 - [US fuels terrorism in China.](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/) 
@@ -656,6 +659,7 @@
 - [Reddit holds another AMA with a grifting author, Amelia Pang](https://www.reddit.com/r/IAmA/comments/m99tvp/im_the_author_of_made_in_china_a_prisoner_an_sos/), who wrote a NYTimes best selling book about going undercover into an Uyghur prison. It turns out that she worked for the Epoch Times for many years, and also never visited or talked with a single prisoner. Her book is based on extrapolations from a 1991 film. She leaves the AMA after leaving all the top questions unanswered.
 - [A case study in Anti-Chinese racism.](https://medium.com/@rsahthion/a-case-study-in-racist-anti-chinese-sentiment-fuelled-by-american-bots-and-western-propaganda-f0a69978d568)
 - [Debunking an article from the intercept about Uyghurs.](https://twitter.com/RodericDay/status/1355383514137554944?s=20)
+- [A debunk of a buzzfeed article that used google maps as its primary source.](https://www.reddit.com/r/Sino/comments/nxvkx2/with_buzzfeed_winning_the_pulitzer_prize_for/h1h164l/)
 - [Zenz makes a claim that 500,000 tibetans (1 out of every 3 working age Tibetans) are in forced labor camps.](https://www.reddit.com/r/GenZedong/comments/ixmy9p/china_has_somehow_put_16_of_the_entire_tibetan/)
 - [Breaking down the BBC's visit to XinJiang.](https://medium.com/@sunfeiyang/breaking-down-the-bbcs-visit-to-hotan-xinjiang-e284934a7aab)
 - [A rebuttal of a Guardian article by Gulbahar Haitiwaji](https://twitter.com/moghilemear13/status/1351397520358957058) [2](https://www.reddit.com/r/communism/comments/kwew3n/contradictions_in_the_new_uighur_story_by/)
@@ -1012,6 +1016,8 @@
   - [Says that Kaepernick's take-a-knee protest in support of black lives matter, was a russian op. Claims that "russian bots" are targeting her.](https://twitter.com/zei_squirrel/status/1293286190892888067?s=20)
   - [Laughs out loud when its suggested that she's a progressive.](https://twitter.com/colbyhall/status/1320522050902122497?s=20)
 - [Voted two different times to block federal funding for abortions.](https://www.politico.com/newsletters/playbook/2019/06/06/guess-who-else-voted-against-federal-funding-for-abortion-443667?cid=su_tw_pb)
+- [Wants to use solar panels and green energy... to make war. ](https://twitter.com/disclosetv/status/1398339644144721934?s=20)
+- [Tells guatemalan immigrants: "don't come here"](https://twitter.com/disclosetv/status/1401980300847161349?s=20)
 
 ### Pete Buttigieg
 
@@ -1039,6 +1045,8 @@
 - [LiberationNews - On Biden taking office](https://www.liberationnews.org/psl-statement-biden-in-office-capitalists-in-power/)
 - Biden breaks nearly every campaign promise his first few weeks in office, including a promise to [raise the minimum wage, telling governors its not going to happen.](https://www.politico.com/news/2021/02/18/biden-governors-minimum-wage-469898)
 - [Airstrikes Syria his first few days in office. It took Trump over a year to do the same.](https://www.reuters.com/article/us-usa-syria-strike/exclusive-u-s-carries-out-airstrike-against-iranian-backed-militia-target-in-syria-officials-idUSKBN2AP33D)
+- [Defends excluding Puerto Ricans from disability payments](https://thehill.com/regulation/court-battles/557166-biden-administration-will-defend-excluding-puerto-ricans-from)
+- [Biden Justice Department defends Trump in suit over rape denial](https://www.politico.com/news/2021/06/07/biden-justice-department-defends-trump-in-suit-over-rape-denial-492088)
 
 ### Greta Thunberg
 
@@ -1251,10 +1259,11 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Why don't communists call trump treasonous? Aren't Putin and Trump collaborating and meddling in US elections?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmcel1/)
 - [Why doesn't X minority just lift themselves up by the bootstraps out of poverty? Response by MLK. ](https://streamable.com/eafqq)
 - [To what extent is modern day Vietnam Socialist?](https://medium.com/@otelocarvalho/socialism-today-in-vietnam-ac22ce2edf47)
+- [Gensec Nguyen Phu Trong - On Vietnam's socialist market economy, and its historical development. What were the Doi Moi reforms?](https://en.nhandan.org.vn/politics/item/9924202-some-theoretical-and-practical-issues-on-socialism-and-the-path-towards-socialism-in-vietnam.html)
 - [How is socialism progressing in Bolivia?](https://www.reddit.com/r/communism/comments/cg2t3j/masterpost_on_the_achievements_of_socialism_in/)
 - [Anti-imperialism of Evo Morales - A fight for Bolivia's resources.](https://www.commondreams.org/views/2019/11/12/after-morales-ousted-coup-lithium-question-looms-large-bolivia)
 - [How does the US and British strategy of Balkanization work?](https://youtu.be/niZsLfxNwvI?t=807)
-- Caleb Maupin - [1](https://www.youtube.com/watch?v=i29kWYXlwhw), [2](https://www.youtube.com/watch?v=fmQtvk5elYc), [3](https://www.reddit.com/r/BeardTube/comments/fkwaso/the_successes_of_socialism_in_vietnam/fkwb68a/), [4](https://i.imgur.com/kbeSu33.jpg)
+- Caleb Maupin - [1](https://www.youtube.com/watch?v=i29kWYXlwhw), [2](https://www.youtube.com/watch?v=fmQtvk5elYc), [3](https://www.reddit.com/r/BeardTube/comments/fkwaso/the_successes_of_socialism_in_vietnam/fkwb68a/), [4](https://i.imgur.com/kbeSu33.jpg), [5](https://i.imgur.com/u0jygQ9.png)
 - Prysner - [1](https://twitter.com/Duophile/status/1256563958141591556?s=20)
 - [Omar](https://electronicintifada.net/blogs/ali-abunimah/ilhan-omar-backs-israel-lobby-campaign-against-iran) [2](https://twitter.com/hansalexrazo/status/1258473006419959808?s=20), [3](https://www.washingtonexaminer.com/news/ilhan-omar-says-her-political-role-model-is-inspirationally-bold-margaret-thatcher), [4](https://twitter.com/caitoz/status/1362154968883503106?s=20)
 - [Bordiga](https://libcom.org/forums/history/bordiga-leninist-who-put-his-hopes-axis-27122017)
@@ -1265,3 +1274,4 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Blackredguard](https://twitter.com/BlackRedGuard1/status/1383849476863844359?s=20)
 - [A response to David Harvey's theories of Imperialism by John Smith.](https://urpe.wordpress.com/2018/01/11/a-critique-of-david-harvey-on-imperialism/)
 - [Is signal secure? Yasha Levine](https://yasha.substack.com/p/signal-is-a-government-op-85e)
+- Belarus: [1](https://np.reddit.com/r/EuropeanSocialists/comments/i8cf4z/nazi_roots_of_symbols_of_the_belarusian_opposition/), [2](https://thegrayzone.com/2021/05/26/belarus-roman-protasevich-plane-nazis-ukraine/), [3](https://www.rt.com/russia/525032-protasevich-arrest-neo-nazi-links/)
