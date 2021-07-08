@@ -379,6 +379,7 @@
 * [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
 * [What about Stalin? Didn't he kill millions? (Revleft podcast on Stalin)](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 * [Was Stalin's USSR State Capitalist?](http://www.reddit.com/r/communism101/comments/383c4i/was_stalins_ussr_state_capitalist/)
+* [Lenin on State Capitalism (The Tax in Kind)](https://www.marxists.org/archive/lenin/works/1921/apr/21.htm)
 * [What about the term tankies / stalinists? What's the meaning of the term?](https://www.reddit.com/r/communism101/comments/dm2mbz/on_tankies/) [What about the 1956 Hungarian revolt?](https://www.reddit.com/r/communism101/comments/dh6nyi/why_was_the_hungarian_uprising_crushed_by_the_ussr/), [2](https://www.reddit.com/r/communism101/comments/ht4z8a/hungarian_revolution_in_1956/). [MI6 trained the hungarian opposition to fight soviets in the 1956 revolt.](http://archive.is/fMAzu [3](https://www.reddit.com/r/PartyofCommunistsUSA/comments/9kqkt5/anticommunist_and_antijewish_pogroms_of_hungarys/)  [4](http://www3.sympatico.ca/thidas/Hungarian-history/Exodus.html)
 * [RedSails - on "Tankies"](https://redsails.org/tankies/)
 * [Hakim - Why the USSR was socialist - A critique of left-communism.](https://www.youtube.com/watch?v=CKggZ22izDs)
@@ -922,7 +923,7 @@
 
 ### What's wrong with Alexandria Ocasio-Cortez?
 
-- [She's a social democrat, not a socialist, fronting for the Democratic party](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party).
+- [She's a social democrat, not a socialist, fronting for the Democratic party](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party). [2](https://www.wsws.org/en/articles/2021/03/30/cort-m30.html)
   - [AOC asks all supporters to vote for democrats, including Andrew Cuomo.](https://youtu.be/iaLpyJI0ltg?t=647)
   - [Danny Haiphong from BlackAgendaReport - On the Obama-ification of "the squad".](https://popularresistance.org/the-obama-fication-of-the-squad-strengthens-the-right-at-the-expense-of-the-left/)
   - [Richard Medhurst - On the squad as a branding exercise, and AOC's support for US bombings and prison camps.](https://twitter.com/richimedhurst/status/1376005285140123648?s=20)
@@ -952,10 +953,12 @@
 - [After Evo Morales was overthrown in a US-backed coup, she retracts her pro-Morales statements, and meets with a coup-supporting group in Washington.](https://i.imgur.com/mYdPxcG.jpg) [1](https://rainershea.com/f/alexandria-ocasio-cortez-meets-with-bolivian-coup-organizers)
 - [Stands with Ted Cruz, Marco Rubio and the right-wing pro-Trump Hong Kong rioters in their condemnation of China and its supposed "concentration camps."](https://pbs.twimg.com/media/Etgp3SvXEAAKNX4?format=jpg&name=large)
 - [After Trump fires John Bolton (who tried and failed at starting wars with North Korea, Venezuela, and Iran), she goes full neocon, angry that Trump isn't going to war with North Korea.](https://i.imgur.com/3rSM3oU.jpg)
+- [Refused to talk with an Okinawan representative about the US military occupation there. ](https://mobile.twitter.com/robkajiwara/status/1373370618159099905)
 - [Believes that Trump "betrays" US values.](https://i.imgur.com/H61toBx.png)
 - [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
 - [After Biden opens new child immigrant detention facilities in February 2021, she stops calling them "concentration camps", and names them "influx facilities".](https://i.imgur.com/oSlwtda.jpg)
 - [After bucking M4A during the COVID pandemic, AOC touts a FEMA funeral reimbursement program as an acheivement.](https://lemmygrad.ml/pictrs/image/c7lHG9fFCI.png)
+- [Despite her curated image as a New York bartender, she only bartended for 6 months, and worked primarily for a startup incubator called Brooklyn Avenue Press.](https://www.reddit.com/r/GenZedong/comments/mho3dm/aoc_was_at_a_startup_incubator_in_2011_where_she/) [2](https://www.inc.com/zoe-henry/alexandria-ocasio-cortez-surprising-entrepreneurial-roots-run-for-congress.html)
 
 ### What's wrong with Elizabeth Warren?
 
@@ -1221,6 +1224,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - ["Fuck black culture."](https://www.reddit.com/r/Enough_Vaush_Spam/comments/lv9qu8/vaush_patronizes_a_black_nationalist/)
 - Calls people ["Mentally ill crybabies"](https://i.imgur.com/T0RnOCC.jpg), "Woke-Scolds", and "Simps".
 - ["US geopolitical power is important to me personally, because I'm not ready to lose that to China"](https://twitter.com/AlMuntherO_O/status/1260679840698634242?s=20). *got removed*
+- [Vaush goes full neocon - "The US shouldn't pull out of the middle east, or else chaos would ensue, and these countries would become like Cambodia [which the USA bombed and overthrew Sihanouk - Ed]. Then they'd become chinese vassal states"](https://streamable.com/kfzaxj).
 - [Is against decolonization.](https://twitter.com/trikstr_/status/1280053214117793792)  "We're not going to fkn leave America, white people are staying... we're not gonna give something back to native Americans... the best way forward is to integrate our communities". Vaush responds to a native person talking about indigenous movements and rights by saying: ["I'll listen to the scientists."](https://twitter.com/guajirx/status/1280314035217588224?s=21)
 - [Vaush talks down to a Korean person, saying that he hates Korean people, and doesn't know anything about them.](https://twitter.com/aboIishamerica/status/1376891876222107653?s=20)
 - [Vaush calls Korea, "a festering shithole", and says the North Koreans "got dabbed on", referring to the 4-5 Million deaths the US inflicted.](https://twitter.com/NatalieRevolts/status/1377327842313265154?s=20)
