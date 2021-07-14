@@ -253,6 +253,7 @@
 - [What is surplus value?](crash_course_socialism.md#surplus-value)
 - [Can someone ELI 5 the Labor Theory of Value?](http://www.reddit.com/r/communism101/comments/2otlcz/can_someone_eli_5_the_labor_theory_of_value/)
 - [Is the Labor theory of value (LTV) scientifically correct? What about academic economists and the subjective theory of value (STV)?](https://www.reddit.com/r/DebateCommunism/comments/9xo7l7/questions_about_ltv_and_stv/e9ts0k1/)
+- [Empirical studies on the LTV](https://www.reddit.com/r/Marxism/comments/kjb6tp/the_labor_theory_of_value_an_examination/)
 - [Is human labor the source of value because human beings do not normally work for free?](http://www.reddit.com/r/communism101/comments/1hjpgk/is_human_labor_the_source_of_value_because_human/)
 - [Value as a necessary product of labor?](http://www.reddit.com/r/communism101/comments/2ufx5a/value_as_a_necessary_product_of_labor/)
 - [What is the right way to think about the relation between value and labor?](http://www.reddit.com/r/communism101/comments/1d3jy2/what_is_the_right_way_to_think_about_the_relation/)
