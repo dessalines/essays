@@ -934,19 +934,17 @@
 
 - [Voted for Trump's 2020 War budget, allocating $738 Billion to military spending (a 3% increase over the previous year).](http://www.idcommunism.com/2019/07/ocasio-cortez-aoc-votes-in-favor-of-trumps-war-budget.html)
 - [She votes to keep the US in NATO, who's been responsible for countless atrocities in Europe and the Middle East.](http://clerk.house.gov/evs/2019/roll044.xml)
-- [AOC posed for a photo with those who carried out a coup to overthrow the Bolivian President Evo Morales](https://orinocotribune.com/alexandria-ocasio-cortez-meets-with-bolivian-coup-organizers/) then Tweeted in support of the new governnment.
-- [In 2021, qualified that she only doesn't support a US invasion of Haiti, "without a plan", "right now".](https://twitter.com/dancohen3000/status/1416735107151503362?s=20)
-- Tweeted in support of the 2021 anti-communist protests in Cuba, condemning the socialist government’s [“suppression of the media, speech and protest.”](https://twitter.com/RepAOC/status/1415825886981545992)
+- [After Evo Morales was overthrown in a US-backed coup, she retracts her pro-Morales statements, meets with a coup-supporting group in Washington, and tweets in support of the viciously anti-indigenous government of Jean Anez.](https://i.imgur.com/mYdPxcG.jpg) [2](https://orinocotribune.com/alexandria-ocasio-cortez-meets-with-bolivian-coup-organizers/),  [3](https://rainershea.com/f/alexandria-ocasio-cortez-meets-with-bolivian-coup-organizers)
+- [In the July 2021 protests in Cuba, she called condemned Cuban president Diaz-Canal's "anti-democratic actions."](https://pbs.twimg.com/media/E6YIBtMXIAE2dLt?format=jpg&name=large), [2](https://images-ext-1.discordapp.net/external/5G4TQQ1qLqzTXDlSeNDXM5noh6Xcp_ZNLrbxreyxrWc/https/pbs.twimg.com/media/E6YCaZKWQAAfrs4.jpg%3Alarge) She condemned the socialist government’s [“suppression of the media, speech and protest.”](https://twitter.com/RepAOC/status/1415825886981545992)
 - [She supports Israel, and its genocide of Palestineans.](https://i.imgur.com/K6QsYZo.jpg)
 - After an anti-war activist posted a video of AOC waffling on a question about Palestine, [he's interrogated by California highway patrol who claimed he issued a death threat against AOC](https://thegrayzone.com/2021/04/09/anti-war-activist-police-aoc-video/). In reality, his tweet said: "her response was underwhelming to say the least." Its unknown whether AOC initiated the interrogation.
 - [Is against pardoning Julian Assange.](https://twitter.com/SameeraKhan/status/1359550389578854406?s=20)
 - [Goes along with democrats and Republicans in backing US puppet Juan Guaido over Maduro in Venezuela.](https://twitter.com/telesurenglish/status/1124924184629583872?s=19) 
 - [After the December 2020 Elections in Venezuala, she defends Juan Guaido, and calls Maduro an "authoritarian" yet again.](https://twitter.com/SameeraKhan/status/1336139779281457153)
-- [Believes, like other democrats, that Russia rigs US elections](https://i.imgur.com/3rmhrAf.png)
+- [In 2021, qualified that she *only* doesn't support a US invasion of Haiti, "without a plan", "right now".](https://twitter.com/dancohen3000/status/1416735107151503362?s=20)
 - [AOC pays homage to "Tibetan Uprising Day"](https://twitter.com/BenjaminNorton/status/1370755518122373121?s=20), a CIA-sponsored campaign to restore the brutal Tibetan theocracy and re-institute slavery.
-- [After Evo Morales was overthrown in a US-backed coup, she retracts her pro-Morales statements, and meets with a coup-supporting group in Washington.](https://i.imgur.com/mYdPxcG.jpg) [1](https://rainershea.com/f/alexandria-ocasio-cortez-meets-with-bolivian-coup-organizers)
-- [In the July 2021 protests in Cuba, she called condemned Cuban president Diaz-Canal's "anti-democratic actions."](https://pbs.twimg.com/media/E6YIBtMXIAE2dLt?format=jpg&name=large), [2](https://images-ext-1.discordapp.net/external/5G4TQQ1qLqzTXDlSeNDXM5noh6Xcp_ZNLrbxreyxrWc/https/pbs.twimg.com/media/E6YCaZKWQAAfrs4.jpg%3Alarge)
 - [Stands with Ted Cruz, Marco Rubio and the right-wing pro-Trump Hong Kong rioters in their condemnation of China and its supposed "concentration camps."](https://pbs.twimg.com/media/Etgp3SvXEAAKNX4?format=jpg&name=large)
+- [Believes, like other democrats, that Russia rigs US elections](https://i.imgur.com/3rmhrAf.png)
 - [After Trump fires John Bolton (who tried and failed at starting wars with North Korea, Venezuela, and Iran), she goes full neocon, angry that Trump isn't going to war with North Korea.](https://i.imgur.com/3rSM3oU.jpg)
 - [Refused to talk with an Okinawan representative about the US military occupation there. ](https://mobile.twitter.com/robkajiwara/status/1373370618159099905)
 - [In 2009 AOC travelled to Niger as part of a USAID program.](https://dailyfreepress.com/2010/03/18/niger-program-to-resume-in-fall/) USAID is a CIA affiliated program that backs regime change abroad (under the guise of ‘promoting democracy’.) In 2010 the Niger Government was replaced in a coup, with the US [publicly backing the new regime.](https://web.archive.org/web/20100223082036/http://news.yahoo.com/s/afp/20100218/pl_afp/nigerunrestus) The previous Niger Government had [ended a French monopoly on Uranium mining in their country](https://www.namibian.com.na/30123/archive-read/Niger-ends-French-mining-monopoly-NIAMEY--) and was looking instead to [partner with China.](https://www.cairn-int.info/article-E_HER_142_0206—niger-a-state-rich-in-uranium.htm). After the coup the French monopoly was re-instated – with [dire consequences for Niger.](https://www.downtoearth.org.in/blog/health-in-africa/extracting-a-radioactive-disaster-in-niger-63451)
@@ -954,24 +952,24 @@
 #### Domestic issues
 
 - [Calls for budget cuts for DHS, due to their child detention camps and family separations, then goes back on it by voting to fully fund them along with other democrats.](https://i.redd.it/bfiudbz8qm921.jpg)
+- [After Biden opens new child immigrant detention facilities in February 2021, she stops calling them "concentration camps", and names them "influx facilities".](https://i.imgur.com/oSlwtda.jpg)
+- [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
 - [After the 2021 capitol riots, AOC defends law and order, and calls the republicans cowards for not supporting the police.](https://twitter.com/thehill/status/1349405734128250885)
 - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
 - [Defends the NYPD during the George Floyd protests, since there are women, black, latino and asian american cops.](https://i.imgur.com/FT8GMTf.png)
-- [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
-- [Attacks critics of Biden as being "privileged" and "wanting to reinvent themselves", when she herself used to work for startup incubators. ](https://www.wsws.org/en/articles/2021/03/26/aoc-m26.html)
-- [Says that "Left wing opponents of Biden are doing a disservice to the cause of justice. ](https://i.postimg.cc/BQz9Sgsw/aoc-biden-critics.jpg)
 - [In December 2020, after a proposal by comic Jimmy Dore, for house democrats to refuse support for House Speaker Nancy Pelosi, unless she agrees to bring a Medicare for all bill to the house, to bring relief for US citizens who lost healthcare during the pandemic. AOC and the rest of the "squad" refused, and backed Pelosi, citing concerns that the bill would not win anyway. Dore retorted that 9 / 10 democratic voters, and even a majority of republican voters support medicare for all.](https://www.corporatecrimereporter.com/news/200/jimmy-dore-calls-on-democrats-to-withhold-support-for-nancy-pelosi-unless-she-brings-single-payer-medicare-for-all-to-a-vote/)
-- [After Biden opens new child immigrant detention facilities in February 2021, she stops calling them "concentration camps", and names them "influx facilities".](https://i.imgur.com/oSlwtda.jpg)
 - [After bucking M4A during the COVID pandemic, AOC touts a FEMA funeral reimbursement program as an acheivement.](https://lemmygrad.ml/pictrs/image/c7lHG9fFCI.png)
 
 #### She's a democrat, not a socialist.
 
 - [She's a social democrat, not a socialist, fronting for the Democratic party](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party). [2](https://www.wsws.org/en/articles/2021/03/30/cort-m30.html)
-- [AOC asks all supporters to vote for democrats, including Andrew Cuomo.](https://youtu.be/iaLpyJI0ltg?t=647)
 - [Danny Haiphong from BlackAgendaReport - On the Obama-ification of "the squad".](https://popularresistance.org/the-obama-fication-of-the-squad-strengthens-the-right-at-the-expense-of-the-left/)
 - [Richard Medhurst - On the squad as a branding exercise, and AOC's support for US bombings and prison camps.](https://twitter.com/richimedhurst/status/1376005285140123648?s=20)
+- [AOC asks all supporters to vote for democrats, including Andrew Cuomo.](https://youtu.be/iaLpyJI0ltg?t=647)
 - [AOC says she will vote for Biden in the 2020 election, saying, "I think it’s incredibly important we support the Democratic nominee in November".](https://thehill.com/homenews/campaign/494275-ocasio-cortez-says-she-will-vote-for-biden-in-november)
 - Going back on her promise to only back "progressive democrats" after her election to congress in 2018, she [backs Nancy Pelosi for speaker of the house.](https://www.nbcnews.com/politics/congress/ocasio-cortez-backs-pelosi-speaker-dem-rebellion-falters-n939086) 
+- [Attacks critics of Biden as being "privileged" and "wanting to reinvent themselves", when she herself used to work for startup incubators. ](https://www.wsws.org/en/articles/2021/03/26/aoc-m26.html)
+- [Says that "Left wing opponents of Biden are doing a disservice to the cause of justice. ](https://i.postimg.cc/BQz9Sgsw/aoc-biden-critics.jpg)
 - States to a booing crowd, [her support for Nancy Pelosi](https://twitter.com/anyaparampil/status/1338304905983963138?s=20) and Pelosi's background of "activism" and "civic engagement".
 - [Says her policies are more reminiscent of Norway than Caracas, repeating the right wing myth of socialism destroying Venezuela, and wrongly conflating nordic social democracy with socialism.](https://i.imgur.com/fTJfV2k.png)
 - [Says its possible to be both a "democratic socialist" and a Capitalist. ](https://www.msnbc.com/mtp-daily/watch/aoc-can-you-be-a-democratic-socialist-and-a-capitalist-it-s-possible-1439125059571?fbclid=IwAR1PmnyrP28stOyVqNP5Bf4vjqEtV5S4MXQIY4sDgcv-XWgEn1u5Z0ne3J8)
