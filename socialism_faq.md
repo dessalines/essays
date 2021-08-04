@@ -47,7 +47,6 @@
     + [What is Radio Free Asia?](#what-is-radio-free-asia)
     + [Did Mao kill millions of people?](#did-mao-kill-millions-of-people)
     + [Was the PRC a totalitarian dictatorship?](#was-the-prc-a-totalitarian-dictatorship)
-    + [Further reading](#further-reading-2)
   * [On the German Democratic Republic (GDR)](#on-the-german-democratic-republic-gdr)
   * [On Cuba](#on-cuba)
     + [Was Che a murderer and/or a racist?](#was-che-a-murderer-andor-a-racist)
@@ -55,7 +54,7 @@
   * [On North Korea](#on-north-korea)
     + [Do North Koreans believe in unicorns and think Kim Jong-Un is immortal?](#do-north-koreans-believe-in-unicorns-and-think-kim-jong-un-is-immortal)
     + [Is the DPRK a Fascist Monarchy?](#is-the-dprk-a-fascist-monarchy)
-    + [Further reading](#further-reading-3)
+    + [Further reading](#further-reading-2)
   * [On Venezuela](#on-venezuela)
   * [People](#people)
     + [Whats so bad about Elon Musk?](#whats-so-bad-about-elon-musk)
@@ -67,19 +66,22 @@
     + [Noam Chomsky](#noam-chomsky)
     + [What's wrong with Bernie Sanders?](#whats-wrong-with-bernie-sanders)
     + [What's wrong with Alexandria Ocasio-Cortez?](#whats-wrong-with-alexandria-ocasio-cortez)
+      - [Imperialism](#imperialism)
+      - [Domestic issues](#domestic-issues)
+      - [She's a democrat, not a socialist.](#shes-a-democrat-not-a-socialist)
     + [What's wrong with Elizabeth Warren?](#whats-wrong-with-elizabeth-warren)
     + [Kamala Harris](#kamala-harris)
     + [Pete Buttigieg](#pete-buttigieg)
-    + [Biden](#biden)
+    + [Joe Biden](#joe-biden)
     + [Greta Thunberg](#greta-thunberg)
     + [Slavoj Zizek](#slavoj-zizek)
     + [What's wrong with Barack Obama?](#whats-wrong-with-barack-obama)
-      - [Imperialism](#imperialism)
+      - [Imperialism](#imperialism-1)
       - [Empowering Finance Capital](#empowering-finance-capital)
       - [Mass Imprisonment](#mass-imprisonment)
       - [Mass surveillance](#mass-surveillance)
       - [More](#more)
-    + [Ruth Bader Ginsberg](#ruth-bader-ginsberg)
+    + [Ruth Bader Ginsburg](#ruth-bader-ginsburg)
       - [Native peoples, immigrants, and treatment of minorities.](#native-peoples-immigrants-and-treatment-of-minorities)
       - [Law and Order](#law-and-order)
       - [Others](#others)
@@ -251,7 +253,6 @@
 ## On Economics and Sociology
 
 - [What is surplus value?](crash_course_socialism.md#surplus-value)
-- [Can someone ELI 5 the Labor Theory of Value?](http://www.reddit.com/r/communism101/comments/2otlcz/can_someone_eli_5_the_labor_theory_of_value/)
 - [Is the Labor theory of value (LTV) scientifically correct? What about academic economists and the subjective theory of value (STV)?](https://www.reddit.com/r/DebateCommunism/comments/9xo7l7/questions_about_ltv_and_stv/e9ts0k1/)
 - [Empirical studies on the LTV](https://www.reddit.com/r/Marxism/comments/kjb6tp/the_labor_theory_of_value_an_examination/)
 - [Is human labor the source of value because human beings do not normally work for free?](http://www.reddit.com/r/communism101/comments/1hjpgk/is_human_labor_the_source_of_value_because_human/)
@@ -271,6 +272,8 @@
 - [Nationalism and internationalism, where do leftists stand?](http://www.reddit.com/r/communism101/comments/298jfb/nationalism_as_applied_internationalism/)
 - [Nationalism and Communism?](http://www.reddit.com/r/communism101/comments/146x30/nationalism_and_communism/)
 - [Why is patriotism bad?](http://www.reddit.com/r/communism101/comments/1nb7ke/whyis_patriotism_bad/)
+- [Luna oi : how USAID serves the CIA. ](https://twitter.com/LunaOi_VN/status/1421564265530494978?s=20)
+
 
 ## On Women's Liberation
 
@@ -381,7 +384,7 @@
 * [What about Stalin? Didn't he kill millions? (Revleft podcast on Stalin)](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 * [Was Stalin's USSR State Capitalist?](http://www.reddit.com/r/communism101/comments/383c4i/was_stalins_ussr_state_capitalist/)
 * [Lenin on State Capitalism (The Tax in Kind)](https://www.marxists.org/archive/lenin/works/1921/apr/21.htm)
-* [What about the term tankies / stalinists? What's the meaning of the term?](https://www.reddit.com/r/communism101/comments/dm2mbz/on_tankies/) [What about the 1956 Hungarian revolt?](https://www.reddit.com/r/communism101/comments/dh6nyi/why_was_the_hungarian_uprising_crushed_by_the_ussr/), [2](https://www.reddit.com/r/communism101/comments/ht4z8a/hungarian_revolution_in_1956/). [MI6 trained the hungarian opposition to fight soviets in the 1956 revolt.](http://archive.is/fMAzu [3](https://www.reddit.com/r/PartyofCommunistsUSA/comments/9kqkt5/anticommunist_and_antijewish_pogroms_of_hungarys/)  [4](http://www3.sympatico.ca/thidas/Hungarian-history/Exodus.html)
+* [What about the term tankies / stalinists? What's the meaning of the term?](https://www.reddit.com/r/communism101/comments/dm2mbz/on_tankies/) [What about the 1956 Hungarian revolt?](https://www.reddit.com/r/communism101/comments/dh6nyi/why_was_the_hungarian_uprising_crushed_by_the_ussr/), [2](https://www.reddit.com/r/communism101/comments/ht4z8a/hungarian_revolution_in_1956/), [3](https://www.reddit.com/r/GenZhou/comments/ol6h3b/im_simply_wondering_where_does_the_term_tankie/h5f3s6o/). [MI6 trained the hungarian opposition to fight soviets in the 1956 revolt.](http://archive.is/fMAzu [3](https://www.reddit.com/r/PartyofCommunistsUSA/comments/9kqkt5/anticommunist_and_antijewish_pogroms_of_hungarys/)  [4](http://www3.sympatico.ca/thidas/Hungarian-history/Exodus.html)
 * [RedSails - on "Tankies"](https://redsails.org/tankies/)
 * [Hakim - Why the USSR was socialist - A critique of left-communism.](https://www.youtube.com/watch?v=CKggZ22izDs)
 * [Did Stalin really try to resign 4 times?](https://socialistmlmusings.wordpress.com/2017/02/23/stalins-four-attempts-at-resignation/)
@@ -574,6 +577,8 @@
 - [Debunking the claim that "China is Imperialist"](https://medium.com/@rainershea612/catagorically-debunking-the-claim-that-china-is-imperialist-a9ae7b280a44)
 - [The demeanor of Chinese leaders (Xi Jinping) vs Western leaders (Nancy Pelosi) towards African nations. One of the reasons why African nations favor China instead of the West.](https://www.reddit.com/r/GenZedong/comments/kxabq5/the_demeanor_of_chinese_leaders_xi_jinping_vs/) [Full video here](https://www.youtube.com/watch?v=P5uzxV8ub9k)
 - [Is China really imperialist? What's the difference between what Europe did to Africa, and what China is doing?](https://www.reddit.com/r/GenZedong/comments/g0lp70/people_are_saying_that_china_is_colonialist_by/fnanq5x/)
+- [Five imperialist myths about China's role in Africa.](https://liberationschool.org/five-imperialist-myths-about-chinas-role-in-africa/)
+- [Evo Morales - Why China and Russia aren't imperialist, but the US is.](https://www.youtube.com/watch?v=f-zG2eFsNoc)
 - [US air force veteran Bill Brown breaks down the history of anti-chinese propaganda, and why China is not colonialist like the west.](https://twitter.com/thouse_opinions/status/1371723368832004099)
 - [Yanis Varoufakis on China's foreign policy dealings with Greece and Africa](https://www.youtube.com/watch?v=PBgbYQ5QAM0).
 - [Vijay Prashad and Qiao Collective - Is China imperializing Africa?](https://www.qiaocollective.com/home/conversation-vijay-prashad)
@@ -664,6 +669,7 @@
 - [A debunk of a buzzfeed article that used google maps as its primary source.](https://www.reddit.com/r/Sino/comments/nxvkx2/with_buzzfeed_winning_the_pulitzer_prize_for/h1h164l/)
 - [Zenz makes a claim that 500,000 tibetans (1 out of every 3 working age Tibetans) are in forced labor camps.](https://www.reddit.com/r/GenZedong/comments/ixmy9p/china_has_somehow_put_16_of_the_entire_tibetan/)
 - [Breaking down the BBC's visit to XinJiang.](https://medium.com/@sunfeiyang/breaking-down-the-bbcs-visit-to-hotan-xinjiang-e284934a7aab)
+- [BBC gets caught doctoring an image from a vlogger in China to make it look depressing, then quietly reverts their change after getting caught.](https://www.youtube.com/watch?v=eS8EceIa1MQ)
 - [A rebuttal of a Guardian article by Gulbahar Haitiwaji](https://twitter.com/moghilemear13/status/1351397520358957058) [2](https://www.reddit.com/r/communism/comments/kwew3n/contradictions_in_the_new_uighur_story_by/)
 - [A short, shareable version on why this isn't a genocide - cynthiakao](https://www.tiktok.com/@cynthiakao/video/6945108711006309638)
 - [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic). 
@@ -924,42 +930,57 @@
 
 ### What's wrong with Alexandria Ocasio-Cortez?
 
-- [She's a social democrat, not a socialist, fronting for the Democratic party](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party). [2](https://www.wsws.org/en/articles/2021/03/30/cort-m30.html)
-  - [AOC asks all supporters to vote for democrats, including Andrew Cuomo.](https://youtu.be/iaLpyJI0ltg?t=647)
-  - [Danny Haiphong from BlackAgendaReport - On the Obama-ification of "the squad".](https://popularresistance.org/the-obama-fication-of-the-squad-strengthens-the-right-at-the-expense-of-the-left/)
-  - [Richard Medhurst - On the squad as a branding exercise, and AOC's support for US bombings and prison camps.](https://twitter.com/richimedhurst/status/1376005285140123648?s=20)
-  - [Calls for budget cuts for DHS, due to their child detention camps and family separations, then goes back on it by voting to fully fund them along with other democrats.](https://i.redd.it/bfiudbz8qm921.jpg)
-  - [She votes to keep the US in NATO, who's been responsible for countless atrocities in Europe and the Middle East.](http://clerk.house.gov/evs/2019/roll044.xml)
-  - [AOC says she will vote for Biden in the 2020 election, saying, "I think it’s incredibly important we support the Democratic nominee in November".](https://thehill.com/homenews/campaign/494275-ocasio-cortez-says-she-will-vote-for-biden-in-november)
-  - Going back on her promise to only back "progressive democrats" after her election to congress in 2018, she [backs Nancy Pelosi for speaker of the house.](https://www.nbcnews.com/politics/congress/ocasio-cortez-backs-pelosi-speaker-dem-rebellion-falters-n939086) 
-  - States to a booing crowd, [her support for Nancy Pelosi](https://twitter.com/anyaparampil/status/1338304905983963138?s=20) and Pelosi's background of "activism" and "civic engagement".
-  - [Says her policies are more reminiscent of Norway than Caracas, repeating the right wing myth of socialism destroying Venezuela, and wrongly conflating nordic social democracy with socialism.](https://i.imgur.com/fTJfV2k.png)
-  - [Says its possible to be both a "democratic socialist" and a Capitalist. ](https://www.msnbc.com/mtp-daily/watch/aoc-can-you-be-a-democratic-socialist-and-a-capitalist-it-s-possible-1439125059571?fbclid=IwAR1PmnyrP28stOyVqNP5Bf4vjqEtV5S4MXQIY4sDgcv-XWgEn1u5Z0ne3J8)
-  - [Thinks the US military is socialist. Thinks social services like schools and libraries are socialist.](https://i.imgur.com/JHOZDlg.png)
-  - [After the 2021 capitol riots, AOC defends law and order, and calls the republicans cowards for not supporting the police.](https://twitter.com/thehill/status/1349405734128250885)
-  - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
-  - [Defends the NYPD during the George Floyd protests, since there are women, black, latino and asian american cops.](https://i.imgur.com/FT8GMTf.png)
-  - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
-  - [Attacks critics of Biden as being "privileged" and "wanting to reinvent themselves", when she herself used to work for startup incubators. ](https://threadreaderapp.com/thread/1375760351027986432.html)
-  - [Says that "Left wing opponents of Biden are doing a disservice to the cause of justice. ](https://i.postimg.cc/BQz9Sgsw/aoc-biden-critics.jpg)
-  - [In December 2020, after a proposal by comic Jimmy Dore, for house democrats to refuse support for House Speaker Nancy Pelosi, unless she agrees to bring a Medicare for all bill to the house, to bring relief for US citizens who lost healthcare during the pandemic. AOC and the rest of the "squad" refused, and backed Pelosi, citing concerns that the bill would not win anyway. Dore retorted that 9 / 10 democratic voters, and even a majority of republican voters support medicare for all.](https://www.corporatecrimereporter.com/news/200/jimmy-dore-calls-on-democrats-to-withhold-support-for-nancy-pelosi-unless-she-brings-single-payer-medicare-for-all-to-a-vote/)
-  - [AOC pays homage to "Tibetan Uprising Day"](https://twitter.com/BenjaminNorton/status/1370755518122373121?s=20), a CIA-sponsored campaign to restore the brutal Tibetan theocracy and re-institute slavery.
+#### Imperialism
+
 - [Voted for Trump's 2020 War budget, allocating $738 Billion to military spending (a 3% increase over the previous year).](http://www.idcommunism.com/2019/07/ocasio-cortez-aoc-votes-in-favor-of-trumps-war-budget.html)
+- [She votes to keep the US in NATO, who's been responsible for countless atrocities in Europe and the Middle East.](http://clerk.house.gov/evs/2019/roll044.xml)
+- [AOC posed for a photo with those who carried out a coup to overthrow the Bolivian President Evo Morales](https://orinocotribune.com/alexandria-ocasio-cortez-meets-with-bolivian-coup-organizers/) then Tweeted in support of the new governnment.
+- [In 2021, qualified that she only doesn't support a US invasion of Haiti, "without a plan", "right now".](https://twitter.com/dancohen3000/status/1416735107151503362?s=20)
+- Tweeted in support of the 2021 anti-communist protests in Cuba, condemning the socialist government’s [“suppression of the media, speech and protest.”](https://twitter.com/RepAOC/status/1415825886981545992)
 - [She supports Israel, and its genocide of Palestineans.](https://i.imgur.com/K6QsYZo.jpg)
 - After an anti-war activist posted a video of AOC waffling on a question about Palestine, [he's interrogated by California highway patrol who claimed he issued a death threat against AOC](https://thegrayzone.com/2021/04/09/anti-war-activist-police-aoc-video/). In reality, his tweet said: "her response was underwhelming to say the least." Its unknown whether AOC initiated the interrogation.
 - [Is against pardoning Julian Assange.](https://twitter.com/SameeraKhan/status/1359550389578854406?s=20)
 - [Goes along with democrats and Republicans in backing US puppet Juan Guaido over Maduro in Venezuela.](https://twitter.com/telesurenglish/status/1124924184629583872?s=19) 
 - [After the December 2020 Elections in Venezuala, she defends Juan Guaido, and calls Maduro an "authoritarian" yet again.](https://twitter.com/SameeraKhan/status/1336139779281457153)
 - [Believes, like other democrats, that Russia rigs US elections](https://i.imgur.com/3rmhrAf.png)
+- [AOC pays homage to "Tibetan Uprising Day"](https://twitter.com/BenjaminNorton/status/1370755518122373121?s=20), a CIA-sponsored campaign to restore the brutal Tibetan theocracy and re-institute slavery.
 - [After Evo Morales was overthrown in a US-backed coup, she retracts her pro-Morales statements, and meets with a coup-supporting group in Washington.](https://i.imgur.com/mYdPxcG.jpg) [1](https://rainershea.com/f/alexandria-ocasio-cortez-meets-with-bolivian-coup-organizers)
+- [In the July 2021 protests in Cuba, she called condemned Cuban president Diaz-Canal's "anti-democratic actions."](https://pbs.twimg.com/media/E6YIBtMXIAE2dLt?format=jpg&name=large), [2](https://images-ext-1.discordapp.net/external/5G4TQQ1qLqzTXDlSeNDXM5noh6Xcp_ZNLrbxreyxrWc/https/pbs.twimg.com/media/E6YCaZKWQAAfrs4.jpg%3Alarge)
 - [Stands with Ted Cruz, Marco Rubio and the right-wing pro-Trump Hong Kong rioters in their condemnation of China and its supposed "concentration camps."](https://pbs.twimg.com/media/Etgp3SvXEAAKNX4?format=jpg&name=large)
 - [After Trump fires John Bolton (who tried and failed at starting wars with North Korea, Venezuela, and Iran), she goes full neocon, angry that Trump isn't going to war with North Korea.](https://i.imgur.com/3rSM3oU.jpg)
 - [Refused to talk with an Okinawan representative about the US military occupation there. ](https://mobile.twitter.com/robkajiwara/status/1373370618159099905)
-- [Believes that Trump "betrays" US values.](https://i.imgur.com/H61toBx.png)
-- [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
+- [In 2009 AOC travelled to Niger as part of a USAID program.](https://dailyfreepress.com/2010/03/18/niger-program-to-resume-in-fall/) USAID is a CIA affiliated program that backs regime change abroad (under the guise of ‘promoting democracy’.) In 2010 the Niger Government was replaced in a coup, with the US [publicly backing the new regime.](https://web.archive.org/web/20100223082036/http://news.yahoo.com/s/afp/20100218/pl_afp/nigerunrestus) The previous Niger Government had [ended a French monopoly on Uranium mining in their country](https://www.namibian.com.na/30123/archive-read/Niger-ends-French-mining-monopoly-NIAMEY--) and was looking instead to [partner with China.](https://www.cairn-int.info/article-E_HER_142_0206—niger-a-state-rich-in-uranium.htm). After the coup the French monopoly was re-instated – with [dire consequences for Niger.](https://www.downtoearth.org.in/blog/health-in-africa/extracting-a-radioactive-disaster-in-niger-63451)
+
+#### Domestic issues
+
+- [Calls for budget cuts for DHS, due to their child detention camps and family separations, then goes back on it by voting to fully fund them along with other democrats.](https://i.redd.it/bfiudbz8qm921.jpg)
+- [After the 2021 capitol riots, AOC defends law and order, and calls the republicans cowards for not supporting the police.](https://twitter.com/thehill/status/1349405734128250885)
+- [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
+- [Defends the NYPD during the George Floyd protests, since there are women, black, latino and asian american cops.](https://i.imgur.com/FT8GMTf.png)
+- [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
+- [Attacks critics of Biden as being "privileged" and "wanting to reinvent themselves", when she herself used to work for startup incubators. ](https://www.wsws.org/en/articles/2021/03/26/aoc-m26.html)
+- [Says that "Left wing opponents of Biden are doing a disservice to the cause of justice. ](https://i.postimg.cc/BQz9Sgsw/aoc-biden-critics.jpg)
+- [In December 2020, after a proposal by comic Jimmy Dore, for house democrats to refuse support for House Speaker Nancy Pelosi, unless she agrees to bring a Medicare for all bill to the house, to bring relief for US citizens who lost healthcare during the pandemic. AOC and the rest of the "squad" refused, and backed Pelosi, citing concerns that the bill would not win anyway. Dore retorted that 9 / 10 democratic voters, and even a majority of republican voters support medicare for all.](https://www.corporatecrimereporter.com/news/200/jimmy-dore-calls-on-democrats-to-withhold-support-for-nancy-pelosi-unless-she-brings-single-payer-medicare-for-all-to-a-vote/)
 - [After Biden opens new child immigrant detention facilities in February 2021, she stops calling them "concentration camps", and names them "influx facilities".](https://i.imgur.com/oSlwtda.jpg)
 - [After bucking M4A during the COVID pandemic, AOC touts a FEMA funeral reimbursement program as an acheivement.](https://lemmygrad.ml/pictrs/image/c7lHG9fFCI.png)
+
+#### She's a democrat, not a socialist.
+
+- [She's a social democrat, not a socialist, fronting for the Democratic party](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party). [2](https://www.wsws.org/en/articles/2021/03/30/cort-m30.html)
+- [AOC asks all supporters to vote for democrats, including Andrew Cuomo.](https://youtu.be/iaLpyJI0ltg?t=647)
+- [Danny Haiphong from BlackAgendaReport - On the Obama-ification of "the squad".](https://popularresistance.org/the-obama-fication-of-the-squad-strengthens-the-right-at-the-expense-of-the-left/)
+- [Richard Medhurst - On the squad as a branding exercise, and AOC's support for US bombings and prison camps.](https://twitter.com/richimedhurst/status/1376005285140123648?s=20)
+- [AOC says she will vote for Biden in the 2020 election, saying, "I think it’s incredibly important we support the Democratic nominee in November".](https://thehill.com/homenews/campaign/494275-ocasio-cortez-says-she-will-vote-for-biden-in-november)
+- Going back on her promise to only back "progressive democrats" after her election to congress in 2018, she [backs Nancy Pelosi for speaker of the house.](https://www.nbcnews.com/politics/congress/ocasio-cortez-backs-pelosi-speaker-dem-rebellion-falters-n939086) 
+- States to a booing crowd, [her support for Nancy Pelosi](https://twitter.com/anyaparampil/status/1338304905983963138?s=20) and Pelosi's background of "activism" and "civic engagement".
+- [Says her policies are more reminiscent of Norway than Caracas, repeating the right wing myth of socialism destroying Venezuela, and wrongly conflating nordic social democracy with socialism.](https://i.imgur.com/fTJfV2k.png)
+- [Says its possible to be both a "democratic socialist" and a Capitalist. ](https://www.msnbc.com/mtp-daily/watch/aoc-can-you-be-a-democratic-socialist-and-a-capitalist-it-s-possible-1439125059571?fbclid=IwAR1PmnyrP28stOyVqNP5Bf4vjqEtV5S4MXQIY4sDgcv-XWgEn1u5Z0ne3J8)
+- [Thinks the US military is socialist. Thinks social services like schools and libraries are socialist.](https://i.imgur.com/JHOZDlg.png)
+- After his death AOC Tweeted to commemorate John McCain, saying his [“legacy represents an unparalleled example of human decency.”](https://twitter.com/AOC/status/1033538876370046977)
+- [Believes that Trump "betrays" US values.](https://i.imgur.com/H61toBx.png)
 - [Despite her curated image as a New York bartender, she only bartended for 6 months, and worked primarily for a startup incubator called Brooklyn Avenue Press.](https://www.reddit.com/r/GenZedong/comments/mho3dm/aoc_was_at_a_startup_incubator_in_2011_where_she/) [2](https://www.inc.com/zoe-henry/alexandria-ocasio-cortez-surprising-entrepreneurial-roots-run-for-congress.html)
+- [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
+
 
 ### What's wrong with Elizabeth Warren?
 
@@ -1037,6 +1058,7 @@
 - [His campaign is based on sinophobia.](https://twitter.com/BenjaminNorton/status/1251644551367925760)
 - https://twitter.com/historic_ly/status/1258861634812067841?s=20
 - [Biden's segregationist anti-busing views](https://twitter.com/MartianMarxist/status/1260067123591700483?s=20)
+- [Pushed Reagan to ramp up mass-incarceration.](https://theintercept.com/2019/09/17/the-untold-story-joe-biden-pushed-ronald-reagan-to-ramp-up-incarceration-not-the-other-way-around/)
 - [Biden - We need more arrests, triple the police, prosecuters, judges, and prison cells.](https://twitter.com/areltah/status/1266428868547747848?s=20)
 - [Biden - Lock em' up.](https://twitter.com/BethLynch2020/status/1266810765362843650?s=20)
 - [Biden on George Floyd protesters - "Shoot em in the leg instead of the heart."](https://twitter.com/jaboukie/status/1267565376885448706?s=20) [Then goes on to suggest an additional $300M in funding for police.](https://twitter.com/ajitxsingh/status/1270713176145793024?s=20)
@@ -1280,3 +1302,4 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [A response to David Harvey's theories of Imperialism by John Smith.](https://urpe.wordpress.com/2018/01/11/a-critique-of-david-harvey-on-imperialism/)
 - [Is signal secure? Yasha Levine](https://yasha.substack.com/p/signal-is-a-government-op-85e)
 - Belarus: [1](https://np.reddit.com/r/EuropeanSocialists/comments/i8cf4z/nazi_roots_of_symbols_of_the_belarusian_opposition/), [2](https://thegrayzone.com/2021/05/26/belarus-roman-protasevich-plane-nazis-ukraine/), [3](https://www.rt.com/russia/525032-protasevich-arrest-neo-nazi-links/)
+- [The Fort Dietrich virus](https://twitter.com/ProPeace97/status/1420657562618318850)
