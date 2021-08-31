@@ -213,6 +213,7 @@
 - [Why Sanders is not a socialist - Anticonquista ](https://www.youtube.com/watch?v=VbcrJT485r8)
 - [Paying one half of the poor to kill the other half: Why Marxists should not support Sanders.](https://www.reddit.com/r/communism/comments/f7g3dj/paying_one_half_of_the_poor_to_kill_the_other/)
 - [The propaganda multiplier: How the wests propaganda machine functions.](https://swprs.org/the-propaganda-multiplier/)
+- [On "brainwashing"](https://redsails.org/brainwashing/)
 
 ## Pacifism and Violence
 
@@ -324,7 +325,7 @@
 
 - [Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/), [2](https://www.reddit.com/r/me_irl/comments/cccf31/meirl/etnbaxx/)
 - [What is liberalism? (Olly from Philosophy Tube)](https://www.youtube.com/watch?v=VlLgvSduugI)
-- [What about free speech? What about Antifa / Anti-Fascism?](https://www.youtube.com/watch?v=bgwS_FMZ3nQ&t=2398s)
+- [What about free speech?](https://www.reddit.com/r/communism101/comments/c9ee36/comment/et0a5tc/)
   - [How do communists feel about free speech? Are they okay with suppression of free speech in places like China?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/et0a5tc/)
   - [What does free speech really mean?](https://www.reddit.com/r/communism101/comments/8onmz2/free_speech_under_communism/)
   - [What are the different types of free speech?](https://www.reddit.com/r/socialism/comments/4a44se/a_short_history_of_liberalism_and_free_speech/d0xbncx/)
@@ -518,8 +519,6 @@
 
 ### Is China State Capitalist?
 
-*Much credit to /u/bayarea415*
-
 * The backbone of the economy is [state ownership and socialist planning](https://lemmygrad.ml/pictrs/image/1NSG54IaEm.png?format=webp). [24 / 25 of the top revenue companies are state-owned and planned.](https://www.reddit.com/r/communism101/comments/8hdbib/how_is_china_communist_if_it_has_a_ton_of_private/dyj082s/) [70% of the top 500 companies are State-owned](https://chinapower.csis.org/chinese-companies-global-500/). [1](https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission#Central_SOEs), [2](https://en.wikipedia.org/wiki/List_of_largest_Chinese_companies) The largest bank, construction, electricity, and energy companies in the world, are CPC controlled entities, subject to the [5 year plans laid out by the central committee.](https://news.cgtn.com/news/2020-10-29/19th-CPC-Central-Committee-concludes-fifth-plenary-session-UZ8ZC4kHhm/index.html)
 * [Workplace democracy in action in the CPC.](https://threadreaderapp.com/thread/1043159032935006208.html)
 * [Is modern day china communist? Is it staying true to communist values?](https://www.reddit.com/r/communism101/comments/91liw2/how_is_china_staying_true_to_communist_values/e2z3kzu/)
@@ -527,6 +526,7 @@
 * [Is the CPC committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
 * [The Long Game and Its Contradictions](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4). [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoali1j-mai9MtggjA-Vzc4x)
 * [The myth of Chinese state capitalism. Did Deng really betray Chinese socialism?](http://www.greanvillepost.com/2015/08/20/the-myth-of-chinese-capitalism-2/)
+* [Tsinghua University- Is Socialism with Chinese Characteristics real socialism, or is it state Capitalism?](https://www.youtube.com/watch?v=62mvMWJHt8g)
 * [Do capitalists control the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
 * [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
 * [Domenico Losurdo - is China state capitalist?](https://redsails.org/flight-from-history/#the-peoples-republic-of-china-and-the-historical-analysis-of-socialism)
@@ -623,6 +623,7 @@
 - [China’s Social Credit System, and how it isn't actually Black Mirror and how you should stop using facile pop cultural references to demonize countries you haven't bothered to understand.](https://mobile.twitter.com/isgoodrum/status/975536363364696064?lang=en) 
 - [Nathan Rich - the US is lying about Huawei 5g.](https://www.youtube.com/watch?v=IfxfdHJ3k9Y)
 - [numuves - How the US dominates tech](https://www.youtube.com/watch?v=EgzB4_Zw3RE)
+- [On the great firewall, and china not allowing US taech companies. ](https://mobile.twitter.com/Mango_Press_/status/1423263749302067202)
 
 ### What's going on with the Uyghurs?
 
@@ -1246,6 +1247,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - Calls people ["Mentally ill crybabies"](https://i.imgur.com/T0RnOCC.jpg), "Woke-Scolds", and "Simps".
 - ["US geopolitical power is important to me personally, because I'm not ready to lose that to China"](https://twitter.com/AlMuntherO_O/status/1260679840698634242?s=20). *got removed*
 - [Vaush goes full neocon - "The US shouldn't pull out of the middle east, or else chaos would ensue, and these countries would become like Cambodia [which the USA bombed and overthrew Sihanouk - Ed]. Then they'd become chinese vassal states"](https://streamable.com/kfzaxj).
+- [Says its a mistake for the US military to leave Afghanistan. Calls the 2.7 trillions dollars spent, and hundreds of thousands of afghan lives lost, "relatively cheap."](https://twitter.com/AndeanComintern/status/1427377366926508036?s=20)
 - [Is against decolonization.](https://twitter.com/trikstr_/status/1280053214117793792)  "We're not going to fkn leave America, white people are staying... we're not gonna give something back to native Americans... the best way forward is to integrate our communities". Vaush responds to a native person talking about indigenous movements and rights by saying: ["I'll listen to the scientists."](https://twitter.com/guajirx/status/1280314035217588224?s=21)
 - [Vaush talks down to a Korean person, saying that he hates Korean people, and doesn't know anything about them.](https://twitter.com/aboIishamerica/status/1376891876222107653?s=20)
 - [Vaush calls Korea, "a festering shithole", and says the North Koreans "got dabbed on", referring to the 4-5 Million deaths the US inflicted.](https://twitter.com/NatalieRevolts/status/1377327842313265154?s=20)
@@ -1301,3 +1303,4 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Is signal secure? Yasha Levine](https://yasha.substack.com/p/signal-is-a-government-op-85e)
 - Belarus: [1](https://np.reddit.com/r/EuropeanSocialists/comments/i8cf4z/nazi_roots_of_symbols_of_the_belarusian_opposition/), [2](https://thegrayzone.com/2021/05/26/belarus-roman-protasevich-plane-nazis-ukraine/), [3](https://www.rt.com/russia/525032-protasevich-arrest-neo-nazi-links/)
 - [The Fort Dietrich virus](https://twitter.com/ProPeace97/status/1420657562618318850)
+- [Cory booker](https://twitter.com/Remroum/status/1425296761820786688?s=20)
