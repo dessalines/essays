@@ -1,4 +1,4 @@
-# Mandarin Guide
+# Mandarin Study Plan
 
 ## Apps
 

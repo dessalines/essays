@@ -596,6 +596,14 @@
 - [Nato's new enemy: the CPC.](https://www.rt.com/news/473935-pompeo-nato-china-communist/)
 - [The western media's China hysteria.](https://caitlinjohnstone.com/2020/04/20/msm-china-hysteria-gets-way-crazier-and-dumber/)
 
+### Is China anti-LGBT / Homophobic ?
+
+- [CGTN: Jin Xing: Transgender woman talks on life challenges faced in China, guts to correct them](https://www.youtube.com/watch?v=p-OlO8QZ70s)
+- [CGTN: Gay Leap Forward: LGBT in China](https://www.youtube.com/watch?v=doAh4ZhGhsY)
+- [AsianBoss: Chinese React To Social Media Ban On Gay Content](https://www.youtube.com/watch?v=sTzgE1nvxZs)
+- [Is it safe to be trans in China?](https://twitter.com/SeraJadeAtPSA/status/1433816613309014016)
+- [What about the ban on gay / effeminate men on TV?](https://twitter.com/Mango_Press_/status/1433821330315653125). [2](https://www.globaltimes.cn/page/202109/1233146.shtml) [3](https://chinadigitaltimes.net/2021/08/translation-everyone-can-sense-that-a-profound-transformation-is-underway/), [4](https://www.reddit.com/r/InformedTankie/comments/phbsea/this_recent_essay_is_circulating_widely_all_over/)
+
 ### What about the Hong Kong protests?
 
 - [Megathread #1](https://www.reddit.com/r/communism/comments/cpm5q1/we_need_a_serious_discussion_on_the_overwhelming/), [#2](https://bitbucket.org/TheCrypticMan/hong-kong-protests/wiki/2019%20attempted%20'Black%20Revolution')

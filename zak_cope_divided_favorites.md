@@ -79,7 +79,9 @@ In 1933, W.E.B. Du Bois characterized the split within the global working class 
 
 ## ILO statistics
 
-Just how much more are imperial core workers making? As of 2012, according to the ILO, **11x more.**
+Just how much more are imperial core workers making? As of 2007, according to the ILO, **11x more.**
+
+If you make more than PPP $1.50 / hour, or ~$250 / month, then you are in the minority of the world's workers.
 
 ---
 
