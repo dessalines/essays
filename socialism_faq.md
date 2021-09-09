@@ -223,6 +223,7 @@
 - "Can the hungry go on a hunger strike? Non-violence is a piece of theatre. You need an audience. What can you do when you have no audience? People have the right to resist annihilation." - Arundhati Roy.
 - [What is imperialism?](https://www.reddit.com/r/capitalism_in_decay/comments/cjp4yu/a_medium_length_eli15_answer_to_the_question_what/)
 - [The CIA, Gene sharp, and it's pacifist color revolution regime change tactics. ](https://web.archive.org/web/20130503221026/http://www.dailycensored.com/the-cia-and-nonviolent-resistance-3/)
+- [Regime Change Agent: Gene Sharp's liberal non-violence.](https://nonsite.org/change-agent-gene-sharps-neoliberal-nonviolence-part-one/)
 - [Was the civil rights struggle in the US really nonviolent?](http://mshistorynow.mdah.state.ms.us/articles/62/the-civil-rights-movement-in-mississippi-on-violence-and-nonviolence) [Malcolm X - message to the grassroots. ](https://www.youtube.com/watch?v=Ku2JzolPt50)
     - [FBI cointel directives on "nonviolent" groups.](https://herb.ashp.cuny.edu/items/show/814)
 - [Is a state really necessary to transition into communism?](https://www.reddit.com/r/communism101/comments/f0l14l/why_is_a_state_necessary_to_transition_into/)
@@ -536,7 +537,7 @@
 * [China pushing forward Marxist training in colleges, attracts 1M students.](http://www.globaltimes.cn/content/988795.shtml)
 * [China tells the US that it has no plans to weaken the role of its State-Owned-Enterprises, one of the US's main demands in the trade war. "Beijing plans to make the state economy stronger, bigger, and better."](https://www.scmp.com/economy/china-economy/article/3038993/china-wont-give-its-state-led-economic-model-top-trade?fbclid=IwAR2ys8_Y_6Nxq2x__BM4SoKdR63it7X_JRy1XJdkLw4QrK0VQ77mXYyrcks)
 * [A China misinformation Megathread.](https://old.reddit.com/r/communism/comments/c2b7ma/china_megathread_everything_a_leftist_must_know/)
- 
+
 ### Is China a Democracy?
 
 * [Is China a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
