@@ -52,3 +52,4 @@
 - [Walter Rodney - How Europe underdeveloped Africa](magnet:?xt=urn:btih:C8EA24A6B93F427D17585CBDE9F31EE2F5ACF2EB&dn=Walter+Rodney+-+How+Europe+Underdeveloped+Africa+%5Baudiobook%5D+audible)
 - [Roxanne Dunbar-Ortiz - An indigenous peoples history of the US. ](magnet:?xt=urn:btih:1ae24bda86bd23da6edad32568ad5ff574663f88&dn=Roxanne%20Dunbar-Ortiz%20-%20An%20Indigenous%20Peoples'%20History%20of%20the%20United%20States.mp3)
 - [Autobiography of Malcolm X - as told to Alex Haley](magnet:?xt=urn:btih:4e1ba39a81f987fddf7e6abf9e49e2a0c8490168&dn=Malcolm X - The Autobiography of Malcolm X)
+- [Daniel Immerwahr - How to hide an empire.](magnet:?xt=urn:btih:f9a1c6d9302b2a0de71ebe40eedf74ec0c3dbfff&dn=How%20to%20Hide%20an%20Empire%20by%20Daniel%20Immerwahr)

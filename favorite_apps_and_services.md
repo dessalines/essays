@@ -92,13 +92,15 @@
 ## Chat / Communication
 
 - Use Matrix / [Element](https://element.io/).
+- Use [Briar](https://briarproject.org/) for extreme security.
 - Use [Thunderbird](https://www.thunderbird.net/en-US/) for email, e2ee with pgp if possible. 
+- Don't use Signal. [1](https://archive.is/Rz6Qa), [2](https://www.androidpolice.com/2021/04/06/it-looks-like-signal-isnt-as-open-source-as-you-thought-it-was-anymore/), [3](https://www.privacyguides.org/providers/#kdl), [4](https://github.com/privacytools/privacytools.io/issues/779), [5](https://lemmygrad.ml/pictrs/image/n9o9bNI6gp.jpg), [6](https://en.m.wikipedia.org/wiki/Open_Technology_Fund), [6](https://drewdevault.com/2018/08/08/Signal.html), [7](https://lemmy.ml/pictrs/image/RujWoC4OHc.jpg)
 
 ## Social Media
 
+- Reddit : [Lemmy (I'm a dev)](https://github.com/LemmyNet/lemmy), [Lobste.rs](https://github.com/lobsters/lobsters).
 - Twitter alternative : [Pleroma](https://pleroma.social/), [Mastodon](https://mastodon.social/)
 - Facebook : [Friendica](https://friendi.ca/)
-- Reddit : [Lemmy (I'm a dev)](https://github.com/LemmyNet/lemmy), [Lobste.rs](https://github.com/lobsters/lobsters).
 - Medium : [Plume](https://github.com/Plume-org/Plume), [WriteFreely](https://github.com/writeas/writefreely)
 - YouTube : Torrents, or [Peertube](https://github.com/Chocobozzz/PeerTube). 
 - Instagram : [Pixelfed](https://pixelfed.org/)

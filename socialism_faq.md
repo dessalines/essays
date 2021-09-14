@@ -988,6 +988,7 @@
 - After his death AOC Tweeted to commemorate John McCain, saying his [“legacy represents an unparalleled example of human decency.”](https://twitter.com/AOC/status/1033538876370046977)
 - [Believes that Trump "betrays" US values.](https://i.imgur.com/H61toBx.png)
 - [Despite her curated image as a New York bartender, she only bartended for 6 months, and worked primarily for a startup incubator called Brooklyn Avenue Press.](https://www.reddit.com/r/GenZedong/comments/mho3dm/aoc_was_at_a_startup_incubator_in_2011_where_she/) [2](https://www.inc.com/zoe-henry/alexandria-ocasio-cortez-surprising-entrepreneurial-roots-run-for-congress.html)
+- [Wore a "tax the rich" dress at the 2021 Met Gala in New York city (a fundraiser held by New York elites), while protesters were arrested and beaten outside by police.](https://www.yahoo.com/lifestyle/alexandria-ocasio-cortez-met-gala-tax-the-rich-003540608.html)
 - [Claims that socialist theory is only for priviledged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
 
 
