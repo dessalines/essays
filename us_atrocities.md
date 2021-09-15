@@ -20,6 +20,7 @@
   * [LGBTQ People](#lgbtq-people)
   * [Women](#women)
   * [Workers and the Poor](#workers-and-the-poor)
+  * [Children](#children)
   * [Prisoners](#prisoners)
   * [Religious minorities](#religious-minorities)
   * [Pervasive](#pervasive)

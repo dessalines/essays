@@ -39,6 +39,7 @@
     + [Is China a Democracy?](#is-china-a-democracy)
     + [Workers rights](#workers-rights)
     + [Is China Imperialist?](#is-china-imperialist)
+    + [Is China anti-LGBT / Homophobic ?](#is-china-anti-lgbt--homophobic-)
     + [What about the Hong Kong protests?](#what-about-the-hong-kong-protests)
     + [What about China spying on its own people?](#what-about-china-spying-on-its-own-people)
     + [What's going on with the Uyghurs?](#whats-going-on-with-the-uyghurs)
