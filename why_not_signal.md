@@ -92,7 +92,7 @@ Signal's use luckily never caught on by the general public of China ( or the Hon
 
 However this is no case of [blowback](https://www.opentech.fund/about/values-principles/), [Marlinspike's confused and useful idiot politics aside](https://lemmygrad.ml/pictrs/image/n9o9bNI6gp.jpg); Signal's other deficiencies mean that there are less impediments to US government surveillance over it than previously thought, and make its claims to being "secure", questionable. 
 
-As the above article states, the [OTF tried to do damage control on Signal's behalf,](https://archive.is/Rz6Qa) after a few articles critical of it were written, in the hope that Signal would maintain good relations with its open source supporters, and remain a viable "privacy-oriented" alternative. Clearly the US government was interested in Signal's continued use and expansion.
+As the above article states, after Yasha Levine wrote an article exposing signal's funding sources, the [RFA tried to do damage control on Signal's behalf,](https://archive.is/Rz6Qa) in the hope that Signal would maintain good relations with its open source supporters, and remain a viable "privacy-oriented" alternative. Clearly the US government was interested in Signal's continued use and expansion.
 
 The reason the US government hasn't tried to block or hinder Signal, *is because it's satisfied with the amount of information Signal can provide to it.*
 
