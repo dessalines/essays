@@ -35,22 +35,22 @@
   - Use [AirVPN](https://airvpn.org/), [Mullvad](https://mullvad.net/), [NordVPN](https://nordvpn.com/)
   - Use [qbittorrent](https://www.qbittorrent.org/), [deluge](https://www.deluge-torrent.org/), or [transmission](https://transmissionbt.com/) for PC, [LibreTorrent](https://github.com/proninyaroslav/libretorrent) for android.
 - Use [MPV](https://mpv.io/) or [VLC](https://www.videolan.org/vlc/download-windows.html), open source media players to play media.
-- Use [Jellyfin](https://github.com/jellyfin/jellyfin) or SFTP for streaming to other devices.
+- Use [Jellyfin](https://github.com/jellyfin/jellyfin) as a home media server.
 - Use [Navidrome](https://github.com/deluan/navidrome) for a self-hosted music server, and [DSub](https://github.com/daneren2005/Subsonic) for an android client.
 - Instead of centralized, hosted youtube alternatives with upload limits, use torrents / torrent sites. 
 
 ## Documents and Coding
 
-- Install [Syncthing](https://syncthing.net/), and put all your documents in a synced folder. [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android) for Android.
-- Write all documents and notes in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-  - Use [Typora](https://typora.io/), [Mark Text](https://marktext.github.io/website/), or vim as markdown editors / notes. 
+- Install [Syncthing](https://syncthing.net/), and put all your documents in a synced folder. Use [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android) for Android.
+- Write all documents and notes in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+  - Use [Typora](https://typora.io/), [MarkText](https://marktext.github.io/website/), or vim as markdown editors / notes. 
 - Use vim with [vimrc](https://github.com/amix/vimrc) and [coc.nvim](https://github.com/neoclide/coc.nvim) for code.
   - Do not use vscode, it's [difficult to impossible to turn off keylogging](https://stackoverflow.com/questions/40451596/visual-studio-code-still-accessing-internet-after-update-and-telemetry-was-disab). If you must, use [VSCodium](https://github.com/VSCodium/vscodium#why-does-this-exist), which removes the built-in telemetry.
 - Spreadsheets in [Libreoffice](https://www.libreoffice.org/).
 
 ### Hosting
 
-- [Codeberg.org](https://codeberg.org) is a good shared host.
+- [Codeberg.org](https://codeberg.org) is a good shared code host.
 - Otherwise, self host a [Gitea](https://gitea.io/) instance.
 
 ## Tasks / Todos
@@ -83,7 +83,7 @@
 ## Mobile keyboard
 
 - Use a secure keyboard on android if you don't want your passwords stolen by google.
-- [Florisboard](https://github.com/florisboard/florisboard), [MessagEase](https://play.google.com/store/apps/details?id=com.exideas.mekb&hl=en_US&gl=US), [OpenBoard](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/), or [AnySoftKey](https://anysoftkeyboard.github.io/) work.
+- [Florisboard](https://github.com/florisboard/florisboard), [MessageEase](https://play.google.com/store/apps/details?id=com.exideas.mekb&hl=en_US&gl=US), [OpenBoard](https://f-droid.org/en/packages/org.dslul.openboard.inputmethod.latin/), or [AnySoftKey](https://anysoftkeyboard.github.io/) work.
 
 ## Calendars / Contacts
 
