@@ -27,8 +27,10 @@
   * [Good Alternatives](#good-alternatives)
     + [Matrix](#matrix)
       - [Caveats of federation: Metadata leaking](#caveats-of-federation-metadata-leaking)
-    + [Briar](#briar)
+    + [XMPP](#xmpp)
       - [Caveats](#caveats)
+    + [Briar](#briar)
+      - [Caveats](#caveats-1)
     + [Jitsi](#jitsi)
   * [Conclusions](#conclusions)
 
@@ -112,7 +114,7 @@ Signal also interestingly **isn't self-hostable**: there's no way to run your ow
 
 This means that all of Signal's data is centralized and controlled **by a single entity**: a giant and easy target for US surveillance.
 
-The centralization of Signal's data, means that it most likely has been issued an NSL letter, along with every other centralized messaging company domiciled in the US. While it's impossible for us to know for certain, its also illegal for the founders to disclose that. For a threat analysis, we should assume the worst, especially for such a popular app.
+The centralization of sSignal's data, means that it most likely has been issued an NSL letter, along with every other centralized messaging company domiciled in the US. While it's impossible for us to know for certain, its also illegal for the founders to disclose that. For a threat analysis, we should assume the worst, especially for such a popular app.
 
 This could account for many Signal developers' characterization of [Marlinspike as being paranoid, and a control-freak](https://archive.is/NdCxm) when it comes to some of Signal's administration. Marlinspike could face real prison time if this information were *even accidentally* made public.
 
@@ -193,7 +195,7 @@ Other disqualified alternatives include US domiciled companies or those with cen
 
 Email is an archaic protocol that [was not designed with encryption or security in mind.](https://news.ycombinator.com/item?id=16088386) Even supposedly ["secure" email providers](https://www.theregister.com/2021/09/07/protonmail_hands_user_ip_address_police/) have been found time and again to be insecure.
 
-Of the criteria for messaging apps above, Signal only scores a 1.5 / 5. Most of the apps in this list score a 0 / 5.
+Of the criteria for messaging apps above, signal only scores a 1.5 / 5. Most of the apps in this list score a 0 / 5.
 
 ## Good Alternatives
 
@@ -219,7 +221,7 @@ To avoid this, you can either disable federation, or make sure that your users s
 
 [XMPP](https://xmpp.org/) is an open standard for messages, that's been around since 1999. It is open source, federated, and has apps for most platforms, such as [Conversations for Android](https://conversations.im/), or [Gajim for desktop.](https://gajim.org)
 
-### Caveats
+#### Caveats
 
 XMPP unfortunately suffers from fragmentation, as not all of its clients implement its extension proposals ( called XEPs ), or its E2EE extensions equally.
 
