@@ -114,7 +114,7 @@ Signal also interestingly **isn't self-hostable**: there's no way to run your ow
 
 This means that all of Signal's data is centralized and controlled **by a single entity**: a giant and easy target for US surveillance.
 
-The centralization of sSignal's data, means that it most likely has been issued an NSL letter, along with every other centralized messaging company domiciled in the US. While it's impossible for us to know for certain, its also illegal for the founders to disclose that. For a threat analysis, we should assume the worst, especially for such a popular app.
+The centralization of Signal's data, means that it most likely has been issued an NSL letter, along with every other centralized messaging company domiciled in the US. While it's impossible for us to know for certain, its also illegal for the founders to disclose that. For a threat analysis, we should assume the worst, especially for such a popular app.
 
 This could account for many Signal developers' characterization of [Marlinspike as being paranoid, and a control-freak](https://archive.is/NdCxm) when it comes to some of Signal's administration. Marlinspike could face real prison time if this information were *even accidentally* made public.
 
