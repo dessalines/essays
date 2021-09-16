@@ -9,9 +9,9 @@
   * [Enter Signal](#enter-signal)
   * [What's wrong with Signal?](#whats-wrong-with-signal)
     + [CIA Funding](#cia-funding)
-      - [CIA -> RFA -> OTF -> Signal](#cia---rfa---otf---signal)
+      - [CIA → RFA → OTF → Signal](#cia-%E2%86%92-rfa-%E2%86%92-otf-%E2%86%92-signal)
     + [A Single, Centralized, US-based service](#a-single-centralized-us-based-service)
-      - [National Security Letters ( NSLs )](#national-security-letters--nsls-)
+      - [National Security Letters (NSLs)](#national-security-letters-nsls)
     + [Phone # Identifiers](#phone-%23-identifiers)
     + [Social network graphs](#social-network-graphs)
     + [Abandonment of Open source](#abandonment-of-open-source)
@@ -42,7 +42,7 @@ About me: While I'm no cryptography expert, I'm a software developer with 10+ ye
 
 ## The Problem
 
-After the [global surveillance disclosures of 2013](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)), finding a secure messaging platform to replace text messages became an imperative for all activists. It was found that US, Canadian, UK, Australian, and New Zealand intelligence agencies ( the ["Five Eyes"](https://en.wikipedia.org/wiki/Five_Eyes) ), along with US tech giants like Facebook, Apple, Google, Microsoft, were collecting and forwarding email, text, voice, and video chats to governments, **without any warrant required.** 
+After the [global surveillance disclosures of 2013](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)), finding a secure messaging platform to replace text messages became an imperative for all activists. It was found that US, Canadian, UK, Australian, and New Zealand intelligence agencies (the ["Five Eyes"](https://en.wikipedia.org/wiki/Five_Eyes)), along with US tech giants like Facebook, Apple, Google, and Microsoft, were collecting and forwarding email, text, voice, and video chats to governments, **without any warrant required.** 
 
 Western governments created a worldwide system of surveillance that *even their own citizens and allies* could seemingly not escape from. 
 
@@ -50,11 +50,11 @@ It was also long known that communications within walled gardens like Facebook o
 
 ## Enter Signal
 
-[Signal](https://signal.org/en/) became one of the first platforms to develop and use an end-to-end-encryption ( E2EE ) system and open standard, which many other platforms adopted or modified for their own use.
+[Signal](https://signal.org/en/) became one of the first platforms to develop and use an end-to-end-encryption (E2EE) system and open standard, which many other platforms adopted or modified for their own use.
 
 It also became widely popular for integrating seemlessly with your existing contact list and message history. Its features include voice calls and messages, attachments, replies, and group chats.
 
-Over the years, its been increasingly used by activists, journalists, and politicians alike, and endorsed by western privacy advocates like [Edward Snowden](https://www.indiatoday.in/technology/news/story/how-secure-is-signal-it-s-good-enough-for-edward-snowden-so-good-enough-for-you-1757596-2021-01-10), and [Bruce Schneier](https://www.schneier.com/blog/archives/2016/12/how_signal_is_e.html). It also has several questionable endorsements and users, such as Jack Dorsey ( Twitter's founder ), and [Elon Musk](https://www.theverge.com/2021/1/7/22218989/signal-new-signups-whatsapp-facebook-privacy-controversy-elon-musk).
+Over the years, its been increasingly used by activists, journalists, and politicians alike, and endorsed by western privacy advocates like [Edward Snowden](https://www.indiatoday.in/technology/news/story/how-secure-is-signal-it-s-good-enough-for-edward-snowden-so-good-enough-for-you-1757596-2021-01-10), and [Bruce Schneier](https://www.schneier.com/blog/archives/2016/12/how_signal_is_e.html). It also has several questionable endorsements and users, such as Jack Dorsey (Twitter's founder), and [Elon Musk](https://www.theverge.com/2021/1/7/22218989/signal-new-signups-whatsapp-facebook-privacy-controversy-elon-musk).
 
 Until a few years ago, it was seen as an underdog, and the best secure alternative to the ["Big Five"](https://growthrocks.com/blog/big-five-tech-companies-acquisitions/) US tech giants. Its history and deficiencies, which were always out in the open, and which I'll get into below, were overlooked due to its underdog status in the tech world, its courting of the open source community, and its colorful anarchist founder, [Moxie Marlinspike.](https://www.wired.com/2016/07/meet-moxie-marlinspike-anarchist-bringing-encryption-us/)
 
@@ -62,15 +62,15 @@ In January 2021, after WhatsApp, the most popular messaging app in the world, be
 
 Signal's exploding popularity among messaging apps, has lead many activists to re-open signal's case, and consider why a "secure" yet popular platform has garnered little to no response from US government officials. 
 
-As it turns out, the US government was ( and possibly remains ) itself a primary funder of Signal.
+As it turns out, the US government was (and possibly remains) itself a primary funder of Signal.
 
 ## What's wrong with Signal?
 
 ### CIA Funding
 
-#### CIA -> RFA -> OTF -> Signal
+#### CIA → RFA → OTF → Signal
 
-[While this article by Yasha Levine gets into the details](https://archive.is/Rz6Qa), it is no secret that the original funder of [Open Whisper Systems](https://en.wikipedia.org/wiki/Open_Whisper_Systems) ( the previous name for signal's development team ), was the [Open Technology Fund](https://en.wikipedia.org/wiki/Open_Technology_Fund): itself publicly listed as a subsidiary of [Radio Free Asia](https://en.wikipedia.org/wiki/Radio_Free_Asia), a US state-run organization whose main goal ( along with the other "Radio Free" incarnations such as Radio Free Europe, or Free Cuba Radio ) is regime change for those Asian governments who don't align with the US's foreign policy interests.
+[While this article by Yasha Levine gets into the details](https://archive.is/Rz6Qa), it is no secret that the original funder of [Open Whisper Systems](https://en.wikipedia.org/wiki/Open_Whisper_Systems) (the previous name for signal's development team), was the [Open Technology Fund](https://en.wikipedia.org/wiki/Open_Technology_Fund): itself publicly listed as a subsidiary of [Radio Free Asia](https://en.wikipedia.org/wiki/Radio_Free_Asia), a US state-run organization whose main goal (along with the other "Radio Free" incarnations such as Radio Free Europe, or Free Cuba Radio) is regime change for those Asian governments who don't align with the US's foreign policy interests.
 
 The Radio Free agencies underwent a public re-branding in the early 1990s, but [they are in effect the same CIA misinformation organizations from the 1950s:](https://www.nytimes.com/1977/12/26/archives/worldwide-propaganda-network-built-by-the-cia-a-worldwide-network.html)
 
@@ -78,7 +78,7 @@ The Radio Free agencies underwent a public re-branding in the early 1990s, but [
 >
 > It was only after Radio Free Asia's transmitters were operating, according to sources familiar with the case, that the C.I.A. realized that there were almost no radio receivers in private hands in mainland China. An emergency plan was drawn up. Balloons, holding small radios tuned to Radio Free Asia's frequency, were lofted toward the mainland from the island of Taiwan, where the Chinese Nationalists had fled after the Communist takeover of the mainland in 1949. The plan was abandoned when the balloons were blown back to Taiwan across the Formosa Strait.
 
-What Allen Weinstein, one of the founders of the National Endowment for Democracy ( NED ), another US "human rights" regime change org said of his organization applies equally to the Open Technology fund: “A lot of what we do today was done covertly 25 years ago by the CIA.” 
+What Allen Weinstein, one of the founders of the National Endowment for Democracy (NED), another US "human rights" regime change org said of his organization applies equally to the Open Technology fund: “A lot of what we do today was done covertly 25 years ago by the CIA.” 
 
 The fund is designated to: ["support open technologies and communities that increase free expression, circumvent censorship, and obstruct repressive surveillance as a way to promote human rights and open societies."](https://www.opentech.fund/about/values-principles/) 
 
@@ -90,9 +90,9 @@ Signal could very well be another Crypto AG-style [honeypot](https://en.wikipedi
 
 ---
 
-Signal's use luckily never caught on by the general public of China ( or the Hong Kong Administrative region ), whose government prefers autonomy, rather than letting US tech control its communication platforms, as most of the rest of the world naively allows ( For example, India's most popular social media apps, are Facebook and Youtube, meaning that US surveillance giants own and control the data of a country much larger than their own ). Signal instead became used by US and western activists, and due to the contradictions of surveillance capitalism, also now its general populace.
+Signal's use luckily never caught on by the general public of China (or the Hong Kong Administrative region), whose government prefers autonomy, rather than letting US tech control its communication platforms, as most of the rest of the world naively allows (For example, India's most popular social media apps, are Facebook and Youtube, meaning that US surveillance giants own and control the data of a country much larger than their own). Signal instead became used by US and western activists, and due to the contradictions of surveillance capitalism, also now its general populace.
 
-However this is no case of [blowback](https://www.opentech.fund/about/values-principles/), [Marlinspike's confused and useful idiot politics aside](https://lemmygrad.ml/pictrs/image/n9o9bNI6gp.jpg); Signal's other deficiencies mean that there are less impediments to US government surveillance over it than previously thought, and make its claims to being "secure", questionable. 
+However this is no case of [blowback](https://en.wikipedia.org/wiki/Blowback_(intelligence)), [Marlinspike's confused and useful idiot politics aside](https://lemmygrad.ml/pictrs/image/n9o9bNI6gp.jpg); Signal's other deficiencies mean that there are less impediments to US government surveillance over it than previously thought, and make its claims to being "secure", questionable. 
 
 As the above article states, after Yasha Levine wrote an article exposing signal's funding sources, the [RFA tried to do damage control on Signal's behalf,](https://archive.is/Rz6Qa) in the hope that Signal would maintain good relations with its open source supporters, and remain a viable "privacy-oriented" alternative. Libby Liu, president of Radio Free Asia stated:
 
@@ -104,7 +104,7 @@ The reason the US government hasn't tried to block or hinder Signal, *is because
 
 ### A Single, Centralized, US-based service
 
-#### National Security Letters ( NSLs )
+#### National Security Letters (NSLs)
 
 The US has an [interesting law](https://en.wikipedia.org/wiki/National_security_letter) that applies to *any US company* operating within its borders: it is **illegal to tell your users that the the US government has asked your company to spy on their behalf.** This is called a [key disclosure law](https://www.privacyguides.org/providers/#kdl), and the US's version of it, called [National Security Letters](https://en.wikipedia.org/wiki/National_security_letter), underwent an expansion in with the PATRIOT act.
 
@@ -139,7 +139,7 @@ Signal's E2EE protocol means that, most likely, message _content_ between person
 Signals database, which we must assume is compromised due to its centralized and US domiciled nature, has a few important pieces of data;
 
 - Message dates and times
-- Message senders and recipients ( via phone number identifiers )
+- Message senders and recipients (via phone number identifiers)
 
 From these 2 pieces of information, its possible to build social graphs: **who talked to who, and when they did it.** Also, who's in a group chat with who else.
 
@@ -179,9 +179,9 @@ Having full control over your data is extremely important, especially for activi
 
 ### Federated
 
-The best way to describe federation, is to think of email. Many people can sign up on different email services ( Gmail, hotmail, etc ), yet can still email each other. In the same way, a communications platform should be able to talk with other people running the same software elsewhere.
+The best way to describe federation, is to think of email. Many people can sign up on different email services (Gmail, hotmail, etc), yet can still email each other. In the same way, a communications platform should be able to talk with other people running the same software elsewhere.
 
-Peer-to-peer ( P2P ) is a subset of federated, where instead of anyone being able to run a server, the server is as small as an app. These apps communicate not through servers, but directly with each other.
+Peer-to-peer (P2P) is a subset of federated, where instead of anyone being able to run a server, the server is as small as an app. These apps communicate not through servers, but directly with each other.
 
 ### No required linkable identifiers
 
@@ -207,13 +207,13 @@ The two below are my recommendations, and this is by no means exhaustive. Both o
 
 Its main client, [Element](https://element.io/), has a web app, and full-featured android and iOS apps.
 
-It has many features, including voice / video calls, voice messages, reactions, replies, and spaces ( similar to discord's or slack's collection of rooms ).
+It has many features, including voice / video calls, voice messages, reactions, replies, and spaces (similar to discord's or slack's collection of rooms).
 
 As a testament to its reliability and long-term support, Matrix is even being adopted by some large organizations, and even the [French government](https://matrix.org/blog/2018/04/26/matrix-and-riot-confirmed-as-the-basis-for-frances-secure-instant-messenger-app); It turns out even European governments want to escape the tentacles of US surveillance, and control their data.
 
 #### Caveats of federation: Metadata leaking
 
-When using federation, Matrix's room states ( containing a lot of Metadata ) get replicated and stored indefinitely on every homeserver any user connects with or connects to. While this is a feature for enabling distributed chat rooms, it comes at a serious privacy cost.
+When using federation, Matrix's room states (containing a lot of Metadata) get replicated and stored indefinitely on every homeserver any user connects with or connects to. While this is a feature for enabling distributed chat rooms, it comes at a serious privacy cost.
 
 To avoid this, you can either disable federation, or make sure that your users signed up with **no linkable identifiers** other than their user names. 
 
@@ -223,7 +223,7 @@ To avoid this, you can either disable federation, or make sure that your users s
 
 #### Caveats
 
-XMPP unfortunately suffers from fragmentation, as not all of its clients implement its extension proposals ( called XEPs ), or its E2EE extensions equally.
+XMPP unfortunately suffers from fragmentation, as not all of its clients implement its extension proposals (called XEPs), or its E2EE extensions equally.
 
 ### Briar
 
