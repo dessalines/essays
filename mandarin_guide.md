@@ -2,8 +2,8 @@
 
 ## Apps
 
-- HelloChinese
-- DuChinese
+- [HelloChinese](http://hellochinese.cc/)
+- [DuChinese](https://www.duchinese.net/)
 
 ## Listening / Watching
 

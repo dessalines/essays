@@ -108,7 +108,7 @@ The reason the US government hasn't tried to block or hinder Signal, *is because
 
 The US has an [interesting law](https://en.wikipedia.org/wiki/National_security_letter) that applies to *any US company* operating within its borders: it is **illegal to tell your users that the the US government has asked your company to spy on their behalf.** This is called a [key disclosure law](https://www.privacyguides.org/providers/#kdl), and the US's version of it, called [National Security Letters](https://en.wikipedia.org/wiki/National_security_letter), underwent an expansion in with the PATRIOT act.
 
-Companies that don't comply with this law, [such as Lavabit, are forced to shut themselves down in protest, in order to avoid prison time](https://www.youtube.com/watch?v=spW0q-g2BxU), or remain open, and funnel user communications to the US government. Signal is a US domiciled company, and must comply with this law.
+Companies that don't comply with this law, [such as Lavabit, are forced to shut themselves down in protest, in order to avoid prison time](https://www.youtube.com/watch?v=spW0q-g2BxU), or remain open, and funnel user communications to the US government. The Signal foundation is a US domiciled company, and must comply with this law.
 
 Signal also interestingly **isn't self-hostable**: there's no way to run your own signal server, and control your data. [Marlinspike ruthlessly shuts down anyone attempting to build alternate clients or servers that could communicate with the main one.](https://github.com/LibreSignal/LibreSignal/issues/37#issuecomment-217211165) [2](https://github.com/LibreSignal/LibreSignal)
 
@@ -155,7 +155,7 @@ While Signal's apps and server source code *purport* to be open source, in reali
 
 ### Bundling a Cryptocurrency
 
-Recently, [signal has been attempting to integrate a cryptocurrency called MobileCoin, into the app itself.](https://cointelegraph.com/news/signal-under-fire-over-mobilecoin-partnership) What a messaging platform has to do with an obscure cryptocurrency is a little vague; but there is probably some money driving this. Since Marlinspike doesn't allow 3rd party clients, it is impossible to avoid these types of unwanted "features".
+Recently, [signal has been attempting to integrate a cryptocurrency called MobileCoin, into the app itself.](https://cointelegraph.com/news/signal-under-fire-over-mobilecoin-partnership) What a messaging platform has to do with an obscure cryptocurrency is a little vague; but there is probably some [money driving this](https://www.coindesk.com/tech/2021/04/09/signal-founder-may-have-been-more-than-a-tech-adviser-to-mobilecoin/). This "feature" similarly [caused outrage among users.](https://www.reddit.com/r/signal/comments/mm8w44/i_shouldnt_have/) 
 
 ### Others
 
@@ -173,15 +173,15 @@ The source code for both the server, and client applications should be out in th
 
 ### Self hosted
 
-A messaging platform should be able to be run in an entirely private manner, controlled only by the person who has downloaded its software. That person should also be able to build the project from its original source code, ensuring that nothing nefarious was inserted. 
+A messaging platform should be able to be run in an **entirely private manner**, controlled only by the person who has downloaded its software. That person should also be able to build the project from its original source code, ensuring that nothing nefarious was inserted. 
 
 Having full control over your data is extremely important, especially for activists who want to avoid malicious 3rd parties.
 
-### Federated
+### Federated / Decentralized
 
-The best way to describe federation, is to think of email. Many people can sign up on different email services (Gmail, hotmail, etc), yet can still email each other. In the same way, a communications platform should be able to talk with other people running the same software elsewhere.
+The best way to describe [federation](https://networkcultures.org/unlikeus/wp-content/uploads/sites/2/2013/03/networktypes.png), is to think of email. Many people can sign up on different email services (Gmail, hotmail, etc), yet can still email each other. In the same way, a communications platform should be able to talk with other people running the same software elsewhere.
 
-Peer-to-peer (P2P) is a subset of federated, where instead of anyone being able to run a server, the server is as small as an app. These apps communicate not through servers, but directly with each other.
+Peer-to-peer (P2P, or distributed) is a subset of federated, where instead of anyone being able to run a server, the server is as small as an app. These apps communicate not through servers, but directly with each other.
 
 ### No required linkable identifiers
 
@@ -191,7 +191,7 @@ The less identifiers a database has, such as your real name, email, and phone nu
 
 The obvious offenders are those companies that have already signed up to the NSA's [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)) program. Their applications include Facebook and its messenger, Whatsapp, Instagram, Skype, Microsoft teams, Gmail, Youtube, Apple messages, and cell carrier text and voice calling.
 
-Other disqualified alternatives include US domiciled companies or those with centralized servers, including Signal, Discord, Slack, Zoom, Telegram, Snapchat, Viber, Line, Twitter, and Reddit.
+Other disqualified alternatives include US domiciled companies or those with centralized servers, including Signal, Discord, Slack, Zoom, Telegram, Threema, Snapchat, Viber, Line, Twitter, and Reddit.
 
 Email is an archaic protocol that [was not designed with encryption or security in mind.](https://news.ycombinator.com/item?id=16088386) Even supposedly ["secure" email providers](https://www.theregister.com/2021/09/07/protonmail_hands_user_ip_address_police/) have been found time and again to be insecure.
 

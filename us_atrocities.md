@@ -550,3 +550,4 @@ Notes :
 - [ ] https://www.ncbi.nlm.nih.gov/pubmed/16754432
 - [ ] http://download.people.com.cn/waiwen/eight15840920921.pdf
 - [ ] go through how to hide an empire, add puerto rico contraception testing. 18% all births were followed by sterilization
+- [ ] go through shock doctrine
