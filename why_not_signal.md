@@ -124,7 +124,7 @@ Like many of Apple's adherents who were utterly convinced of Apple's commitment 
 
 The evidence for or against the "privacy" of centralized services is **always circumstantial**, because ultimately we can never know what code the server is *actually running*, or if its been compromised by a malicious actor. The server is a black box we can't see into.
 
-Self-hosted solutions on the other hand, have much harder reproducibility requirements to pass, because the people using and running them **know what code the server is running**: they can build it from scratch using the open source code (like a recipe). They **can** test the server to be sure of its security.
+Self-hosted solutions on the other hand, have much harder reproducibility requirements to pass, because the people using and running them **know what code the server is running**: they can build it from scratch using the open source code (like a recipe). They **can** test the server to be sure of its security. As [Drew Devault said in his criticism of Signal](https://drewdevault.com/2018/08/08/Signal.html): **Truly secure systems don’t require trust**.
 
 ### Phone # Identifiers
 
