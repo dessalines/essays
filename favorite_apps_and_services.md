@@ -75,7 +75,7 @@
 ## Passwords
 
 - Use [KeePassXC](https://keepassxc.org/) for PC, [KeePassDX](https://www.keepassdx.com/) for android.
-  - Install the Firefox KeePassXC plugin.
+  - Install the [Firefox KeePassXC plugin](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/).
   - Use a long master pass phrase, with at least 10 words. 
   - Sync your password file everywhere you need using Syncthing.
 - [Bitwarden](https://bitwarden.com/) if you want to host a server. 
@@ -107,7 +107,7 @@
 
 ## Operating system
 
-- Use Linux. I like Arch Linux. 
+- Use Linux. I like [Arch Linux](https://archlinux.org/). 
 
 ## Links
 
