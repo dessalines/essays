@@ -123,7 +123,6 @@
 
 - [History and human nature.](https://github.com/dessalines/essays/blob/master/crash_course_socialism.md#history-and-human-nature)
 - [What about human nature?](http://www.reddit.com/r/communism101/comments/2yk3xl/what_about_human_nature_answer_but_add_yours_too/)
-- [Doesn't socialism go against human nature?](http://newdemocracyworld.org/culture/human_nature.html)
 - [Advertising is a cancer](http://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html)
 
 ## Schools of thought
