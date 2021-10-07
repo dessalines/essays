@@ -150,7 +150,7 @@
 * [What is Luxemburgism?](https://www.reddit.com/r/communism/comments/bzl9iu/luxemburgism/eqtbcxe/)
 * [Is the revolutionary DotP a separate material stage apart from lower phased communism?](http://www.reddit.com/r/communism101/comments/2mrkkj/is_the_revolutionary_dotp_a_separate_material/)
 * [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](https://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_stage_of_communism_or_is/)
-* [What about Left Unity? Engels letter to Bebel.](https://www.marxists.org/archive/marx/works/1873/letters/73_06_20.htm)
+* [What about Left Unity? Engels letter to Bebel.](https://www.marxists.org/archive/marx/works/1873/letters/73_06_20.htm) [2](https://www.reddit.com/r/sendinthetanks/comments/prbh1i/build_a_unired_front/hdhq26s/)
 * [What about Marxism and Empiricism? Is Marxism falsifiable?](https://www.reddit.com/r/communism101/comments/8978hb/is_marxism_falsifiable/)
 * [Hakim - On Capitalism and Corporatism](https://www.youtube.com/watch?v=luB9VUsXRs8)
 
@@ -165,6 +165,7 @@
 * [Lenin - "Left-Wing" Communism: An infantile disorder.](https://www.marxists.org/archive/lenin/works/1920/lwc/) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjob1T8DTNDG7EQaN18eSJ97m)
 * [Western Marxism's martyrdom / purity complex.](https://blackagendareport.com/western-marxism-loves-purity-and-martyrdom-not-real-revolution) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoaZIsNaAcjt87etb0A_0FWB)
 - [The CIA reads french postmodernist theory: how the CIA pushed "post-Marxist" theory to build support for imperialism.](https://thephilosophicalsalon.com/the-cia-reads-french-theory-on-the-intellectual-labor-of-dismantling-the-cultural-left/)
+- [On MLM / Gonzalo, and the shining path.](https://www.reddit.com/r/asktankies/comments/po4vo1/what_is_your_view_of_chairman_gonzalo/) [2](https://www.reddit.com/r/GenZhou/comments/pmmjni/who_was_gonzalo_and_why_is_he_so_hated/hcj7p2s/), [3](https://www.reddit.com/r/GenZhou/comments/pmipvn/on_gonzalos_babyboiling/hcj2cgm/), [4](https://socialistfight.com/2017/02/22/the-lucanamarca-massacre/)
 
 ## Did economic planning work?
 
@@ -198,6 +199,7 @@
 - [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 - [Halim Alrah - Why liberal democracies are a sham. ](https://www.youtube.com/watch?v=oYodY6o172A)
 - [What about social democracy / democratic socialism / the Nordic model? Isn't Sweden socialist?](https://www.youtube.com/watch?v=Jd03a8Pm1hs )
+- [On the unraveling of the Nordic welfare states: increasing inequality and forced austerity.](https://www.reddit.com/r/GenZhou/comments/pmtapr/does_anyone_have_works_on_the_erosion_of_the/hcmyub4/)
 - [Rainer shea - How social democrats help usher in fascism in Germany, and in the US today. ](https://rainershea612.medium.com/social-democrats-helped-usher-in-fascism-in-germany-theyre-doing-it-again-in-america-f84f71846e91)
 - [Scandinavia's covert role in western imperialism](https://www.telesurenglish.net/analysis/Scandinavias-Covert-Role-in-Western-Imperialism-20170320-0022.html)
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
@@ -215,6 +217,7 @@
 - [Paying one half of the poor to kill the other half: Why Marxists should not support Sanders.](https://www.reddit.com/r/communism/comments/f7g3dj/paying_one_half_of_the_poor_to_kill_the_other/)
 - [The propaganda multiplier: How the wests propaganda machine functions.](https://swprs.org/the-propaganda-multiplier/)
 - [On "brainwashing"](https://redsails.org/brainwashing/)
+- [Lenin on media and democracy.](https://www.reddit.com/r/GenZhou/comments/pcv7e6/capitalism_and_free_speech/hamedc0/)
 
 ## Pacifism and Violence
 
@@ -308,6 +311,15 @@
 - [What about Beyonce / Black Capitalism?](https://www.independent.co.uk/news/people/beyonces-ivy-park-sportswear-line-denies-claims-its-clothes-were-produced-by-sweatshop-workers-a7035926.html)
 - [What is the labor aristocracy?](https://www.reddit.com/r/communism101/comments/f6u5uv/what_is_defines_the_labor_aristocracy/) [2](https://www.reddit.com/r/communism/comments/gg24yh/what_is_the_labour_aristocracy_taken_from_zak/) [3](https://www.marxists.org/archive/lenin/works/1916/oct/x01.htm) [4](https://www.reddit.com/r/ABoringDystopia/comments/gh0zf8/the_ruling_class_wins_either_way/fq612jz/)
 
+## On Decolonization
+
+- Roxanne Dunbar-Ortiz - An indigenous peoples history of the US. [Audiobook](magnet:?xt=urn:btih:1ae24bda86bd23da6edad32568ad5ff574663f88&dn=Roxanne%20Dunbar-Ortiz%20-%20An%20Indigenous%20Peoples'%20History%20of%20the%20United%20States.mp3). A wonderful book on the history of the US settler colonial project.
+- Roxanne Dunbar-Ortiz - [The US is **not** a nation of immigrants.](https://bostonreview.net/race/roxanne-dunbar-not-nation-immigrants) On "multiculturalism."
+- [Nick Estes - Why decolonization must be part of any left-wing movement.](https://www.dissentmagazine.org/online_articles/booked-indigenous-resistance-is-post-apocalyptic-with-nick-estes)
+- [Nick Estes - a Red deal](https://www.jacobinmag.com/2019/08/red-deal-green-new-deal-ecosocialism-decolonization-indigenous-resistance-environment).
+- [Red Nation - Communism is on the horizon.](https://therednation.org/communism-is-the-horizon-queer-indigenous-feminism-is-the-way/)
+- [Lenin - On the right of nations to self-determination.](https://liberationschool.org/lenin-and-the-right-of-nations-to-self-determination/)
+
 ## On Guns / Firearms / Violence
 
 - [What is the socialist stance on guns?](https://www.reddit.com/r/communism101/comments/7xz4w7/does_anybody_know_what_karl_marxs_views_on_gun/)
@@ -354,7 +366,7 @@
 - [What is Socialism in one country? What's the controversy around it w/ respect to Stalin and Trotsky?](https://www.reddit.com/r/communism101/comments/dsj2wv/was_lenin_in_favour_of_socialism_in_one_country/) [2](https://www.reddit.com/r/communism101/comments/7mwac2/how_do_trotskyists_or_trotsky_himself_respond_to/) [3](https://www.reddit.com/r/communism101/comments/774lmt/can_someone_eli5_the_differences_between_stalins/) [4](https://www.reddit.com/r/communism101/comments/4yhc4y/socialism_in_one_country_please_assist_me_in_the/)
 - [What did Lenin say about socialism in one country?](https://espressostalinist.com/2012/03/11/lenin-on-socialism-in-one-country-2/)
 - [Taimur Rahman - Why I am not a Trotskyist](https://www.youtube.com/watch?v=QQ9O5UPqcOE).
-- [What is Dialectical Materialism?](https://www.reddit.com/r/Socialism_101/comments/e6iyt3/can_someone_explain_the_concept_of_dialectical/f9r4iep/)
+- [What is Dialectical Materialism?](https://www.reddit.com/r/Socialism_101/comments/e6iyt3/can_someone_explain_the_concept_of_dialectical/f9r4iep/), [2](https://dashthered.medium.com/marxism-for-normal-people-dialectical-materialism-deb5034685a4)
 - [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
 - [Chomsky's takes - A thread](https://mobile.twitter.com/RodericDay/status/1245340127968333829?s=20)
 
@@ -366,10 +378,8 @@
 
 ## On Trotskyism
 
+- [Taimur Rahman - Why I am not a Trotskyist.](https://www.youtube.com/watch?v=QQ9O5UPqcOE)
 - [Primarily to the trotskyists: Can you explain the theories of the degenerated workers state, the deformed workers state and state capitalism and can these theories co-exist in the same country?](http://www.reddit.com/r/communism101/comments/2x5m39/primarily_to_the_trotskyists_can_you_explain_the/)
-- [A critique of Trotsky?](http://www.reddit.com/r/communism101/comments/2gpuoo/a_critique_of_trotsky/)
-- [Regarding Trotsky's ‘‘Permanent revolution’’ and the two-stage theory](http://www.reddit.com/r/communism101/comments/21izu4/regarding_trotskys_permanent_revolution_and_the/)
-- [How does Lenin's theory of revolution differ from Trotsky's?](http://www.reddit.com/r/communism101/comments/16dpbv/how_does_lenins_theory_of_revolution_differ_from/)
 - [What are the main Marxist analyses of fascism? and a question regarding Trotsky's](http://www.reddit.com/r/communism101/comments/2p7ozi/what_are_the_main_marxist_analyses_of_fascism_and/)
 - [Did Stalin 'betray' the revolution? (repost of deleted question)](http://www.reddit.com/r/communism101/comments/1dp6qw/did_stalin_betray_the_revolution_repost_of/)
 - [Why was "Lenin's testament" suppressed by the Party after Lenin's death?](http://www.reddit.com/r/communism101/comments/2lfc5f/why_was_lenins_testament_suppressed_by_the_party/)
@@ -387,7 +397,7 @@
 * [What about Stalin? Didn't he kill millions? (Revleft podcast on Stalin)](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 * [Was Stalin's USSR State Capitalist?](http://www.reddit.com/r/communism101/comments/383c4i/was_stalins_ussr_state_capitalist/)
 * [Lenin on State Capitalism (The Tax in Kind)](https://www.marxists.org/archive/lenin/works/1921/apr/21.htm)
-* [What about the term tankies / stalinists? What's the meaning of the term?](https://www.reddit.com/r/communism101/comments/dm2mbz/on_tankies/) [What about the 1956 Hungarian revolt?](https://www.reddit.com/r/communism101/comments/dh6nyi/why_was_the_hungarian_uprising_crushed_by_the_ussr/), [2](https://www.reddit.com/r/communism101/comments/ht4z8a/hungarian_revolution_in_1956/), [3](https://www.reddit.com/r/GenZhou/comments/ol6h3b/im_simply_wondering_where_does_the_term_tankie/h5f3s6o/). [MI6 trained the hungarian opposition to fight soviets in the 1956 revolt.](http://archive.is/fMAzu [3](https://www.reddit.com/r/PartyofCommunistsUSA/comments/9kqkt5/anticommunist_and_antijewish_pogroms_of_hungarys/)  [4](http://www3.sympatico.ca/thidas/Hungarian-history/Exodus.html)
+* [What about the term tankies / stalinists? What's the meaning of the term?](https://www.reddit.com/r/communism101/comments/dm2mbz/on_tankies/) [What about the 1956 Hungarian revolt?](https://www.reddit.com/r/communism101/comments/dh6nyi/why_was_the_hungarian_uprising_crushed_by_the_ussr/), [2](https://www.reddit.com/r/communism101/comments/ht4z8a/hungarian_revolution_in_1956/), [3](https://www.reddit.com/r/GenZhou/comments/ol6h3b/im_simply_wondering_where_does_the_term_tankie/h5f3s6o/). [MI6 trained the hungarian opposition to fight soviets in the 1956 revolt.](http://archive.is/fMAzu) [3](https://www.reddit.com/r/PartyofCommunistsUSA/comments/9kqkt5/anticommunist_and_antijewish_pogroms_of_hungarys/)  [4](http://www3.sympatico.ca/thidas/Hungarian-history/Exodus.html), [5](https://www.reddit.com/r/GenZhou/comments/ol6h3b/im_simply_wondering_where_does_the_term_tankie/h5f3s6o/)
 * [RedSails - on "Tankies"](https://redsails.org/tankies/)
 * [Hakim - Why the USSR was socialist - A critique of left-communism.](https://www.youtube.com/watch?v=CKggZ22izDs)
 * [Did Stalin really try to resign 4 times?](https://socialistmlmusings.wordpress.com/2017/02/23/stalins-four-attempts-at-resignation/)
@@ -399,7 +409,7 @@
 * [What contributions did Stalin make to Marxism-Leninism?](http://www.reddit.com/r/communism101/comments/1ejidu/what_contributions_did_stalin_make_to/)
 * [Opinions on Defense of Stalin and Mao](http://www.reddit.com/r/communism/comments/11yp4f/opinions_on_defense_of_stalin_and_mao/)
 * [Stalin's Purges](http://www.reddit.com/r/communism/comments/qergf/stalins_purges/)
-* [Was Stalin anti-Semitic? What about the doctors plot?](https://www.reddit.com/r/communism101/comments/b2xtna/was_stalin_antisemitic/) [2](https://www.reddit.com/r/communism101/comments/grc3u1/antisemitism_in_the_ussr/fry3f52/)
+* [Was Stalin anti-Semitic? What about the doctors plot?](https://www.reddit.com/r/communism101/comments/b2xtna/was_stalin_antisemitic/) [2](https://www.reddit.com/r/communism101/comments/grc3u1/antisemitism_in_the_ussr/fry3f52/) [3](https://www.reddit.com/r/DebateCommunism/comments/pr1zpg/how_did_the_jews_fare_under_communism/hdfmhs9/)
 * [What are some legitimate criticisms of Stalin?](http://www.reddit.com/r/communism/comments/10chdq/what_are_some_legitimate_criticisms_of_stalin/)
 * [I need clarification on myths/truths of the USSR/Soviet Union.](http://www.reddit.com/r/communism101/comments/2dzicb/i_need_clarification_on_mythstruths_of_the/)
 * [I'm fascinated by the idea of communism...](http://www.reddit.com/r/communism101/comments/21s0dw/im_fascinated_by_the_idea_of_communism/)
@@ -496,8 +506,9 @@
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
 * [Was Sun Yat Sen a communist?](https://www.youtube.com/watch?v=3kvAMVX0bjE)
-* [Deng on why Mao's legacy must be upheld.](http://cpcchina.chinadaily.com.cn/fastfacts/2010-10/18/content_11425373.htm)
+* [Deng on why Mao's legacy must be upheld.](https://redsails.org/deng-and-fallaci/)
 * [Deng Xiaoping - a visionary marxist-leninist.](https://twitter.com/RodericDay/status/1353776771573948418?s=20)
+* [Deng - We will always side with the third world.](https://www.reddit.com/r/GenZedong/comments/p9d2zy/117_years_ago_a_national_hero_was_born/h9wxz32/)
 * [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](http://www.michaelparenti.org/Tibet.html) [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZjKom_Qj0jcDReaMb_r52z)
 * [Tibet, China, and the Violent reaction of a wealthy elite.](https://historicly.substack.com/p/tibet-china-and-the-violent-reaction)
 * [Mao's liberation of Tibet](https://stalinsmoustache.org/2018/09/19/maos-liberation-of-tibet/)
@@ -518,6 +529,7 @@
 * [What about the suicide nets at Foxconn?](https://www.reddit.com/r/Sino/comments/dnafal/question_suicide_nets/)
 * [Is china persecuting gay people?](https://twitter.com/isgoodrum/status/1366919923390324737)
 * [Deng Xiaoping - on the question of national minorities and Han chauvinism](https://redsails.org/the-question-of-minority-nationalities-in-the-southwest/)
+* [Did China really kill / commit infanticide on millions of girls during the 1-child policy?](https://www.washingtonpost.com/news/worldviews/wp/2016/11/30/researchers-may-have-found-many-of-chinas-30-million-missing-girls/) [2](https://www.cnn.com/2016/12/01/asia/china-missing-girls/index.html)
 
 ### Is China State Capitalist?
 
@@ -529,6 +541,8 @@
 * [The Long Game and Its Contradictions](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4). [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoali1j-mai9MtggjA-Vzc4x)
 * [The myth of Chinese state capitalism. Did Deng really betray Chinese socialism?](http://www.greanvillepost.com/2015/08/20/the-myth-of-chinese-capitalism-2/)
 * [Tsinghua University- Is Socialism with Chinese Characteristics real socialism, or is it state Capitalism?](https://www.youtube.com/watch?v=62mvMWJHt8g)
+* [Isn't China revisionist for having a capitalist sector of the economy, and working with capitalists? Why isn't it fully planned like the USSR was?](https://www.reddit.com/r/GenZhou/comments/pzcwzr/apparently_president_xi_does_not_believe_in/hf0bnv0/)
+* [Castro on why both China and Vietnam are socialist countries.](https://redsails.org/fidel-and-gawronski/)
 * [Do capitalists control the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
 * [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
 * [Domenico Losurdo - is China state capitalist?](https://redsails.org/flight-from-history/#the-peoples-republic-of-china-and-the-historical-analysis-of-socialism)
@@ -537,6 +551,7 @@
 * [50% of the economy is in the socialist public sector and directly follows the plan (40% if you ignore the agricultural sector). 20 to 30% is inside the state capitalist sector, which is the sector partially or totally owned by domestic capitalists but run by the CPC or by local workers councils. The rest is made up of the small bourgeois ownership like in the NEP.](https://chinareporting.blogspot.com/2009/11/class-nature-of-chinese-state-critique_26.html)
 * [China pushing forward Marxist training in colleges, attracts 1M students.](http://www.globaltimes.cn/content/988795.shtml)
 * [China tells the US that it has no plans to weaken the role of its State-Owned-Enterprises, one of the US's main demands in the trade war. "Beijing plans to make the state economy stronger, bigger, and better."](https://www.scmp.com/economy/china-economy/article/3038993/china-wont-give-its-state-led-economic-model-top-trade?fbclid=IwAR2ys8_Y_6Nxq2x__BM4SoKdR63it7X_JRy1XJdkLw4QrK0VQ77mXYyrcks)
+* [Unlike the US, China refuses to bail out over-leveraged property developers, and lets them go bankrupt.](https://www.reddit.com/r/Sino/comments/pnqrf7/whats_happening_with_evergrande_will_it_have_a/)
 * [A China misinformation Megathread.](https://old.reddit.com/r/communism/comments/c2b7ma/china_megathread_everything_a_leftist_must_know/)
 
 ### Is China a Democracy?
@@ -578,6 +593,7 @@
 
 - [Debunking the claim that "China is Imperialist"](https://medium.com/@rainershea612/catagorically-debunking-the-claim-that-china-is-imperialist-a9ae7b280a44)
 - [The demeanor of Chinese leaders (Xi Jinping) vs Western leaders (Nancy Pelosi) towards African nations. One of the reasons why African nations favor China instead of the West.](https://www.reddit.com/r/GenZedong/comments/kxabq5/the_demeanor_of_chinese_leaders_xi_jinping_vs/) [Full video here](https://www.youtube.com/watch?v=P5uzxV8ub9k)
+- [An African leader on the hypocrisy of those saying China is imperialist.](https://www.reddit.com/r/Sino/comments/pn5bmz/african_leader_calls_out_western_hypocrisy_when/) 
 - [Is China really imperialist? What's the difference between what Europe did to Africa, and what China is doing?](https://www.reddit.com/r/GenZedong/comments/g0lp70/people_are_saying_that_china_is_colonialist_by/fnanq5x/)
 - [Five imperialist myths about China's role in Africa.](https://liberationschool.org/five-imperialist-myths-about-chinas-role-in-africa/)
 - [Evo Morales - Why China and Russia aren't imperialist, but the US is.](https://www.youtube.com/watch?v=f-zG2eFsNoc)
@@ -909,6 +925,7 @@
 - [Roderic Day - On Chomsky](https://redsails.org/on-chomsky/)
 - [Awful chomsky takes.](https://twitter.com/RodericDay/status/1245340127968333829?s=20)
 - [Gowans - The US has produced very few anti-imperialists: Chomsky isn't among them.](https://gowans.blog/2019/11/03/the-united-states-has-produced-very-few-anti-imperialists-noam-chomsky-isnt-among-them/)
+- [“My  response to the end of Soviet tyranny was similar to my reaction to the  defeat of Hitler and Mussolini. In all cases, it is a victory for the  human spirit. It should have been particularly welcome to socialists,  since a great enemy of socialism had at last collapsed”](https://www.reddit.com/r/GenZedong/comments/pxtk9p/my_response_to_the_end_of_soviet_tyranny_was/)
 - https://archive.li/YVNk3
 - https://libcom.org/history/john-deutch-chomskys-friend-pentagon-cia
 - https://www.opendemocracy.net/en/why-chomsky-felt-guilty-most-of-time-war-research-and-linguistics-at-mit/
@@ -1251,6 +1268,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
   - [Vaush says in his discord that: "if trans people didn't exist, my notification feed would be a lot better". Rails on about "trans-advocates".](https://i.imgur.com/lR5NhnF.png)
   - [Vaush laughs at trans suicide. ](https://streamable.com/q39axh)
 - [Harrasses a woman by asking her if she wanted to see his penis even though she said no repeatedly. Sends her a picture of himself in the shower anyway.](https://www.reddit.com/r/ShitLiberalsSay/comments/i5nka7/vaush_says_tankies_are_irrelevant_because_he_has/g0raeoh?utm_source=share&utm_medium=web2x)
+- [Vaush has a pre-occupation with pedophilia and beastiality.](https://www.reddit.com/r/Enough_Vaush_Spam/comments/ou0d2u/vaush_has_a_very_disturbing_preoccupation_with/)
 - [Compares the purchase of a computer to the purchase of child-porn.](https://www.reddit.com/r/ShitLiberalsSay/comments/g7bwgd/famous_breadtuber_vaush_i_cant_blame_people_for/)
 - [Very happy to say the n-word.](https://twitter.com/high_define/status/1265033740075634688?s=20) [again](https://twitter.com/comradecorm/status/1263512305800810503?s=20)
   - [Defends using the N-word as a "power-move" which he is unashamed of.](https://i.imgur.com/ExE1sFZ.jpg)
@@ -1264,6 +1282,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Is against decolonization.](https://twitter.com/trikstr_/status/1280053214117793792)  "We're not going to fkn leave America, white people are staying... we're not gonna give something back to native Americans... the best way forward is to integrate our communities". Vaush responds to a native person talking about indigenous movements and rights by saying: ["I'll listen to the scientists."](https://twitter.com/guajirx/status/1280314035217588224?s=21)
 - [Vaush talks down to a Korean person, saying that he hates Korean people, and doesn't know anything about them.](https://twitter.com/aboIishamerica/status/1376891876222107653?s=20)
 - [Vaush calls Korea, "a festering shithole", and says the North Koreans "got dabbed on", referring to the 4-5 Million deaths the US inflicted.](https://twitter.com/NatalieRevolts/status/1377327842313265154?s=20)
+- [Thinks the DPRK is a hereditary monarchy](https://www.reddit.com/r/Enough_Vaush_Spam/comments/pzbiw2/this_man_has_officially_lost_the_plot_now/).
 - [Says: "If you identify as LGBT, then you must consider North Korea your enemy", citing wapo, the geneva US mission, and CIA NK org. Ignores the DPRK's pro-lgbt stances.](https://i.redd.it/nvgx1vz4z3b51.png) [2](https://web.archive.org/web/20050806002431/http://www.korea-dpr.com/faq.htm#20)
 - He's in no leftist orgs, plays video games all day, and takes home [$1.5k / month from his subscribers by holding "debates" where he just rants at people.](https://www.patreon.com/vaush)
 - ["Marxism isn't a rejection of liberalism, it's about making it better." ](https://twitter.com/commiefr0g/status/1290343782450434049)
@@ -1317,3 +1336,5 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - Belarus: [1](https://np.reddit.com/r/EuropeanSocialists/comments/i8cf4z/nazi_roots_of_symbols_of_the_belarusian_opposition/), [2](https://thegrayzone.com/2021/05/26/belarus-roman-protasevich-plane-nazis-ukraine/), [3](https://www.rt.com/russia/525032-protasevich-arrest-neo-nazi-links/)
 - [The Fort Dietrich virus](https://twitter.com/ProPeace97/status/1420657562618318850)
 - [Cory booker](https://twitter.com/Remroum/status/1425296761820786688?s=20)
+- [Aleksandr I. Solzhenitsyn and the Gulag Archipelago](https://www.reddit.com/r/GenZhou/comments/pd01t7/how_reliable_is_this_anticommunist_defense_of/hamp4mz/)
+- [The white chauvinism of Howard Zinn](https://anti-imperialism.org/2011/09/19/the-white-chauvinism-of-howard-zinn/)
