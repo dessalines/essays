@@ -123,7 +123,6 @@
 
 - [History and human nature.](https://github.com/dessalines/essays/blob/master/crash_course_socialism.md#history-and-human-nature)
 - [What about human nature?](http://www.reddit.com/r/communism101/comments/2yk3xl/what_about_human_nature_answer_but_add_yours_too/)
-- [Doesn't socialism go against human nature?](http://newdemocracyworld.org/culture/human_nature.html)
 - [Advertising is a cancer](http://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html)
 
 ## Schools of thought
@@ -1309,7 +1308,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 
 ### Others
 
-- [What is Antifa? (Olly)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
+- [What is Antifa? (Abby)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
 - [Whats so bad about UBI (universal basic income)?](https://thenewinquiry.com/universal-basic-bullshit/),[2](https://www.dissentmagazine.org/article/false-promise-universal-basic-income-andy-stern-ruger-bregman),[3](https://youtu.be/J10jKdPRN9A)
 - [Why are socialists against Israel / Zionism?](https://www.youtube.com/watch?v=BT5L4YU_Fl4&feature=youtu.be)
 - [Do most US troops come from poor neighborhoods? (Yes, debunking the heritage foundation debunkers)](https://www.boiseweekly.com/boise/poor-and-uneducated-like-we-thought/Content?oid=933196)
