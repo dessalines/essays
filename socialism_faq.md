@@ -295,6 +295,9 @@
 - [Witchcraft - Class struggle and women's liberation in the middle ages.](https://www.cvltnation.com/rebellion-of-the-damned-witchcraft-as-social-revolt-in-early-modern-france/) [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoYf68CgjTOc88IDu1mvI4_L)
 - [Interviews with Women in the USSR.](https://www.reddit.com/r/communism101/comments/e30gjm/ussr_and_women_rights/f90d0r8/)
 - [What's wrong with "more women CEO" / imperial feminism?](https://twitter.com/RaniaKhalek/status/1207061598680027137?s=20)
+- [Esperanza  - A Socialist, Feminist, and Transgender Analysis of “Sex Work”](https://proletarianfeminist.medium.com/a-socialist-feminist-and-transgender-analysis-of-sex-work-b08aaf1ee4ab) .
+- [Esperanza - The problem with sex-trade expansionary Feminism.](https://proletarianfeminist.medium.com/the-problem-with-sex-trade-expansionary-feminism-a-response-to-kate-zen-e8ee7f8ae99a)
+- [RevLeft Radio interview with Comrade Brigid and Esperanza -  Proletarian Feminism, Women's Liberation, and the Sex Trade.](https://revolutionaryleftradio.libsyn.com/prolefem)
 
 ## On Race and Class
 
@@ -502,6 +505,7 @@
 * [What was the cultural revolution? A Documentary series on it, called How yukong moved the mountains](https://www.youtube.com/watch?v=zLN-jRZRPrc&list=PLMt0ncvnKoz3ar_f78qBeA29-0kwrsXvT)
 * [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 * [What's the difference between MZT (Mao-Zedong-Thought) and MLM (Marxism-Leninism-Maoism)? How does Socialism with Chinese Characteristics (SWCC) differ from MLM? Does modern China uphold Mao? What about the cultural revolution?](http://cpcchina.chinadaily.com.cn/fastfacts/2010-10/18/content_11425373.htm) [2](https://leohezhao.medium.com/wrong-turns-on-the-revolutionary-road-ultra-leftism-and-the-cultural-revolution-2e090793dfad) [3](https://leohezhao.medium.com/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub)
+* [A lecture on MZT, and the thought of the first generation leaders of the PRC. Also on the origins of the term, "Maoism".](https://www.youtube.com/watch?v=lf3VW9wzl1g)
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
 * [Was Sun Yat Sen a communist?](https://www.youtube.com/watch?v=3kvAMVX0bjE)
@@ -965,6 +969,7 @@
 - [After Evo Morales was overthrown in a US-backed coup, she retracts her pro-Morales statements, meets with a coup-supporting group in Washington, and tweets in support of the viciously anti-indigenous government of Jean Anez.](https://i.imgur.com/mYdPxcG.jpg) [2](https://orinocotribune.com/alexandria-ocasio-cortez-meets-with-bolivian-coup-organizers/),  [3](https://rainershea.com/f/alexandria-ocasio-cortez-meets-with-bolivian-coup-organizers)
 - [In the July 2021 protests in Cuba, she called Cuban president Diaz-Canal's "anti-democratic actions."](https://pbs.twimg.com/media/E6YIBtMXIAE2dLt?format=jpg&name=large), [2](https://images-ext-1.discordapp.net/external/5G4TQQ1qLqzTXDlSeNDXM5noh6Xcp_ZNLrbxreyxrWc/https/pbs.twimg.com/media/E6YCaZKWQAAfrs4.jpg%3Alarge) She condemned the socialist government’s [“suppression of the media, speech and protest.”](https://twitter.com/RepAOC/status/1415825886981545992)
 - [She supports Israel, and its genocide of Palestineans.](https://i.imgur.com/K6QsYZo.jpg)
+- [When asked about her vote of "present", rather than no, that allocates an extras $1B USD to Israel, she defends it by saying it was a "micro"-decision that creates "a window that brings all folks to the table".](https://twitter.com/queeralamode/status/1445508646956269582?s=20)
 - After an anti-war activist posted a video of AOC waffling on a question about Palestine, [he's interrogated by California highway patrol who claimed he issued a death threat against AOC](https://thegrayzone.com/2021/04/09/anti-war-activist-police-aoc-video/). In reality, his tweet said: "her response was underwhelming to say the least." Its unknown whether AOC initiated the interrogation.
 - [Is against pardoning Julian Assange.](https://twitter.com/SameeraKhan/status/1359550389578854406?s=20)
 - [Goes along with democrats and Republicans in backing US puppet Juan Guaido over Maduro in Venezuela.](https://twitter.com/telesurenglish/status/1124924184629583872?s=19) 

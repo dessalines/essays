@@ -63,16 +63,6 @@ Unlike workers, Capitalists make their living, not by clocking in and being paid
 
 For example, a Copper mine owner neither physically mines the copper, and (living thousands of miles away) likely delegates day-to-day operations to a hired manager. Yet, **because they have a piece of paper that says they own it, they get a large cut of everything that was mined**: the ultimate free lunch.
 
-Let's say that a garment factory owner spends $90k to buy a facility, machines, and all the other startup costs, as well as $10k per year on operating costs, such as yarn ( called constant capital ). They hire 10 workers, all of whom are paid $20k / year in wages ( called variable capital, or the price of labor power ). They do $400k / year in sales, meaning the owner makes $10k / worker / year ( surplus value ). After 1 year, ( 10 workers * $10k = $100k ), the owner has made up their initial investment. 
-
-`Surplus value = Product sales - Constant Capital - Variable capital`
-
-`100k = 400k - 100k - 200k` total, or
-
-`10k = 40k - 10k - 20k` per worker. 
- 
-From that year onward, the owner pockets $100k / year, even after fully paying off their initial investment. They've fully paid off their initial investment, yet are "rewarded" indefinitely.
-
 A 1983 report by England national income and expenditures found that on average, **26 minutes of every hour worked** (or 43% of labor value added) by English workers across a wide range of industries went to various exploiting or unproductive groups, with workers receiving only *57% of their pre-tax productive output as wages*<sup>[1](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/new_socialism.pdf)</sup>. In other words, at least **40% of the work you do every day is stolen by Capitalists.** 
 
 Capitalists use the surplus to [push out competitors](https://en.wikipedia.org/wiki/Anti-competitive_practices) and gain market share, leading to the destruction of most small businesses, with [just a few companies](http://imgur.com/a/xgnEp) controlling our food, media, [news](https://www.youtube.com/watch?v=x6U2Un5kEdI), energy, transportation, and finances.
@@ -149,7 +139,7 @@ Markets likewise were rare, since communities tended to be self-sufficient. Ritu
 
 In the modern day, there is the **communism of the family**, in which family members share freely with one another. There are community welfare organizations, food banks, as well as thousands of undocumented and unpublicized acts of kindness which show that cooperation endures even in spite of the individualism of the current dominant economic system. Popular phrases like, "Money is the root of all evil", hint at our societal dislike of selfishness, and persist alongside the capitalist myths of the "self-made man", and, "pulling yourself up by the bootstraps" (which shows the power of capitalist indoctrination: in a nonsensical world, *the impossible becomes possible*). 
 
-Capitalism evolved historically out of [feudalism](https://en.wikipedia.org/wiki/Feudalism) and [slave societies](https://en.wikipedia.org/wiki/Slavery), all three being dependent on a dominant [ruling class](https://en.wikipedia.org/wiki/Ruling_class) receiving the surplus of a subordinate class.
+Capitalism evolved historically out of [feudalism](https://en.wikipedia.org/wiki/Feudalism) and [slave societies](https://en.wikipedia.org/wiki/Slavery), all three being examples of *class society*, with a dominant [ruling class](https://en.wikipedia.org/wiki/Ruling_class) receiving the surplus of a subordinate class.
 
 Socialism as a diverse philosophy arose out of a criticism after the French revolution, in which a capitalist class (the [bourgeoisie](https://en.wikipedia.org/wiki/Bourgeoisie)) seemed to merely replace [feudal lords](https://en.wikipedia.org/wiki/Feudalism) to become the new ruling class. At the same time, the exploited serfs were moved off the land ([enclosure](https://en.wikipedia.org/wiki/Enclosure)) and forced into the cities to become wage-workers. 
 
@@ -157,13 +147,15 @@ Marxism is a socialist tradition, which places emphasis on the means of producti
 
 ## Value
 
-Economic systems, such as Capitalism, don't invent, *create* or *build* anything. Workers do (See [Soviet Space Program](https://en.wikipedia.org/wiki/Soviet_space_program)). The "isms" just determine who gets compensated. Nor does [capitalism spur innovation](https://www.reddit.com/r/DebateCommunism/comments/9c9qj6/in_a_communist_society_what_are_people_motivated/); the pursuit of new ideas is fundamental to humanity, and takes place regardless of the economic system in place. Inventions like rocketry, the internet, space travel, GPS, mobile phones, vaccines, [were all developed under public funding](https://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/). 
+Economic systems, such as Capitalism, don't invent, *create* or *build* anything. Workers do (See [Soviet Space Program](https://en.wikipedia.org/wiki/Soviet_space_program)). The "isms" only determine who gets compensated. 
+
+Nor does [capitalism spur innovation](https://www.reddit.com/r/DebateCommunism/comments/9c9qj6/in_a_communist_society_what_are_people_motivated/); the pursuit of new ideas is fundamental to humanity, and takes place regardless of the economic system in place. Inventions like rocketry, the internet, space travel, GPS, mobile phones, vaccines, [were all developed under public funding](https://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/). 
 
 [The labor theory of value (LTV)](https://en.wikipedia.org/wiki/Labor_theory_of_value) recognizes that our most valuable resource is time, specifically **socially useful/necessary** labor time. There is after all only a **finite number of hours of work humanity can perform in a given day**; and at least half of that value is going to a few absentee owners. 
 
 The labor theory was commonly accepted in the 19th century ( especially by Smith and Ricardo ), but fell out of favor as capitalist states began to cement economics as a discipline to justify the new status quo. 
 
-Most capitalist economists treat value like magic fairy dust: it can be created and destroyed with a thought. [Many modern economists and mainstream economics professors serve a role akin to the priests during feudalism](https://truthout.org/articles/economic-theorists-the-high-priests-of-capitalism/): treating value and rewards in idealist terms, rather than as scientific concepts, justifying capitalism's immense inequality ( whilst often getting paid to promote it ), and demonizing other theories ( such as LTV ) as heresy. 
+Most capitalist economists treat value like magic fairy dust: it can be created and destroyed with a thought. [Many modern economists and economics professors serve a role akin to the priests during feudalism](https://truthout.org/articles/economic-theorists-the-high-priests-of-capitalism/): treating value and rewards in idealist terms, rather than as scientific concepts, justifying capitalism's immense inequality ( whilst often getting paid to promote it ), and demonizing other theories ( such as LTV ) as heresy. 
 
 Coming down to reality from idealist and subjective experience, value, like any other scientific concept, such as energy, **is preserved** in a closed system.
 
@@ -187,18 +179,17 @@ The socialist argument is not that individual passive investors should still bea
 
 ## Conformity
 
-[Socialism has nothing to do with conformity](https://www.marxists.org/archive/lenin/works/1914/mar/11.htm), restriction of artistic expression, or equality in abilities. It instead proposes *economic and political equality* through the abolition of classes, placing all citizens on an equal footing *with regard to the means of production*. It is Capitalism, with its inherent authoritarian hierarchies, that imposes conformity on society through [vapid consumerism](https://en.wikipedia.org/wiki/Commodity_fetishism), and through the authoritarian nature of capitalist firms themselves. A [chain of command](https://en.wikipedia.org/wiki/Command_hierarchy) ensures that orders from capitalists drop like a rock, to dominate the actions of every worker.
+[Socialism has nothing to do with conformity](https://www.marxists.org/archive/lenin/works/1914/mar/11.htm), restriction of artistic expression, or equality in abilities. It instead proposes *economic and political equality* through the abolition of classes, placing all citizens on an equal footing *with regard to the means of production*. It is Capitalism, with its inherent class hierarchies, that imposes conformity on society through [vapid consumerism](https://en.wikipedia.org/wiki/Commodity_fetishism), and through the authoritarian nature of capitalist firms themselves. A [chain of command](https://en.wikipedia.org/wiki/Command_hierarchy) ensures that orders from capitalists drop like a rock, to dominate the actions of every worker.
 
 ## Democracy
 
 Socialists view democracy under capitalism to be an unrealistic utopia, better labeled as [Bourgeois Democracy](https://en.wikipedia.org/wiki/Democracy_in_Marxism), or democracy for the rich, which socialists contrast with proletarian democracy. Under capitalism, political parties, representatives, infrastructure, and the media **are controlled by capitalists**, who place restrictions on the choices given to workers, limit their representative options to vetted capitalist puppets, and limit the [scope of public debate](https://en.wikipedia.org/wiki/Overton_window) to pro-capitalist views. 
 
-[Bourgeois democracies](https://en.wikipedia.org/wiki/Liberal_democracy#Dictatorship_of_the_bourgeoisie) are in reality [Capitalist Dictatorships](https://i.imgur.com/8vDYw17.jpg), resulting in legislation favorable to the wealthy, regardless of the population's actual preferences. [The Princeton Study, conducted in the US in 2014](https://www.youtube.com/watch?v=5tu32CCA_Ig), found that the preferences of the average citizen exert a near-zero influence on legislation, making the US system of elections and campaigning little more than political theater. Parliamentary / representative democracy has proven to be the safest shell for capitalist rule, regardless of voting methods or differing political structures, for countries as diverse as Australia, Japan, Sweden, or Brazil.
+[Bourgeois democracies](https://en.wikipedia.org/wiki/Liberal_democracy#Dictatorship_of_the_bourgeoisie) are in reality [Capitalist Dictatorships](https://i.imgur.com/8vDYw17.jpg), resulting in legislation favorable to the wealthy, regardless of the population's actual preferences. [The Princeton Study, conducted in the US in 2014](https://www.youtube.com/watch?v=5tu32CCA_Ig), found that the preferences of the average US citizen exert a near-zero influence on legislation, making the US system of elections and campaigning little more than political theater. **Multi-party, Parliamentary / representative democracy has proven to be the safest shell for capitalist rule**, regardless of voting methods or differing political structures, for countries as diverse as Australia, Japan, Sweden, the UK, the US, South Korea, or Brazil.
 
 Examples of restrictions include a [media and news monopoly](https://en.wikipedia.org/wiki/Concentration_of_media_ownership), the [First Past the Post](https://www.youtube.com/watch?v=s7tWHJfhiyo) voting system (which enforces capitalist two party domination), [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering), long term limits with no way to recall unpopular representatives, restrictions crafted to disenfranchise poor and minority voters, bills directly crafted by lobbyists and bourgeois lawmakers, voter suppression, electoral fraud, unverifiable closed source electronic voting systems, capitalist campaign financing, low voter to representative ratios, inconvenient voting locations and times, and most pervasive, *candidate stacking*. **Most elections are performed before we ever get to the polling booth**. In short, political democracy can't exist without economic democracy.
 
-The impossibility of Capitalist democracy to make a transition to working-class democracy is best shown by the phrase: Capitalists **will not allow** you to vote away their wealth. Pacifism, and elections have [never been an effective means of disenfranchising the ruling class.](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) Multi-party, representative parliamentary democracies, such as exist in Australia, the UK, South Korea, and
-the United States, have proved to be the safest shell for Capitalist rule.
+The impossibility of Capitalist democracy to make a transition to working-class democracy is best shown by the phrase: **Capitalists will not allow you to vote away their wealth.** Pacifism, and elections have [never been an effective means of disenfranchising the ruling class.](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) 
 
 Communists propose building alternatives alongside of bourgeois democracy, with the goal of to replacing it with **Proletarian democracy**. Measures might include:
 
@@ -224,7 +215,7 @@ In the southern US, **African slavery was used to solve the labor shortage**, an
 
 Since the 1960s, there has been a [labor surplus](https://en.wikipedia.org/wiki/File:Productivity_and_Real_Median_Family_Income_Growth_in_the_United_States.png), due to a decreased demand for workers due to computers and automation, and an increased supply of workers (women, and low-paid manufacturing and agriculture in less-developed countries). The extra, unemployed workers make up a [reserve army of labor](https://en.wikipedia.org/wiki/Reserve_army_of_labour), keeping wages low, and desperation high. Increased worker productivity (due to computers and automation) mean that the surplus (the difference between worker productivity and wage paid), is historically higher than ever. This trend will only continue, and workers will naturally become more class conscious, as they see their exploitation increase, and their livelihood decrease.
 
-Since workers have less money to survive, let alone buy what their employers are selling, there is a [tendency for the rate of profit to fall](https://en.wikipedia.org/wiki/Tendency_of_the_rate_of_profit_to_fall), and capitalists fight and wage wars over the decreasing surplus. [Late stage capitalism](https://www.reddit.com/r/LateStageCapitalism/top/) refers to the extreme polarization of the two classes, the increasingly absurd and cruel ways our society copes and justifies such stark inequality, and the horrible things capitalism forces people to do to survive.
+Since workers have less money to survive, there is a [tendency for the rate of profit to fall](https://en.wikipedia.org/wiki/Tendency_of_the_rate_of_profit_to_fall), and capitalists fight and wage wars over the decreasing surplus. [Late stage capitalism](https://www.reddit.com/r/LateStageCapitalism/top/) refers to the extreme polarization of the two classes, the increasingly absurd and cruel ways our society copes and justifies such stark inequality, and the horrible things capitalism forces people to do to survive.
 
 As the supply of labor outstrips the demand, it becomes cheaper to employ workers rather than to sink startup costs into innovative technology. Soon, **the technological growth rate grinds to a halt** ([as of 2018 technological growth in Europe has slowed to ~1-2% per year](https://www.youtube.com/watch?v=kTl4b0w6mpk)), just as in ancient Rome, inexpensive slave labor lead to stagnant technological progress. 
 
@@ -254,7 +245,7 @@ Socialism as an economic system is distinct from [neoliberalism](https://en.wiki
 
 ## The Communist Legacy
 
-Some Marxists say the regimes typically called socialist are more correctly defined as [State Capitalist](https://en.wikipedia.org/wiki/State_capitalism), since production was controlled by state bureaucracies who also distributed the surplus, rather than through the democratic input of workers. Other Marxists call them *siege socialist*, contrasting it with *pure socialism*, stating that siege socialism is a natural reaction to the external pressures of capitalist encirclement, and that *pure socialism* is an ideal which is [ahistorical and nonfalsifiable.](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/) The US for example, has been involved in [militarily crushing nearly every socialist attempt](us_atrocities.md) for the last 80 years, and installing right-wing fascist dictatorships (friendly to US interests) in their place. Needless to say, **capitalist encirclement has a profoundly distorting affect** on the building of socialism; very few attempts have survived US interventionism. [This talk](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be) by Micheal Parenti is a good reflection and criticism on the soviet experiment. 
+Some Marxists say the regimes typically called socialist are more correctly defined as [State Capitalist](https://en.wikipedia.org/wiki/State_capitalism), since production was controlled by state bureaucracies who also distributed the surplus, rather than through the democratic input of workers. Other Marxists call them *siege socialist*, contrasting it with *pure socialism*, stating that siege socialism is a natural reaction to the external pressures of capitalist encirclement, and that *pure socialism* is an ideal which is [ahistorical and nonfalsifiable.](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/) The US for example, has been involved in [militarily crushing nearly every socialist attempt](us_atrocities.md) for the last 80 years, and installing right-wing fascist dictatorships (friendly to US interests) in their place. Needless to say, **capitalist encirclement has a profoundly distorting affect** on the building of socialism; very few attempts have survived US interventionism. [This talk](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be) by Micheal Parenti is a good reflection on the soviet experiment. 
 
 The early stages of the [1917 Russian Revolution](https://en.wikipedia.org/wiki/October_Revolution) were far more progressive than is typically portrayed; Divorce was legalized, **Homosexuality was decriminalized**, land was distributed to the peasantry, banks were nationalized, control of factories was given to worker's councils, **the workday was shortened**, wages were fixed at a higher rate, all elected officials could now be immediately recalled; it created mass literacy drives, free nurseries, communal kitchens, and laundries. 14 Western nations (including the US) [sent troops to Russia](https://en.wikipedia.org/wiki/Allied_intervention_in_the_Russian_Civil_War) to fight against the gains of the revolution.
 
@@ -264,7 +255,7 @@ These achievements were possible due to efficient use of resources resulting fro
 
 The famines and economic hardship typically associated with communism in Russia and China, were partially a result of the painful process of [industrialization](https://en.wikipedia.org/wiki/Industrialisation), and the transition from agriculture to industry. It would be the case whether capitalists, communists, or enlightened rulers were in power. During England's rapid industrialization, life expectancy in some cities was less than 30 years. This is the case with every country in the process of industrialization. [Lysenkoism](https://en.wikipedia.org/wiki/Lysenkoism), and [a period of droughts](https://en.wikipedia.org/wiki/Great_Chinese_Famine) made the problem worse. The scale of famines were also exaggerated by capitalist historians, whose brinkmanship in quoting higher death counts is contradicted by the **massive population growth** of those countries. Even in spite of this, a look at a [drastic increase in the life expectancy in the USSR](https://en.wikipedia.org/wiki/Demographics_of_the_Soviet_Union#Life_expectancy_and_infant_mortality) should put to rest the notion of socialism as contributing to starvation. 
 
-Exaggerated death counts blamed on *communism* and usually attributed to Stalin or Mao are often due to Western historians attributing **all deaths** to the economic system. This would be the equivalent of attributing deaths from the [Dust Bowl](https://en.wikipedia.org/wiki/Dust_Bowl) to FDR. Yet [UNICEF](http://www.unicef.org/sowc06/pdfs/sowc06_chap1.pdf), [RESULTS](https://web.archive.org/web/20080527011602/http://www.results.org/website/article.asp?id=241), and [Bread for the World](http://www.bread.org/hunger/global/facts.html) estimate that **15 million** people die **each year** from preventable poverty, of whom 11 million are [children under the age of five.](http://www.washingtonsblog.com/2015/08/crimes-against-humanity-01-poverty-murder-over-400-million-people-since-1995-more-than-all-wars-in-recorded-history.html)
+Exaggerated death counts blamed on *communism* and usually attributed to Stalin or Mao are often due to Western historians attributing **all deaths** to the economic system (One stark example, is the US-state-run organization "victims of communism", which counts German WW2 casualties as communist victims). This would be the equivalent of attributing deaths from the [Dust Bowl](https://en.wikipedia.org/wiki/Dust_Bowl) to FDR. Yet [UNICEF](http://www.unicef.org/sowc06/pdfs/sowc06_chap1.pdf), [RESULTS](https://web.archive.org/web/20080527011602/http://www.results.org/website/article.asp?id=241), and [Bread for the World](http://www.bread.org/hunger/global/facts.html) estimate that **15 million** people die **each year** from preventable poverty, of whom 11 million are [children under the age of five.](http://www.washingtonsblog.com/2015/08/crimes-against-humanity-01-poverty-murder-over-400-million-people-since-1995-more-than-all-wars-in-recorded-history.html)
 
 Even if we were to fully accept the Western propaganda that socialist regimes have killed 100 million people, then within 10 years, **capitalism kills more children under the age of 5 than socialism did in 150 years**.
 
@@ -272,9 +263,9 @@ Even if we were to fully accept the Western propaganda that socialist regimes ha
 
 Communism is the highest developed stage of socialism wherein there is no state, no money, no class system. The means of production are owned by all and provide for everyone's needs. There are also presumably high levels of automation so [most do not have to work](http://imgur.com/yQpzb).
 
-Many socialists point to [directly democratic](https://en.wikipedia.org/wiki/Direct_democracy) [worker’s councils](https://en.wikipedia.org/wiki/Workers'_council) as an ideal way to organize production, with [gift economies](https://en.wikipedia.org/wiki/Gift_economy) for abundant goods, and [labor voucher](https://en.wikipedia.org/wiki/Labour_voucher) economies for scarce/luxury goods. Here is an example of a [moneyless, Cyber-Communist system](/paul_cockshott_cyber_communism.md), [video](https://www.youtube.com/watch?v=cI01-5zhwdA).
+Many socialists point to [directly democratic](https://en.wikipedia.org/wiki/Direct_democracy) [worker’s councils](https://en.wikipedia.org/wiki/Workers'_council) as an ideal way to organize production, with [gift economies](https://en.wikipedia.org/wiki/Gift_economy) for abundant goods, and [labor voucher](https://en.wikipedia.org/wiki/Labour_voucher) economies for scarce/luxury goods. Here is an example of a [moneyless, Cyber-Communist system](paul_cockshott_cyber_communism.md), [video](https://www.youtube.com/watch?v=cI01-5zhwdA).
 
-Past and present socialist/anarchist societies include - [Revolutionary Catalonia](https://en.wikipedia.org/wiki/Revolutionary_Catalonia), [Anarchist Aragon](https://en.wikipedia.org/wiki/Anarchist_Aragon), Shinmin Province in Korea/Manchuria, The [Bavarian Soviet Republic](https://en.wikipedia.org/wiki/Bavarian_Soviet_Republic), The [Paris Commune](https://en.wikipedia.org/wiki/Paris_commune), The Zapatista controlled areas of Chiapas (current day), [Magonista Baja California](https://en.wikipedia.org/wiki/Magonista_rebellion_of_1911), [Shanghai People's Commune](https://en.wikipedia.org/wiki/Shanghai_People%27s_Commune), [Rojava](https://en.wikipedia.org/wiki/Rojava) (current day), [Communist Marinaleda](http://www.theguardian.com/world/2013/oct/20/marinaleda-spanish-communist-village-utopia), [Socialist Federal Republic of Yugoslavia](https://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia), [USSR](https://en.wikipedia.org/wiki/Soviet_Union), [People's Republic of China](https://en.wikipedia.org/wiki/People%27s_Republic_of_China), [Socialist Republic of Vietnam](https://en.wikipedia.org/wiki/Vietnam), [Cuba](https://en.wikipedia.org/wiki/Cuba). 
+Past and present socialist societies include - The [Paris Commune](https://en.wikipedia.org/wiki/Paris_commune), [Socialist Federal Republic of Yugoslavia](https://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia), [USSR](https://en.wikipedia.org/wiki/Soviet_Union), [People's Republic of China](https://en.wikipedia.org/wiki/People%27s_Republic_of_China), [Socialist Republic of Vietnam](https://en.wikipedia.org/wiki/Vietnam), [Laos](https://en.wikipedia.org/wiki/Laos), [Belarussian SSR](https://en.wikipedia.org/wiki/Byelorussian_Soviet_Socialist_Republic), [Peoples socialist republic of Albania](https://en.wikipedia.org/wiki/People%27s_Socialist_Republic_of_Albania), [Peoples republic of Bulgaria](https://en.wikipedia.org/wiki/People%27s_Republic_of_Bulgaria), the [GDR](https://en.wikipedia.org/wiki/German_Democratic_Republic), [Hungary](https://en.wikipedia.org/wiki/Hungarian_People%27s_Republic), the [Democratic people's republic of Korea](https://en.wikipedia.org/wiki/Democratic_People%27s_Republic_of_Korea), [Mongolian people's republic](https://en.wikipedia.org/wiki/Mongolian_People%27s_Republic), and [Cuba](https://en.wikipedia.org/wiki/Cuba). 
 
 [Revolutionary](https://en.wikipedia.org/wiki/Revolutionary_socialism) vs [Evolutionary (Reformist)](https://en.wikipedia.org/wiki/Reformism) socialism, [Economic planning](https://en.wikipedia.org/wiki/Planned_economy) with [labor vouchers](https://en.wikipedia.org/wiki/Labour_voucher) vs. [Market socialism](https://en.wikipedia.org/wiki/Market_socialism), are a few debated topics within socialism.
 
@@ -307,6 +298,8 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 - [Chomsky on american or right-libertarianism](https://www.youtube.com/watch?v=FVt7U2YIgZs)
 
 ## Literature
+
+[Dessalines Marxism Study Plan](dessalines_marxism_study_plan.md)
 
 ### Modern introductory books
 
@@ -366,7 +359,6 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 ### Fiction
 
 - Kim Stanley Robinson - Red Mars / Mars Trilogy
-- Ursula K LeGuin - The Dispossessed
 
 ## Audiobooks
 
@@ -427,17 +419,18 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ## Podcasts
 
-- [Proles of the round table](https://prolespod.libsyn.com/)
-- [Eyes Left](https://soundcloud.com/eyesleft)
 - [Revolutionary Left Radio](https://revolutionaryleftradio.libsyn.com/)
-- [Red Menace](https://redmenace.libsyn.com/)
 - [Citations needed](https://soundcloud.com/citationsneeded)
+- [Probably Canceled Podcast](https://www.audible.com/pd/Podcast/B08JJN7MHK)
 - [David Harvey's anti-capitalist chronicles](https://www.democracyatwork.info/acc)
 - [Economic Update with Richard Wolff](https://economicupdate.libsyn.com/)
+- [Eyes Left](https://soundcloud.com/eyesleft)
+- [Red Menace](https://redmenace.libsyn.com/)
+- [Proles of the round table](https://prolespod.libsyn.com/)
 
 ## Channels
 
-- [Anticonqustia](https://www.youtube.com/channel/UCl1bDSVi34xE65YzreytVxQ)
+- [Anticonquista](https://www.youtube.com/channel/UCl1bDSVi34xE65YzreytVxQ)
 - [Empire Files](https://www.youtube.com/channel/UCG29FnXZm4F5U8xpqs1cs1Q)
 - [Paul Cockshott](https://youtube.com/channel/UCVBfIU1_zO-P_R9keEGdDHQ)
 - [Richard Wolff - Democracy at Work](https://www.democracyatwork.info/)
@@ -449,23 +442,20 @@ Past and present socialist/anarchist societies include - [Revolutionary Cataloni
 
 ## Parties / Groups
 
-- [List of Anticapitalist Organizations](anticapitalist_orgs.md#organizations)
-
 ## Online Communities
 
-- [Marxist.space - A collection of resources](https://marxist.space/)
 - [/r/capitalism_in_decay](https://www.reddit.com/r/capitalism_in_decay/)
-- [/r/socialism](https://www.reddit.com/r/socialism/)
-- [/r/communism](https://www.reddit.com/r/communism/)
-- [/r/anarchism](https://www.reddit.com/r/Anarchism/)
+
 - [/r/socialistRA](https://reddit.com/r/socialistRA)
-- [/r/redneckrevolt](https://www.reddit.com/r/redneckrevolt/)
+
 - [/r/socialistprogrammers](https://www.reddit.com/r/socialistprogrammers/)
-- [/r/militant](https://www.reddit.com/r/militant/)
+
 - 101s
+  - [/r/GenZhou](https://www.reddit.com/r/genzhou/)
+  - [/r/asktankies](https://www.reddit.com/r/asktankies/)
   - [/r/communism101](https://www.reddit.com/r/communism101/)
-  - [/r/socialism_101](https://www.reddit.com/r/Socialism_101/)
 - Memes
+  - [/r/GenZedong](https://www.reddit.com/r/genzedong/)
   - [/r/FULLCOMMUNISM](https://www.reddit.com/r/FULLCOMMUNISM/)
   - [/r/ShitLiberalsSay](https://www.reddit.com/r/ShitLiberalsSay/)
 
