@@ -12,7 +12,7 @@
       - [CIA → RFA → OTF → Signal](#cia-%E2%86%92-rfa-%E2%86%92-otf-%E2%86%92-signal)
     + [A Single, Centralized, US-based service](#a-single-centralized-us-based-service)
       - [National Security Letters (NSLs)](#national-security-letters-nsls)
-    + [Phone # Identifiers](#phone-%23-identifiers)
+    + [Phone # Identifiers](#phone--identifiers)
     + [Social network graphs](#social-network-graphs)
     + [Abandonment of Open source](#abandonment-of-open-source)
     + [Bundling a Cryptocurrency](#bundling-a-cryptocurrency)
