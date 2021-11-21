@@ -145,6 +145,7 @@
 * [Was Marx anti-semitic? ( On the Jewish Question )](https://www.reddit.com/r/communism101/comments/exfvbe/for_anyone_who_are_confused_by_marx_is/)
 * [Were the nazis socialist? What about national socialism, the national socialist movement (NSM), and the national front?](https://www.snopes.com/news/2017/09/05/were-nazis-socialists/), [2](https://www.reddit.com/r/Socialism_101/comments/79kvin/what_is_the_difference_between_socialists_here/), [3](https://www.reddit.com/r/therewasanattempt/comments/cblf1y/to_commit_a_hate_crime/ethf3t8/), [4](https://www.reddit.com/r/ShitLiberalsSay/wiki/index#wiki_the_nazis_were_socialists.2C_communists_or_leftists)
 * [What is Fascism?](http://www.nybooks.com/articles/1995/06/22/ur-fascism/)
+* [Is the US a fascist state?](https://www.reddit.com/r/GenZhou/comments/qxguko/do_you_consider_the_us_to_be_a_fascist_state/hl9q3mr/)
 * [Did Karl Marx use "socialism" and "communism" interchangeably?](http://www.reddit.com/r/communism101/comments/2msa39/did_karl_marx_use_socialism_and_communism/)
 * [What is Luxemburgism?](https://www.reddit.com/r/communism/comments/bzl9iu/luxemburgism/eqtbcxe/)
 * [Is the revolutionary DotP a separate material stage apart from lower phased communism?](http://www.reddit.com/r/communism101/comments/2mrkkj/is_the_revolutionary_dotp_a_separate_material/)
@@ -788,6 +789,7 @@
 - [South Korea boosts reward for defectors to $860k USD](https://www.bbc.com/news/world-asia-39170614).
 - [Are north korean defectors really paid to lie by the south? A short documentary.](https://www.youtube.com/watch?v=ktE_3PrJZO0&feature=youtu.be)
 - [What is everyday life like? A conversation with a North Korean Citizen.](https://cym.ie/2018/05/28/a-conversation-with-a-north-korean-citizen/)
+- [Is the DPRK really a monarchy? How does its political system work?](https://writetorebel.com/2017/03/28/socialism-and-democracy-in-the-dprk/)
 - [Why do some communists support the DPRK?](http://www.reddit.com/r/communism101/comments/1ypwmd/why_do_some_communists_support_the_dprk/)
 - [What exactly is Juche?](http://www.reddit.com/r/communism101/comments/1y172i/what_exactly_is_juche/)
 - [Is the DPRK socialist?](http://www.reddit.com/r/communism101/comments/1ygskq/is_the_dprk_socialist/)
@@ -1272,7 +1274,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
   - [Vaush says in his discord that: "if trans people didn't exist, my notification feed would be a lot better". Rails on about "trans-advocates".](https://i.imgur.com/lR5NhnF.png)
   - [Vaush laughs at trans suicide. ](https://streamable.com/q39axh)
 - [Harrasses a woman by asking her if she wanted to see his penis even though she said no repeatedly. Sends her a picture of himself in the shower anyway.](https://www.reddit.com/r/ShitLiberalsSay/comments/i5nka7/vaush_says_tankies_are_irrelevant_because_he_has/g0raeoh?utm_source=share&utm_medium=web2x)
-- [Vaush has a pre-occupation with pedophilia and beastiality.](https://www.reddit.com/r/Enough_Vaush_Spam/comments/ou0d2u/vaush_has_a_very_disturbing_preoccupation_with/)
+- [Vaush has a pre-occupation with pedophilia and beastiality](https://www.reddit.com/r/Enough_Vaush_Spam/comments/q9gkx3/vaush_is_obsessed_with_paedophilia_and_child_porn/),  [2](https://www.reddit.com/r/Enough_Vaush_Spam/comments/ou0d2u/vaush_has_a_very_disturbing_preoccupation_with/)
 - [Compares the purchase of a computer to the purchase of child-porn.](https://www.reddit.com/r/ShitLiberalsSay/comments/g7bwgd/famous_breadtuber_vaush_i_cant_blame_people_for/)
 - [Very happy to say the n-word.](https://twitter.com/high_define/status/1265033740075634688?s=20) [again](https://twitter.com/comradecorm/status/1263512305800810503?s=20)
   - [Defends using the N-word as a "power-move" which he is unashamed of.](https://i.imgur.com/ExE1sFZ.jpg)
@@ -1310,6 +1312,12 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Banned me for supporting Stalin.](https://i.imgur.com/gBzROhU.png, https://www.reddit.com/r/MoreTankieChapo/comments/fdfyr8/why_is_this_liberal_allowed_to_be_a_mod_thought/)
 - [Purging their sub off any pro-CPC posters](https://www.reddit.com/r/MoreTankieChapo/comments/gyx1nv/reminder_about_rules_1_and_7/) After a community backlash, they removed the anti dengism rule and one of the mods, [but still continued bans on pro China posters.](https://reddit.com/r/sendinthetanks/comments/gzdmyw/welcome_to_the_newly_banned/ftg1l30) 
 - [Quick TLDR](https://www.reddit.com/r/sendinthetanks/comments/gzjn3i/what_is_happening_in_rmoretankiechapo/).
+
+### Amnesty International
+
+- [Amnesty international sides with the far right opposition in VZ](https://www.telesurenglish.net/opinion/Amnesty-International-Weaponizing-Hypocrisy-for-the-U.S.-NATO-20170813-0013.html)
+- [They've sided with NATO in every one of its wars.](https://www.blackagendareport.com/content/%E2%80%9Chuman-rights%E2%80%9D-warriors-empire)
+- [A former AI administrator: "Amnesty international is nothing but an imperialist tool"](https://www.countercurrents.org/boyle231012.htm)
 
 ### Others
 
