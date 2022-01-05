@@ -733,6 +733,7 @@
 - [Xinjiang Uyghur Human Rights Issue Proved To Be A Plot By The Whistleblower](https://www.youtube.com/watch?v=6gIKdsAlWcE)
 - [Citizens of Xinjiang Speak](https://www.youtube.com/playlist?list=PLkbOIKUddMBtp0_xEFqn4zey48kkgJq5w)
 - [The Xinjiang Atrocity Propaganda Blitz](https://redsails.org/the-xinjiang-atrocity-propaganda-blitz/)
+- [World Bank Statement on Review of Project in Xinjiang, China](https://www.worldbank.org/en/news/statement/2019/11/11/world-bank-statement-on-review-of-project-in-xinjiang-china)
 - [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic). 
 
 ### What about the Falun Gong?
