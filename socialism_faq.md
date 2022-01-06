@@ -726,6 +726,14 @@
 - [BBC gets caught doctoring an image from a vlogger in China to make it look depressing, then quietly reverts their change after getting caught.](https://www.youtube.com/watch?v=eS8EceIa1MQ)
 - [A rebuttal of a Guardian article by Gulbahar Haitiwaji](https://twitter.com/moghilemear13/status/1351397520358957058) [2](https://www.reddit.com/r/communism/comments/kwew3n/contradictions_in_the_new_uighur_story_by/)
 - [A short, shareable version on why this isn't a genocide - cynthiakao](https://www.tiktok.com/@cynthiakao/video/6945108711006309638)
+- [Italian Government's report on human rights in Xinjiang](https://idi-international.org/wp-content/uploads/2021/05/New-Report.pdf)
+- [Buzzfeed says this Xinjiang detention camp has 10,000 Uighurs. It's 3 times smaller than an American prison with 10,000 people and is consistent with how big a normal prison (for criminals) would be given the population.](https://old.reddit.com/r/Sino/comments/jcteui/buzzfeed_says_this_xinjiang_detention_camp_has/)
+- [There are more mosques in Xinjiang alone than in the EU. with sources](https://lemmygrad.ml/post/33375)
+- [1 million detanees is heard again and again. You’d need a detention city the size of San Francisco to detain one million Uighurs. So where is it?](https://old.reddit.com/r/Sino/comments/i9k4hb/youd_need_a_detention_city_the_size_of_san/)
+- [Xinjiang Uyghur Human Rights Issue Proved To Be A Plot By The Whistleblower](https://www.youtube.com/watch?v=6gIKdsAlWcE)
+- [Citizens of Xinjiang Speak](https://www.youtube.com/playlist?list=PLkbOIKUddMBtp0_xEFqn4zey48kkgJq5w)
+- [The Xinjiang Atrocity Propaganda Blitz](https://redsails.org/the-xinjiang-atrocity-propaganda-blitz/)
+- [World Bank Statement on Review of Project in Xinjiang, China](https://www.worldbank.org/en/news/statement/2019/11/11/world-bank-statement-on-review-of-project-in-xinjiang-china)
 - [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic). 
 
 ### What about the Falun Gong?
