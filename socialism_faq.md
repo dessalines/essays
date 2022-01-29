@@ -144,7 +144,6 @@
 * [Huey P. Newton on the faults of western anarchism.](https://www.prisoncensorship.info/archive/etext/bpp/bpp161168.htm)
 * [What is the communist response to a lot of Anarchist criticisms? A Megathread.](https://www.reddit.com/r/communism/comments/cewriu/masterpost_for_defending_socialism_against/)
 * [The tyranny of structurelessness - The failure of anarchist-style organizing in the womens movement.](https://www.jofreeman.com/joreen/tyranny.htm)
-* [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 * [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
 * [Looking for reference to types of communism.](http://www.reddit.com/r/communism101/comments/1fcc6o/looking_for_reference_to_types_of_communism/)
 * [What was Engels Contribution to Marxism?](https://necessityandfreedom.wordpress.com/2017/04/16/without-engels-there-would-be-no-marxism/)
@@ -160,6 +159,7 @@
 * [What about Marxism and Empiricism? Is Marxism falsifiable?](https://www.reddit.com/r/communism101/comments/8978hb/is_marxism_falsifiable/)
 * [Hakim - On Capitalism and Corporatism](https://www.youtube.com/watch?v=luB9VUsXRs8)
 * [What about "patriotic" socialism?](https://www.reddit.com/r/GenZhou/comments/qlxfhd/on_the_question_of_patriotic_socialism_a_reply_to/) [2](https://www.reddit.com/r/GenZedong/comments/qm43vh/can_the_mods_start_being_authoritarian_and_crack/hj8ctfi/)
+* [On the origins of the creator of the term totalitarianism, Hannah Arendt](https://twitter.com/aiukliAfrika/status/1063203765082304512)
 
 ## On Ultra-leftism / Left-Communism
 
@@ -435,7 +435,7 @@
 * [Did the Soviet Union manufacture a famine in Ukraine? What about the Holodomor?](https://reddit.com/r/socialism/comments/a7njo6/66_of_russians_say_that_they_regret_that_the_ussr/ec4skiw?context=3), [2](https://www.reddit.com/r/communism101/comments/1c4to0/is_there_a_different_aspectpov_to_the_holodomor/),[3](https://www.reddit.com/r/communism101/comments/79nmdh/red_famine_by_anne_applebaum_what_is_this_all/),[4](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_the_soviet_union_manufactured_a_famine_in_ukraine),[5](https://sputniknews.com/politics/201508091025560345/),[6](https://www.reddit.com/r/GenZhou/comments/r42840/what_were_the_main_causes_of_the_ukraine_famine/), [A podcast on Stalin, Holodomor, and the purges.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 * [Did Stalin / the USSR intentionally wreck the anarchists in the Spanish Civil War / Revolutionary Catalonia?](https://www.reddit.com/r/communism101/comments/1e1bhf/what_was_the_role_of_ussr_in_revolutionary_spain/c9w2jva/) , [2](https://www.reddit.com/r/communism101/comments/1jlpyu/what_contributed_to_the_fallingout_between/cbg3v0p/)
 * [Did the early USSR repress anarchists? What about Nestor Makhno and the Free territory of Ukraine?](https://www.reddit.com/r/communism/comments/64wkgf/polemic_the_anarchokulak_bandits_of_russia_and/) 
-  * [A brief history of Nestor Makhno.](http://www.isreview.org/issues/53/makhno.shtml)
+  * [A brief history of Nestor Makhno.](https://archive.fo/B6Mpi)
 * [ELI5 of the Kronstadt Rebellion.](https://www.reddit.com/r/socialism/comments/49dzce/on_this_day_in_1921_the_kronstadt_rebellion/d0rarcw/)
   * [What about the Kronstadt sailor's rebellion, why did the USSR stop it?](https://www.reddit.com/r/communism101/comments/8ryrdb/what_are_mls_opinions_on_the_kronstadt_rebellion/) [2](https://www.reddit.com/r/communism/comments/r94f2/thoughts_on_the_kronstadt_rebellion/). 
   * [What were the sailor's specific demands?](https://www.reddit.com/r/communism101/comments/4cm20u/why_were_the_demands_of_kronstadt_unreasonable/). 
@@ -519,7 +519,7 @@
 * [Why did Mao launch the Cultural Revolution? What was he trying to achieve as distinct from the Revolution the Chinese Communists had already won? To what extent did he succeed? Does it have any continuing impact? (x-post from /r/AskHistorians)](http://www.reddit.com/r/communism101/comments/23958h/why_did_mao_launch_the_cultural_revolution_what/)
 * [What was the cultural revolution? A Documentary series on it, called How yukong moved the mountains](https://www.youtube.com/watch?v=zLN-jRZRPrc&list=PLMt0ncvnKoz3ar_f78qBeA29-0kwrsXvT)
 * [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
-* [What's the difference between MZT (Mao-Zedong-Thought) and MLM (Marxism-Leninism-Maoism)? How does Socialism with Chinese Characteristics (SWCC) differ from MLM? Does modern China uphold Mao? What about the cultural revolution?](http://cpcchina.chinadaily.com.cn/fastfacts/2010-10/18/content_11425373.htm) [2](https://leohezhao.medium.com/wrong-turns-on-the-revolutionary-road-ultra-leftism-and-the-cultural-revolution-2e090793dfad) [3](https://leohezhao.medium.com/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub) [4](https://www.reddit.com/r/asktankies/comments/qts7sn/what_is_the_difference_between_maoism_and/hkom8qx/)
+* [What's the difference between MZT (Mao-Zedong-Thought) and MLM (Marxism-Leninism-Maoism)? How does Socialism with Chinese Characteristics (SWCC) differ from MLM? Does modern China uphold Mao? What about the cultural revolution?](http://web.archive.org/web/20210218232858/http://cpcchina.chinadaily.com.cn/fastfacts/2010-10/18/content_11425373.htm) [2](https://leohezhao.medium.com/wrong-turns-on-the-revolutionary-road-ultra-leftism-and-the-cultural-revolution-2e090793dfad) [3](https://leohezhao.medium.com/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub) [4](https://www.reddit.com/r/asktankies/comments/qts7sn/what_is_the_difference_between_maoism_and/hkom8qx/)
 * [A lecture on MZT, and the thought of the first generation leaders of the PRC. Also on the origins of the term, "Maoism".](https://www.youtube.com/watch?v=lf3VW9wzl1g)
 * [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
 * [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
@@ -566,8 +566,9 @@
 * [How is SWCC not revisionist? How is it any different from Gorbachev's market reforms?](https://www.reddit.com/r/GenZhou/comments/quohro/market_reforms_vs_revisionism/hkrptbm/) 
 * [Domenico Losurdo - is China state capitalist?](https://redsails.org/flight-from-history/#the-peoples-republic-of-china-and-the-historical-analysis-of-socialism)
 * [Did Lenin say anything about Market Socialism, or productivism?](https://www.reddit.com/r/DebateCommunism/comments/quevn9/what_are_actually_existing_socialist_countries_as/hkqprfx/)
-* [Do capitalists control the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
+* [Vijay Prashad - Is China capitalist?](https://www.youtube.com/watch?v=3X7U2W6ryjE)
 * [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/) [Why are many billionaires and CEOs going missing?](https://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html) [China sentences Ex-Chairman of a major bank, guilty of embezzling ~$100M USD, to death in 2019.](https://www.bloomberg.com/news/articles/2019-12-27/china-sentences-ex-chairman-of-troubled-hengfeng-bank-to-death)
+* [Do capitalists control the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
 * [How the State runs business in China.](https://www.theguardian.com/world/2019/jul/25/china-business-xi-jinping-communist-party-state-private-enterprise-huawei)
 * [50% of the economy is in the socialist public sector and directly follows the plan (40% if you ignore the agricultural sector). 20 to 30% is inside the state capitalist sector, which is the sector partially or totally owned by domestic capitalists but run by the CPC or by local workers councils. The rest is made up of the small bourgeois ownership like in the NEP.](https://chinareporting.blogspot.com/2009/11/class-nature-of-chinese-state-critique_26.html)
 * [China pushing forward Marxist training in colleges, attracts 1M students.](http://www.globaltimes.cn/content/988795.shtml)
@@ -619,6 +620,7 @@
 - [Debunking the claim that "China is Imperialist"](https://medium.com/@rainershea612/catagorically-debunking-the-claim-that-china-is-imperialist-a9ae7b280a44)
 - [The demeanor of Chinese leaders (Xi Jinping) vs Western leaders (Nancy Pelosi) towards African nations. One of the reasons why African nations favor China instead of the West.](https://www.reddit.com/r/GenZedong/comments/kxabq5/the_demeanor_of_chinese_leaders_xi_jinping_vs/) [Full video here](https://www.youtube.com/watch?v=P5uzxV8ub9k)
 - [An African leader on the hypocrisy of those saying China is imperialist.](https://www.reddit.com/r/Sino/comments/pn5bmz/african_leader_calls_out_western_hypocrisy_when/) 
+- [China africa panel: if you want actual infrastructure, you go to China, not the west. ](https://m.youtube.com/watch?v=TPXS0OZikzs&feature=youtu.be)
 - [Is China really imperialist? What's the difference between what Europe did to Africa, and what China is doing?](https://www.reddit.com/r/GenZedong/comments/g0lp70/people_are_saying_that_china_is_colonialist_by/fnanq5x/)
 - [Five imperialist myths about China's role in Africa.](https://liberationschool.org/five-imperialist-myths-about-chinas-role-in-africa/)
 - [Evo Morales - Why China and Russia aren't imperialist, but the US is.](https://www.youtube.com/watch?v=f-zG2eFsNoc)
@@ -631,6 +633,7 @@
 - [China has forgiven over $10B in debt, over half to Cuba](https://www.forbes.com/sites/kenrapoza/2019/05/29/china-has-forgiven-nearly-10-billion-in-debt-cuba-accounts-for-over-half/#7a4116c3615b), but also including > 20 African nations, Pakistan, and Cambodia.
 - [After covid, China suspends debt repayment for 77 countries, promises > $2B USD and medical supplies as aid to help developing countries fight covid.](https://www.globaltimes.cn/content/1190790.shtml)
 - [President Xi pledges coronavirus vaccine to Africa first, helps fund African CDC headquarters.](https://www.globaltimes.cn/content/1191988.shtml)
+- [The chinese debt trap is a myth.](https://www.theatlantic.com/international/archive/2021/02/china-debt-trap-diplomacy/617953/)
 - [China writes off $6M in debt to rwanda, provides another $60M in grants.](https://www.newtimes.co.rw/news/china-cancels-6-million-debt-rwanda-offers-extra-grants)
 - [China forgives over $78M in Cameroon debt](https://edition.cnn.com/2019/02/04/china/cameroon-china-debt-relief-intl/index.html).
 - [China writes off $36m Mozambican debt](https://furtherafrica.com/2017/10/26/china-writes-off-36m-mozambican-debt/).
@@ -691,6 +694,7 @@
 - [Dan Cohen - Is China committing genocide? Behind the US goverments propaganda campaign.](https://www.youtube.com/watch?v=Hjurb61SZgk)
 - [Redsails - The Xinjiang atrocity propaganda blitz](https://redsails.org/the-xinjiang-atrocity-propaganda-blitz/)
 - [RodericDay - A thread about the key sources for Uyghur Genocide (Especially Adrian Zenz).](https://threadreaderapp.com/thread/1287411708374454273.html)
+- [Chollima report - Who is Adrian Zenz? The Christian Fundamentalist Leading the Global Xinjiang Narrative](https://chollima.org/who-is-adrian-zenz-the-christian-fundamentalist-leading-the-global-xinjiang-narrative/)
 - [BayArea415 - american debunks major western propaganda on Uyghurs and Xinjiang](https://www.youtube.com/watch?v=8yURIS7S9zg)
 - [Dr. Asata Bair - The six basic problems of the Uyghur genocide narrative.](https://nitter.cc/i/status/1367632236007202819)
 - [Nuance - The sad truth about Muslims in China.](https://www.youtube.com/watch?v=BPxZfqcKPF0)
@@ -1104,6 +1108,7 @@
 - [Voted two different times to block federal funding for abortions.](https://www.politico.com/newsletters/playbook/2019/06/06/guess-who-else-voted-against-federal-funding-for-abortion-443667?cid=su_tw_pb)
 - [Wants to use solar panels and green energy... to make war. ](https://twitter.com/disclosetv/status/1398339644144721934?s=20)
 - [Tells guatemalan immigrants: "don't come here"](https://twitter.com/disclosetv/status/1401980300847161349?s=20)
+- Appoints a [communication director who was outraged that ICE didn't pick up two undocumented commentators on MSNBC.](https://lemmygrad.ml/pictrs/image/61a1b6a7-05d4-4c9b-9a08-f96972019e69.jpeg)
 
 ### Pete Buttigieg
 
@@ -1122,6 +1127,7 @@
 - [Pushed Reagan to ramp up mass-incarceration.](https://theintercept.com/2019/09/17/the-untold-story-joe-biden-pushed-ronald-reagan-to-ramp-up-incarceration-not-the-other-way-around/)
 - [Biden - We need more arrests, triple the police, prosecuters, judges, and prison cells.](https://twitter.com/areltah/status/1266428868547747848?s=20)
 - [Biden - Lock em' up.](https://twitter.com/BethLynch2020/status/1266810765362843650?s=20)
+- [Voted to overturn Roe V Wade](https://archive.md/Z2otW)
 - [Biden on George Floyd protesters - "Shoot em in the leg instead of the heart."](https://twitter.com/jaboukie/status/1267565376885448706?s=20) [Then goes on to suggest an additional $300M in funding for police.](https://twitter.com/ajitxsingh/status/1270713176145793024?s=20)
 - [Biden: "Socialism will never happen here. I beat the socialist ( Sanders, who immediately began campaigning for him )"](https://www.mediaite.com/news/joe-biden-torpedoes-bernie-sanders-in-pitch-to-wisconsin-voters-worried-about-socialism-i-beat-the-socialist/)
 - [Biden: "Iraq was a problem that had to be dealt with sooner rather than later."](https://twitter.com/richimedhurst/status/1313831422495465473?s=20)
@@ -1302,6 +1308,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
   - [Vaush laughs at trans suicide. ](https://streamable.com/q39axh)
 - [Harrasses a woman by asking her if she wanted to see his penis even though she said no repeatedly. Sends her a picture of himself in the shower anyway.](https://www.reddit.com/r/ShitLiberalsSay/comments/i5nka7/vaush_says_tankies_are_irrelevant_because_he_has/g0raeoh?utm_source=share&utm_medium=web2x)
 - [Vaush has a pre-occupation with pedophilia and beastiality](https://www.reddit.com/r/Enough_Vaush_Spam/comments/q9gkx3/vaush_is_obsessed_with_paedophilia_and_child_porn/),  [2](https://www.reddit.com/r/Enough_Vaush_Spam/comments/ou0d2u/vaush_has_a_very_disturbing_preoccupation_with/)
+  - Claims that [its possible for an adult and child to have a "positive sexual relationship."](https://www.youtube.com/watch?v=_kX3zewAQ64)
 - [Compares the purchase of a computer to the purchase of child-porn.](https://www.reddit.com/r/ShitLiberalsSay/comments/g7bwgd/famous_breadtuber_vaush_i_cant_blame_people_for/)
 - [Very happy to say the n-word.](https://twitter.com/high_define/status/1265033740075634688?s=20) [again](https://twitter.com/comradecorm/status/1263512305800810503?s=20)
   - [Defends using the N-word as a "power-move" which he is unashamed of.](https://i.imgur.com/ExE1sFZ.jpg)
@@ -1324,6 +1331,9 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Claims that tankies only exist in "small online circles", ignoring the millions of communists in the global south.](https://twitter.com/duck_azz/status/1291635709154033664?s=20)
 - [Supports US presence in the middle east as a "stabilizing force"](https://twitter.com/SpookySocialist/status/1367635044311957506?s=20)
 - [Says the US military needs to stay in Afghanistan.](https://www.youtube.com/watch?v=tcB_HklU7aA)
+- [Wishes the CIA would coup Russia to install a pro western regime.](https://twitter.com/SarcasmStardust/status/1469307746671550468?s=20) 
+- [Wishes that Assange would be tortured to death in a CIA black site, because it would "trigger all the worst people on twitter."](https://twitter.com/SarcasmStardust/status/1470528366348582915?s=20)
+- [Admits he was an informant, and would rat out names to his higher-ups when he was in Antifa.](https://twitter.com/eshaLegal/status/1470533497253240839?s=20)
 - [Despite labeling himself as a socialist, he supports Neo-Keynesianism: "I feel like they have the answers."](https://www.reddit.com/r/Enough_Vaush_Spam/comments/n45u9q/i_feel_neokeyensian_economists_have_the_answer/)
 - ["Tacoma wept."](https://twitter.com/TrueAnonPod/status/1300197204443893760)
 
