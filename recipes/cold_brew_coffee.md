@@ -1,3 +1,10 @@
+# Iced filtered coffee 
+
+- 32.5g ground coffee -- 500ml total wates
+- 200g ice
+- 300g 90degree water
+- 90ml bloom (45sec)
+
 # Cold Brew Coffee
 
 ## Ingredients

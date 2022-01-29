@@ -1,4 +1,5 @@
 # Crash Course Socialism
+
 ## Contents
 
 <!-- toc -->
@@ -68,6 +69,7 @@ A 1983 report by England national income and expenditures found that on average,
 Capitalists use the surplus to [push out competitors](https://en.wikipedia.org/wiki/Anti-competitive_practices) and gain market share, leading to the destruction of most small businesses, with [just a few companies](http://imgur.com/a/xgnEp) controlling our food, media, [news](https://www.youtube.com/watch?v=x6U2Un5kEdI), energy, transportation, and finances.
 
 In the table below, both capital and surplus value are controlled by a company's owners, who usually appoint a board of directors. This owning class (called Capitalists, or the [Bourgeoisie](https://en.wikipedia.org/wiki/Bourgeoisie)) make up a **tiny minority** of the population.
+
 <table>
 <tbody>
 <tr>
@@ -82,7 +84,7 @@ In the table below, both capital and surplus value are controlled by a company's
 </tr>
 <tr>
 <td>Capital Accumulation</td>
-<td>&nbsp;</td>
+<td> </td>
 </tr>
 <tr>
 <td>Armed Enforcement</td>
@@ -90,36 +92,36 @@ In the table below, both capital and surplus value are controlled by a company's
 </tr>
 <tr>
 <td>Political Bribery</td>
-<td>&nbsp;</td>
+<td> </td>
 </tr>
 <tr>
 <td>Advertising</td>
-<td>&nbsp;</td>
+<td> </td>
 </tr>
 <tr>
 <td>Wages</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td rowspan="3">Capital</td>
 <td>Physical assets</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>Intellectual assets</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>Money / Finance capital</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td> </td>
+<td> </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p> </p>
 
 [Wage workers](https://www.youtube.com/watch?v=oztdRo9GLLk) are **completely dependent** on selling their labor power to those in control of production in order to gain access to the necessities of life (money for food, shelter, clothing, etc). Its similarities to chattel slavery has lead many to term wage work as [wage slavery](https://en.wikipedia.org/wiki/Wage_slavery), with voluntary employment being simply a false choice between **one exploiter or another**.
 
@@ -303,7 +305,7 @@ Past and present socialist societies include - The [Paris Commune](https://en.wi
 
 ### Modern introductory books
 
-  - [Introductory books](magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack)
+- [Introductory books](magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack)
 - [Paul D’Amatto - the meaning of Marxism](magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub)
 - [Danny Katch -  Socialism…. Seriously](magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc)
 - [Chris Harman - How Marxism Works](https://www.marxists.org/archive/harman/1979/marxism/index.html). [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjob9lPqBGAyQAX6lhxm5fE_d)
@@ -454,6 +456,7 @@ Past and present socialist societies include - The [Paris Commune](https://en.wi
   - [/r/GenZhou](https://www.reddit.com/r/genzhou/)
   - [/r/asktankies](https://www.reddit.com/r/asktankies/)
   - [/r/communism101](https://www.reddit.com/r/communism101/)
+
 - Memes
   - [/r/GenZedong](https://www.reddit.com/r/genzedong/)
   - [/r/FULLCOMMUNISM](https://www.reddit.com/r/FULLCOMMUNISM/)

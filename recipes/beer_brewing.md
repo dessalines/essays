@@ -3,6 +3,7 @@
 ## Videos
 
 - [Homebrewing basics playlist](https://www.youtube.com/playlist?list=PLJGQZwp3xofuwirWhdD2ks1Zf2cji0-rr&disable_polymer=true)
+
 ## Instructions
 
 ### Mash
@@ -72,3 +73,7 @@
 - Strike Temperature [?]: 164.33 F, 74 CPre-Boil Wort Produced [?]: 6.99 Gallons, 26.44 Liters 
 - 3 weeks primary, 2 weeks bottle 
 - 5.5 gallons post boil vol
+
+### Recipes
+
+- [Damned kids oatmeal stout](https://www.homebrewtalk.com/threads/damned-kids-oatmeal-stout-ag.49282/)
