@@ -15,7 +15,7 @@
 - [Paul D'Amato - The Meaning of Marxism](magnet:?xt=urn:btih:ba08fb9a9275892fc6dc2297ccb952ecfc4b4dc7&dn=Paul%20D%27Amato%20-%20The%20Meaning%20of%20Marxism%20%5baudiobook%5d%20by%20dessalines)
 - [Chris Harman - How Marxism Works](magnet:?xt=urn:btih:8ba6818292e48ae98e673063c08c69141ca36d92&dn=Chris%20Harman%20-%20How%20Marxism%20Works%20%5baudiobook%5d%20by%20dessalines)
 - [Michael Parenti - Blackshirts and Reds](magnet:?xt=urn:btih:03574a51059757d343006115555efe50cc67e880&dn=Michael%20Parenti%20-%20Blackshirts%20and%20Reds%20%5baudiobook%5d%20by%20dessalines)
-- [Michael Parenti - Friendly Feudalism - The Tibet Myth](magnet:?xt=urn:btih:2dccd768420587b74126330292440759810f2c46&dn=Michael%20Parenti%20-%20Friendly%20Feudalism%20-%20The%20Tibet%20Myth%20%5baudiobook%5d%20by%20dessalines)
+- [Michael Parenti - Inventing Reality](magnet:?xt=urn:btih:e6c5eaf8b2844984394ac9901c0e563785ba4bb2&dn=Michael%20Parenti%20-%20Inventing%20Reality%20%5baudiobook%5d%20by%20dessalines)
 - [Cockshott and Cottrell - Towards a New Socialism](magnet:?xt=urn:btih:ae5d0538fd9d324034f17eca67f52afb472c813e&dn=Cottrell+-+Towards+a+New+Socialism+%5Baudiobook%5D+by+dessalines)
 - [CLR James - Every Cook Can Govern](magnet:?xt=urn:btih:d21d86b790f7aba92db7990c9b85916ece059687&dn=CLR+James+-+Every+Cook+Can+Govern+%5Baudiobook%5D+by+dessalines)
 - [Lenin - Left-Wing Communism - an Infantile Disorder](magnet:?xt=urn:btih:796b404315dbeb409b233166d252c86efc72a084&dn=Lenin+-+Left-Wing+Communism+-+an+Infantile+Disorder+%5Baudiobook%5D)

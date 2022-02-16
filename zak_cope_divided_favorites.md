@@ -83,24 +83,13 @@ Just how much more are imperial core workers making? As of 2007, according to th
 
 If you make more than PPP $1.50 / hour, or ~$250 / month, then you are in the minority of the world's workers.
 
----
+Also, remember that western finance capitalists aren't paying for southern labor in PPP dollars, they're paying unadjusted wages, so the surplus value extracted is **much** higher. Southern workers are working using highly mobile, 21st century capital equipment, while being paid wage levels from the 1800s.
 
-Average Monthly Wage Rates for male OECD workers in 2002–2003 = $2,104
-
-Average Monthly Wage Rates for male non-OECD workers in 2002–2003 = $224
-
-Inflation-adjusted Average Monthly Wage Rates for male OECD workers in 2007[2] = $2,378
-
-Inflation-adjusted Average Yearly Wage Rates for male OECD workers in 2007 = $28,536
-
-Inflation-adjusted Average Monthly Wage Rates for male non-OECD workers in 2007 = $253
-
-Inflation-adjusted Average Yearly Wage Rates for male non-OECD workers in 2007 = $3,036
-
-Inflation-adjusted Average Hourly Wage Rates for male OECD workers in 2007[3] = $17
-
-Inflation-adjusted Average Hourly Wage Rates for male non-OECD workers in 2007 = $1.50
-
-Factoral Difference between OECD and non-OECD wages = 11
-
-Median Global Hourly wage = $9.25
+Inflation-adjusted Average Wage Rates for male workers in 2007 | _
+--- | ---
+Monthly wage for OECD workers | $2,378
+Monthly wage for non-OECD workers | $253
+Hourly wage for OECD workers | $17
+Hourly wage for non-OECD workers | $1.50
+Factoral Difference between OECD and non-OECD wages | 11
+Median Global Hourly wage | $9.25

@@ -263,6 +263,7 @@
   * [An interview with some traffic cops in China.](https://youtu.be/QFJSepGLFTw?t=1450)
 * [What if some people don't wanna be communist?](https://www.reddit.com/r/DebateCommunism/comments/9mtnyt/what_if_some_people_dont_wanna_be_communist/e7hc63u/)
 * [What about drugs / drug use?](https://en.prolewiki.org/wiki/Critique:On_drug_use)
+- [Where do communists stand on vaccine mandates?](https://www.reddit.com/r/DebateCommunism/comments/sgaoip/how_many_leftists_support_vaccine_mandates/), [2](https://lemmygrad.ml/post/119625/comment/107935)
 
 ## On Economics and Sociology
 
@@ -304,6 +305,7 @@
 - [Witchcraft - Class struggle and women's liberation in the middle ages.](https://www.cvltnation.com/rebellion-of-the-damned-witchcraft-as-social-revolt-in-early-modern-france/) [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoYf68CgjTOc88IDu1mvI4_L)
 - [Interviews with Women in the USSR.](https://www.reddit.com/r/communism101/comments/e30gjm/ussr_and_women_rights/f90d0r8/)
 - [What's wrong with "more women CEO" / imperial feminism?](https://twitter.com/RaniaKhalek/status/1207061598680027137?s=20)
+- [Redfightback - Misogyny is Not Caused by Biological “Sex”! The Historical-Materialist Theory of Gender](https://redfightback.org/misogyny-is-not-caused-by-biological-sex-the-historical-materialist-theory-of-gender/)
 - [Esperanza  - A Socialist, Feminist, and Transgender Analysis of “Sex Work”](https://proletarianfeminist.medium.com/a-socialist-feminist-and-transgender-analysis-of-sex-work-b08aaf1ee4ab) .
 - [RevLeft Radio interview with Comrade Brigid and Esperanza -  Proletarian Feminism, Women's Liberation, and the Sex Trade.](https://revolutionaryleftradio.libsyn.com/prolefem)
 - [Kollontai - Prostitution and ways of fighting it](https://www.marxists.org/archive/kollonta/1921/prostitution.htm)
@@ -396,6 +398,7 @@
 - [What are the main Marxist analyses of fascism? and a question regarding Trotsky's](http://www.reddit.com/r/communism101/comments/2p7ozi/what_are_the_main_marxist_analyses_of_fascism_and/)
 - [Did Stalin 'betray' the revolution? (repost of deleted question)](http://www.reddit.com/r/communism101/comments/1dp6qw/did_stalin_betray_the_revolution_repost_of/)
 - [Why was "Lenin's testament" suppressed by the Party after Lenin's death?](http://www.reddit.com/r/communism101/comments/2lfc5f/why_was_lenins_testament_suppressed_by_the_party/)
+- [Why was Trotsky assassinated?](https://internationalstalinsociety.wordpress.com/trotsky-the-anti-communist/)
 
 ## On India
 
@@ -1340,6 +1343,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Supports US presence in the middle east as a "stabilizing force"](https://twitter.com/SpookySocialist/status/1367635044311957506?s=20)
 - [Says the US military needs to stay in Afghanistan.](https://www.youtube.com/watch?v=tcB_HklU7aA)
 - [Wishes the CIA would coup Russia to install a pro western regime.](https://twitter.com/SarcasmStardust/status/1469307746671550468?s=20) 
+- [Vaush on Russia: "We need to starve russia out, sanction their leaders, cripple their economy, wait for them to bleed out, and then when they're ready to play ball, they'll be a nice, compliant country."]
 - [Wishes that Assange would be tortured to death in a CIA black site, because it would "trigger all the worst people on twitter."](https://twitter.com/SarcasmStardust/status/1470528366348582915?s=20)
 - [Admits he was an informant, and would rat out names to his higher-ups when he was in Antifa.](https://twitter.com/eshaLegal/status/1470533497253240839?s=20)
 - [Despite labeling himself as a socialist, he supports Neo-Keynesianism: "I feel like they have the answers."](https://www.reddit.com/r/Enough_Vaush_Spam/comments/n45u9q/i_feel_neokeyensian_economists_have_the_answer/)
