@@ -4,6 +4,16 @@ These are all ~10-15 minute videos, so I try to do at least one per day.
 
 I also use the android app XPlayer, a video player you can mute, so I can listen to audiobooks / music while I work out.
 
+## Week
+
+Day | Workout
+--- | ---
+Mon | chest and arms
+Tues | legs and core
+Wed | back and triceps (pullups)
+Thurs | legs and core w/ dumbells
+Fri | shoulders / traps and hiit
+
 ## Equipment
 
 - Dumbbell set
