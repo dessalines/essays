@@ -6,7 +6,7 @@
 - 1/8 small onion
 - 1 clove garlic
 - 1 Tbsp tomato paste
-- 1 3/4 cups water, divided
+- 1 3/4 cups water, divided, .25 cup first, then 1.5 cups
 - 1 tsp Knorr caldo de pollo 
 - 1/2 tsp salt
 - 3 Tbsp corn oil
