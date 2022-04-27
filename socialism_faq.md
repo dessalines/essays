@@ -226,6 +226,8 @@
 - [The propaganda multiplier: How the wests propaganda machine functions.](https://swprs.org/the-propaganda-multiplier/)
 - [On "brainwashing"](https://redsails.org/brainwashing/)
 - [Lenin on media and democracy.](https://www.reddit.com/r/GenZhou/comments/pcv7e6/capitalism_and_free_speech/hamedc0/)
+- Michael Parenti - Inventing Reality.  [Youtube audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjob0rkb9-tZlCvHAKse_HtF6)
+- [Multipolarista - How the US government cultivates an "anti-communist" / "compatible" left to aid US imperialism.
 
 ## Pacifism and Violence
 
@@ -824,7 +826,7 @@
 - [*2002 Cuban Constitution*](http://www.walterlippmann.com/cubanconstitution.html)
 - [*Work and Democracy in Socialist Cuba*](http://gen.lib.rus.ec/book/index.php?md5=fdfc7aee98499baaae696d5b1e04c065) by Linda Fuller
 
-## On North Korea
+## On North Korea / the DPRK
 
 - [Is north korea a totalitarian dictatorship? Are they all really required to get the same haircut? A short documentary.](https://www.youtube.com/watch?v=2BO83Ig-E8E)
 - [South Korea boosts reward for defectors to $860k USD](https://www.bbc.com/news/world-asia-39170614).
@@ -1370,6 +1372,22 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [They've sided with NATO in every one of its wars.](https://www.blackagendareport.com/content/%E2%80%9Chuman-rights%E2%80%9D-warriors-empire)
 - [A former AI administrator: "Amnesty international is nothing but an imperialist tool"](https://www.countercurrents.org/boyle231012.htm)
 
+### Ukraine (post maidan)
+
+- https://forward.com/news/462916/nazi-collaborator-monuments-in-ukraine/
+- https://en.wikipedia.org/wiki/Stepan_Bandera#Commemoration
+- https://i.imgur.com/9PY54DI.jpg
+- https://www.wsws.org/en/articles/2021/05/01/ukr-m01.html
+- https://www.liberationschool.org/the-roots-of-fascism-in-ukraine/
+- https://www.youtube.com/watch?v=VtOx6dW_0vU
+- https://lemmygrad.ml/post/135575
+- https://www.workers.org/2022/02/62086/
+- Decommunisation laws: https://en.wikipedia.org/wiki/Volodymyr_Viatrovych, no laws against neo-nazism
+- https://www.youtube.com/watch?v=7zZwhGHeIYM
+- https://youtu.be/JrMiSQAGOS4
+- https://v.redd.it/re0qb940lkk81
+- https://v.redd.it/j6lrcei3psk81
+
 ### Others
 
 - [What is Antifa? (Abby)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
@@ -1401,3 +1419,4 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Cory booker](https://twitter.com/Remroum/status/1425296761820786688?s=20)
 - [Aleksandr I. Solzhenitsyn and the Gulag Archipelago](https://www.reddit.com/r/GenZhou/comments/pd01t7/how_reliable_is_this_anticommunist_defense_of/hamp4mz/)
 - [The white chauvinism of Howard Zinn](https://anti-imperialism.org/2011/09/19/the-white-chauvinism-of-howard-zinn/)
+- [What is whataboutism?](https://blackagendareport.com/praise-whataboutism)

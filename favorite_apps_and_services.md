@@ -43,7 +43,7 @@
 
 - Install [Syncthing](https://syncthing.net/), and put all your documents in a synced folder. Use [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android) for Android.
 - Write all documents and notes in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-  - Use [Typora](https://typora.io/), [MarkText](https://marktext.github.io/website/), or vim as markdown editors / notes. 
+  - Use [MarkText](https://marktext.github.io/website/), [Markor for android](https://github.com/gsantner/markor), or vim as markdown editors / notes. 
 - Use vim with [vimrc](https://github.com/amix/vimrc) and [coc.nvim](https://github.com/neoclide/coc.nvim) for code.
   - Do not use vscode, it's [difficult to impossible to turn off keylogging](https://stackoverflow.com/questions/40451596/visual-studio-code-still-accessing-internet-after-update-and-telemetry-was-disab). If you must, use [VSCodium](https://github.com/VSCodium/vscodium#why-does-this-exist), which removes the built-in telemetry.
 - Spreadsheets in [Libreoffice](https://www.libreoffice.org/).
@@ -56,15 +56,17 @@
 ## Tasks / Todos
 
 - Use a [todo.txt](http://todotxt.org/) file for a personal task list, synced with syncthing.
-  - [QTodoTxt2](https://github.com/QTodoTxt/QTodoTxt2) as a desktop client, [todo.txt-vim](https://github.com/freitass/todo.txt-vim), [Simpletask Cloudless](https://play.google.com/store/apps/details?id=nl.mpcjanssen.simpletask&hl=en_US) for Android.
+  - [QTodoTxt2](https://github.com/QTodoTxt/QTodoTxt2) as a desktop client, [todo.txt-vim](https://github.com/freitass/todo.txt-vim), [Simpletask](https://f-droid.org/en/packages/nl.mpcjanssen.simpletask/) for Android.
 - For shared task lists, use [Hedgedoc](https://hedgedoc.org/).
 
 ## Collaboration
 
 - Use [Hedgedoc](https://hedgedoc.org/), a live / collaborative markdown editor.
+- [NextCloud](https://nextcloud.com/)
 
 ## Browsing
 
+- [Use Librewolf](https://librewolf.net/)
 - Use Firefox or Tor Browser, with the addons:
   - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
   - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container) - Keeps all Facebook stuff in it's own container.

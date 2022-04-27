@@ -301,7 +301,12 @@ Past and present socialist societies include - The [Paris Commune](https://en.wi
 
 ## Literature
 
-[Dessalines Marxism Study Plan](dessalines_marxism_study_plan.md)
+- [Dessalines Marxism Study Plan](dessalines_marxism_study_plan.md)
+
+### Audiobooks
+
+- [Dessalines List of Audiobooks](audiobooks.md) (Many of the books and articles above are here)
+- [Dessalines Youtube Channel w/ Audiobooks](https://www.youtube.com/channel/UC7HJWIFGGeMiJi2h3k18CrQ)
 
 ### Modern introductory books
 
@@ -344,7 +349,9 @@ Past and present socialist societies include - The [Paris Commune](https://en.wi
 - [J. Sakai - Settlers: the Mythology of the White Proletariat](http://readsettlers.org/text-index.html), [audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoZEICtu8cocz_3oRFS6L7wN)
 - [Howard Zinn - A Peoples History of the United States](http://www.historyisaweapon.com/zinnapeopleshistory.html)
 - [Roxanne Dunbar-Ortiz - An indigenous peoples history of the US. ](magnet:?xt=urn:btih:1ae24bda86bd23da6edad32568ad5ff574663f88&dn=Roxanne%20Dunbar-Ortiz%20-%20An%20Indigenous%20Peoples'%20History%20of%20the%20United%20States.mp3)
-- [Parenti - Blackshirts and Reds](https://www.amazon.com/Blackshirts-Reds-Rational-Overthrow-Communism/dp/0872863298)
+- Michael Parenti - Blackshirts and Reds. [Youtube audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoak57jcXDh1rY4n7Ic-EVsE)
+- Michael Parenti - Inventing Reality.  [Youtube audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjob0rkb9-tZlCvHAKse_HtF6)
+- [Parenti - Inventing Reality: A critique of US media](magnet:?xt=urn:btih:e6c5eaf8b2844984394ac9901c0e563785ba4bb2&dn=Michael%20Parenti%20-%20Inventing%20Reality%20%5baudiobook%5d%20by%20dessalines)
 - [Eduardo Galeano - Open Veins of Latin America](https://www.amazon.com/Open-Veins-Latin-America-Centuries/dp/0853459916/ref=sr_1_1?ie=UTF8&qid=1485894404&sr=8-1&keywords=open+veins+of+latin+america)
 - [Walter Rodney - How Europe underdeveloped Africa](magnet:?xt=urn:btih:C8EA24A6B93F427D17585CBDE9F31EE2F5ACF2EB&dn=Walter+Rodney+-+How+Europe+Underdeveloped+Africa+%5Baudiobook%5D+audible)
 - [CLR James - The Black Jacobins](http://www.ouleft.org/wp-content/uploads/CLR_James_The_Black_Jacobins.pdf)
@@ -361,11 +368,6 @@ Past and present socialist societies include - The [Paris Commune](https://en.wi
 ### Fiction
 
 - Kim Stanley Robinson - Red Mars / Mars Trilogy
-
-## Audiobooks
-
-- [Dessalines List of Audiobooks](audiobooks.md) (Many of the books and articles above are here)
-- [Dessalines Youtube Channel w/ Audiobooks](https://www.youtube.com/channel/UC7HJWIFGGeMiJi2h3k18CrQ)
 
 ## Films
 

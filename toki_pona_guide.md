@@ -9,7 +9,6 @@
 
 - Download a client for the spaced-repetition software, [Anki](https://apps.ankiweb.net/). 
   - [AnkiDroid for Android](https://play.google.com/store/apps/details?id=com.ichi2.anki)
-
 - [Shared Deck of all the current popular words](https://ankiweb.net/shared/info/1075479788) (~137 words as of 2022, known as *pu + nimi ku suli*).
 - [Shared Deck of all the phrases from jan Lentan's lessons.](https://ankiweb.net/shared/info/204928497)
 - You can find other shared decks [here](https://ankiweb.net/shared/decks/toki%20pona).
