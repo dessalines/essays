@@ -32,6 +32,8 @@
     + [Briar](#briar)
       - [Caveats](#caveats-1)
     + [Jitsi](#jitsi)
+    + [SimpleX](#simplex)
+      - [Caveats](#simplex-caveats)
   * [Conclusions](#conclusions)
 
 <!-- tocstop -->
@@ -244,6 +246,15 @@ Briar is newer, and lacks too many features to be usable for large organizations
 ### Jitsi
 
 [Jitsi](https://jitsi.org/) is a self-hostable, open source, video-conferencing solution, that can work as an alternative to Zoom. It has a web app, and native apps for desktop, iOS, and android. Matrix currently bundles in Jitsi for use for its video group calls.
+
+### SimpleX
+
+[SimpleX](https://github.com/simplex-chat/simplex-chat#readme) is a privacy-first messaging protocol and platform. It is open source, anonymous (no identifiers assigned to users), and end-to-end encrypted. The server is fully self-hostable, and the CLI client, iOS client, and Android client can change from the default set of servers run by the SimpleX project in a menu. The Android app is available on F-Droid.
+
+#### SimpleX Caveats
+
+- The iOS and Android clients don't use the app store-run push notification system for privacy reasons; receiving messages can be delayed when the app isn't open.
+- There isn't currently a web-based client because the SimpleX project assesses that web has too many attack vectors.
 
 ## Conclusions
 
