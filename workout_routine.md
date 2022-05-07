@@ -7,7 +7,7 @@ Day | Workout
 Mon | Lower
 Tues | Upper + Abs
 Wed | Rest
-Thurs | Lower
+Thurs | Lower + Abs
 Fri | Upper + Cardio
 
 ## Equipment
@@ -34,8 +34,6 @@ Use the android app XPlayer, a video player you can mute, so I can listen to aud
 
 ### Lower 
 
-#### Legs
-
-#### Abs / core
+### Abs / core
  
 ### Cardio
