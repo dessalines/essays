@@ -363,7 +363,7 @@ Past and present socialist societies include - The [Paris Commune](https://en.wi
 
 ### Psychology
 
-- [Robert Cialdini - The Psychology of persuasion](magnet:?xt=urn:btih:bad0ad6cca5c00ba8d1f8e8c4e5962f6d611f381&dn=Influence_%20The%20Psychology%20of%20Persuasion%20by%20Robert%20Cialdini) (not explicitly Marxist, but a great breakdown of the main psychological tactics used by exploiters to manipulate us)
+- [Robert Cialdini - The Psychology of persuasion](magnet:?xt=urn:btih:e23a07e07eea40cb172625b03253b6484fb27e2f) (not explicitly Marxist, but a great breakdown of the main psychological tactics used by exploiters to manipulate us)
 
 ### Fiction
 

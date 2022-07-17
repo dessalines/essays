@@ -1,9 +1,14 @@
 # Iced filtered coffee 
 
-- 32.5g ground coffee -- 500ml total wates
+- 32.5g coffee/500ml
 - 200g ice
-- 300g 90degree water
-- 90ml bloom (45sec)
+- 300g hot water
+
+1. 97g bloom (45sec) stir bloom
+2. pour remain water in 2:30 to 3 minutes
+3. stir once circular motion once in opposite motion
+4. after drawdown, swirl canister to melt ice
+5. serve on fresh ice
 
 # Cold Brew Coffee
 

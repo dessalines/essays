@@ -573,6 +573,7 @@
 * [Did Lenin say anything about Market Socialism, or productivism?](https://www.reddit.com/r/DebateCommunism/comments/quevn9/what_are_actually_existing_socialist_countries_as/hkqprfx/)
 * [Vijay Prashad - Is China capitalist?](https://www.youtube.com/watch?v=3X7U2W6ryjE)
 * [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/) [Why are many billionaires and CEOs going missing?](https://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html) [China sentences Ex-Chairman of a major bank, guilty of embezzling ~$100M USD, to death in 2019.](https://www.bloomberg.com/news/articles/2019-12-27/china-sentences-ex-chairman-of-troubled-hengfeng-bank-to-death)
+* [China cracks down on billionaires - Ben Norton interviews Ian Goodrum](https://youtu.be/TiJ2-Uw_0tA)
 * [Do capitalists control the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
 * [How the State runs business in China.](https://www.theguardian.com/world/2019/jul/25/china-business-xi-jinping-communist-party-state-private-enterprise-huawei)
 * [50% of the economy is in the socialist public sector and directly follows the plan (40% if you ignore the agricultural sector). 20 to 30% is inside the state capitalist sector, which is the sector partially or totally owned by domestic capitalists but run by the CPC or by local workers councils. The rest is made up of the small bourgeois ownership like in the NEP.](https://chinareporting.blogspot.com/2009/11/class-nature-of-chinese-state-critique_26.html)
@@ -743,6 +744,7 @@
 - [Citizens of Xinjiang Speak](https://www.youtube.com/playlist?list=PLkbOIKUddMBtp0_xEFqn4zey48kkgJq5w)
 - [The Xinjiang Atrocity Propaganda Blitz](https://redsails.org/the-xinjiang-atrocity-propaganda-blitz/)
 - [World Bank Statement on Review of Project in Xinjiang, China](https://www.worldbank.org/en/news/statement/2019/11/11/world-bank-statement-on-review-of-project-in-xinjiang-china)
+- [Breaking down another 2022 BBC "leak" of Uyghur oppression.](https://mobile.twitter.com/Cinqscories/status/1529035490032340993)
 - [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic). 
 
 ### What about the Falun Gong?
@@ -948,7 +950,7 @@
 - [He attempted to rape one of his first courtships: "Previously the young couple had kissed, but now, during a late summer walk, he had wanted more. At only five feet to his six feet and four inches, Jacintha had shouted, screamed and kicked before running home with a torn skirt and bruised hip. It was "this" rather than any gradual parting of the ways that explains why Jacintha broke off all contact with her childhood friend, never to learn that he had transformed himself into George Orwell."](https://www.theguardian.com/books/2007/feb/17/georgeorwell.biography)
 - [Redsails - On Orwell.](https://redsails.org/on-orwell/)
 - [Rainer Shea - Orwells 1984 - Anti-communist propaganda.](https://medium.com/@rainershea612/orwells-1984-is-a-deeply-paranoid-piece-of-anti-communist-propaganda-15a741c85d9a)
-- [Orwell worked as a British imperial cop in Burma for 5 years](http://factsanddetails.com/southeast-asia/Myanmar/sub5_5e/entry-3083.html). His short story, [Shooting an Elephant](http://www.denisedrespling.com/review-shooting-elephant-george-orwell/), uses ethnic slurs and denigrates burmese people. 
+- [Orwell worked as a British imperial cop in Burma for 5 years](http://factsanddetails.com/southeast-asia/Myanmar/sub5_5e/entry-3083.html). His short story, [Shooting an Elephant](http://www.denisedrespling.com/review-shooting-elephant-george-orwell/), uses ethnic slurs and [denigrates burmese people.](http://exiledonline.com/big-brothers-george-orwell-and-christopher-hitchens-exposed/) 
 - [A reddit thread on George Orwell](https://www.reddit.com/r/communism101/comments/797lnl/as_a_communist_how_do_you_feel_the_works_of/), [Thread #2](https://www.reddit.com/r/LateStageCapitalism/comments/7dhx99/for_those_on_the_right_who_think_orwell_wrote/dpy4zik/).
 
 ### John McCain
@@ -988,6 +990,7 @@
 - [Supports US imperialism](https://leftistcritic.wordpress.com/2017/01/31/bernie-sanders-an-imperialist-worth-despising/). [2](https://www.alternet.org/election-2016/bernie-sanders-troubling-history-supporting-us-military-violence-abroad)
   - [Voted for US intervention](https://i.imgur.com/HCvaDLp.jpg) in the following nations: Afghanistan, Lebanon, [Libya](https://www.leftvoice.org/not-on-our-side-on-bernie-sanders-and-imperialism), [Somalia](http://votesmart.org/bill/2732/7934/27110/bernie-sanders-voted-yea-passage-with-amendment-s-j-res-45-authorization-for-use-of-%20us-armed-forces-in-somalia#7934), Syria, Yemen, [Yugoslavia](http://www.libertyunionparty.org/?page_id=363),[2](http://votesmart.org/bill/2808/7948/27110/bosnia-troop-deployment-resolution#.Ve5QZkvJyhG), Bosnia, Haiti, Congo, Liberia, Sudan, and Ukraine.
   - [Warmongers on the Bill O'Reilley show for the US to intervene against Russia, Syria, and China.](https://www.youtube.com/watch?v=EO4Ko-v-q0g&feature=youtu.be&t=2m12s)
+  - [Votes with the rest of the US senate to send $40B in weaponry to Ukraine.](https://mobile.twitter.com/mtracey/status/1527359801746853902)
   - [Supports drone bombing: "They have, at times, been effective."](https://abcnews.go.com/Politics/bernie-sanders-people-responding-message/story?id=33413601). Another interview: ["Drones have done some good things. They've been selective; they've taken out people who should be taken out"](https://www.telesurenglish.net/news/Bernie-Sanders-Drones-Have-Done-Some-Good-Things-20160330-0006.html)
   - Staunchly supports Israel in their displacement of Palestinians (while blaming hamas for the conflict). [Says he will not move back the US embassy in Israel back from Jerusalem to Tel Aviv, after Trump moved it the previous year.](https://electronicintifada.net/blogs/ali-abunimah/why-bernie-sanders-still-encouraging-israels-crimes)
   - [Supports GW Bush](https://i.imgur.com/tHN9DzG.png). [Supported warmonger John McCain after his death.](https://i.imgur.com/R3cAhdC.jpg)
@@ -1166,6 +1169,8 @@
 - [He's anti-USSR, anti bolivarian revolution, supported the coups in Ukraine and Libya](https://alphonsevanworden.tumblr.com/post/146430343445/the-protocols-of-the-learned-lacanian-of)
 - [Thinks socialism died a long time ago in Cuba, that everyone lives there because of a misguided devotion to Castro, and thinks the bolivarian revolution will soon fail.](https://inthesetimes.com/article/the-left-fidelity-castration-slavoj-zizek-fidel-castro-cuba-che-communism)
 - [Defines Marxism: "Marx wanted a return to traditional values."](https://youtu.be/YTCiVDwmZ6U?t=147)
+- [Comes out in favor of NATO against Russia, in the 2022 Ukraine conflict.](https://www.theguardian.com/commentisfree/2022/may/23/we-must-stop-letting-russia-define-the-terms-of-the-ukraine-crisis)
+- [Argues for a stronger NATO to fight against Russia and for Ukraine.](https://amp.theguardian.com/commentisfree/2022/jun/21/pacificsm-is-the-wrong-response-to-the-war-in-ukraine)
 - [More here](https://www.reddit.com/r/Marxism/comments/dlz8me/zizek_criticizes_european_leftists_who_reject/f4yl11f/)
 
 ### What's wrong with Barack Obama?
@@ -1410,14 +1415,19 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Bordiga](https://libcom.org/forums/history/bordiga-leninist-who-put-his-hopes-axis-27122017)
 - CPUSA [1](https://www.peoplesworld.org/article/bidens-crisis-presidency-and-potential-for-transformative-change/), [2](https://www.peoplesworld.org/article/biden-and-sanders-establish-task-force-to-unite-party-on-progressive-agenda/), [3](https://www.peoplesworld.org/article/a-clear-shot-shows-diversity-on-police-forces-a-good-thing/)
 - [Ziq](https://web.archive.org/web/20180405002453/https://raddle.me/f/lobby/28422/i-m-stepping-down-as-admin-because-of-some-shit-i-did-emma) [2](https://archive.is/THMIk)
-- [Robert Evans](https://twitter.com/BenjaminNorton/status/1288116233133424648) [2](https://communism.lemmy.ml/pictrs/image/XwBw0R0M59.jpg)
+- [Robert Evans](https://twitter.com/hegellacan1/status/1536090225092374528?t=gOVNa1-sKTgihX4OnDEw_A&s=19), [2](https://twitter.com/BenjaminNorton/status/1288116233133424648) [3](https://lemmygrad.ml/pictrs/image/XwBw0R0M59.jpg)
 - Paul Morrin - [China is imperialist](https://twitter.com/LurkerUntamed/status/1372732445146165251?s=20), [Cuba, China, the DPRK, and the USSR are "social imperialist".](https://twitter.com/ANTICONQUISTA/status/1375213633186193413)
 - [Blackredguard](https://twitter.com/BlackRedGuard1/status/1383849476863844359?s=20)
 - [A response to David Harvey's theories of Imperialism by John Smith.](https://urpe.wordpress.com/2018/01/11/a-critique-of-david-harvey-on-imperialism/)
 - [Is signal secure? Yasha Levine](https://yasha.substack.com/p/signal-is-a-government-op-85e)
-- Belarus: [1](https://np.reddit.com/r/EuropeanSocialists/comments/i8cf4z/nazi_roots_of_symbols_of_the_belarusian_opposition/), [2](https://thegrayzone.com/2021/05/26/belarus-roman-protasevich-plane-nazis-ukraine/), [3](https://www.rt.com/russia/525032-protasevich-arrest-neo-nazi-links/)
+- Belarus: [1](https://np.reddit.com/r/EuropeanSocialists/comments/i8cf4z/nazi_roots_of_symbols_of_the_belarusian_opposition/), [2](https://thegrayzone.com/2021/05/26/belarus-roman-protasevich-plane-nazis-ukraine/), [3](https://www.rt.com/russia/525032-protasevich-arrest-neo-nazi-links/). https://cprf.ru/2022/05/in-ukraine-russia-is-fighting-neo-nazism/
 - [The Fort Dietrich virus](https://twitter.com/ProPeace97/status/1420657562618318850)
 - [Cory booker](https://twitter.com/Remroum/status/1425296761820786688?s=20)
 - [Aleksandr I. Solzhenitsyn and the Gulag Archipelago](https://www.reddit.com/r/GenZhou/comments/pd01t7/how_reliable_is_this_anticommunist_defense_of/hamp4mz/)
 - [The white chauvinism of Howard Zinn](https://anti-imperialism.org/2011/09/19/the-white-chauvinism-of-howard-zinn/)
 - [What is whataboutism?](https://blackagendareport.com/praise-whataboutism)
+- [A Marxist analysis of the 2008 financial crisis](https://twitter.com/LeninBol/status/1535120492775976967?t=VQXCwkpunYl4adK11n381A&s=19)
+- [Gabriel Boric](https://orinocotribune.com/gabriel-boric-lashes-out-at-cuba-and-venezuela-at-summit-of-the-americas/)
+  - [Responding to a polcomp tweet in which he calls himself a libertarian socialist](https://mobile.twitter.com/gabrielboric/status/1249811334058979328) 
+  - [Demanding that the PCCh retract their support of Daniel Ortega, claiming he's an illegitimate president](https://m.elmostrador.cl/dia/2021/11/12/yo-invito-al-pc-a-retractarse-boric-sale-al-paso-de-la-declaracion-de-sus-socios-a-favor-de-daniel-ortega-por-elecciones-en-nicaragua/)
+  - [Calling Venezuela a failure and a dictatorship](https://www.infobae.com/america/venezuela/2022/01/22/gabriel-boric-venezuela-es-una-experiencia-que-ha-fracasado-y-la-principal-demostracion-son-los-6-millones-de-venezolanos-en-diaspora/)

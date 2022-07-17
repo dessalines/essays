@@ -48,7 +48,7 @@
 - [Eduardo Galeano - Open Veins of Latin America, Five Centuries of the Pillage of a Continent](magnet:?xt=urn:btih:3cc58222c97db89a139260f0ca11368671bea60)
 - [Marx and Engels - The Communist Manifesto](magnet:?xt=urn:btih:7428b83a5f9a51885e12166c0895a41f7f05396a&dn=Audiobook+The+Communist+Manifesto+by+Karl+Marx+and+Friedrich+Eng)
 - [Fidel Castro - My Life](magnet:?xt=urn:btih:22156961fcefdb4b9cc4ab458f4c60b0fd186761&dn=Fidel%20Castro%20-%20My%20Life)
-- [Robert Cialdini - The Psychology of persuasion](magnet:?xt=urn:btih:cf297031c653f986999ca7a978b8e2f55a792ef1&dn=Influence%20The%20Psychology%20of%20Persuasion)
+- [Robert Cialdini - The Psychology of magnet:?xt=urn:btih:e23a07e07eea40cb172625b03253b6484fb27e2f)
 - [Walter Rodney - How Europe underdeveloped Africa](magnet:?xt=urn:btih:C8EA24A6B93F427D17585CBDE9F31EE2F5ACF2EB&dn=Walter+Rodney+-+How+Europe+Underdeveloped+Africa+%5Baudiobook%5D+audible)
 - [Roxanne Dunbar-Ortiz - An indigenous peoples history of the US. ](magnet:?xt=urn:btih:1ae24bda86bd23da6edad32568ad5ff574663f88&dn=Roxanne%20Dunbar-Ortiz%20-%20An%20Indigenous%20Peoples'%20History%20of%20the%20United%20States.mp3)
 - [Autobiography of Malcolm X - as told to Alex Haley](magnet:?xt=urn:btih:4e1ba39a81f987fddf7e6abf9e49e2a0c8490168&dn=Malcolm X - The Autobiography of Malcolm X)
