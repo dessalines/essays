@@ -745,7 +745,7 @@
 - [The Xinjiang Atrocity Propaganda Blitz](https://redsails.org/the-xinjiang-atrocity-propaganda-blitz/)
 - [World Bank Statement on Review of Project in Xinjiang, China](https://www.worldbank.org/en/news/statement/2019/11/11/world-bank-statement-on-review-of-project-in-xinjiang-china)
 - [Breaking down another 2022 BBC "leak" of Uyghur oppression.](https://mobile.twitter.com/Cinqscories/status/1529035490032340993)
-- [More sources debunking this here](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic). 
+- [More sources debunking this here](https://web.archive.org/web/20200724104637/https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU/mobilebasic). 
 
 ### What about the Falun Gong?
 
