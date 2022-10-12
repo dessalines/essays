@@ -1,10 +1,63 @@
-# Iced filtered coffee 
+# French press
 
-- 32.5g coffee/500ml
+- 30g medium coarse grounded Coffee + 500 ml water
+- leave it 4 minutes
+- mix a bit at top, remove foam and fines with spoon
+- let it rest 5 or + minutes
+- After that, press the filter just until the surface and pour the coffee through it (without pressing the plunge all the way).
+
+# Hot coffee v60
+
+- Grind 30 g of coffee
+- Rinse paper filter with water just off the boil
+- Add coffee grounds to V60
+- Create well in the middle of the grounds
+- Start timer
+- t = 0:00
+- Add 2x coffee weight = 60 g of bloom water
+- Swirl the coffee slurry until evenly mixed
+- Bloom for up to 45 s
+- t = 0:45
+- Add water aiming for 60% of total brew weight = 300 g in the next 30 s
+- Since you already added 60 g bloom water, add 240 g in 30 s (flow rate = 8 g/s)
+- t = 1:15
+- Add water aiming for 100% of the total brew weight = 500 g in the next 30 s
+- Since you already added 300 g water, add 200 g in 30 s (flow rate = 6.66 g/s)
+  Poor a little slower than in the first phase, not too aggressively
+- t = 1:45
+- Stir 1x clockwise and 1x anticlockwise with spoon. This knocks off grounds from side wall
+- Allow V60 to drain a little
+- Give V60 a gentle swirl
+- Let brew drawdown. Aim to finish drawdawn by t = 3:30
+- Enjoy!
+
+# Iced filtered coffee
+
+## Ingredients
+
+- 20g Coffee ( medium coarse, not too fine or else it will be bitter)
+- 150g Ice
+- 150ml hot water (205°F)
+
+## Brew
+
+- Put ice into the decanter.
+- Wet filter with hot water.
+- Put coffee in filter. Make a divot in the middle.
+- Bloom the coffee with 50g of hot water.
+- Swirl
+- Add 100g of water to reach 150g total.
+- Swirl to get extra bits.
+- Should take ˜2-3 minutes total
+- Serve over ice cubes
+
+---
+
+- 30g coffee/500ml
 - 200g ice
 - 300g hot water
 
-1. 97g bloom (45sec) stir bloom
+1. 60g bloom (45sec) stir bloom
 2. pour remain water in 2:30 to 3 minutes
 3. stir once circular motion once in opposite motion
 4. after drawdown, swirl canister to melt ice

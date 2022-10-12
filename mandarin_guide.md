@@ -1,5 +1,30 @@
 # Mandarin Study Plan
 
+- [Refold Mandarin Guide](https://refold.la/quickstart)
+
+## Daily study
+
+| Type      | Time (minutes) |
+| --------- | -------------- |
+| Vocab     | 15             |
+| Grammar   | 15             |
+| Immersion | 30             |
+
+## To Watch
+
+- https://youtu.be/dpQ3IMd4AMg?list=PLwFUKjRMEUxw2IRsDA8GZGW1AZdgCoiAA
+- https://youtu.be/q2hrlAGewvY
+- https://youtu.be/Ng3UC894haQ
+- https://youtu.be/qrXIeWGvHDg?list=PLrYgra2FrMh-fQrd59Gdqn9Jq9ZLTqfJc
+- https://youtu.be/mfBwNIjMbss?list=PL7VdqFXO0Lzdu2U1q-_vZxcuWyqJEitZV
+
+## Immersion resources
+
+- [Refold mandarin main guide](https://docs.google.com/document/d/e/2PACX-1vS5Hri7NoO6bhY4rFpCGpkPCB46OS2ZCX7bpDiRU2dNA0CJnHwWKG885NdAbREzXVRkSnbVO8ODaVwv/pub)
+- [Refold Mandarin resources](https://docs.google.com/spreadsheets/u/0/d/1mq3sfslUsC9WlPM7pJN5A7hOFdVqpEFBbiU8-fgmRUw/htmlview#gid=0)
+- [Heavenly path resources](https://heavenlypath.notion.site/heavenlypath/Heavenly-Path-d9be1806465b4525afeb132d1079194c)
+- Chinese marxism lectures youtube?
+
 ## Apps
 
 - [HelloChinese](http://hellochinese.cc/)
@@ -26,5 +51,7 @@
 
 ### Anki decks
 
+- [HSK](https://ankiweb.net/shared/info/1907668496)
+- [Zhongwen red green blue](https://ankiweb.net/shared/info/3169370251)
 - [Domino Chinese](https://ankiweb.net/shared/info/722819818)
 - [Spoonfed Chinese](https://ankiweb.net/shared/info/53920083)
