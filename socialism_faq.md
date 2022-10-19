@@ -559,7 +559,7 @@
 ### Is China State Capitalist?
 
 - The backbone of the economy is [state ownership and socialist planning](https://lemmygrad.ml/pictrs/image/1NSG54IaEm.png?format=webp). [24 / 25 of the top revenue companies are state-owned and planned.](https://www.reddit.com/r/communism101/comments/8hdbib/how_is_china_communist_if_it_has_a_ton_of_private/dyj082s/) [70% of the top 500 companies are State-owned](https://chinapower.csis.org/chinese-companies-global-500/). [1](https://en.wikipedia.org/wiki/State-owned_Assets_Supervision_and_Administration_Commission#Central_SOEs), [2](https://en.wikipedia.org/wiki/List_of_largest_Chinese_companies) The largest bank, construction, electricity, and energy companies in the world, are CPC controlled entities, subject to the [5 year plans laid out by the central committee.](https://news.cgtn.com/news/2020-10-29/19th-CPC-Central-Committee-concludes-fifth-plenary-session-UZ8ZC4kHhm/index.html)
-- [Workplace democracy in action in the CPC.](https://threadreaderapp.com/thread/1043159032935006208.html)
+- [Workplace democracy in action in the CPC.](https://archive.ph/DwD1n)
 - [Is modern day china communist? Is it staying true to communist values?](https://www.reddit.com/r/communism101/comments/91liw2/how_is_china_staying_true_to_communist_values/e2z3kzu/)
 - [Didn't China go Capitalist with Deng Xiaoping? Didn't it liberalize its economy? Is China's drastic decrease in poverty a result of the increase in free market capitalist policies?](https://www.reddit.com/r/DebateCommunism/comments/b3gjfe/chinas_drastic_decrease_in_poverty_is_a_result_of/ey8depl/?context=3)
 - [Is the CPC committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
@@ -587,7 +587,7 @@
 ### Is China a Democracy?
 
 - [Is China a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
-- [Workplace democracy in action in the CPC.](https://threadreaderapp.com/thread/1043159032935006208.html)
+- [Workplace democracy in action in the CPC.](https://archive.ph/DwD1n)
 - [What kind of democracy does China have, and how is it different from the west?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answers/81676052?share=0ac8c628&srid=JMzz)
 - In contrast to low US political approval ratings, 96% of Chinese are satisfied with the national government (Edelmans 2016). World Values Surveys says that 83% think the country is run for their benefit rather than for the benefit of special groups. [A Harvard research center study of long-term public opinion survey finds that > 95% of Chinese citizens approved their government.](https://news.harvard.edu/gazette/story/2020/07/long-term-survey-reveals-chinese-government-satisfaction/) [How is this possible in a one-party state? (TED talk by Eric X Li)](https://www.youtube.com/watch?v=s0YjL9rZyR0)
 - [How does China’s political system work?](https://www.youtube.com/watch?v=Qu4QTxl9GVw)
@@ -599,7 +599,7 @@
 ### Workers rights
 
 - [The real wage (IE the wage adjusted for the prices you pay) has gone up 4x in the past 25 years, more than any other country. This is staggering considering it's the most populous country on the planet. The US real wage by comparison is lower in 2019 than it was in 1973.](https://www.youtube.com/watch?v=Cw8SvK0E5dI)
-- [Workplace democracy in action in the CPC.](https://threadreaderapp.com/thread/1043159032935006208.html)
+- [Workplace democracy in action in the CPC.](https://archive.ph/DwD1n)
 - [US Life expectancy peaked in 2015, is on the decline, and is now lower than in China.](https://www.businessinsider.com/china-boasts-that-its-healthy-life-expectancy-beats-the-us-is-correct-2018-5) [2](http://www.xinhuanet.com/english/2019-09/07/c_138372963.htm)
   - How [healthcare works in China (refuting a fearmongering NYT video about health care in China)](https://www.youtube.com/watch?v=mvpo2jv5eqI).
   - [Uninsured Chinese citizens pay an average of $5-7 to see a specialist (the majority of hospital visits ), and with insurance, its free. 95% of Chinese citizens have insurance](https://hotpot.team/new-york-times-lies/)
@@ -1035,6 +1035,7 @@
 - [After Trump fires John Bolton (who tried and failed at starting wars with North Korea, Venezuela, and Iran), she goes full neocon, angry that Trump isn't going to war with North Korea.](https://i.imgur.com/3rSM3oU.jpg)
 - [Refused to talk with an Okinawan representative about the US military occupation there. ](https://mobile.twitter.com/robkajiwara/status/1373370618159099905)
 - [In 2009 AOC travelled to Niger as part of a USAID program.](https://dailyfreepress.com/2010/03/18/niger-program-to-resume-in-fall/) USAID is a CIA affiliated program that backs regime change abroad (under the guise of ‘promoting democracy’.) In 2010 the Niger Government was replaced in a coup, with the US [publicly backing the new regime.](https://web.archive.org/web/20100223082036/http://news.yahoo.com/s/afp/20100218/pl_afp/nigerunrestus) The previous Niger Government had [ended a French monopoly on Uranium mining in their country](https://www.namibian.com.na/30123/archive-read/Niger-ends-French-mining-monopoly-NIAMEY--) and was looking instead to [partner with China.](https://www.cairn-int.info/article-E_HER_142_0206—niger-a-state-rich-in-uranium.htm). After the coup the French monopoly was re-instated – with [dire consequences for Niger.](https://www.downtoearth.org.in/blog/health-in-africa/extracting-a-radioactive-disaster-in-niger-63451)
+- After being criticized during a town hall meeting for bringing the world closer to nuclear war for her vote to arm Ukraine, she accused her critic of "speaking over a deaf person". [She knew the deaf person wasn't in attendence, she was only reading that person's email.](https://twitter.com/JoshC0301/status/1580721398674096128?s=20&t=i8t0sR51NJCZPD3Y-sNV1Q)
 
 #### Domestic issues
 
