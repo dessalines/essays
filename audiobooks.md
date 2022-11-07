@@ -81,7 +81,7 @@
 - [Vijay Prashad - Washington Bullets [audible]](magnet:?xt=urn:btih:e39cd4dc52b3bd609e28b4f5e8fc3269285d54dd&dn=Vijay%20Prashad%20-%20Washington%20Bullets%20%5baudible%5d)
 - [Jon Lee Anderson - Che Guevara - A Revolutionary Life [audible]](magnet:?xt=urn:btih:a874efb7bf3d8b3e1a77c13881896a27c0d78143&dn=Jon%20Lee%20Anderson%20-%20Che%20Guevara%20-%20A%20Revolutionary%20Life%20%5baudible%5d)
 - [Ezra Vogel - Deng Xiaoping and the Transformation of China](magnet:?xt=urn:btih:669a06ddd878424d0cf0fd97ece7cb1494ab795f&dn=Deng%20Xiaoping%20and%20the%20Transformation%20of%20China)
-- [Vijay Prashad - The Darker Nations Audiobook (Edited by Howard Zinn)(magnet:?xt=urn:btih:dbe74687180ab9afbdd8ef3a5216492bf30287cd&dn=Vijay%20Prashad%20-%20The%20Darker%20Nations%20Audiobook)
+- [Vijay Prashad - The Darker Nations Audiobook](magnet:?xt=urn:btih:dbe74687180ab9afbdd8ef3a5216492bf30287cd&dn=Vijay%20Prashad%20-%20The%20Darker%20Nations%20Audiobook)
 - [Cedric J. Robinson - Black Marxism [audible]](magnet:?xt=urn:btih:c5b8d50db1f61cc21de06b7746593aabad2aa7d1&dn=Cedric%20J.%20Robinson%20-%20Black%20Marxism%20%5baudible%5d)
 - [Looking Backward: 2000-1887 - Edward Bellamy - 2022 (Classic Sci-Fi) [Audiobook] (miok)](magnet:?xt=urn:btih:755ac78edbefe8c857464d8a10196567a60889bd&dn=Edward%20Bellamy%20-%202022%20-%20Looking%20Backward%20-%202000-1887%20)
 - [Roland Boer - Socialism with Chinese Characteristics [audiobook] read by C Ozmun](magnet:?xt=urn:btih:7072a92fb493ecb59b0e1d3ba02690cd5aa557ee&dn=Roland%20Boer%20-%20Socialism%20with%20Chinese%20Characteristics%20%5baudiobook%5d%20read%20by%20C%20Ozmun)
