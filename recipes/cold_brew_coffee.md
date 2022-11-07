@@ -1,10 +1,22 @@
-# French press
+# Hario Tetsuo 4-6
 
-- 30g medium coarse grounded Coffee + 500 ml water
-- leave it 4 minutes
-- mix a bit at top, remove foam and fines with spoon
-- let it rest 5 or + minutes
-- After that, press the filter just until the surface and pour the coffee through it (without pressing the plunge all the way).
+- 18g medium coarse
+- pour circular, center outward
+- Bloom 45g
+- 45s , 120g
+- 1:30s, 180g
+- 2:15s, 240g
+- 3:00s, 300g
+- Wait to 4m
+
+# Osmotic flow
+
+- 18g coarse
+- Bloom 45g
+- pour center until it poofs, then stop
+- 2m, 150g
+- now go in outward circles. Stop when it puffs
+- 3m, 300g
 
 # Hot coffee v60
 

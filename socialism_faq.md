@@ -173,7 +173,7 @@
 - [Western Marxism's martyrdom / purity complex.](https://blackagendareport.com/western-marxism-loves-purity-and-martyrdom-not-real-revolution) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoaZIsNaAcjt87etb0A_0FWB)
 
 * [The CIA reads french postmodernist theory: how the CIA pushed "post-Marxist" theory to build support for imperialism.](https://thephilosophicalsalon.com/the-cia-reads-french-theory-on-the-intellectual-labor-of-dismantling-the-cultural-left/)
-* [On MLM / Gonzalo, and the shining path.](https://www.reddit.com/r/asktankies/comments/po4vo1/what_is_your_view_of_chairman_gonzalo/) [2](https://www.reddit.com/r/GenZhou/comments/pmmjni/who_was_gonzalo_and_why_is_he_so_hated/hcj7p2s/), [3](https://www.reddit.com/r/GenZhou/comments/pmipvn/on_gonzalos_babyboiling/hcj2cgm/), [4](https://socialistfight.com/2017/02/22/the-lucanamarca-massacre/)
+* [On MLM / Gonzalo, and the shining path.](https://www.reddit.com/r/asktankies/comments/po4vo1/what_is_your_view_of_chairman_gonzalo/) [2](https://lemmygrad.ml/post/231054/comment/184251) [3](https://socialistfight.com/2017/02/22/the-lucanamarca-massacre/), [4](https://lemmygrad.ml/post/231662/comment/188644)
 * [Norton - How the FBI used Anarchism to attack the left.](https://benjaminnorton.substack.com/p/in-cointelpro-fbi-used-anarchism)
 
 ## Did economic planning work?
@@ -650,13 +650,14 @@
 - [Nato's new enemy: the CPC.](https://www.rt.com/news/473935-pompeo-nato-china-communist/)
 - [The western media's China hysteria.](https://caitlinjohnstone.com/2020/04/20/msm-china-hysteria-gets-way-crazier-and-dumber/)
 
-### Is China anti-LGBT / Homophobic ?
+### Is China anti-LGBT / Homophobic / anti-feminist?
 
 - [CGTN: Jin Xing: Transgender woman talks on life challenges faced in China, guts to correct them](https://www.youtube.com/watch?v=p-OlO8QZ70s)
 - [CGTN: Gay Leap Forward: LGBT in China](https://www.youtube.com/watch?v=doAh4ZhGhsY)
 - [AsianBoss: Chinese React To Social Media Ban On Gay Content](https://www.youtube.com/watch?v=sTzgE1nvxZs)
 - [Is it safe to be trans in China?](https://twitter.com/SeraJadeAtPSA/status/1433816613309014016)
 - [What about the ban on gay / effeminate men on TV?](https://twitter.com/Mango_Press_/status/1433821330315653125). [2](https://www.globaltimes.cn/page/202109/1233146.shtml) [3](https://chinadigitaltimes.net/2021/08/translation-everyone-can-sense-that-a-profound-transformation-is-underway/), [4](https://www.reddit.com/r/InformedTankie/comments/phbsea/this_recent_essay_is_circulating_widely_all_over/)
+- [A history of feminism in China](https://lemmygrad.ml/post/412635/comment/306770)
 
 ### What about the Hong Kong protests?
 
@@ -1397,6 +1398,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - https://youtu.be/JrMiSQAGOS4
 - https://v.redd.it/re0qb940lkk81
 - https://v.redd.it/j6lrcei3psk81
+- https://www.haaretz.com/food/2016-04-04/ty-article/a-queasy-dinner-at-lvivs-jewish-eatery/0000017f-f631-d47e-a37f-ff3df9880000
 
 ### Others
 
