@@ -243,7 +243,7 @@
 - [FBI cointel directives on "nonviolent" groups.](https://herb.ashp.cuny.edu/items/show/814)
 - [Is a state really necessary to transition into communism?](https://www.reddit.com/r/communism101/comments/f0l14l/why_is_a_state_necessary_to_transition_into/)
 - [Engels - on authority. ](https://www.marxists.org/archive/marx/works/1872/10/authority.htm)
-- [An Overview of Leninism](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/), [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoaFTdUpdzXv-zCvYsz4sB01). [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) , [audiobook](https://www.youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
+- [An Overview of Leninism](https://archive.ph/khO7R), [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoaFTdUpdzXv-zCvYsz4sB01). [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) , [audiobook](https://www.youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
 - [Luxemburg - Reform or Revolution](https://www.marxists.org/archive/luxemburg/1900/reform-revolution/), [audiobook](https://www.youtube.com/watch?v=YhzmaUofLS8&list=PL0-IkmzWbjoYqO_Yec4sWzPeeFXMOkPWs)
 - [Trotsky - Fascism - What it is and how to fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm), [audiobook](https://www.youtube.com/watch?v=S39lCH8PnZ8&list=PL0-IkmzWbjoa-4fIC4TbpTJgRM77It6LC)
 
@@ -313,6 +313,7 @@
 - [Esperanza - A Socialist, Feminist, and Transgender Analysis of “Sex Work”](https://proletarianfeminist.medium.com/a-socialist-feminist-and-transgender-analysis-of-sex-work-b08aaf1ee4ab) .
 - [RevLeft Radio interview with Comrade Brigid and Esperanza - Proletarian Feminism, Women's Liberation, and the Sex Trade.](https://revolutionaryleftradio.libsyn.com/prolefem)
 - [Kollontai - Prostitution and ways of fighting it](https://www.marxists.org/archive/kollonta/1921/prostitution.htm)
+- [Origins of the term "sex work", and the "sex work is work" movement](https://nordicmodelnow.org/2021/06/05/a-brief-history-of-the-sex-work-is-work-movement/)
 - [Esperanza - The problem with sex-trade expansionary Feminism.](https://proletarianfeminist.medium.com/the-problem-with-sex-trade-expansionary-feminism-a-response-to-kate-zen-e8ee7f8ae99a)
 
 ## On Race and Class
@@ -372,7 +373,7 @@
 
 ## On Leninism
 
-- [An overview of Leninism.](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/)
+- [An overview of Leninism.](https://archive.ph/khO7R)
 - [What is the vanguard party? Is one necessary?](http://www.reddit.com/r/communism101/comments/142p1b/what_is_the_vanguard_party_is_one_necessary/)
 - [Why is a vanguard party necessary in Leninism?](http://www.reddit.com/r/communism101/comments/2n5xx3/why_is_a_vanguard_party_necessary_in_leninism/)
 - [What is Vanguardism and Democratic Centralism?](http://www.reddit.com/r/communism101/comments/2eo0ft/what_is_vanguardism_and_democratic_centralism/)
@@ -380,7 +381,7 @@
 - [Difference between leninism and Marxist-leninism?](http://www.reddit.com/r/communism101/comments/21jk1t/difference_between_leninism_and_marxistleninism/)
 - [Why does left communism reject national liberation movements?](http://www.reddit.com/r/communism101/comments/27lbru/why_does_left_communism_reject_national/)
 - [Is it true that Socialism has killed X million people, and how many has capitalism killed?](https://www.reddit.com/r/LateStageCapitalism/comments/5q2oak/someone_dies_under_socialism_no_matter_how_its/dcvu8lg/)
-- [What's the role of the state in the revolution, and what is a state?](https://theimmortalscience.wordpress.com/2017/02/27/the-state-and-revolution-an-overview/)
+- [What's the role of the state in the revolution, and what is a state?](https://archive.ph/khO7R)
 - What about the USSR, wasn't it authoritarian? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
 - [What is Socialism in one country? What's the controversy around it w/ respect to Stalin and Trotsky?](https://www.reddit.com/r/communism101/comments/dsj2wv/was_lenin_in_favour_of_socialism_in_one_country/) [2](https://www.reddit.com/r/communism101/comments/7mwac2/how_do_trotskyists_or_trotsky_himself_respond_to/) [3](https://www.reddit.com/r/communism101/comments/774lmt/can_someone_eli5_the_differences_between_stalins/) [4](https://www.reddit.com/r/communism101/comments/4yhc4y/socialism_in_one_country_please_assist_me_in_the/)
 - [What did Lenin say about socialism in one country?](https://espressostalinist.com/2012/03/11/lenin-on-socialism-in-one-country-2/)
@@ -571,7 +572,7 @@
 - [Roderic Day - China has billionaires.](https://redsails.org/china-has-billionaires)
 - [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
 - [How is SWCC not revisionist? How is it any different from Gorbachev's market reforms?](https://www.reddit.com/r/GenZhou/comments/quohro/market_reforms_vs_revisionism/hkrptbm/)
-- [Domenico Losurdo - is China state capitalist?](https://redsails.org/flight-from-history/#the-peoples-republic-of-china-and-the-historical-analysis-of-socialism)
+- [Domenico Losurdo - is China state capitalist?](https://redsails.org/losurdo-on-china/), [2](https://redsails.org/flight-from-history/#the-peoples-republic-of-china-and-the-historical-analysis-of-socialism)
 - [Did Lenin say anything about Market Socialism, or productivism?](https://www.reddit.com/r/DebateCommunism/comments/quevn9/what_are_actually_existing_socialist_countries_as/hkqprfx/)
 - [Vijay Prashad - Is China capitalist?](https://www.youtube.com/watch?v=3X7U2W6ryjE)
 - [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/) [Why are many billionaires and CEOs going missing?](https://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html) [China sentences Ex-Chairman of a major bank, guilty of embezzling ~$100M USD, to death in 2019.](https://www.bloomberg.com/news/articles/2019-12-27/china-sentences-ex-chairman-of-troubled-hengfeng-bank-to-death)
@@ -1023,7 +1024,7 @@
 - [After Evo Morales was overthrown in a US-backed coup, she retracts her pro-Morales statements, meets with a coup-supporting group in Washington, and tweets in support of the viciously anti-indigenous government of Jean Anez.](https://i.imgur.com/mYdPxcG.jpg) [2](https://orinocotribune.com/alexandria-ocasio-cortez-meets-with-bolivian-coup-organizers/), [3](https://rainershea.com/f/alexandria-ocasio-cortez-meets-with-bolivian-coup-organizers)
 - [In the July 2021 protests in Cuba, she called Cuban president Diaz-Canal's "anti-democratic actions."](https://pbs.twimg.com/media/E6YIBtMXIAE2dLt?format=jpg&name=large), [2](https://images-ext-1.discordapp.net/external/5G4TQQ1qLqzTXDlSeNDXM5noh6Xcp_ZNLrbxreyxrWc/https/pbs.twimg.com/media/E6YCaZKWQAAfrs4.jpg%3Alarge) She condemned the socialist government’s [“suppression of the media, speech and protest.”](https://twitter.com/RepAOC/status/1415825886981545992)
 - [She supports Israel, and its genocide of Palestineans.](https://i.imgur.com/K6QsYZo.jpg)
-- [When asked about her vote of "present", rather than no, that allocates an extras $1B USD to Israel, she defends it by saying it was a "micro"-decision that creates "a window that brings all folks to the table".](https://twitter.com/queeralamode/status/1445508646956269582?s=20)
+- [When asked about her vote of "present", rather than no, that allocates an extras $1B USD to Israel, she defends it by saying it was a "micro"-decision that creates "a window that brings all folks to the table".](https://twitter.com/mehdirhasan/status/1444830689283686400?lang=en)
 - [AOC and the squad consistently vote against what they preach.](https://mobile.twitter.com/MozFrame/status/1520608426002612224)
 - After an anti-war activist posted a video of AOC waffling on a question about Palestine, [he's interrogated by California highway patrol who claimed he issued a death threat against AOC](https://thegrayzone.com/2021/04/09/anti-war-activist-police-aoc-video/). In reality, his tweet said: "her response was underwhelming to say the least." Its unknown whether AOC initiated the interrogation.
 - [Is against pardoning Julian Assange.](https://twitter.com/SameeraKhan/status/1359550389578854406?s=20)
@@ -1040,6 +1041,7 @@
 
 #### Domestic issues
 
+- In December 2022, a group of US rail worker unions voted to strike for more pay and sick leave. After two days of expressing support for the unions, telling them to "stay strong", and that, "we've got your back", [AOC and the rest of the squad voted for a Biden congress resolution to block the strike](https://www.marxist.com/united-states-railroad-strike-no-to-congress-support-the-right-to-strike.htm), [2](https://www.dailydot.com/debug/aoc-ilhan-omar-rail-strike-vote/). This resolution effectively takes all strike power away from the unions, and gives it to Congress. After receiving backlash for blocking the union's right to strike, her twitter went silent.
 - [Calls for budget cuts for DHS, due to their child detention camps and family separations, then goes back on it by voting to fully fund them along with other democrats.](https://i.redd.it/bfiudbz8qm921.jpg)
 - [After Biden opens new child immigrant detention facilities in February 2021, she stops calling them "concentration camps", and names them "influx facilities".](https://i.imgur.com/oSlwtda.jpg)
 - [AOC wants abolish ICE, only to replace it with a resurrected INS, yet another agency whose goal was breaking up families. ](https://i.imgur.com/ficPkrO.jpg)
@@ -1434,6 +1436,9 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [What is whataboutism?](https://blackagendareport.com/praise-whataboutism)
 - [A Marxist analysis of the 2008 financial crisis](https://twitter.com/LeninBol/status/1535120492775976967?t=VQXCwkpunYl4adK11n381A&s=19)
 - [Gabriel Boric](https://orinocotribune.com/gabriel-boric-lashes-out-at-cuba-and-venezuela-at-summit-of-the-americas/)
+
   - [Responding to a polcomp tweet in which he calls himself a libertarian socialist](https://mobile.twitter.com/gabrielboric/status/1249811334058979328)
   - [Demanding that the PCCh retract their support of Daniel Ortega, claiming he's an illegitimate president](https://m.elmostrador.cl/dia/2021/11/12/yo-invito-al-pc-a-retractarse-boric-sale-al-paso-de-la-declaracion-de-sus-socios-a-favor-de-daniel-ortega-por-elecciones-en-nicaragua/)
   - [Calling Venezuela a failure and a dictatorship](https://www.infobae.com/america/venezuela/2022/01/22/gabriel-boric-venezuela-es-una-experiencia-que-ha-fracasado-y-la-principal-demostracion-son-los-6-millones-de-venezolanos-en-diaspora/)
+
+  https://5pillarsuk.com/2018/02/23/black-panther-the-same-old-western-politics-with-a-black-face/

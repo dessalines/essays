@@ -7,7 +7,7 @@
 - [Goals](#goals)
 - [Media](#media)
 - [Documents and Coding](#documents-and-coding)
-  * [Hosting](#hosting)
+  - [Hosting](#hosting)
 - [Tasks / Todos](#tasks--todos)
 - [Collaboration](#collaboration)
 - [Browsing](#browsing)
@@ -24,7 +24,7 @@
 ## Goals
 
 - Privacy conscious, [end-to-end encrypted (E2EE)](https://en.wikipedia.org/wiki/End-to-end_encryption).
-- Decentralized, **no reliance** on cloud providers like Google, Microsoft, Apple, Spotify, Netflix Youtube, etc. 
+- Decentralized, **no reliance** on cloud providers like Google, Microsoft, Apple, Spotify, Netflix Youtube, etc.
   - Self-hosted and self-reliant.
   - Simple files preferred over running services.
 - Make sure no sites / services are [US based.](https://www.privacytools.io/providers/#ukusa)
@@ -37,13 +37,13 @@
 - Use [MPV](https://mpv.io/) or [VLC](https://www.videolan.org/vlc/download-windows.html), open source media players to play media.
 - Use [Jellyfin](https://github.com/jellyfin/jellyfin) as a home media server.
 - Use [Navidrome](https://github.com/deluan/navidrome) for a self-hosted music server, and [DSub](https://github.com/daneren2005/Subsonic) for an android client.
-- Instead of centralized, hosted youtube alternatives with upload limits, use torrents / torrent sites. 
+- Instead of centralized, hosted youtube alternatives with upload limits, use torrents / torrent sites.
 
 ## Documents and Coding
 
 - Install [Syncthing](https://syncthing.net/), and put all your documents in a synced folder. Use [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android) for Android.
 - Write all documents and notes in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-  - Use [MarkText](https://marktext.github.io/website/), [Markor for android](https://github.com/gsantner/markor), or vim as markdown editors / notes. 
+  - Use [MarkText](https://marktext.github.io/website/), [Markor for android](https://github.com/gsantner/markor), or vim as markdown editors / notes.
 - Use vim with [vimrc](https://github.com/amix/vimrc) and [coc.nvim](https://github.com/neoclide/coc.nvim) for code.
   - Do not use vscode, it's [difficult to impossible to turn off keylogging](https://stackoverflow.com/questions/40451596/visual-studio-code-still-accessing-internet-after-update-and-telemetry-was-disab). If you must, use [VSCodium](https://github.com/VSCodium/vscodium#why-does-this-exist), which removes the built-in telemetry.
 - Spreadsheets in [Libreoffice](https://www.libreoffice.org/).
@@ -78,9 +78,9 @@
 
 - Use [KeePassXC](https://keepassxc.org/) for PC, [KeePassDX](https://www.keepassdx.com/) for android.
   - Install the [Firefox KeePassXC plugin](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/).
-  - Use a long master pass phrase, with at least 10 words. 
+  - Use a long master pass phrase, with at least 10 words.
   - Sync your password file everywhere you need using Syncthing.
-- [Bitwarden](https://bitwarden.com/) if you want to host a server. 
+- [Bitwarden](https://bitwarden.com/) if you want to host a server.
 
 ## Mobile keyboard
 
@@ -95,8 +95,9 @@
 
 - Use Matrix / [Element](https://element.io/).
 - Use [Briar](https://briarproject.org/) for extreme security.
-- Use [Thunderbird](https://www.thunderbird.net/en-US/) for email, e2ee with pgp if possible. 
+- Use [Thunderbird](https://www.thunderbird.net/en-US/) for email, e2ee with pgp if possible.
 - [Don't use Signal.](why_not_signal.md)
+- [Don't use Discord.](https://spyware.neocities.org/articles/discord)
 
 ## Social Media
 
@@ -104,12 +105,12 @@
 - Twitter alternative : [Pleroma](https://pleroma.social/), [Mastodon](https://mastodon.social/)
 - Facebook : [Friendica](https://friendi.ca/)
 - Medium : [Plume](https://github.com/Plume-org/Plume), [WriteFreely](https://github.com/writeas/writefreely)
-- YouTube : Torrents, or [Peertube](https://github.com/Chocobozzz/PeerTube). 
+- YouTube : Torrents, or [Peertube](https://github.com/Chocobozzz/PeerTube).
 - Instagram : [Pixelfed](https://pixelfed.org/)
 
 ## Operating system
 
-- Use Linux. I like [Arch Linux](https://archlinux.org/). 
+- Use Linux. I like [Arch Linux](https://archlinux.org/).
 
 ## Links
 

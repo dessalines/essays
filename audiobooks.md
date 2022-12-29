@@ -49,6 +49,7 @@
 - [Kollontai - Make way for Winged Eros [audiobook] by dessalines](magnet:?xt=urn:btih:5d188634ab8b1b3dea8d694ed1584814e837c0ae&dn=Kollontai%20-%20Make%20way%20for%20Winged%20Eros%20%5baudiobook%5d%20by%20dessalines)
 - [Esperanza - A Socialist, Feminist, and Transgender analysis of Sex Work [audiobook] by dessalines](magnet:?xt=urn:btih:62ef7d10e3f427d5d195b7da66f0bd86e72f97f2&dn=Esperanza%20-%20A%20Socialist%2c%20Feminist%2c%20and%20Transgender%20analysis%20of%20Sex%20Work%20%5baudiobook%5d%20by%20dessalines)
 - [Lenin - The New Economic Policy [audiobook] by dessalines](magnet:?xt=urn:btih:504c16b8a014e8d55f54c877ad4fd654b0023dbe&dn=Lenin%20-%20The%20New%20Economic%20Policy%20%5baudiobook%5d%20by%20dessalines)
+- [Silvia Federici - Caliban and the Witch [audiobook] by dessalines](magnet:?xt=urn:btih:5235321931784e4cfb9efef3138b605164026ed9&dn=Silvia%20Federici%20-%20Caliban%20and%20the%20Witch%20%5baudiobook%5d%20by%20dessalines)
 
 ## Read by others
 

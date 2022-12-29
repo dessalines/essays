@@ -339,6 +339,7 @@ Past and present socialist societies include - The [Paris Commune](https://en.wi
 - [Lenin - “Left-Wing” Communism: an Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/) . [Audiobook](https://www.youtube.com/watch?v=6wtRQaoSlxs&list=PL0-IkmzWbjob1T8DTNDG7EQaN18eSJ97m)
 - [Lenin - Imperialism, the Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/)
 - [Trotsky - Fascism: What it is and how to Fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm)
+- [Silvia Federici - Caliban and the Witch [audiobook]](https://m.youtube.com/playlist?list=PL0-IkmzWbjobK8JtYpzxIJH-BUjQDv9xm)
 
 ### Marxian economics
 
