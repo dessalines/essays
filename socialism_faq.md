@@ -138,7 +138,7 @@
 - [What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
 - [What's the difference in economic structure ( production and distribution) of anarchism, anarcho-communism, anarcho-syndicalism, and Marxist communism?](https://old.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/)
 - [Parenti on Anarcho-Syndicalism / Worker-Coops](https://youtube.com/watch?v=WEkyW9GwbE8&local=1&nojs=0&player_style=youtube&quality=dash).
-- [Aimixin - Why Anarchism is fundamentally anti-socialist.](https://www.reddit.com/r/GenZhou/comments/qk18o7/why_is_anarchism_a_meme_around_here/hitwhhr/)
+- [Aimixin - Why Anarchism is fundamentally anti-socialist.](https://lemmygrad.ml/post/231437/comment/187228)
 - [TheDashRendar - Where do tanks come from? How anarchists vs marxists wage warfare.](https://medium.com/@dashthered/where-do-tanks-come-from-8723ff77d83b)
 - [Comrade Hakim - On the difference betweeen "liberatarian" and "authoritarian" socialism.](https://www.youtube.com/watch?v=6GM893c1X8s)
 - [Huey P. Newton on the faults of western anarchism.](https://www.prisoncensorship.info/archive/etext/bpp/bpp161168.htm)
@@ -626,7 +626,7 @@
 
 ### Is China Imperialist?
 
-- [Debunking the claim that "China is Imperialist"](https://medium.com/@rainershea612/catagorically-debunking-the-claim-that-china-is-imperialist-a9ae7b280a44)
+- [Debunking the claim that "China is Imperialist"](https://web.archive.org/web/20200218214921/https://medium.com/@rainershea612/catagorically-debunking-the-claim-that-china-is-imperialist-a9ae7b280a44)
 - [The demeanor of Chinese leaders (Xi Jinping) vs Western leaders (Nancy Pelosi) towards African nations. One of the reasons why African nations favor China instead of the West.](https://www.reddit.com/r/GenZedong/comments/kxabq5/the_demeanor_of_chinese_leaders_xi_jinping_vs/) [Full video here](https://www.youtube.com/watch?v=P5uzxV8ub9k)
 - [An African leader on the hypocrisy of those saying China is imperialist.](https://www.reddit.com/r/Sino/comments/pn5bmz/african_leader_calls_out_western_hypocrisy_when/)
 - [China africa panel: if you want actual infrastructure, you go to China, not the west. ](https://m.youtube.com/watch?v=TPXS0OZikzs&feature=youtu.be)
