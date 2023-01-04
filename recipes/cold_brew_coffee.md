@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=MPDfn--vxK8&t=157
 - 45s , 120g
 - 1:30s, 180g
 - 2:15s, 240g
-- 3:00s, 300g
+- 2:45s, 300g
 - Wait to 4m
 
 # Hario Tetsuo 4-6 500g
@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=MPDfn--vxK8&t=157
 - 45s , 200g
 - 1:30s, 300g
 - 2:15s, 400g
-- 3:00s, 500g
+- 2:45s, 500g
 - Wait to 4m
 
 # Osmotic flow

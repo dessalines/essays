@@ -2,15 +2,17 @@
 
 ## Week
 
-| Day   | Workout   |
-| ----- | --------- |
-| Mon   | Full Body |
-| Tues  | Rest      |
-| Wed   | Rest      |
-| Thurs | Full Body |
-| Fri   | Rest      |
+| Day   | Workout                              | Time |
+| ----- | ------------------------------------ | ---- |
+| Mon   | Full Body (Lower + Arms + Core)      | 40m  |
+| Tues  | Rest                                 |      |
+| Wed   | Rest                                 |      |
+| Thurs | Full Body (Chest + Core + Shoulders) | 40m  |
+| Fri   | Rest                                 |      |
 
 Order: Chest, Legs, Arms, Cardio / Core, Posture
+
+Don't do more than 45m per day.
 
 ## Equipment
 
@@ -61,5 +63,5 @@ Use the android app XPlayer, a video player you can mute, so I can listen to aud
 
 ## Dieting
 
+- [Intermittent Fasting - the science and benefits](https://www.youtube.com/watch?v=7nJgHBbEgsE)
 - [Jeff Nippard - The smartest way to get lean](https://www.youtube.com/watch?v=d8V9ZaSq9Oc)
-
