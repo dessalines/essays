@@ -139,3 +139,7 @@ Too Slow/Bitter = Coarser
 - First pour coffee through a fine mesh sieve, or a nut bag into a Glass container. Discard grounds.
 - Wet a filter, pour coffee through filter and sieve. Takes ~10 minutes to drain through.
 - Use a 1:1 ratio.
+
+## Favorites
+
+- Orinoco - ethiopia yirgacheffe

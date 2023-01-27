@@ -65,9 +65,9 @@
 
 ## Browsing
 
-- [Use Librewolf](https://librewolf.net/).
-- Use Firefox or Tor Browser, with the addons:
+- [Use Librewolf](https://librewolf.net/) on desktop, or use Firefox or Tor Browser, with the addons:
   - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- Use [Mull](https://f-droid.org/en/packages/us.spotco.fennec_dos/) or [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) for android.
 - [Startpage](https://www.startpage.com/), [Searx](https://searx.me/), as a search engine
 
 ## Passwords
