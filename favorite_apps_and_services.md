@@ -55,24 +55,20 @@
 
 ## Tasks / Todos
 
-- Use a [todo.txt](http://todotxt.org/) file for a personal task list, synced with syncthing.
-  - [QTodoTxt2](https://github.com/QTodoTxt/QTodoTxt2) as a desktop client, [todo.txt-vim](https://github.com/freitass/todo.txt-vim), [Simpletask](https://f-droid.org/en/packages/nl.mpcjanssen.simpletask/) for Android.
+- Use [tasks.org](https://tasks.org).
 - For shared task lists, use [Hedgedoc](https://hedgedoc.org/).
 
 ## Collaboration
 
 - Use [Hedgedoc](https://hedgedoc.org/), a live / collaborative markdown editor.
-- [NextCloud](https://nextcloud.com/)
+- [NextCloud](https://nextcloud.com/) for a more expansive document store.
 
 ## Browsing
 
-- [Use Librewolf](https://librewolf.net/)
+- [Use Librewolf](https://librewolf.net/).
 - Use Firefox or Tor Browser, with the addons:
   - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-  - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container) - Keeps all Facebook stuff in it's own container.
-  - [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/)
-- [Startpage](https://www.startpage.com/), [Searx](https://searx.me/) ([onion service](http://searchb5a7tmimez.onion/)), as a search engine
-- If using Tor, use onion services if possible.
+- [Startpage](https://www.startpage.com/), [Searx](https://searx.me/), as a search engine
 
 ## Passwords
 
@@ -93,11 +89,15 @@
 
 ## Chat / Communication
 
-- Use Matrix / [Element](https://element.io/).
-- Use [Briar](https://briarproject.org/) for extreme security.
-- Use [Thunderbird](https://www.thunderbird.net/en-US/) for email, e2ee with pgp if possible.
+- Matrix / [Element](https://element.io/) for SMS and chatrooms.
+- [Briar](https://briarproject.org/) for extreme security.
 - [Don't use Signal.](why_not_signal.md)
 - [Don't use Discord.](https://spyware.neocities.org/articles/discord)
+
+### Email
+
+- [Thunderbird](https://www.thunderbird.net/en-US/) for desktop email, e2ee with pgp if possible.
+- [FairEmail](https://email.faircode.eu/) for android.
 
 ## Social Media
 
@@ -111,6 +111,7 @@
 ## Operating system
 
 - Use Linux. I like [Arch Linux](https://archlinux.org/).
+- On mobile, use a de-googled android with google play services removed.
 
 ## Links
 

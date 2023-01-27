@@ -1048,6 +1048,7 @@
 - [After the 2021 capitol riots, AOC defends law and order, and calls the republicans cowards for not supporting the police.](https://twitter.com/thehill/status/1349405734128250885)
 - [AOC selling "law and order" and "family values" and not being "weak on crime" as socialist values. ](https://i.imgur.com/VRKjkXV.jpg)
 - [Defends the NYPD during the George Floyd protests, since there are women, black, latino and asian american cops.](https://i.imgur.com/FT8GMTf.png)
+- [Positions herself to the right of "law and order" republicans, saying they have no right to say that "blue lives matter", since the republicans don't defend police enough.](https://twitter.com/thehill/status/1349405734128250885)
 - [In December 2020, after a proposal by comic Jimmy Dore, for house democrats to refuse support for House Speaker Nancy Pelosi, unless she agrees to bring a Medicare for all bill to the house, to bring relief for US citizens who lost healthcare during the pandemic. AOC and the rest of the "squad" refused, and backed Pelosi, citing concerns that the bill would not win anyway. Dore retorted that 9 / 10 democratic voters, and even a majority of republican voters support medicare for all.](https://www.corporatecrimereporter.com/news/200/jimmy-dore-calls-on-democrats-to-withhold-support-for-nancy-pelosi-unless-she-brings-single-payer-medicare-for-all-to-a-vote/)
 - [After bucking M4A during the COVID pandemic, AOC touts a FEMA funeral reimbursement program as an acheivement.](https://lemmygrad.ml/pictrs/image/c7lHG9fFCI.png)
 
@@ -1172,12 +1173,14 @@ _Much credit to [this post.](https://politijohn.tumblr.com/post/186036319237/get
 ### Slavoj Zizek
 
 - ["Immigration has to be restricted to prevent the rise of Fascism."](https://twitter.com/zei_squirrel/status/1186709823250927616)
-- [Helped work to overthrow Yugoslavia.](https://en.wikipedia.org/wiki/Committee_for_the_Defence_of_Human_Rights)
-- [He's anti-USSR, anti bolivarian revolution, supported the coups in Ukraine and Libya](https://alphonsevanworden.tumblr.com/post/146430343445/the-protocols-of-the-learned-lacanian-of)
+- [Helped work to overthrow Yugoslavia.](https://en.wikipedia.org/wiki/Committee_for_the_Defence_of_Human_Rights) [2](https://www.counterpunch.org/2023/01/02/capitalisms-court-jester-slavoj-zizek/)
 - [Thinks socialism died a long time ago in Cuba, that everyone lives there because of a misguided devotion to Castro, and thinks the bolivarian revolution will soon fail.](https://inthesetimes.com/article/the-left-fidelity-castration-slavoj-zizek-fidel-castro-cuba-che-communism)
 - [Defines Marxism: "Marx wanted a return to traditional values."](https://youtu.be/YTCiVDwmZ6U?t=147)
 - [Comes out in favor of NATO against Russia, in the 2022 Ukraine conflict.](https://www.theguardian.com/commentisfree/2022/may/23/we-must-stop-letting-russia-define-the-terms-of-the-ukraine-crisis)
 - [Argues for a stronger NATO to fight against Russia and for Ukraine.](https://amp.theguardian.com/commentisfree/2022/jun/21/pacificsm-is-the-wrong-response-to-the-war-in-ukraine)
+- ["Denazification should begin in russia", writing for radio free Europe.](https://www.rferl.org/a/zizek-interview-russia-denazification-ukraine-war/32204259.html)
+- [Zizek - Capitalism's court jester](https://www.counterpunch.org/2023/01/02/capitalisms-court-jester-slavoj-zizek/)
+- [He's anti-USSR, anti bolivarian revolution, supported the coups in Ukraine and Libya](https://alphonsevanworden.tumblr.com/post/146430343445/the-protocols-of-the-learned-lacanian-of)
 - [More here](https://www.reddit.com/r/Marxism/comments/dlz8me/zizek_criticizes_european_leftists_who_reject/f4yl11f/)
 
 ### What's wrong with Barack Obama?

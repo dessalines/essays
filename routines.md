@@ -36,9 +36,9 @@ Time: 2m
 
 ### Mouth
 
-Brush, floss, and scrape your tongue. Your mouth is gross after sleeping. Use white strips once a week or so if your teeth are discolored.
+Brush, floss, and scrape your tongue. Your mouth is gross after sleeping. Use white strips once a week or so if your teeth are discolored from coffee or tea.
 
-Time: 3m
+Time: 4m
 
 ### Face
 
