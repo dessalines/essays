@@ -279,7 +279,7 @@
 - [Value as a necessary product of labor?](http://www.reddit.com/r/communism101/comments/2ufx5a/value_as_a_necessary_product_of_labor/)
 - [What is the right way to think about the relation between value and labor?](http://www.reddit.com/r/communism101/comments/1d3jy2/what_is_the_right_way_to_think_about_the_relation/)
 - [Whats so bad about land ownership / renting / private property? Why do socialists want to abolish it? Don't landowners do work?](https://www.reddit.com/r/CapitalismVSocialism/comments/7r0t5a/how_landlords_create_value/dsu99td/)
-- [Hakim - The problem with landlords and rent. ](https://www.youtube.com/watch?v=9gm4b1WgVEQ)
+- [Hakim - The problem with landlords and rent.](https://www.youtube.com/watch?v=9gm4b1WgVEQ)
 - [I am in trouble understanding how exactly would a private property abolition work.](http://www.reddit.com/r/communism101/comments/1su2je/i_am_in_trouble_understanding_how_exactly_would_a/)
 - [Private property: Cause or result of alienation?](http://www.reddit.com/r/communism101/comments/1c35xf/private_property_cause_or_result_of_alienation/)
 - [In Marxian economics, is 'value' distinct from 'price'? What does 'value' indicate, exactly?](http://www.reddit.com/r/communism101/comments/139g19/in_marxian_economics_is_value_distinct_from_price/)
@@ -304,6 +304,8 @@
 - [What is intersectionality, and how is it related to Marxism?](https://socialistworker.org/2017/08/01/a-marxist-case-for-intersectionality)
 - [What real solutions does socialism have for women, LGBTQ, etc.?](http://www.reddit.com/r/communism101/comments/1jprtn/what_real_solutions_does_socialism_have_for_women/)
 - [On Feminism](http://www.reddit.com/r/communism101/comments/1hyu6n/on_feminism/)
+- [Silvia Federici - Caliban and the Witch [audiobook] by dessalines](magnet:?xt=urn:btih:5235321931784e4cfb9efef3138b605164026ed9&dn=Silvia%20Federici%20-%20Caliban%20and%20the%20Witch%20%5baudiobook%5d%20by%20dessalines)
+- [Lise Vogel - Domestic Labor Revisited (an introduction to Marxist Feminism)](https://dessalines.github.io/essays/lise_vogel_domestic_labour_revisited.html)
 - [What is proletarian/marxian feminism?](http://www.reddit.com/r/communism101/comments/18dfco/what_is_proletarianmarxian_feminism/)
 - [Hello comrades! can anyone explain the idea of marxist-feminism?](http://www.reddit.com/r/communism101/comments/2i1hlp/hello_comrades_can_anyone_explain_the_idea_of/)
 - [What about the history of Marxist Feminism?](https://isreview.org/issue/93/womens-liberation-marxist-tradition)
@@ -313,10 +315,14 @@
 - [Interviews with Women in the USSR.](https://www.reddit.com/r/communism101/comments/e30gjm/ussr_and_women_rights/f90d0r8/)
 - [What's wrong with "more women CEO" / imperial feminism?](https://twitter.com/RaniaKhalek/status/1207061598680027137?s=20)
 - [Redfightback - Misogyny is Not Caused by Biological “Sex”! The Historical-Materialist Theory of Gender](https://redfightback.org/misogyny-is-not-caused-by-biological-sex-the-historical-materialist-theory-of-gender/)
+
+### The Sex Trade, Prostitution, and Porn
+
 - [Esperanza - A Socialist, Feminist, and Transgender Analysis of “Sex Work”](https://proletarianfeminist.medium.com/a-socialist-feminist-and-transgender-analysis-of-sex-work-b08aaf1ee4ab) .
 - [RevLeft Radio interview with Comrade Brigid and Esperanza - Proletarian Feminism, Women's Liberation, and the Sex Trade.](https://revolutionaryleftradio.libsyn.com/prolefem)
 - [Kollontai - Prostitution and ways of fighting it](https://www.marxists.org/archive/kollonta/1921/prostitution.htm)
 - [Origins of the term "sex work", and the "sex work is work" movement](https://nordicmodelnow.org/2021/06/05/a-brief-history-of-the-sex-work-is-work-movement/)
+- [CriticalResist - Why you will not have porn in socialism.](https://criticalresist.medium.com/why-you-will-not-have-porn-in-socialism-8f91c5899210)
 - [Esperanza - The problem with sex-trade expansionary Feminism.](https://proletarianfeminist.medium.com/the-problem-with-sex-trade-expansionary-feminism-a-response-to-kate-zen-e8ee7f8ae99a)
 
 ## On Race and Class

@@ -10,6 +10,8 @@
 | Grammar   | 15             |
 | Immersion | 30             |
 
+2200 hours for fluency
+
 ## To Watch
 
 - https://youtu.be/dpQ3IMd4AMg?list=PLwFUKjRMEUxw2IRsDA8GZGW1AZdgCoiAA

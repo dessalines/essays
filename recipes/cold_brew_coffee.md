@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=MPDfn--vxK8&t=157
 
+# Mocha
+
+[Source](https://www.youtube.com/watch?v=M4bqjmdCwRY)
+
+- Equal grams of chocalate bar, and oat milk.
+- Heat in microwave for 30 seconds.
+- Mix it using a blender (try fork first).
+- Put it in a plastic squeeze bottle.
+- Add ~ 40 grams per cup
+
 # Hario Tetsuo 4-6 300g
 
 - 18g medium coarse
