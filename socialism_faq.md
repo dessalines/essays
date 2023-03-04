@@ -576,7 +576,7 @@
 - [The Long Game and Its Contradictions](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4). [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoali1j-mai9MtggjA-Vzc4x)
 - [The myth of Chinese state capitalism. Did Deng really betray Chinese socialism?](http://www.greanvillepost.com/2015/08/20/the-myth-of-chinese-capitalism-2/)
 - [Tsinghua University- Is Socialism with Chinese Characteristics real socialism, or is it state Capitalism?](https://www.youtube.com/watch?v=62mvMWJHt8g)
-- [Isn't China revisionist for having a capitalist sector of the economy, and working with capitalists? Why isn't it fully planned like the USSR was?](https://www.reddit.com/r/GenZhou/comments/pzcwzr/apparently_president_xi_does_not_believe_in/hf0bnv0/)
+- [Isn't China revisionist for having a capitalist sector of the economy, and working with capitalists? Why isn't it fully planned like the USSR was?](https://web.archive.org/web/20211013211804/https://www.reddit.com/r/GenZhou/comments/pzcwzr/apparently_president_xi_does_not_believe_in/hf0bnv0/)
 - [Castro on why both China and Vietnam are socialist countries.](https://redsails.org/fidel-and-gawronski/)
 - [Roderic Day - China has billionaires.](https://redsails.org/china-has-billionaires)
 - [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
