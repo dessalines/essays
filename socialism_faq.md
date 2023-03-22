@@ -138,7 +138,7 @@
 - [What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
 - [What's the difference in economic structure ( production and distribution) of anarchism, anarcho-communism, anarcho-syndicalism, and Marxist communism?](https://old.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/)
 - [Parenti on Anarcho-Syndicalism / Worker-Coops](https://youtube.com/watch?v=WEkyW9GwbE8&local=1&nojs=0&player_style=youtube&quality=dash).
-- [Aimixin - Why Anarchism is fundamentally anti-socialist.](https://lemmygrad.ml/post/231437/comment/187228)
+- [Aimixin - Why Anarchism is fundamentally anti-socialist.](https://lemmygrad.ml/comment/187228)
 - [TheDashRendar - Where do tanks come from? How anarchists vs marxists wage warfare.](https://medium.com/@dashthered/where-do-tanks-come-from-8723ff77d83b)
 - [Comrade Hakim - On the difference betweeen "liberatarian" and "authoritarian" socialism.](https://www.youtube.com/watch?v=6GM893c1X8s)
 - [Huey P. Newton on the faults of western anarchism.](https://www.prisoncensorship.info/archive/etext/bpp/bpp161168.htm)
@@ -173,7 +173,7 @@
 - [Western Marxism's martyrdom / purity complex.](https://blackagendareport.com/western-marxism-loves-purity-and-martyrdom-not-real-revolution) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoaZIsNaAcjt87etb0A_0FWB)
 
 * [The CIA reads french postmodernist theory: how the CIA pushed "post-Marxist" theory to build support for imperialism.](https://thephilosophicalsalon.com/the-cia-reads-french-theory-on-the-intellectual-labor-of-dismantling-the-cultural-left/)
-* [On MLM / Gonzalo, and the shining path.](https://www.reddit.com/r/asktankies/comments/po4vo1/what_is_your_view_of_chairman_gonzalo/) [2](https://lemmygrad.ml/post/231054/comment/184251) [3](https://socialistfight.com/2017/02/22/the-lucanamarca-massacre/), [4](https://lemmygrad.ml/post/231662/comment/188644)
+* [On MLM / Gonzalo, and the shining path.](https://www.reddit.com/r/asktankies/comments/po4vo1/what_is_your_view_of_chairman_gonzalo/) [2](https://lemmygrad.ml/comment/184251) [3](https://socialistfight.com/2017/02/22/the-lucanamarca-massacre/), [4](https://lemmygrad.ml/comment/188644)
 * [Norton - How the FBI used Anarchism to attack the left.](https://benjaminnorton.substack.com/p/in-cointelpro-fbi-used-anarchism)
 
 ## Did economic planning work?
@@ -576,7 +576,7 @@
 - [The Long Game and Its Contradictions](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub&fbclid=IwAR1jAfUSH39nEKCkTAD7GK8ayR9YVekX6Ht6hWU7x7iKPVUK_fLdA5OlPV4). [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoali1j-mai9MtggjA-Vzc4x)
 - [The myth of Chinese state capitalism. Did Deng really betray Chinese socialism?](http://www.greanvillepost.com/2015/08/20/the-myth-of-chinese-capitalism-2/)
 - [Tsinghua University- Is Socialism with Chinese Characteristics real socialism, or is it state Capitalism?](https://www.youtube.com/watch?v=62mvMWJHt8g)
-- [Isn't China revisionist for having a capitalist sector of the economy, and working with capitalists? Why isn't it fully planned like the USSR was?](https://www.reddit.com/r/GenZhou/comments/pzcwzr/apparently_president_xi_does_not_believe_in/hf0bnv0/)
+- [Isn't China revisionist for having a capitalist sector of the economy, and working with capitalists? Why isn't it fully planned like the USSR was?](https://lemmygrad.ml/comment/185239)
 - [Castro on why both China and Vietnam are socialist countries.](https://redsails.org/fidel-and-gawronski/)
 - [Roderic Day - China has billionaires.](https://redsails.org/china-has-billionaires)
 - [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
@@ -1077,7 +1077,7 @@
 - [Thinks the US military is socialist. Thinks social services like schools and libraries are socialist.](https://i.imgur.com/JHOZDlg.png)
 - After his death AOC Tweeted to commemorate John McCain, saying his [“legacy represents an unparalleled example of human decency.”](https://twitter.com/AOC/status/1033538876370046977)
 - [Believes that Trump "betrays" US values.](https://i.imgur.com/H61toBx.png)
-- [Despite her curated image as a New York bartender, she only bartended for 6 months, and worked primarily for a startup incubator called Brooklyn Avenue Press.](https://www.reddit.com/r/GenZedong/comments/mho3dm/aoc_was_at_a_startup_incubator_in_2011_where_she/) [2](https://www.inc.com/zoe-henry/alexandria-ocasio-cortez-surprising-entrepreneurial-roots-run-for-congress.html)
+- [Despite her curated image as a New York bartender, she only bartended for 6 months, and worked primarily for a startup incubator called Brooklyn Avenue Press.](https://www.reddit.com/r/GenZedong/comments/mho3dm/aoc_was_at_a_startup_incubator_in_2011_where_she/) [2](https://www.inc.com/zoe-henry/alexandria-ocasio-cortez-surprising-entrepreneurial-roots-run-for-congress.html), [3](https://twitter.com/Edward__Bernays/status/1438131799243243523?s=20)
 - [Wore a "tax the rich" dress at the 2021 Met Gala in New York city (a fundraiser held by New York elites), while protesters were arrested and beaten outside by police.](https://www.yahoo.com/lifestyle/alexandria-ocasio-cortez-met-gala-tax-the-rich-003540608.html) Afterwards, she sells ["Tax the Rich" merchandise on her store.](https://archive.is/IbUtn)
 - [Claims that socialist theory is only for privileged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
 

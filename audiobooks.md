@@ -50,6 +50,11 @@
 - [Esperanza - A Socialist, Feminist, and Transgender analysis of Sex Work [audiobook] by dessalines](magnet:?xt=urn:btih:62ef7d10e3f427d5d195b7da66f0bd86e72f97f2&dn=Esperanza%20-%20A%20Socialist%2c%20Feminist%2c%20and%20Transgender%20analysis%20of%20Sex%20Work%20%5baudiobook%5d%20by%20dessalines)
 - [Lenin - The New Economic Policy [audiobook] by dessalines](magnet:?xt=urn:btih:504c16b8a014e8d55f54c877ad4fd654b0023dbe&dn=Lenin%20-%20The%20New%20Economic%20Policy%20%5baudiobook%5d%20by%20dessalines)
 - [Silvia Federici - Caliban and the Witch [audiobook] by dessalines](magnet:?xt=urn:btih:5235321931784e4cfb9efef3138b605164026ed9&dn=Silvia%20Federici%20-%20Caliban%20and%20the%20Witch%20%5baudiobook%5d%20by%20dessalines)
+- [John Smith - Imperialism in the Twenty-First Century \(article\) [audiobook] by dessalines](magnet:?xt=urn:btih:ab601810c50700a7bc8d8f0f89ebcfb60229e917&dn=John%20Smith%20-%20Imperialism%20in%20the%20Twenty-First%20Century)
+- [John Smith - The GDP Illusion - Value added versus Value Capture [audiobook] by dessalines](magnet:?xt=urn:btih:d11417b93e812301a4787f8c53897f25817beec8&dn=John%20Smith%20-%20The%20GDP%20Illusion%20-%20Value%20added%20versus%20Value%20Capture%20%5baudiobook%5d%20by%20dessalines)
+- [Lise Vogel - Marxism and the Oppression of Women [audiobook] by dessalines](magnet:?xt=urn:btih:2b32f06c48d977bb08f0c2eed444d4fbe281577f&dn=Lise%20Vogel%20-%20Marxism%20and%20the%20Oppression%20of%20Women%20%5baudiobook%5d%20by%20dessalines)
+- [A.M. Gittlitz - I Want to Believe [audiobook] by dessalines](magnet:?xt=urn:btih:e3fd8f527a154bc79c9f77b27c3b026b9e334265&dn=A.M.%20Gittlitz%20-%20I%20Want%20to%20Believe%20%5baudiobook%5d%20by%20dessalines)
+- [Jacek Zlydach - Advertising is a Cancer on Society [audiobook] by dessalines](magnet:?xt=urn:btih:dd172e3af7a5f4cd626324f76a58c10f55d38bb6&dn=Jacek%20Zlydach%20-%20Advertising%20is%20a%20Cancer%20on%20Society%20%5baudiobook%5d%20by%20dessalines)
 
 ## Read by others
 
