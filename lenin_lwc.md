@@ -1,8 +1,8 @@
-# Lenin's Revolutionary Strategy 
+# Lenin's Revolutionary Strategy
 
-*From Left-Wing Communism: An Infantile disorder, and other works.*
+_From Left-Wing Communism: An Infantile disorder, and other works._
 
-*WIP*
+_WIP_
 
 ## Steps
 
@@ -21,14 +21,14 @@
 
 - After a prosperous period of growing industry and population, a rapid inequality grows and engenders increasing poverty.
 - The limits of new markets, profit and carrying capacity are reached, and surplus revenue stagnates. The upper classes then launch wars to fight over this decreasing surplus. War, famines, and massive social upheaval ensue in the coming years.
-- Battle lines are drawn among the three principle groups: 
+- Battle lines are drawn among the three principle groups:
   - Capitalists / Liberals / Reactionaries. (Right)
   - Social Democrats. (Center / Center-right)
   - Working-class Revolutionaries. (Left)
 
 ### The First Attempt
 
-- The lower classes join unions, and become more class-conscious. Communist parties support and build these organizations. 
+- The lower classes join unions, and become more class-conscious. Communist parties support and build these organizations.
 - Workers, professionals, and small business owners become increasingly dissillusioned by the concentration of wealth.
 - A period of mass unionisation and strikes occurs. This initial "dress rehearsal" is usually severely repressed, or diffused by social democrats. If diffused, capitalists regain power over the next few years.
 
@@ -47,7 +47,7 @@
 
 ### Shake-up
 
-- Capitalist contradictions reach a point that war breaks out. The ineptitude of Capitalist / reactionary political parties and their unpopularity results in a surge of class conciousness. 
+- Capitalist contradictions reach a point that war breaks out. The ineptitude of Capitalist / reactionary political parties and their unpopularity results in a surge of class conciousness.
 - A center-right social democratic party takes over parliament.
 - Capitalists gut / break down infrastucture: shutting down transportation, resources, and energy. They openly arm xenophobic militias.
 - Capitalist reactionaries attempt to restore themselves to power, communists and unions make temporary alliances with the social democrats to prevent it.
@@ -57,8 +57,7 @@
 
 ### Revolution
 
-- The social democrats are unable to stem the worsening conditions brought on by Capitalism: unable to end war, poverty, hunger, and homelessness, and workers turn en masse to far-left parties and revolutionary unions. 
+- The social democrats are unable to stem the worsening conditions brought on by Capitalism: unable to end war, poverty, hunger, and homelessness, and workers turn en masse to far-left parties and revolutionary unions.
 - Communist vanguard parties emerge as a stable, disciplined alternative to capitalist political parties.
 - A revolutionary situation is reached, militant unions begin socializing workplaces, communities engage in rent strikes. Armed communists dissolve local and national capitalist parliaments, stock markets, and centers of financial imperialism.
 - A civil war ensues between the capitalists and their petty-bourgeois defenders, and those committed to revolution.
-

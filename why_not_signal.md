@@ -5,36 +5,36 @@
 <!-- toc -->
 
 - [Why not Signal?](#why-not-signal)
-  * [The Problem](#the-problem)
-  * [Enter Signal](#enter-signal)
-  * [What's wrong with Signal?](#whats-wrong-with-signal)
-    + [CIA Funding](#cia-funding)
+  - [The Problem](#the-problem)
+  - [Enter Signal](#enter-signal)
+  - [What's wrong with Signal?](#whats-wrong-with-signal)
+    - [CIA Funding](#cia-funding)
       - [CIA → RFA → OTF → Signal](#cia-%E2%86%92-rfa-%E2%86%92-otf-%E2%86%92-signal)
-    + [A Single, Centralized, US-based service](#a-single-centralized-us-based-service)
+    - [A Single, Centralized, US-based service](#a-single-centralized-us-based-service)
       - [National Security Letters (NSLs)](#national-security-letters-nsls)
-    + [Phone # Identifiers](#phone--identifiers)
-    + [Social network graphs](#social-network-graphs)
-    + [Abandonment of Open source](#abandonment-of-open-source)
-    + [Bundling a Cryptocurrency](#bundling-a-cryptocurrency)
-    + [Others](#others)
-  * [What makes a good messaging platform?](#what-makes-a-good-messaging-platform)
-    + [End-to-end encrypted](#end-to-end-encrypted)
-    + [Open Source](#open-source)
-    + [Self hosted](#self-hosted)
-    + [Federated](#federated)
-    + [No required linkable identifiers](#no-required-linkable-identifiers)
-  * [Bad Alternatives](#bad-alternatives)
-  * [Good Alternatives](#good-alternatives)
-    + [Matrix](#matrix)
+    - [Phone # Identifiers](#phone--identifiers)
+    - [Social network graphs](#social-network-graphs)
+    - [Abandonment of Open source](#abandonment-of-open-source)
+    - [Bundling a Cryptocurrency](#bundling-a-cryptocurrency)
+    - [Others](#others)
+  - [What makes a good messaging platform?](#what-makes-a-good-messaging-platform)
+    - [End-to-end encrypted](#end-to-end-encrypted)
+    - [Open Source](#open-source)
+    - [Self hosted](#self-hosted)
+    - [Federated](#federated)
+    - [No required linkable identifiers](#no-required-linkable-identifiers)
+  - [Bad Alternatives](#bad-alternatives)
+  - [Good Alternatives](#good-alternatives)
+    - [Matrix](#matrix)
       - [Caveats of federation: Metadata leaking](#caveats-of-federation-metadata-leaking)
-    + [XMPP](#xmpp)
+    - [XMPP](#xmpp)
       - [Caveats](#caveats)
-    + [Briar](#briar)
+    - [Briar](#briar)
       - [Caveats](#caveats-1)
-    + [Jitsi](#jitsi)
-    + [SimpleX](#simplex)
+    - [Jitsi](#jitsi)
+    - [SimpleX](#simplex)
       - [Caveats](#simplex-caveats)
-  * [Conclusions](#conclusions)
+  - [Conclusions](#conclusions)
 
 <!-- tocstop -->
 
@@ -44,11 +44,11 @@ About me: While I'm no cryptography expert, I'm a software developer with 10+ ye
 
 ## The Problem
 
-After the [global surveillance disclosures of 2013](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)), finding a secure messaging platform to replace text messages became an imperative for all activists. It was found that US, Canadian, UK, Australian, and New Zealand intelligence agencies (the ["Five Eyes"](https://en.wikipedia.org/wiki/Five_Eyes)), along with US tech giants like Facebook, Apple, Google, and Microsoft, were collecting and forwarding email, text, voice, and video chats to governments, **without any warrant required.** 
+After the [global surveillance disclosures of 2013](<https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>), finding a secure messaging platform to replace text messages became an imperative for all activists. It was found that US, Canadian, UK, Australian, and New Zealand intelligence agencies (the ["Five Eyes"](https://en.wikipedia.org/wiki/Five_Eyes)), along with US tech giants like Facebook, Apple, Google, and Microsoft, were collecting and forwarding email, text, voice, and video chats to governments, **without any warrant required.**
 
-Western governments created a worldwide system of surveillance that *even their own citizens and allies* could seemingly not escape from. 
+Western governments created a worldwide system of surveillance that _even their own citizens and allies_ could seemingly not escape from.
 
-It was also long known that communications within walled gardens like Facebook or Gmail were not secure, so many players around this time began to develop secure messaging alternatives. 
+It was also long known that communications within walled gardens like Facebook or Gmail were not secure, so many players around this time began to develop secure messaging alternatives.
 
 ## Enter Signal
 
@@ -62,7 +62,7 @@ Until a few years ago, it was seen as an underdog, and the best secure alternati
 
 In January 2021, after WhatsApp, the most popular messaging app in the world, became acquired by Facebook, and announced its sharing of data with its new parent, [Signal became the top downloaded app in > 70 countries.](https://archive.is/NdCxm)
 
-Signal's exploding popularity among messaging apps, has lead many activists to re-open signal's case, and consider why a "secure" yet popular platform has garnered little to no response from US government officials. 
+Signal's exploding popularity among messaging apps, has lead many activists to re-open signal's case, and consider why a "secure" yet popular platform has garnered little to no response from US government officials.
 
 As it turns out, the US government was (and possibly remains) itself a primary funder of Signal.
 
@@ -80,35 +80,35 @@ The Radio Free agencies underwent a public re-branding in the early 1990s, but [
 >
 > It was only after Radio Free Asia's transmitters were operating, according to sources familiar with the case, that the C.I.A. realized that there were almost no radio receivers in private hands in mainland China. An emergency plan was drawn up. Balloons, holding small radios tuned to Radio Free Asia's frequency, were lofted toward the mainland from the island of Taiwan, where the Chinese Nationalists had fled after the Communist takeover of the mainland in 1949. The plan was abandoned when the balloons were blown back to Taiwan across the Formosa Strait.
 
-What Allen Weinstein, one of the founders of the National Endowment for Democracy (NED), another US "human rights" regime change org said of his organization applies equally to the Open Technology fund: “A lot of what we do today was done covertly 25 years ago by the CIA.” 
+What Allen Weinstein, one of the founders of the National Endowment for Democracy (NED), another US "human rights" regime change org said of his organization applies equally to the Open Technology fund: “A lot of what we do today was done covertly 25 years ago by the CIA.”
 
-The fund is designated to: ["support open technologies and communities that increase free expression, circumvent censorship, and obstruct repressive surveillance as a way to promote human rights and open societies."](https://www.opentech.fund/about/values-principles/) 
+The fund is designated to: ["support open technologies and communities that increase free expression, circumvent censorship, and obstruct repressive surveillance as a way to promote human rights and open societies."](https://www.opentech.fund/about/values-principles/)
 
 One should question the commitment of a fund that dedicates itself to "obstructing surveillance", while being created by a government who runs the most **expansive surveillance system in world history**. And how the US might define the terms "human rights", and "open society" differently from those who know the US's history in those areas.
 
 Its a clear case of US government funding projects with the goal of either co-opting them, as in Signal's case, or absorbing them entirely; in essence, subverting the goals of privacy advocates and developers, by offering them the funding that no one else will provide: as long as they play ball with US interests.
 
-Signal could very well be another Crypto AG-style [honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing)): the Swiss company which provided secure communications services to ~120 governments throughout the 20th century, and was [secretly ran by the CIA and West German Intelligence.](https://archive.is/va2l7)
+Signal could very well be another Crypto AG-style [honeypot](<https://en.wikipedia.org/wiki/Honeypot_(computing)>): the Swiss company which provided secure communications services to ~120 governments throughout the 20th century, and was [secretly ran by the CIA and West German Intelligence.](https://archive.is/va2l7)
 
 ---
 
 Signal's use luckily never caught on by the general public of China (or the Hong Kong Administrative region), whose government prefers autonomy, rather than letting US tech control its communication platforms, as most of the rest of the world naively allows. (For example, India's most popular social media apps, are Facebook and Youtube, meaning that US surveillance giants own and control the everyday communications of a country much larger than their own). Signal instead became used by US and western activists, and due to the contradictions of surveillance capitalism, also now its general populace.
 
-However this is no case of [blowback](https://en.wikipedia.org/wiki/Blowback_(intelligence)), [Marlinspike's confused and useful idiot politics aside](https://lemmygrad.ml/pictrs/image/n9o9bNI6gp.jpg); Signal's other deficiencies mean that there are less impediments to US government surveillance over it than previously thought, and make its claims to being "secure", questionable. 
+However this is no case of [blowback](<https://en.wikipedia.org/wiki/Blowback_(intelligence)>), [Marlinspike's confused and useful idiot politics aside](https://lemmygrad.ml/pictrs/image/n9o9bNI6gp.jpg); Signal's other deficiencies mean that there are less impediments to US government surveillance over it than previously thought, and make its claims to being "secure", questionable.
 
 As the above article states, after Yasha Levine wrote an article exposing Signal's funding sources, the [RFA tried to do damage control on Signal's behalf,](https://archive.is/Rz6Qa) in the hope that Signal would maintain good relations with its open source supporters, and remain a viable "privacy-oriented" alternative. Libby Liu, president of Radio Free Asia stated:
 
-> Our primary interest is to make sure the extended OTF network and the Internet Freedom community are not spooked by the [Yasha Levine's] article (no pun intended). Fortunately all the major players in the community are together in Valencia this week - and report out from there indicates they remain comfortable with OTF/RFA. 
+> Our primary interest is to make sure the extended OTF network and the Internet Freedom community are not spooked by the [Yasha Levine's] article (no pun intended). Fortunately all the major players in the community are together in Valencia this week - and report out from there indicates they remain comfortable with OTF/RFA.
 
 Clearly the US government was interested in Signal's continued use and expansion.
 
-The reason the US government hasn't tried to block or hinder Signal, *is because it's satisfied with the amount of information Signal can provide to it.*
+The reason the US government hasn't tried to block or hinder Signal, _is because it's satisfied with the amount of information Signal can provide to it._
 
 ### A Single, Centralized, US-based service
 
 #### National Security Letters (NSLs)
 
-The US has an [interesting law](https://en.wikipedia.org/wiki/National_security_letter) that applies to *any US company* operating within its borders: it is **illegal to tell your users that the the US government has asked your company to spy on their behalf.** This is called a [key disclosure law](https://www.privacyguides.org/providers/#kdl), and the US's version of it, called [National Security Letters](https://en.wikipedia.org/wiki/National_security_letter), underwent an expansion with the PATRIOT act.
+The US has an [interesting law](https://en.wikipedia.org/wiki/National_security_letter) that applies to _any US company_ operating within its borders: it is **illegal to tell your users that the the US government has asked your company to spy on their behalf.** This is called a [key disclosure law](https://www.privacyguides.org/providers/#kdl), and the US's version of it, called [National Security Letters](https://en.wikipedia.org/wiki/National_security_letter), underwent an expansion with the PATRIOT act.
 
 Companies that don't comply with this law, [such as Lavabit, are forced to shut themselves down in protest, in order to avoid prison time](https://www.youtube.com/watch?v=spW0q-g2BxU), or remain open, and funnel user communications to the US government. The Signal foundation is a US domiciled company, and must comply with this law.
 
@@ -118,13 +118,13 @@ This means that all of Signal's data is centralized and controlled **by a single
 
 The centralization of Signal's data, means that it most likely has been issued an NSL letter, along with every other centralized messaging company domiciled in the US. While it's impossible for us to know for certain, its also illegal for the founders to disclose that. For a threat analysis, we should assume the worst, especially for such a popular app.
 
-This could account for many Signal developers' characterization of [Marlinspike as being paranoid, and a control-freak](https://archive.is/NdCxm) when it comes to some of Signal's administration. Marlinspike could face real prison time if this information were *even accidentally* made public.
+This could account for many Signal developers' characterization of [Marlinspike as being paranoid, and a control-freak](https://archive.is/NdCxm) when it comes to some of Signal's administration. Marlinspike could face real prison time if this information were _even accidentally_ made public.
 
 In a time where nearly all new messaging platforms are using the self-hosted+federation model, [Marlinspike came out staunchly in favor of centralization](https://signal.org/blog/the-ecosystem-is-moving/), and refused to consider federation when asked by the developers of Matrix, a federated messaging protocol, on the grounds that it would slow down feature development. [Their response is here](https://matrix.org/blog/2020/01/02/on-privacy-versus-freedom).
 
 Like many of Apple's adherents who were utterly convinced of Apple's commitment to privacy, and "felt" that privacy in their gut (until [evidence was made public showing the contrary long after the fact](https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data)), Signal adherents base their "trust" in Signal on completely unrelated factors, such as Signal's clean UI, or Marlinspike himself: factors which have nothing to do with privacy, and **aren't falsifiable or testable.**
 
-The evidence for or against the "privacy" of centralized services is **always circumstantial**, because ultimately we can never know what code the server is *actually running*, or if it's been compromised by a malicious actor. The server is a black box we can't see into.
+The evidence for or against the "privacy" of centralized services is **always circumstantial**, because ultimately we can never know what code the server is _actually running_, or if it's been compromised by a malicious actor. The server is a black box we can't see into.
 
 Self-hosted solutions on the other hand, have much harder reproducibility requirements to pass, because the people using and running them **know what code the server is running**: they can build it from scratch using the open source code (like a recipe). They **can** test the server to be sure of its security. As [Drew Devault said in his criticism of Signal](https://drewdevault.com/2018/08/08/Signal.html): **Truly secure systems don’t require trust**.
 
@@ -132,17 +132,17 @@ Self-hosted solutions on the other hand, have much harder reproducibility requir
 
 If you were building a secure platform, and wanted to use an identifier, what would be the worst thing to use? **Phone numbers.**
 
-Phone numbers in nearly every country, including the US, **are directly linked to your identity**: including your full name, social security number, and even current address. A simple reverse phone number lookup, *doable even by non law enforcement actors*, can reveal this information.
+Phone numbers in nearly every country, including the US, **are directly linked to your identity**: including your full name, social security number, and even current address. A simple reverse phone number lookup, _doable even by non law enforcement actors_, can reveal this information.
 
 This is also why it's impossible for anonymous or Internet-only activists to use Signal: by giving others their phone number, they give away their full name and address.
 
-[Privacy advocates stress that services need to minimize "linkability"](https://www.youtube.com/watch?v=ACI7zZGgi80):  the less identifiers that link to your real identity, the better. Signal forgoes this requirement in favor of easy onboarding, and connecting to your existing contacts and message history. That might be acceptable for an Apple or Whatsapp, but shouldn't be for one marketing itself to activists as "secure".
+[Privacy advocates stress that services need to minimize "linkability"](https://www.youtube.com/watch?v=ACI7zZGgi80): the less identifiers that link to your real identity, the better. Signal forgoes this requirement in favor of easy onboarding, and connecting to your existing contacts and message history. That might be acceptable for an Apple or Whatsapp, but shouldn't be for one marketing itself to activists as "secure".
 
 Signal also allows you to be discoverable via your phone number, without your consent. Law enforcement officials frequently add the phone numbers of suspects, or groups of suspects to their own signal app, and signal will happily tell them which of their suspects are using signal.
 
 ### Social network graphs
 
-Signal's E2EE protocol means that, most likely, message _content_ between persons is secure. But third parties often care more about *metadata*, than actual content, since they don't have time to manually read through the messages anyway to construct meaning.
+Signal's E2EE protocol means that, most likely, message _content_ between persons is secure. But third parties often care more about _metadata_, than actual content, since they don't have time to manually read through the messages anyway to construct meaning.
 
 Signals database, which we must assume is compromised due to its centralized and US domiciled nature, has a few important pieces of data;
 
@@ -159,11 +159,11 @@ Some Signal advocates have pointed out that signal implements [sealed sender](ht
 
 ### Abandonment of Open source
 
-While Signal's apps and server source code *purport* to be open source, in reality signal has been slow to update them. [In April 2021, signal outraged the open-source community by going a **whole year** without publishing their server code updates.](https://www.androidpolice.com/2021/04/06/it-looks-like-signal-isnt-as-open-source-as-you-thought-it-was-anymore/) After the outcry, signal *finally* updated their server code to appease the open source community, but it left a sour taste in everyone's mouths.
+While Signal's apps and server source code _purport_ to be open source, in reality signal has been slow to update them. [In April 2021, signal outraged the open-source community by going a **whole year** without publishing their server code updates.](https://www.androidpolice.com/2021/04/06/it-looks-like-signal-isnt-as-open-source-as-you-thought-it-was-anymore/) After the outcry, signal _finally_ updated their server code to appease the open source community, but it left a sour taste in everyone's mouths.
 
 ### Bundling a Cryptocurrency
 
-Recently, [Signal has been attempting to integrate a cryptocurrency called MobileCoin, into the app itself.](https://cointelegraph.com/news/signal-under-fire-over-mobilecoin-partnership) What a messaging platform has to do with an obscure cryptocurrency is a little vague; but there is probably some [money driving this](https://www.coindesk.com/tech/2021/04/09/signal-founder-may-have-been-more-than-a-tech-adviser-to-mobilecoin/). This "feature" [caused outrage among users.](https://www.reddit.com/r/signal/comments/mm8w44/i_shouldnt_have/) 
+Recently, [Signal has been attempting to integrate a cryptocurrency called MobileCoin, into the app itself.](https://cointelegraph.com/news/signal-under-fire-over-mobilecoin-partnership) What a messaging platform has to do with an obscure cryptocurrency is a little vague; but there is probably some [money driving this](https://www.coindesk.com/tech/2021/04/09/signal-founder-may-have-been-more-than-a-tech-adviser-to-mobilecoin/). This "feature" [caused outrage among users.](https://www.reddit.com/r/signal/comments/mm8w44/i_shouldnt_have/)
 
 ### Others
 
@@ -181,7 +181,7 @@ The source code for both the server, and client applications should be out in th
 
 ### Self hosted
 
-A messaging platform should be able to be run in an **entirely private manner**, controlled only by the person who has downloaded its software. That person should also be able to build the project from its original source code, ensuring that nothing nefarious was inserted. 
+A messaging platform should be able to be run in an **entirely private manner**, controlled only by the person who has downloaded its software. That person should also be able to build the project from its original source code, ensuring that nothing nefarious was inserted.
 
 Having full control over your data is extremely important, especially for activists who want to avoid malicious 3rd parties.
 
@@ -197,7 +197,7 @@ The less identifiers a database has, such as your real name, email, and phone nu
 
 ## Bad Alternatives
 
-The obvious offenders are those companies that have already signed up to the NSA's [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)) program. Their applications include Facebook and its messenger, Whatsapp, Instagram, Skype, Microsoft teams, Gmail, Youtube, Apple messages, and cell carrier text and voice calling.
+The obvious offenders are those companies that have already signed up to the NSA's [PRISM](<https://en.wikipedia.org/wiki/PRISM_(surveillance_program)>) program. Their applications include Facebook and its messenger, Whatsapp, Instagram, Skype, Microsoft teams, Gmail, Youtube, Apple messages, and cell carrier text and voice calling.
 
 Other disqualified alternatives include US domiciled companies or those with centralized servers, including Signal, Discord, Slack, Zoom, Telegram, Threema, Snapchat, Viber, Line, Twitter, and Reddit.
 
@@ -211,7 +211,7 @@ The platforms below are my recommendations, and this is by no means exhaustive. 
 
 ### Matrix
 
-[Matrix](https://matrix.org/) is a self-hostable, federated messaging platform, that within the past few years has come into maturity. Due to its open standard, multiple clients, support for large group chats, and encryption-first design, many are hailing it as the successor to email, and the future of secure communication. 
+[Matrix](https://matrix.org/) is a self-hostable, federated messaging platform, that within the past few years has come into maturity. Due to its open standard, multiple clients, support for large group chats, and encryption-first design, many are hailing it as the successor to email, and the future of secure communication.
 
 Its main client, [Element](https://element.io/), has a web app, and full-featured android and iOS apps.
 
@@ -223,7 +223,7 @@ As a testament to its reliability and long-term support, Matrix is even being ad
 
 When using federation, Matrix's room states (containing a lot of Metadata) get replicated and stored indefinitely on every homeserver any user connects with or connects to. While this is a feature for enabling distributed chat rooms, it comes at a serious privacy cost.
 
-To avoid this, you can either disable federation, or make sure that your users signed up with **no linkable identifiers** other than their user names. 
+To avoid this, you can either disable federation, or make sure that your users signed up with **no linkable identifiers** other than their user names.
 
 ### XMPP
 
@@ -260,9 +260,8 @@ Briar is newer, and lacks too many features to be usable for large organizations
 
 ## Conclusions
 
-I've outlined here why it's imperative that activist communities migrate away from Signal. We shouldn't be daunted by the inertia that seems to plague general adoption of new chat applications; if our organizations are disciplined enough, and care enough about secure communications, moving to them should be made a priority. 
+I've outlined here why it's imperative that activist communities migrate away from Signal. We shouldn't be daunted by the inertia that seems to plague general adoption of new chat applications; if our organizations are disciplined enough, and care enough about secure communications, moving to them should be made a priority.
 
 We must be adaptable and versatile: If in the future, new, more secure alternatives can be found, they should be investigated and considered as alternatives.
 
 We need to take control of our communications, and stop letting US tech companies handle it for us.
-

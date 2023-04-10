@@ -10,8 +10,8 @@ Instead of using plex or emby, consider using a dedicated torrent server, and to
 
 ## Amount of Content
 
-- The content on streaming services are limited to what you *specifically* have downloaded. This can never match the hundreds of thousands of torrents being shared by people across the globe. Search sites like [Torrents.csv](https://torrents-csv.ml/) have often faster searching than self-hosted solutions (and you can self host the searching if you wish).
-- Which is better, having a collection of *my music*, or having a collection of *all music*?
+- The content on streaming services are limited to what you _specifically_ have downloaded. This can never match the hundreds of thousands of torrents being shared by people across the globe. Search sites like [Torrents.csv](https://torrents-csv.ml/) have often faster searching than self-hosted solutions (and you can self host the searching if you wish).
+- Which is better, having a collection of _my music_, or having a collection of _all music_?
 
 ## Choice of media player
 
@@ -29,7 +29,7 @@ Instead of using plex or emby, consider using a dedicated torrent server, and to
 
 ## Ease of use
 
-- Streaming servers require you to set up a web server, often requiring you to learn nginx / apache, as well as follow various setup processes for the services themselves. This is understandable for some tech-oriented people, but what about a non-techie, who just likes music / movies? Why should they be required to learn these tools? 
+- Streaming servers require you to set up a web server, often requiring you to learn nginx / apache, as well as follow various setup processes for the services themselves. This is understandable for some tech-oriented people, but what about a non-techie, who just likes music / movies? Why should they be required to learn these tools?
   - Content should be available **for all**, regardless of technical skill, or ability.
 - Downloading a torrent, and enjoying the media, involves:
   - Clicking a download magnet link. Wait for it to finish.
@@ -37,9 +37,8 @@ Instead of using plex or emby, consider using a dedicated torrent server, and to
 
 ## Caching / Saving / Streaming
 
-- Many of us don't have data, or are often in areas where data is spotty. 
-  - Its often a *feature* of services like plex to be able to save media locally, to avoid this problem. This is default with torrents.
-- Torrent clients like qbittorrent and libretorrent for android let you *download files in sequential order*, IE stream, at the click of a button.
+- Many of us don't have data, or are often in areas where data is spotty.
+  - Its often a _feature_ of services like plex to be able to save media locally, to avoid this problem. This is default with torrents.
+- Torrent clients like qbittorrent and libretorrent for android let you _download files in sequential order_, IE stream, at the click of a button.
 - Services like [Torrents.csv](https://torrents-csv.ml) let you search for files within torrents, so you can easily download / stream individual songs.
 - Its your choice where things are downloaded to. You can have a desktop or server with a highly available torrent client, and/or a smartphone torrent client.
-

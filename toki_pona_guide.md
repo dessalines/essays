@@ -7,9 +7,9 @@
 
 ## Vocabulary
 
-- Download a client for the spaced-repetition software, [Anki](https://apps.ankiweb.net/). 
+- Download a client for the spaced-repetition software, [Anki](https://apps.ankiweb.net/).
   - [AnkiDroid for Android](https://play.google.com/store/apps/details?id=com.ichi2.anki)
-- [Shared Deck of all the current popular words](https://ankiweb.net/shared/info/1075479788) (~137 words as of 2022, known as *pu + nimi ku suli*).
+- [Shared Deck of all the current popular words](https://ankiweb.net/shared/info/1075479788) (~137 words as of 2022, known as _pu + nimi ku suli_).
 - [Shared Deck of all the phrases from jan Lentan's lessons.](https://ankiweb.net/shared/info/204928497)
 - You can find other shared decks [here](https://ankiweb.net/shared/decks/toki%20pona).
 
@@ -21,4 +21,3 @@
 
 - [ku - the toki pona dictionary](https://www.amazon.com/dp/0978292367/)
 - [pu - toki pona: the language of good (first book)](http://www.amazon.com/gp/product/0978292308)
-

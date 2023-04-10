@@ -8,14 +8,13 @@ By Michael Parenti.
 
 This article is being reposted by readers’ request. This essay first ran in the 1990s, and was first republished on May 23, 2015 on TGP. It is reposted here again due to the upsurge in McCarthyism from “the left”, spearheaded by the usual suspects, mainly CIA-influenced liberals in the Democratic party and numerous media assets, plus their legions of clueless followers.
 
-* * *
+---
 
 [![](https://www.greanvillepost.com/wp-content/uploads/2012/01/noamChomsky.jpg "noamChomsky")](https://www.greanvillepost.com/wp-content/uploads/2012/01/noamChomsky.jpg)
 
-*Despite a lifetime of “shaming” the system, NOAM CHOMSKY, America’s foremost “engagé” intellectual, remains an unrepentant left anticommunist.*
+_Despite a lifetime of “shaming” the system, NOAM CHOMSKY, America’s foremost “engagé” intellectual, remains an unrepentant left anticommunist._
 
 In the United States, for over a hundred years, the ruling interests tirelessly propagated anticommunism among the populace, until it became more like a religious orthodoxy than a political analysis. During the Cold War, the anticommunist ideological framework could transform any data about existing communist societies into hostile evidence. If the Soviets refused to negotiate a point, they were intransigent and belligerent; if they appeared willing to make concessions, this was but a skillful ploy to put us off our guard. By opposing arms limitations, they would have demonstrated their aggressive intent; but when in fact they supported most armament treaties, it was because they were mendacious and manipulative. If the churches in the USSR were empty, this demonstrated that religion was suppressed; but if the churches were full, this meant the people were rejecting the regime’s atheistic ideology. If the workers went on strike (as happened on infrequent occasions), this was evidence of their alienation from the collectivist system; if they didn’t go on strike, this was because they were intimidated and lacked freedom. A scarcity of consumer goods demonstrated the failure of the economic system; an improvement in consumer supplies meant only that the leaders were attempting to placate a restive population and so maintain a firmer hold over them. If communists in the United States played an important role struggling for the rights of workers, the poor, African-Americans, women, and others, this was only their guileful way of gathering support among disfranchised groups and gaining power for themselves. How one gained power by fighting for the rights of powerless groups was never explained. What we are dealing with is a nonfalsifiable orthodoxy, so assiduously marketed by the ruling interests that it affected people across the entire political spectrum.
-
 
 ## Genuflection to Orthodoxy
 
@@ -113,7 +112,7 @@ All this is not to say that everything Stalin did was of historical necessity. T
 
 The transforming effects of counterrevolutionary attack have been felt in other countries. A Sandinista military officer I met in Vienna in 1986 noted that Nicaraguans were “not a warrior people” but they had to learn to fight because they faced a destructive, U.S.-sponsored mercenary war. She bemoaned the fact that war and embargo forced her country to postpone much of its socio-economic agenda. As with Nicaragua, so with Mozambique, Angola and numerous other countries in which U.S.-financed mercenary forces destroyed farmlands, villages, health centers, and power stations, while killing or starving hundreds of thousands–the revolutionary baby was strangled in its crib or mercilessly bled beyond recognition. This reality ought to earn at least as much recognition as the suppression of dissidents in this or that revolutionary society.
 
-* * *
+---
 
 [![Richard Lichtman, an otherwise capable theorist and activist, was among those on the Marxian left who applauded the downfall of the Eastern bloc nations and the USSR itself. ](https://www.greanvillepost.com/wp-content/uploads/2012/01/richard_lichtman.jpg)](https://www.greanvillepost.com/wp-content/uploads/2012/01/richard_lichtman.jpg)
 
@@ -127,7 +126,7 @@ In addition, the overthrow of communism gave the green light to the unbridled ex
 
 Having never understood the role that existing communist powers played in tempering the worst impulses of Western capitalism, and having perceived communism as nothing but an unmitigated evil, the left anticommunists did not anticipate the losses that were to come. Some of them still don’t get it.
 
-* * *
+---
 
 ## ABOUT THE AUTHOR
 
@@ -139,18 +138,18 @@ Having never understood the role that existing communist powers played in temper
 
 PARENTI is the author of twenty-three books, among which:
 
-*   [The Face of Imperialism](http://www.michaelparenti.org/the_face_of_imperialism.html) (Paradigm, 2011)
-*   [God and His Demons](http://www.michaelparenti.org/goadandhisdemons.html) (Prometheus Books, 2010)
-*   [Democracy for the Few](http://www.michaelparenti.org/DemocracyForFew.html) (Wadsworth, 9th edition, 2011)
-*   [Contrary Notions: The Michael Parenti Reader](http://www.michaelparenti.org/contrarynotions.html) (City Lights Books, 2007)
-*   [Democracy for the Few](http://www.michaelparenti.org/DemocracyForFew.html) (Wadsworth, 8th edition, 2007)
-*   [The Culture Struggle](http://www.michaelparenti.org/CultureStruggle.html) (Seven Stories Press, 2006)
-*   [Superpatriotism](http://www.michaelparenti.org/superpatriotism.html) (City Lights Books, 2004)
-*   [The Assassination of Julius Caesar](http://www.michaelparenti.org/Caesar.html) (The New Press, 2003)
-*   [The Terrorism Trap](http://www.michaelparenti.org/TerrorismTrap.html) (City Lights Books, 2002)
-*   [To Kill a Nation](http://www.michaelparenti.org/ToKillANation.html) (Verso Books, 2001)
-*   [History as Mystery](http://www.michaelparenti.org/HistoryAsMystery.html) (City Lights Books, 1999)
-*   [Blackshirts and Reds](http://www.michaelparenti.org/BlackShirts.html) (City Lights Books, 1997)
-*   [Dirty Truths](http://www.michaelparenti.org/DirtyTruths.html) (City Lights Books, 1996)
-*   [Inventing Reality](http://www.michaelparenti.org/InventingReality.html) (Wadsworth, second edition, 1993)  
-    are duly regarded as classic.
+- [The Face of Imperialism](http://www.michaelparenti.org/the_face_of_imperialism.html) (Paradigm, 2011)
+- [God and His Demons](http://www.michaelparenti.org/goadandhisdemons.html) (Prometheus Books, 2010)
+- [Democracy for the Few](http://www.michaelparenti.org/DemocracyForFew.html) (Wadsworth, 9th edition, 2011)
+- [Contrary Notions: The Michael Parenti Reader](http://www.michaelparenti.org/contrarynotions.html) (City Lights Books, 2007)
+- [Democracy for the Few](http://www.michaelparenti.org/DemocracyForFew.html) (Wadsworth, 8th edition, 2007)
+- [The Culture Struggle](http://www.michaelparenti.org/CultureStruggle.html) (Seven Stories Press, 2006)
+- [Superpatriotism](http://www.michaelparenti.org/superpatriotism.html) (City Lights Books, 2004)
+- [The Assassination of Julius Caesar](http://www.michaelparenti.org/Caesar.html) (The New Press, 2003)
+- [The Terrorism Trap](http://www.michaelparenti.org/TerrorismTrap.html) (City Lights Books, 2002)
+- [To Kill a Nation](http://www.michaelparenti.org/ToKillANation.html) (Verso Books, 2001)
+- [History as Mystery](http://www.michaelparenti.org/HistoryAsMystery.html) (City Lights Books, 1999)
+- [Blackshirts and Reds](http://www.michaelparenti.org/BlackShirts.html) (City Lights Books, 1997)
+- [Dirty Truths](http://www.michaelparenti.org/DirtyTruths.html) (City Lights Books, 1996)
+- [Inventing Reality](http://www.michaelparenti.org/InventingReality.html) (Wadsworth, second edition, 1993)  
+  are duly regarded as classic.

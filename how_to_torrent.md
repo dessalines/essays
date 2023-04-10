@@ -21,7 +21,7 @@
 
 ## Find a Torrent Search Engine
 
-- Use [Google](https://www.lifewire.com/top-torrent-sites-alternatives-to-kat-2483512) 
+- Use [Google](https://www.lifewire.com/top-torrent-sites-alternatives-to-kat-2483512)
 
 ## Find a Media Player
 
