@@ -24,6 +24,7 @@
   - [On Women's Liberation](#on-womens-liberation)
   - [On Race and Class](#on-race-and-class)
   - [On Decolonization](#on-decolonization)
+  - [On Unequal Exchange](#on-unequal-exchange)
   - [On Guns / Firearms / Violence](#on-guns--firearms--violence)
   - [On Capitalism](#on-capitalism)
   - [On Liberalism](#on-liberalism)
@@ -128,7 +129,7 @@
 
 - [History and human nature.](https://github.com/dessalines/essays/blob/master/crash_course_socialism.md#history-and-human-nature)
 - [What about human nature?](http://www.reddit.com/r/communism101/comments/2yk3xl/what_about_human_nature_answer_but_add_yours_too/)
-- [Advertising is a cancer](http://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html)
+- [Advertising is a cancer](http://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html), [audiobook](magnet:?xt=urn:btih:dd172e3af7a5f4cd626324f76a58c10f55d38bb6&dn=Jacek%20Zlydach%20-%20Advertising%20is%20a%20Cancer%20on%20Society%20%5baudiobook%5d%20by%20dessalines)
 
 ## Schools of thought
 
@@ -306,6 +307,7 @@
 - [On Feminism](http://www.reddit.com/r/communism101/comments/1hyu6n/on_feminism/)
 - [Silvia Federici - Caliban and the Witch [audiobook] by dessalines](magnet:?xt=urn:btih:5235321931784e4cfb9efef3138b605164026ed9&dn=Silvia%20Federici%20-%20Caliban%20and%20the%20Witch%20%5baudiobook%5d%20by%20dessalines)
 - [Lise Vogel - Domestic Labor Revisited (an introduction to Marxist Feminism)](https://dessalines.github.io/essays/lise_vogel_domestic_labour_revisited.html)
+- [Lise Vogel - Marxism and the Oppression of Women [audiobook] by dessalines](magnet:?xt=urn:btih:2b32f06c48d977bb08f0c2eed444d4fbe281577f&dn=Lise%20Vogel%20-%20Marxism%20and%20the%20Oppression%20of%20Women%20%5baudiobook%5d%20by%20dessalines)
 - [What is proletarian/marxian feminism?](http://www.reddit.com/r/communism101/comments/18dfco/what_is_proletarianmarxian_feminism/)
 - [Hello comrades! can anyone explain the idea of marxist-feminism?](http://www.reddit.com/r/communism101/comments/2i1hlp/hello_comrades_can_anyone_explain_the_idea_of/)
 - [What about the history of Marxist Feminism?](https://isreview.org/issue/93/womens-liberation-marxist-tradition)
@@ -347,6 +349,13 @@
 - [Nick Estes - a Red deal](https://www.jacobinmag.com/2019/08/red-deal-green-new-deal-ecosocialism-decolonization-indigenous-resistance-environment).
 - [Red Nation - Communism is on the horizon.](https://therednation.org/communism-is-the-horizon-queer-indigenous-feminism-is-the-way/)
 - [Lenin - On the right of nations to self-determination.](https://liberationschool.org/lenin-and-the-right-of-nations-to-self-determination/)
+
+## On Unequal Exchange
+
+- [John Smith - Imperialism in the Twenty-First Century \(article\) [audiobook] by dessalines](magnet:?xt=urn:btih:ab601810c50700a7bc8d8f0f89ebcfb60229e917&dn=John%20Smith%20-%20Imperialism%20in%20the%20Twenty-First%20Century)
+- [John Smith - The GDP Illusion - Value added versus Value Capture [audiobook] by dessalines](magnet:?xt=urn:btih:d11417b93e812301a4787f8c53897f25817beec8&dn=John%20Smith%20-%20The%20GDP%20Illusion%20-%20Value%20added%20versus%20Value%20Capture%20%5baudiobook%5d%20by%20dessalines)
+- [Zak Cope - Divided world divided class favorites.](zak_cope_divided_favorites.md)
+- [John Smith - Imperialism in the 21st century favorites.](js_imperialism_favorites.md)
 
 ## On Guns / Firearms / Violence
 
