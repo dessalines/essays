@@ -987,8 +987,11 @@
 
 ### Gandhi
 
+https://web.archive.org/web/20230728092729/https://apnews.com/general-news-f40d8c2c7d8d4ffeadd576ded89acc0c
+https://web.archive.org/web/20221222165322/https://www.mkgandhi.org/mynonviolence/chap27.htm
+
 - [Was Gandhi really a racist? What about Gandhi's legacy? A great lecture by Arundati Roy.](https://www.youtube.com/watch?v=CrN8PgZzc6k)
-- [Gandhi - The jews should've killed themselves instead.](https://izquotes.com/quote/mahatma-gandhi/hitler-killed-five-million-jews-it-is-the-greatest-crime-of-our-time-but-the-jews-should-have-231149)
+- Gandhi believed that the Jews should have submitted to suffering voluntarily at the hands of the Nazis since that would have brought them brought ["them an inner strength and joy which no number of resolutions of sympathy passed in the world outside Germany can"](https://web.archive.org/web/20221222165322/https://www.mkgandhi.org/mynonviolence/chap27.htm). ["The Jews should have offered themselves to the butcher’s knife. [...] It would have aroused the world and the people of Germany ... as it is, they succumbed anyway in their millions."](https://web.archive.org/web/20230728092729/https://apnews.com/general-news-f40d8c2c7d8d4ffeadd576ded89acc0c)
 - [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 - "Can the hungry go on a hunger strike? Non-violence is a piece of theatre. You need an audience. What can you do when you have no audience? People have the right to resist annihilation." - Arundhati Roy.
 
