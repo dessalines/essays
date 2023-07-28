@@ -16,4 +16,3 @@
 4. Combine a half a cup of yogurt, and pour in the heated milk into the cup, stirring. Put back into large pot after mixed.
 5. Put in oven overnight with pot lid on, wrap with rags.
 6. In the morning, strain in a large colander in the fridge, cheese cloth on top, with a bowl under it. Empty the bowl every hour for 4 hours. Wait a total of 12 hours.
-

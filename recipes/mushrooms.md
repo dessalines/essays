@@ -12,4 +12,3 @@
 
 - [Spawn to bulk](https://www.youtube.com/watch?v=VUPeTDlDow0&t=2577)
 - [Shoebox neglect tek](https://www.shroomery.org/forums/showflat.php/Number/26009662)
-

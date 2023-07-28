@@ -2,13 +2,13 @@
 
 ## Week
 
-| Day   | Workout                              | Time |
-| ----- | ------------------------------------ | ---- |
+| Day   | Workout                                       | Time |
+| ----- | --------------------------------------------- | ---- |
 | Mon   | Full Body (Lower + Arms + Core + Cardio)      | 40m  |
-| Tues  | Rest                                 |      |
-| Wed   | Rest                                 |      |
+| Tues  | Rest                                          |      |
+| Wed   | Rest                                          |      |
 | Thurs | Full Body (Chest + Core + Shoulders + Cardio) | 40m  |
-| Fri   | Rest                                 |      |
+| Fri   | Rest                                          |      |
 
 Order: Chest, Legs, Arms, Cardio / Core, Posture
 
@@ -26,7 +26,6 @@ Don't do more than 45m per day.
 [PAI (Personal Activity Intelligence)](https://www.ntnu.edu/cerg/personal-activity-intelligence) is a proven metric, based on your heart rate, that can increase your life expectancy by up to 8 years. You can do HIIT workouts, or other intensive cardio to get up to 100 PAI per week.
 
 Use a fitness tracker that can track PAI (currently only xiaomi and amazfit)
-
 
 ## Extras
 

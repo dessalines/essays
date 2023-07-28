@@ -32,4 +32,3 @@
 - High heat, bring to a boil.
 - Smash the beans as the water cooks off. Take off heat once its fairly creamy.
 - Add toppings
-

@@ -18,4 +18,3 @@
 - 1/2 small onion
 - 4 cloves garlic
 - 2 tablespoons caldo de pollo
-

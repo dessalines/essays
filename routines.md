@@ -20,7 +20,7 @@ Inspired by [Andrew Huberman's optimal morning routine](https://www.youtube.com/
 
 Try to keep the total time to under an hour, allocating more of the time to meditating or working out.
 
-An acronym to remember these: 
+An acronym to remember these:
 
 **wisdom**: water (and maybe workout), incisors, stretch, dress, outside, meditate
 
@@ -40,13 +40,13 @@ Time: 3m
 
 ### Face
 
-Do [Ali Abdals routine](https://www.youtube.com/watch?v=OrElyY7MFVs). Rinse / use cleanser, then mix moisturizer and sun-tan lotion. Do any makeup you need to after. 
+Do [Ali Abdals routine](https://www.youtube.com/watch?v=OrElyY7MFVs). Rinse / use cleanser, then mix moisturizer and sun-tan lotion. Do any makeup you need to after.
 
 Time: 3m
 
 ### Stretch
 
-Do [Jeremy Ethiers routine](https://www.youtube.com/watch?v=RqcOCBb4arc), especially the thoracic rotations. Your neck and back will thank you. 
+Do [Jeremy Ethiers routine](https://www.youtube.com/watch?v=RqcOCBb4arc), especially the thoracic rotations. Your neck and back will thank you.
 
 Stretch knees and ankles if necessary.
 
@@ -92,7 +92,7 @@ Time: 10m+
 
 Do 2-3 times per week. Don't work out too long, or you could wear down your joints, and feel drained the rest of the day. [Here's my routine with videos.](workout_routine.md)
 
-Get a fitness tracker like a Xiaomi Mi Band (They cost ~$30). Besides useful notifications (turn off all your phone and device sounds, this thing vibrates your wrist for notifications you want), you can set it to continuously measure your heart rate. 
+Get a fitness tracker like a Xiaomi Mi Band (They cost ~$30). Besides useful notifications (turn off all your phone and device sounds, this thing vibrates your wrist for notifications you want), you can set it to continuously measure your heart rate.
 
 #### PAI
 

@@ -24,10 +24,10 @@
 - Cover the bowl and rest for 2.5 hours.
 - Pour the salt-water into the bowl, pinching and squeezing into the dough.
 - Fold the dough by lifting it up, pulling it over, then rotating the bowl 90°. Fold it 4 times (rotating 4 times). Repeat these 4 folds every 20 minutes, 6 times, 2 hours total.
-- Let the dough rise another 30 minutes. 
+- Let the dough rise another 30 minutes.
 - Sprinkle some flour on the counter, pour the dough onto it, and split into two equal loaves with a bench scraper.
 - Work these into rounds by "turning left while driving", and place them on the counter, covered.
-- Let rise for 2.5 hours. 
+- Let rise for 2.5 hours.
 - Work them into rounds again.
 - Score the tops of the loaves with a knife, a cross works.
 - Heat oven to 500°.

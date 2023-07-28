@@ -11,14 +11,14 @@
 
 ## Ingredients
 
-- 5 tbsp flour 
-- 1 tsp cayenne 
-- 1 tsp Smoked paprika 
-- 1 tsp Cayenne pepper 
+- 5 tbsp flour
+- 1 tsp cayenne
+- 1 tsp Smoked paprika
+- 1 tsp Cayenne pepper
 - 1 tsp onion powder
-- 1 tsp garlic powder 
+- 1 tsp garlic powder
 - 1 tbsp ground black pepper Powder
-- 1 cup water 
+- 1 cup water
 
 ### Mix
 

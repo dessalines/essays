@@ -1,14 +1,14 @@
 https://www.youtube.com/watch?v=MPDfn--vxK8&t=157
 
-# C2 
+# C2
 
 Start at full clockwise
 
-Type | clicks 
---- | ---
-Espresso | 10-14
-Pour-over | 18-24
-French press | 25-27
+| Type         | clicks |
+| ------------ | ------ |
+| Espresso     | 10-14  |
+| Pour-over    | 18-24  |
+| French press | 25-27  |
 
 # Mocha
 
@@ -52,10 +52,11 @@ French press | 25-27
 - 0:25-0:40 Slowly pour into center, very close to bed. Don't move kettle. Up to 120g
 - Wait 5 seconds
 - 0:45-2:15 Pour as slowly as possible, moving in circular motion, up to about 1" in diameter.
-- Let drain for only 5 seconds, then remove brewer 
+- Let drain for only 5 seconds, then remove brewer
 - Stir
 
-Notes: 
+Notes:
+
 - Using a smaller brewer (01 VS 02) helps, with a minimum 20g coffee dose
 - Tip kettle on its side as you pour to be able to pour even slower (use cloth on bottom of kettle to hold it)
 
