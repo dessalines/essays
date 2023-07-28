@@ -1,5 +1,15 @@
 https://www.youtube.com/watch?v=MPDfn--vxK8&t=157
 
+# C2 
+
+Start at full clockwise
+
+Type | clicks 
+--- | ---
+Espresso | 10-14
+Pour-over | 18-24
+French press | 25-27
+
 # Mocha
 
 [Source](https://www.youtube.com/watch?v=M4bqjmdCwRY)
@@ -34,12 +44,20 @@ https://www.youtube.com/watch?v=MPDfn--vxK8&t=157
 
 # Osmotic flow
 
-- 18g coarse
-- Bloom 45g
-- pour center until it poofs, then stop
-- 2m, 150g
-- now go in outward circles. Stop when it puffs
-- 3m, 300g
+- 1:13 Ratio (20g coffee, 260g of 80C/176F water)
+- Grind size 900-1300 microns (bit coarser than normal V60 grind, reference at 0:50)
+- Rinse/pre-heat filter & shake coffee grinds flat in V60
+- 0:00-0:15 Bloom with 3x (math works it to be 2.5x) grind dose in slow spirals about 1" high (60g)
+- Wait 10 seconds
+- 0:25-0:40 Slowly pour into center, very close to bed. Don't move kettle. Up to 120g
+- Wait 5 seconds
+- 0:45-2:15 Pour as slowly as possible, moving in circular motion, up to about 1" in diameter.
+- Let drain for only 5 seconds, then remove brewer 
+- Stir
+
+Notes: 
+- Using a smaller brewer (01 VS 02) helps, with a minimum 20g coffee dose
+- Tip kettle on its side as you pour to be able to pour even slower (use cloth on bottom of kettle to hold it)
 
 # hoffman 1 cup
 

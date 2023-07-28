@@ -4,10 +4,10 @@
 
 | Day   | Workout                              | Time |
 | ----- | ------------------------------------ | ---- |
-| Mon   | Full Body (Lower + Arms + Core)      | 40m  |
+| Mon   | Full Body (Lower + Arms + Core + Cardio)      | 40m  |
 | Tues  | Rest                                 |      |
 | Wed   | Rest                                 |      |
-| Thurs | Full Body (Chest + Core + Shoulders) | 40m  |
+| Thurs | Full Body (Chest + Core + Shoulders + Cardio) | 40m  |
 | Fri   | Rest                                 |      |
 
 Order: Chest, Legs, Arms, Cardio / Core, Posture
@@ -16,9 +16,17 @@ Don't do more than 45m per day.
 
 ## Equipment
 
-- Dumbbell set, at least 2 pairs of handles.
+- Dumbbell set, at least 2 pairs of handles
 - Yoga mat
 - Pillow
+- A fitness tracker that can track your PAI (Set it to continuously monitor your heart rate).
+
+### PAI
+
+[PAI (Personal Activity Intelligence)](https://www.ntnu.edu/cerg/personal-activity-intelligence) is a proven metric, based on your heart rate, that can increase your life expectancy by up to 8 years. You can do HIIT workouts, or other intensive cardio to get up to 100 PAI per week.
+
+Use a fitness tracker that can track PAI (currently only xiaomi and amazfit)
+
 
 ## Extras
 
@@ -61,7 +69,13 @@ Use the android app XPlayer, a video player you can mute, so I can listen to aud
 
 - [Jeremy Ethier / GjustLink - Follow-along 12 min posture routine ](https://www.youtube.com/watch?v=oV67sCZwBuc)
 
-## Dieting
+### Dieting
 
 - [Intermittent Fasting - the science and benefits](https://www.youtube.com/watch?v=7nJgHBbEgsE)
 - [Jeff Nippard - The smartest way to get lean](https://www.youtube.com/watch?v=d8V9ZaSq9Oc)
+
+### Stretching
+
+- [Dr. Berg - knee pain](https://www.youtube.com/watch?v=1NF6XAJq7KE)
+- [Tone and tighten - Knee pain.](https://www.youtube.com/watch?v=ikt6NME0k9E)
+- [Doctor Jo - Knee pain](https://www.youtube.com/watch?v=UW8UWZ2gvd0)
