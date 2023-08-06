@@ -150,7 +150,7 @@
 - [What was Engels Contribution to Marxism?](https://necessityandfreedom.wordpress.com/2017/04/16/without-engels-there-would-be-no-marxism/)
 - [Was Marx anti-semitic? ( On the Jewish Question )](https://www.reddit.com/r/communism101/comments/exfvbe/for_anyone_who_are_confused_by_marx_is/)
 - [Were the nazis socialist? What about national socialism, the national socialist movement (NSM), and the national front?](https://www.snopes.com/news/2017/09/05/were-nazis-socialists/), [2](https://www.reddit.com/r/Socialism_101/comments/79kvin/what_is_the_difference_between_socialists_here/), [3](https://www.reddit.com/r/therewasanattempt/comments/cblf1y/to_commit_a_hate_crime/ethf3t8/), [4](https://www.reddit.com/r/ShitLiberalsSay/wiki/index#wiki_the_nazis_were_socialists.2C_communists_or_leftists)
-- [What is Fascism?](http://www.nybooks.com/articles/1995/06/22/ur-fascism/)
+- [What is Fascism?](https://lemmygrad.ml/comment/1313977) ,[2](http://www.nybooks.com/articles/1995/06/22/ur-fascism/)
 - [Is the US a fascist state?](https://www.reddit.com/r/GenZhou/comments/qxguko/do_you_consider_the_us_to_be_a_fascist_state/hl9q3mr/)
 - [Did Karl Marx use "socialism" and "communism" interchangeably?](http://www.reddit.com/r/communism101/comments/2msa39/did_karl_marx_use_socialism_and_communism/)
 - [What is Luxemburgism?](https://www.reddit.com/r/communism/comments/bzl9iu/luxemburgism/eqtbcxe/)

@@ -55,6 +55,7 @@
 - [Lise Vogel - Marxism and the Oppression of Women [audiobook] by dessalines](magnet:?xt=urn:btih:2b32f06c48d977bb08f0c2eed444d4fbe281577f&dn=Lise%20Vogel%20-%20Marxism%20and%20the%20Oppression%20of%20Women%20%5baudiobook%5d%20by%20dessalines)
 - [A.M. Gittlitz - I Want to Believe [audiobook] by dessalines](magnet:?xt=urn:btih:e3fd8f527a154bc79c9f77b27c3b026b9e334265&dn=A.M.%20Gittlitz%20-%20I%20Want%20to%20Believe%20%5baudiobook%5d%20by%20dessalines)
 - [Jacek Zlydach - Advertising is a Cancer on Society [audiobook] by dessalines](magnet:?xt=urn:btih:dd172e3af7a5f4cd626324f76a58c10f55d38bb6&dn=Jacek%20Zlydach%20-%20Advertising%20is%20a%20Cancer%20on%20Society%20%5baudiobook%5d%20by%20dessalines)
+- [Liu Shaoqi - How to be a good communist [audiobook] by dessalines](magnet:?xt=urn:btih:769761479ac1c16073df01b276ed4b2909f2649d&dn=Liu%20Shaoqi%20-%20How%20to%20Be%20a%20Good%20Communist%20[audiobook]%20by%20dessalines)
 
 ## Read by others
 
