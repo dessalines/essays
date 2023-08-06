@@ -118,6 +118,12 @@ Too Slow/Bitter = Coarser
 - Let brew drawdown. Aim to finish drawdawn by t = 3:30
 - Enjoy!
 
+# Iced coffee - Black tie kitchen
+
+- 250g ice
+- 275g water
+- 30g light roast coffee . Brew as normal
+
 # Iced filtered coffee
 
 ## Ingredients
