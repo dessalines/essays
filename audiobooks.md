@@ -56,6 +56,7 @@
 - [A.M. Gittlitz - I Want to Believe [audiobook] by dessalines](magnet:?xt=urn:btih:e3fd8f527a154bc79c9f77b27c3b026b9e334265&dn=A.M.%20Gittlitz%20-%20I%20Want%20to%20Believe%20%5baudiobook%5d%20by%20dessalines)
 - [Jacek Zlydach - Advertising is a Cancer on Society [audiobook] by dessalines](magnet:?xt=urn:btih:dd172e3af7a5f4cd626324f76a58c10f55d38bb6&dn=Jacek%20Zlydach%20-%20Advertising%20is%20a%20Cancer%20on%20Society%20%5baudiobook%5d%20by%20dessalines)
 - [Liu Shaoqi - How to be a good communist [audiobook] by dessalines](magnet:?xt=urn:btih:769761479ac1c16073df01b276ed4b2909f2649d&dn=Liu%20Shaoqi%20-%20How%20to%20Be%20a%20Good%20Communist%20[audiobook]%20by%20dessalines)
+- [Domenico Losurdo - Liberalism - A Counter-History [audiobook] by dessalines](magnet:?xt=urn:btih:c11fa136c28b993bcb86404b725dc38f2ec7c332&dn=Domenico%20Losurdo%20-%20Liberalism%20-%20A%20Counter-History%20%5baudiobook%5d%20by%20dessalines)
 
 ## Read by others
 

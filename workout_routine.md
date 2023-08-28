@@ -60,9 +60,8 @@ Use the android app XPlayer, a video player you can mute, so I can listen to aud
 ### Cardio / abs
 
 - [FitnessBlender - 20 min Brutal HIIT Ladder Workout](https://www.youtube.com/watch?v=cZnsLVArIt8)
+- [Jeff nippard best 3 ab exercises](https://www.youtube.com/watch?v=2RrGnjxSsiA)
 - [Fraser Wilson - 20 min Dumbell abs](https://www.youtube.com/watch?v=n9HcNA2AXnQ)
-- [Pamela Reif - 10 min hiit workout](https://www.youtube.com/watch?v=zr08J6wB53Y)
-- [Athlean X - 6 pack abs workout (10 mins)](https://www.youtube.com/watch?v=1OF3q6MHie8)
 
 ### Posture / corrective
 
