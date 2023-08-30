@@ -7,7 +7,7 @@ Copyright (c)  2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023  dessalines.
 >    A copy of the license is included in the section entitled "GNU
 >    Free Documentation License".
 
-# GNU Free Documentation License
+# ![Logo of the GNU Free Documentation License](https://www.gnu.org/graphics/gfdl-logo.svg) GNU Free Documentation License
 
 Version 1.3, 3 November 2008
 
