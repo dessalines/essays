@@ -32,7 +32,9 @@ Use the android app XPlayer, a video player you can mute. You can then listen to
 ### Cardio
 
 - [Dr. Eric Berg - sprint interval training](https://www.youtube.com/watch?v=_eB3z1mhlBw) . [Studies](https://runrepeat.com/sprint-interval-training)
-  - Do 10-20s minute all-out sprint, 2m rest, 4-8 times in a session. Twice per week. (10m total) [Guide.](https://experiencelife.lifetime.life/article/the-beginners-guide-to-sprint-interval-training/)
+  - Do 10-20s minute all-out sprint, 2m rest, 4-8 times in a session. Twice per week. (10m total)
+  - Mark's daily apple - [Sprint interval training](https://www.youtube.com/watch?v=2YogM9wXAJg)
+  - [Guide.](https://experiencelife.lifetime.life/article/the-beginners-guide-to-sprint-interval-training/)
 - [FitnessBlender - 20 min Brutal HIIT Ladder Workout](https://www.youtube.com/watch?v=cZnsLVArIt8)
 
 ### Abs

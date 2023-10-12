@@ -10,7 +10,7 @@ During the non-thinking activities, such as working out, stretching, showering, 
 
 For creating recurring habits, use [loop habit tracker](https://loophabits.org/). The [don't break the chain](https://luxafor.com/dont-break-the-chain-explained/) method is a proven way to build habits gradually.
 
-For a TODO list / task app, use [tasks.org](https://tasks.org/)
+For a TODO list / task app, use [tasks.org](https://tasks.org/). You can also use this to build habits, by making daily recurring tasks.
 
 For listening to books / podcasts, use [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer). Torrent these locally.
 
@@ -49,6 +49,8 @@ Time: 3m
 Do [Jeremy Ethiers routine](https://www.youtube.com/watch?v=RqcOCBb4arc), especially the thoracic rotations. Your neck and back will thank you.
 
 Stretch knees and ankles if necessary.
+
+See [workout_routine](workout_routine.md) for more.
 
 Time: 2m
 
@@ -96,7 +98,7 @@ Get a fitness tracker like a Xiaomi Mi Band (They cost ~$30). Besides useful not
 
 #### PAI
 
-[PAI (Personal Activity Intelligence)](https://www.ntnu.edu/cerg/personal-activity-intelligence) is a proven metric, based on your heart rate, that can increase your life expectancy by up to 8 years. You can do HIIT workouts, or other intensive cardio to get up to 100 PAI per week.
+[PAI (Personal Activity Intelligence)](https://www.ntnu.edu/cerg/personal-activity-intelligence) is a proven metric, based on your heart rate, that can increase your life expectancy by up to 8 years. You can do HIIT workouts, Sprint interval training, or other intensive cardio to get up to 100 PAI per week.
 
 Its best to space out cardio and strength.
 
@@ -116,7 +118,7 @@ Moisturize your whole body after showering, since showering can dehydrate your s
 
 Put on deodorant after clothes.
 
-Time: 10m
+Time: 15m
 
 ### (Optional) Drinks
 
@@ -124,19 +126,13 @@ Make coffee or tea only after these are done.
 
 ### Work
 
-Start work. Use the pomodoro method / timer (IE 25 minute work, 5 minute break, 15 minute break every 4 sessions).
+Start work. Use the pomodoro method / timer (IE 25-30 minute work, 5-10 minute no-screen break, 15 minute break every 4 sessions).
 
-Stretch, meditate, or listen to music or a book, during your 5 minute breaks. Do social media / other things during your 15 minute breaks.
+Stretch, meditate, Take a 10m nap, or walk or just sit there during your short breaks. Use social media / other things during your 15 minute breaks.
 
 I like [this pomodoro app](https://play.google.com/store/apps/details?id=com.pomodrone.app).
 
 ## Night
-
-### Mouth
-
-Brush, floss, and scrape your tongue again.
-
-Time: 2m
 
 ### Face
 
@@ -150,7 +146,7 @@ You'll need water when you wake up, so fill a bottle and put it next to your bed
 
 ### Go to bed
 
-Put phone on do-not-disturb, and don't use it in bed. If you can't fall asleep, get out of bed.
+Put phone on do-not-disturb, and don't use it in bed, or look at screens. Listen to audiobooks if you're not tired. If you can't fall asleep, get out of bed.
 
 Don't worry about using a sleep tracker, leave your blinds open and wake up with the sun. Buy a sunrise alarm clock if your bedroom doesn't get much light in the morning.
 
@@ -162,7 +158,7 @@ Your willpower / energy to do daily tasks is like a tank, and needs to be replen
 
 ### Activities that fill the tank
 
-- 20m nap. This works best in the afternoon, after coffee.
+- 10-20m nap. This works best in the afternoon, after coffee.
 - Meditating for any amount of time.
 
 ### Things that empty the tank
@@ -170,6 +166,7 @@ Your willpower / energy to do daily tasks is like a tank, and needs to be replen
 - Mental labor / work
 - Doing anything creative
 - Consuming content (reading, watching shows, browsing the internet)
+- Looking at screens
 
 ## Eating / weight
 
@@ -188,6 +185,8 @@ Switch to a weekly schedule if you want to acheive your goals faster (IE 10-2, f
 Eat a lot of proteins and fibrous carbs(veggies), and less starchy carbs(rice, bread and potatoes). Protein is good for both building muscle, and losing weight.
 
 High protein foods: tofu, seitan, edamame, nutritional yeast, mushrooms, spinach, bok choy, lentils, broccoli, beans, chickpeas, lettuce.
+
+Fibrous carbs: Edamame, Broccoli, Spinach, Collard Greens, Asparagus, Mushrooms, Beans, Chickpeas.
 
 Learn to make seitan at home with vital wheat gluten(very high in protein) as a base.
 
