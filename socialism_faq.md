@@ -450,7 +450,7 @@
 - [What contributions did Stalin make to Marxism-Leninism?](http://www.reddit.com/r/communism101/comments/1ejidu/what_contributions_did_stalin_make_to/)
 - [Opinions on Defense of Stalin and Mao](http://www.reddit.com/r/communism/comments/11yp4f/opinions_on_defense_of_stalin_and_mao/)
 - [Stalin's Purges](http://www.reddit.com/r/communism/comments/qergf/stalins_purges/)
-- [Was Stalin anti-Semitic? What about the doctors plot?](https://www.reddit.com/r/communism101/comments/b2xtna/was_stalin_antisemitic/) [2](https://www.reddit.com/r/communism101/comments/grc3u1/antisemitism_in_the_ussr/fry3f52/) [3](https://www.reddit.com/r/DebateCommunism/comments/pr1zpg/how_did_the_jews_fare_under_communism/hdfmhs9/)
+- [Was Stalin / the USSR anti-Semitic? Are the communists the same as the nazis with regards to anti-semitism? What about the doctors plot?](https://www.reddit.com/r/communism101/comments/b2xtna/was_stalin_antisemitic/) [2](https://www.reddit.com/r/communism101/comments/grc3u1/antisemitism_in_the_ussr/fry3f52/) [3](https://www.reddit.com/r/DebateCommunism/comments/pr1zpg/how_did_the_jews_fare_under_communism/hdfmhs9/), [4](https://jewishcurrents.org/the-double-genocide-theory)
 - [What are some legitimate criticisms of Stalin?](http://www.reddit.com/r/communism/comments/10chdq/what_are_some_legitimate_criticisms_of_stalin/)
 - [Why did the USSR invade Finland in 1939?](https://www.reddit.com/r/GenZhou/comments/r44hdz/why_did_ussr_finland_in_1939_did_finland_provoke/)
 - [I need clarification on myths/truths of the USSR/Soviet Union.](http://www.reddit.com/r/communism101/comments/2dzicb/i_need_clarification_on_mythstruths_of_the/)
@@ -591,7 +591,7 @@
 - [Castro on why both China and Vietnam are socialist countries.](https://redsails.org/fidel-and-gawronski/)
 - [Roderic Day - China has billionaires.](https://redsails.org/china-has-billionaires)
 - [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
-- [How is SWCC not revisionist? How is it any different from Gorbachev's market reforms?](https://www.reddit.com/r/GenZhou/comments/quohro/market_reforms_vs_revisionism/hkrptbm/)
+- [How is SWCC not revisionist? How is it any different from Gorbachev's market reforms?](https://lemmygrad.ml/post/229830), [2](https://lemmygrad.ml/post/231549)
 - [Domenico Losurdo - is China state capitalist?](https://redsails.org/losurdo-on-china/), [2](https://redsails.org/flight-from-history/#the-peoples-republic-of-china-and-the-historical-analysis-of-socialism)
 - [Did Lenin say anything about Market Socialism, or productivism?](https://www.reddit.com/r/DebateCommunism/comments/quevn9/what_are_actually_existing_socialist_countries_as/hkqprfx/)
 - [Vijay Prashad - Is China capitalist?](https://www.youtube.com/watch?v=3X7U2W6ryjE)
@@ -996,6 +996,7 @@ https://web.archive.org/web/20221222165322/https://www.mkgandhi.org/mynonviolenc
 - Gandhi believed that the Jews should have submitted to suffering voluntarily at the hands of the Nazis since that would have brought them brought ["them an inner strength and joy which no number of resolutions of sympathy passed in the world outside Germany can"](https://web.archive.org/web/20221222165322/https://www.mkgandhi.org/mynonviolence/chap27.htm). ["The Jews should have offered themselves to the butcher’s knife. [...] It would have aroused the world and the people of Germany ... as it is, they succumbed anyway in their millions."](https://web.archive.org/web/20230728092729/https://apnews.com/general-news-f40d8c2c7d8d4ffeadd576ded89acc0c)
 - [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 - "Can the hungry go on a hunger strike? Non-violence is a piece of theatre. You need an audience. What can you do when you have no audience? People have the right to resist annihilation." - Arundhati Roy.
+- [Gandhi was a pedophile, sleeping even with his own grand-niece](https://www.youthkiawaaz.com/2013/10/gandhi-used-power-position-exploit-young-women-way-react-matters-even-today/).
 
 ### Noam Chomsky
 
