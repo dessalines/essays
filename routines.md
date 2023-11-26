@@ -4,11 +4,11 @@ This is a guide for good practices / daily routines.
 
 These routines should promote better long-term physical and mental health.
 
-During the non-thinking activities, such as working out, stretching, showering, etc, listen to audiobooks / podcasts.
+During the non-thinking activities, such as working out, stretching, showering, etc, you can listen to audiobooks / podcasts.
 
 ## Recommended apps
 
-For creating recurring habits, use [loop habit tracker](https://loophabits.org/). The [don't break the chain](https://luxafor.com/dont-break-the-chain-explained/) method is a proven way to build habits gradually.
+For creating recurring habits, use [loop habit tracker](https://loophabits.org/), or recurring tasks using tasks.org . The [don't break the chain](https://luxafor.com/dont-break-the-chain-explained/) method is a proven way to build habits gradually.
 
 For a TODO list / task app, use [tasks.org](https://tasks.org/). You can also use this to build habits, by making daily recurring tasks.
 
@@ -40,9 +40,7 @@ Time: 3m
 
 ### Face
 
-Do [Ali Abdals routine](https://www.youtube.com/watch?v=OrElyY7MFVs). Rinse / use cleanser, then mix moisturizer and sun-tan lotion. Do any makeup you need to after.
-
-Time: 3m
+Put on sunscreen. No need to clean / rinse face. Don't miss ears and neck.
 
 ### Stretch
 
@@ -58,13 +56,17 @@ Time: 2m
 
 You'll need clothes for the next steps.
 
-### Go outside
+### Meditate or go for a walk
 
-For the next few steps, you should go outside (porch, balcony, yard, or walk to a park). You should spend at least 10-30m getting morning sun.
+Do this outside(if its cold put on a jacket). Start at 10 minutes. Add a minute per day, working out to whatever you feel comfortable with. On busy days, go back down to 10m.
+
+See huberman's video above for why getting light into your eyes, and the sun's rays on your skin in the early morning is important.
+
+Time: 10m+
 
 ### Journal
 
-Make a journal either on paper, or your phone. Doing this every day does help you figure out what your goals and hindrances are. Write down:
+Make a journal either on paper, or on your phone. Doing this every day does help you figure out what your goals and hindrances are. Write down:
 
 - 3 things you'd like to accomplish.
 - 3 things holding you back.
@@ -76,14 +78,6 @@ I use the android app [Markor](https://github.com/gsantner/markor). Make a templ
 
 Time: 5m
 
-### Meditate or go for a walk
-
-Do this outside(if its cold put on a jacket). Start at 10 minutes. Add a minute per day, working out to whatever you feel comfortable with. On busy days, go back down to 10m.
-
-See huberman's video above for why getting light into your eyes, and the sun's rays on your skin in the early morning is important.
-
-Time: 10m+
-
 ### Learning / cultivation
 
 Set aside a consistent block of time for daily learning / cultivation. This can be learning a language, doing notecards, reading a book, caring for plants... anything. Make sure this is before work, so it won't get in the way of this necessary habit.
@@ -94,7 +88,7 @@ Time: 10m+
 
 Do 2-3 times per week. Don't work out too long, or you could wear down your joints, and feel drained the rest of the day. [Here's my routine with videos.](workout_routine.md)
 
-Get a fitness tracker like a Xiaomi Mi Band (They cost ~$30). Besides useful notifications (turn off all your phone and device sounds, this thing vibrates your wrist for notifications you want), you can set it to continuously measure your heart rate.
+Get a fitness tracker like a Xiaomi Mi Band (They cost ~$30), or Huawei Band. Besides useful notifications (turn off all your phone and device sounds, this thing vibrates your wrist for notifications you want), you can set it to continuously measure your heart rate.
 
 #### PAI
 
@@ -110,11 +104,11 @@ You probably don't need to shower every day, 2-3 times a week or anytime after y
 
 Start with the water very hot, and shave in the shower to save time. Turn the water cold(to whatever temp you feel comfortable with, see above video for why) and wash + condition your hair.
 
-Don't soap your skin or face, only soap your armpits, feet, and crotch.
+Don't soap your skin or face, only soap folds: your armpits, and crotch.
 
 The colder the shower, the faster you'll be.
 
-Moisturize your whole body after showering, since showering can dehydrate your skin. Put suntan lotion + moisturizer on face.
+Do [Ali Abdals routine](https://www.youtube.com/watch?v=OrElyY7MFVs), or [Dr Dray's Routine](https://www.youtube.com/watch?v=G8q08kY3zqY). Rinse / use cleanser, then moisturizer, then retinol, then sun-tan lotion. Do any makeup you need to after.
 
 Put on deodorant after clothes.
 
@@ -126,19 +120,13 @@ Make coffee or tea only after these are done.
 
 ### Work
 
-Start work. Use the pomodoro method / timer (IE 25-30 minute work, 5-10 minute no-screen break, 15 minute break every 4 sessions).
+Start work. Use the pomodoro method / timer (IE 25-50 minutes work, 5-15 minute no-screen break, 15 minute break every 4 sessions).
 
 Stretch, meditate, Take a 10m nap, or walk or just sit there during your short breaks. Use social media / other things during your 15 minute breaks.
 
 I like [this pomodoro app](https://play.google.com/store/apps/details?id=com.pomodrone.app).
 
 ## Night
-
-### Face
-
-Rinse / use cleanser, then mix moisturizer and retinol instead of suntan lotion.
-
-Time: 3m
 
 ### Get water
 
