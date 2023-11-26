@@ -378,7 +378,8 @@
 ## On Liberalism
 
 - [Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/), [2](https://www.reddit.com/r/me_irl/comments/cccf31/meirl/etnbaxx/)
-- [What is liberalism? (Olly from Philosophy Tube)](https://www.youtube.com/watch?v=VlLgvSduugI)
+  - [Liberalism - The tyranny of wealth](https://orgrad.wordpress.com/articles/liberalism-the-two-faced-tyranny-of-wealth/)
+  - [Losurdo - Liberalism - A counter history (audiobook)](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZsDdCDgfVRmKCV-GmtCEuI)
 - [What about free speech?](https://www.reddit.com/r/communism101/comments/c9ee36/comment/et0a5tc/)
   - [How do communists feel about free speech? Are they okay with suppression of free speech in places like China?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/et0a5tc/)
   - [What does free speech really mean?](https://www.reddit.com/r/communism101/comments/8onmz2/free_speech_under_communism/)
@@ -389,7 +390,6 @@
   - [Can't we change the democrats from within?](https://socialistworker.org/2005-1/533/533_13_TwoParties.php)
   - [What about "moderates" like Jimmy Carter? Can't we push them to change?](https://socialistworker.org/2006-1/572/572_09_Carter.php)
   - [Can't we use voting to solve our problem? Is violence really necessary? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) [audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
-- [Malcolm X on liberals.](https://twitter.com/redfishstream/status/1349144127615676418?s=20)
 
 ## On Leninism
 
@@ -444,6 +444,7 @@
 - [Did Stalin really try to resign 4 times?](https://socialistmlmusings.wordpress.com/2017/02/23/stalins-four-attempts-at-resignation/)
 - [Why were there prison labor camps in the USSR and were they justified?](http://www.reddit.com/r/communism101/comments/2hkn8r/why_were_there_prison_labor_camps_in_the_ussr_and/)
 - [Did the USSR really make an alliance with the nazis? (Molotov-Ribbentrop Pact)](https://www.reddit.com/r/communism101/comments/148o4x/1939_sovietnazi_partition_of_poland/c7azkz9/), [2](https://www.telegraph.co.uk/news/worldnews/europe/russia/3223834/Stalin-planned-to-send-a-million-troops-to-stop-Hitler-if-Britain-and-France-agreed-pact.html), [3](https://www.reddit.com/r/communism101/comments/8mg59o/why_did_the_ussr_aid_nazi_germany_in_invading/), [4](https://www.reddit.com/r/communism/comments/4t1p4j/why_did_the_soviet_union_sign_the/), [5](https://i.imgur.com/cAMvQ1O.jpg)
+  - [Einstein on the Molotov-Ribbentrop pact.](https://hexbear.net/comment/3582146)
 - [Did the USSR supply the Nazis with raw materials and weapons in the years before WW2?](http://www.reddit.com/r/communism101/comments/a5r9sx/-/eboru9r)
 - [How many Jews escaped from Poland to the USSR in WW2?](https://www.jewishvirtuallibrary.org/escape-of-jews-from-poland-to-the-soviet-union)
 - [What about the Katyn Massacre?](https://www.reddit.com/r/communism101/comments/148o4x/1939_sovietnazi_partition_of_poland/c7azkz9/). [2](https://www.reddit.com/r/communism101/comments/71gikf/nkvd_and_soviet_crimes/dnalyrr/)
@@ -707,7 +708,6 @@
 - [China’s Social Credit System, and how it isn't actually Black Mirror and how you should stop using facile pop cultural references to demonize countries you haven't bothered to understand.](https://mobile.twitter.com/isgoodrum/status/975536363364696064?lang=en)
 - [The US has more CCTV's per capita than China.](https://aithority.com/news/top-10-countries-and-cities-by-number-of-cctv-cameras/#:%7E:text=The%20United%20States%20has%2015.28,the%20United%20Kingdom%20with%207.5.&text=Russia%20has%20around%20196%2C000%20CCTV,Petersburg.)
 - The US's credit score system is vastly more influential and detrimental to a majority of its population than China's social credit system, [which largely doesn't even exist](https://foreignpolicy.com/2018/11/16/chinas-orwellian-social-credit-score-isnt-real/), and where it does exist it is [only used to target businesses](https://foreignpolicy.com/2021/09/15/china-social-credit-system-authoritarian/).
-- [Nathan Rich - the US is lying about Huawei 5g.](https://www.youtube.com/watch?v=IfxfdHJ3k9Y)
 - [numuves - How the US dominates tech](https://www.youtube.com/watch?v=EgzB4_Zw3RE)
 - [On the great firewall, and china not allowing US taech companies. ](https://mobile.twitter.com/Mango_Press_/status/1423263749302067202)
 
@@ -1021,6 +1021,7 @@ https://web.archive.org/web/20221222165322/https://www.mkgandhi.org/mynonviolenc
   - [Votes with the rest of the US senate to send $40B in weaponry to Ukraine.](https://mobile.twitter.com/mtracey/status/1527359801746853902)
   - [Supports drone bombing: "They have, at times, been effective."](https://abcnews.go.com/Politics/bernie-sanders-people-responding-message/story?id=33413601). Another interview: ["Drones have done some good things. They've been selective; they've taken out people who should be taken out"](https://www.telesurenglish.net/news/Bernie-Sanders-Drones-Have-Done-Some-Good-Things-20160330-0006.html)
   - Staunchly supports Israel in their displacement of Palestinians (while blaming hamas for the conflict). [Says he will not move back the US embassy in Israel back from Jerusalem to Tel Aviv, after Trump moved it the previous year.](https://electronicintifada.net/blogs/ali-abunimah/why-bernie-sanders-still-encouraging-israels-crimes)
+  - In the 2023 Israeli attacks on Gaza, [Bernie stands against a cease-fire](https://nitter.net/zei_squirrel/status/1721316148350701936#m), and blames Hamas for the violence.
   - [Supports GW Bush](https://i.imgur.com/tHN9DzG.png). [Supported warmonger John McCain after his death.](https://i.imgur.com/R3cAhdC.jpg)
   - [Claimed that the 2016 election of Maduro in Venezuela "wasn't free", and called for more "US Aid".](https://www.msnbc.com/all-in/watch/bernie-sanders-tells-chris-hayes-why-he-s-running-1446465091782) Called Maduro a "vicious tyrant" in 2019 Democratic primary debate.
   - [Goes back on his 1985 semi-pro-cuba statements: "The Cuban economy is a disaster. No, I do not praise Fidel Castro."](https://www.realclearpolitics.com/video/2016/11/27/sanders_on_cuba_of_course_their_economy_is_terrible_but_they_have_good_health_care.html)
@@ -1206,6 +1207,7 @@ _Much credit to [this post.](https://politijohn.tumblr.com/post/186036319237/get
 - [Zizek - Capitalism's court jester](https://www.counterpunch.org/2023/01/02/capitalisms-court-jester-slavoj-zizek/)
 - [He's anti-USSR, anti bolivarian revolution, supported the coups in Ukraine and Libya](https://alphonsevanworden.tumblr.com/post/146430343445/the-protocols-of-the-learned-lacanian-of)
 - ["The left must embrace law and order".](https://www.newstatesman.com/world/europe/2023/07/age-of-anarchy-slavoj-zizek)
+- ["Isreal and Hamas are the same"](https://www.project-syndicate.org/commentary/israel-palestine-hamas-and-hardliners-against-peace-by-slavoj-zizek-2023-10)
 - [More here](https://www.reddit.com/r/Marxism/comments/dlz8me/zizek_criticizes_european_leftists_who_reject/f4yl11f/)
 
 ### What's wrong with Barack Obama?
@@ -1450,7 +1452,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Omar](https://electronicintifada.net/blogs/ali-abunimah/ilhan-omar-backs-israel-lobby-campaign-against-iran) [2](https://twitter.com/hansalexrazo/status/1258473006419959808?s=20), [3](https://www.washingtonexaminer.com/news/ilhan-omar-says-her-political-role-model-is-inspirationally-bold-margaret-thatcher), [4](https://twitter.com/caitoz/status/1362154968883503106?s=20)
 - [Bordiga](https://libcom.org/forums/history/bordiga-leninist-who-put-his-hopes-axis-27122017)
 - CPUSA [1](https://www.peoplesworld.org/article/bidens-crisis-presidency-and-potential-for-transformative-change/), [2](https://www.peoplesworld.org/article/biden-and-sanders-establish-task-force-to-unite-party-on-progressive-agenda/), [3](https://www.peoplesworld.org/article/a-clear-shot-shows-diversity-on-police-forces-a-good-thing/)
-- [Ziq](https://web.archive.org/web/20180405002453/https://raddle.me/f/lobby/28422/i-m-stepping-down-as-admin-because-of-some-shit-i-did-emma) [2](https://archive.is/THMIk) [3](https://www.hexbear.net/post/272574)
+- [Ziq](https://web.archive.org/web/20180405002453/https://raddle.me/f/lobby/28422/i-m-stepping-down-as-admin-because-of-some-shit-i-did-emma) [2](https://archive.is/THMIk) [3](https://www.hexbear.net/post/272574), [3](https://hexbear.net/comment/3531442)
 - [Robert Evans](https://twitter.com/hegellacan1/status/1536090225092374528?t=gOVNa1-sKTgihX4OnDEw_A&s=19), [2](https://twitter.com/BenjaminNorton/status/1288116233133424648) [3](https://lemmygrad.ml/pictrs/image/XwBw0R0M59.jpg)
 - Paul Morrin - [China is imperialist](https://twitter.com/LurkerUntamed/status/1372732445146165251?s=20), [Cuba, China, the DPRK, and the USSR are "social imperialist".](https://twitter.com/ANTICONQUISTA/status/1375213633186193413)
 - [Blackredguard](https://twitter.com/BlackRedGuard1/status/1383849476863844359?s=20)
