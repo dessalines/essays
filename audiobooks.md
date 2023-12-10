@@ -55,8 +55,14 @@
 - [Lise Vogel - Marxism and the Oppression of Women [audiobook] by dessalines](magnet:?xt=urn:btih:2b32f06c48d977bb08f0c2eed444d4fbe281577f&dn=Lise%20Vogel%20-%20Marxism%20and%20the%20Oppression%20of%20Women%20%5baudiobook%5d%20by%20dessalines)
 - [A.M. Gittlitz - I Want to Believe [audiobook] by dessalines](magnet:?xt=urn:btih:e3fd8f527a154bc79c9f77b27c3b026b9e334265&dn=A.M.%20Gittlitz%20-%20I%20Want%20to%20Believe%20%5baudiobook%5d%20by%20dessalines)
 - [Jacek Zlydach - Advertising is a Cancer on Society [audiobook] by dessalines](magnet:?xt=urn:btih:dd172e3af7a5f4cd626324f76a58c10f55d38bb6&dn=Jacek%20Zlydach%20-%20Advertising%20is%20a%20Cancer%20on%20Society%20%5baudiobook%5d%20by%20dessalines)
+- [The Blanquist - The Anti-Imperialism of Star Trek Deep Space Nine [audiobook] by dessalines](magnet:?xt=urn:btih:b877512c9480eaf11e43bd00e4a5352789bf6a00&dn=The%20Blanquist%20-%20The%20Anti-Imperialism%20of%20Star%20Trek%20Deep%20Space%20Nine%20%5Baudiobook%5D%20by%20dessalines)
+- [Lenin - Karl Marx - A Brief Biographical Sketch [audiobook] by dessalines](magnet:?xt=urn:btih:a40cb70dcb4423762359ca5d27320f828a89ecd5&dn=Lenin%20-%20Karl%20Marx%20-%20A%20Brief%20Biographical%20Sketch%20%5Baudiobook%5D%20by%20dessalines)
 - [Liu Shaoqi - How to be a good communist [audiobook] by dessalines](magnet:?xt=urn:btih:769761479ac1c16073df01b276ed4b2909f2649d&dn=Liu%20Shaoqi%20-%20How%20to%20Be%20a%20Good%20Communist%20[audiobook]%20by%20dessalines)
 - [Domenico Losurdo - Liberalism - A Counter-History [audiobook] by dessalines](magnet:?xt=urn:btih:c11fa136c28b993bcb86404b725dc38f2ec7c332&dn=Domenico%20Losurdo%20-%20Liberalism%20-%20A%20Counter-History%20%5baudiobook%5d%20by%20dessalines)
+- [Roderic Day - China Has Billionaires [audiobook] by dessalines v2](magnet:?xt=urn:btih:5915c1068dcb89bd2fd85b1d5b7680b4c1b56fc7&dn=Roderic%20Day%20-%20China%20Has%20Billionaires%20%5Baudiobook%5D%20by%20dessalines%20v2)
+- [Roderic Day - Masses, Elites, and Rebels - The Theory of Brainwashing [audiobook] by dessalines](magnet:?xt=urn:btih:1bf5925bd7039519b36db08c67426dd2a823a251&dn=Roderic%20Day%20-%20Masses%2C%20Elites%2C%20and%20Rebels%20-%20The%20Theory%20of%20Brainwashing%20%5Baudiobook%5D%20by%20dessalines)
+- [Gabriel Rockhill - Capitalisms Court Jester - Slavoj Zizek [audiobook] by dessalines v2](magnet:?xt=urn:btih:622b5b7b1678e1bb863e90f5c3314819c5c19fed&dn=Gabriel%20Rockhill%20-%20Capitalisms%20Court%20Jester%20-%20Slavoj%20Zizek%20%5Baudiobook%5D%20by%20dessalines%20v2)
+- [Domenico Losurdo - Stalin - The History and Critique of a Black Legend [audiobook] by dessalines](magnet:?xt=urn:btih:4609781a0abcb0e5bc9376e3d89f465bcf8a58c9&dn=Domenico%20Losurdo%20-%20Stalin%20-%20The%20History%20and%20Critique%20of%20a%20Black%20Legend%20%5Baudiobook%5D%20by%20dessalines)
 
 ## Read by others
 
