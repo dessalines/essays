@@ -8,7 +8,7 @@ During the non-thinking activities, such as working out, stretching, showering, 
 
 ## Recommended apps
 
-For creating recurring habits, use [loop habit tracker](https://loophabits.org/), or recurring tasks using tasks.org . The [don't break the chain](https://luxafor.com/dont-break-the-chain-explained/) method is a proven way to build habits gradually.
+For creating recurring habits, use [habits](https://f-droid.org/packages/com.willbsp.habits/), [loop habit tracker](https://loophabits.org/), or recurring tasks using tasks.org . The [don't break the chain](https://luxafor.com/dont-break-the-chain-explained/) method is a proven way to build habits gradually.
 
 For a TODO list / task app, use [tasks.org](https://tasks.org/). You can also use this to build habits, by making daily recurring tasks.
 
@@ -90,14 +90,6 @@ Do 2-3 times per week. Don't work out too long, or you could wear down your join
 
 Get a fitness tracker like a Xiaomi Mi Band (They cost ~$30), or Huawei Band. Besides useful notifications (turn off all your phone and device sounds, this thing vibrates your wrist for notifications you want), you can set it to continuously measure your heart rate.
 
-#### PAI
-
-[PAI (Personal Activity Intelligence)](https://www.ntnu.edu/cerg/personal-activity-intelligence) is a proven metric, based on your heart rate, that can increase your life expectancy by up to 8 years. You can do HIIT workouts, Sprint interval training, or other intensive cardio to get up to 100 PAI per week.
-
-Its best to space out cardio and strength.
-
-Time: 30m+
-
 ### (Optional) Shower
 
 You probably don't need to shower every day, 2-3 times a week or anytime after you sweat.
@@ -122,9 +114,9 @@ Make coffee or tea only after these are done.
 
 Start work. Use the pomodoro method / timer (IE 25-50 minutes work, 5-15 minute no-screen break, 15 minute break every 4 sessions).
 
-Stretch, meditate, Take a 10m nap, or walk or just sit there during your short breaks. Use social media / other things during your 15 minute breaks.
+Stretch, meditate, Take a 20-30m nap(before 3pm), or walk or just sit there during your short breaks. Use social media / other things during your 15 minute breaks.
 
-I like [this pomodoro app](https://play.google.com/store/apps/details?id=com.pomodrone.app).
+I like [this pomodoro app](https://f-droid.org/packages/com.apps.adrcotfas.goodtime/).
 
 ## Night
 
@@ -146,7 +138,7 @@ Your willpower / energy to do daily tasks is like a tank, and needs to be replen
 
 ### Activities that fill the tank
 
-- 10-20m nap. This works best in the afternoon, after coffee.
+- 20-30m nap. This works best in the afternoon, after coffee, before 3pm.
 - Meditating for any amount of time.
 
 ### Things that empty the tank
@@ -195,3 +187,4 @@ Don't drink caffeine after ~ 3pm, as it will mess up your sleep cycle.
 Don't drink alcohol too late at night. Keep it to 1-2 drinks max per day. If you care about your weight / body fat, don't drink at all.
 
 If you want to get high and still be functional, try CBD oil, or weed / delta-8 gummies. They last a long time, are cheaper than alcohol or other drugs, aren't addictive, have miniscule calories compared to alcohol. You won't smell like weed, and you won't damage your lungs using them.
+

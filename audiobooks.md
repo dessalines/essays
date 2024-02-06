@@ -63,6 +63,7 @@
 - [Roderic Day - Masses, Elites, and Rebels - The Theory of Brainwashing [audiobook] by dessalines](magnet:?xt=urn:btih:1bf5925bd7039519b36db08c67426dd2a823a251&dn=Roderic%20Day%20-%20Masses%2C%20Elites%2C%20and%20Rebels%20-%20The%20Theory%20of%20Brainwashing%20%5Baudiobook%5D%20by%20dessalines)
 - [Gabriel Rockhill - Capitalisms Court Jester - Slavoj Zizek [audiobook] by dessalines v2](magnet:?xt=urn:btih:622b5b7b1678e1bb863e90f5c3314819c5c19fed&dn=Gabriel%20Rockhill%20-%20Capitalisms%20Court%20Jester%20-%20Slavoj%20Zizek%20%5Baudiobook%5D%20by%20dessalines%20v2)
 - [Domenico Losurdo - Stalin - The History and Critique of a Black Legend [audiobook] by dessalines](magnet:?xt=urn:btih:4609781a0abcb0e5bc9376e3d89f465bcf8a58c9&dn=Domenico%20Losurdo%20-%20Stalin%20-%20The%20History%20and%20Critique%20of%20a%20Black%20Legend%20%5Baudiobook%5D%20by%20dessalines)
+- [Ven. Mahasi Sayadaw - Practical Vipassana Exercises [audiobook] by dessalines](magnet:?xt=urn:btih:53845d7e0245c6341ae517c0fd534fe4bd70f3b8&dn=Ven.%20Mahasi%20Sayadaw%20-%20Practical%20Vipassana%20Exercises%20%5Baudiobook%5D%20by%20dessalines)
 
 ## Read by others
 
@@ -102,3 +103,4 @@
 - [Roland Boer - Socialism with Chinese Characteristics [audiobook] read by C Ozmun](magnet:?xt=urn:btih:7072a92fb493ecb59b0e1d3ba02690cd5aa557ee&dn=Roland%20Boer%20-%20Socialism%20with%20Chinese%20Characteristics%20%5baudiobook%5d%20read%20by%20C%20Ozmun)
 - [Roxanne Dunbar-Ortiz - Loaded - A Disarming History of the Second Amendment audible](magnet:?xt=urn:btih:162963ae3b655a8259decfbf2d0f85078bcebb32&dn=Roxanne%20Dunbar-Ortiz%20-%20Loaded%20-%20A%20Disarming%20History%20of%20the%20Second%20Amendment%20%5baudible%5d)
 - [Roxanne Dunbar-Ortiz - All the Real Indians Died Off and 20 other Myths about Native Americans [audible]](magnet:?xt=urn:btih:69d2d5b33665f9c7fd0bc7ab72d7254ed07919a2&dn=Roxanne%20Dunbar-Ortiz%20-%20All%20the%20Real%20Indians%20Died%20Off%20and%2020%20other%20Myths%20about%20Native%20Americans%20%5baudible%5d)
+- [Quotations from Chairman Mao Tse-Tung [audible]](magnet:?xt=urn:btih:4ef97e58482bc6a48af28ffd86d1cfd269dfc194&dn=Quotations%20from%20Chairman%20Mao%20Tse-Tung%20%5Baudible%5D)

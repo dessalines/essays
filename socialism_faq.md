@@ -424,6 +424,7 @@
 - [Did Stalin 'betray' the revolution? (repost of deleted question)](http://www.reddit.com/r/communism101/comments/1dp6qw/did_stalin_betray_the_revolution_repost_of/)
 - [Why was "Lenin's testament" suppressed by the Party after Lenin's death?](http://www.reddit.com/r/communism101/comments/2lfc5f/why_was_lenins_testament_suppressed_by_the_party/)
 - [Why was Trotsky assassinated?](https://internationalstalinsociety.wordpress.com/trotsky-the-anti-communist/)
+- https://www.marxists.org/history/etol/document/vietnam/pirani/hochiminh.htm
 
 ## On India
 
@@ -1472,3 +1473,5 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
   - [Calling Venezuela a failure and a dictatorship](https://www.infobae.com/america/venezuela/2022/01/22/gabriel-boric-venezuela-es-una-experiencia-que-ha-fracasado-y-la-principal-demostracion-son-los-6-millones-de-venezolanos-en-diaspora/)
 
   https://5pillarsuk.com/2018/02/23/black-panther-the-same-old-western-politics-with-a-black-face/
+
+[Life in occupied Palestine by Anna](https://m.youtube.com/watch?v=Q_MDC2Gty4I&feature=youtu.be)
