@@ -142,7 +142,6 @@ PARENTI is the author of twenty-three books, among which:
 - [God and His Demons](https://www.michael-parenti.org/book-god-and-his-demons) (Prometheus Books, 2010)
 - [Democracy for the Few](https://www.michael-parenti.org/book-democracy-for-the-few) (Wadsworth, 9th edition, 2011)
 - [Contrary Notions: The Michael Parenti Reader](https://www.michael-parenti.org/book-contrary-notions) (City Lights Books, 2007)
-- [Democracy for the Few](https://www.michael-parenti.org/book-democracy-for-the-few) (Wadsworth, 8th edition, 2007)
 - [The Culture Struggle](https://www.michael-parenti.org/book-the-culture-struggle) (Seven Stories Press, 2006)
 - [Superpatriotism](https://www.michael-parenti.org/book-superpatriotism) (City Lights Books, 2004)
 - [The Assassination of Julius Caesar](https://www.michael-parenti.org/book-the-assassination-of-julius-caesar) (The New Press, 2003)
