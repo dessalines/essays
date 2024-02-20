@@ -114,9 +114,9 @@
 
 - [Did Socialism work in the USSR, and didn't the fall of the USSR bring more prosperity to Russia? IE, how to respond to "Communism doesn't work."](capitalism_doesnt_work.md), [2](https://www.reddit.com/r/communism/comments/ea6av0/how_to_respond_to_communism_doesnt_work/)
 - [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work), [audiobook](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
-- [Why, in your opinion, have most attempts to form countries based economically on communism and socialism (USSR, Cuba, China) fail?](http://www.reddit.com/r/communism101/comments/1f8obt/honestly_not_trolling_why_in_your_opinion_have/)
+- [Why, in your opinion, have most attempts to form countries based economically on communism and socialism (USSR, Cuba, China) fail?](https://www.reddit.com/r/communism101/comments/1f8obt/honestly_not_trolling_why_in_your_opinion_have/)
 - [Were people really going hungry / starving in the USSR?](https://www.cia.gov/readingroom/document/cia-rdp85t00313r000300140006-0)
-- [Why did the Soviet Union fail?](http://www.reddit.com/r/communism101/comments/1zrroq/why_did_the_soviet_union_fail/)
+- [Why did the Soviet Union fail?](https://www.reddit.com/r/communism101/comments/1zrroq/why_did_the_soviet_union_fail/)
 - [What about the gulags?](https://www.greanvillepost.com/2018/10/09/the-truth-about-the-soviet-gulag-surprisingly-revealed-by-the-cia/) [2](https://www.reddit.com/r/communism101/comments/9bem2d/what_were_the_gulags_according_to_self_identified/e52ls2e/) [3](https://espressostalinist.com/the-real-stalin-series/gulag/), [4](http://www.mariosousa.se/LiesconcerningthehistoryoftheSovietUnion.html), [5](https://www.reddit.com/r/communism101/comments/ds8qk3/the_truth_about_the_gulags/f6obxuc/)
 - [Didn't the USSR kill millions of it citizens, with most people living in poverty and dying early?](https://en.wikipedia.org/wiki/Demographics_of_the_Soviet_Union#Life_expectancy_and_infant_mortality)
 - [What about Stalin, the purges, the holodomor, etc? A revleft podcast.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
@@ -130,16 +130,16 @@
 ## What about human nature?
 
 - [History and human nature.](https://github.com/dessalines/essays/blob/master/crash_course_socialism.md#history-and-human-nature)
-- [What about human nature?](http://www.reddit.com/r/communism101/comments/2yk3xl/what_about_human_nature_answer_but_add_yours_too/)
+- [What about human nature?](https://www.reddit.com/r/communism101/comments/2yk3xl/what_about_human_nature_answer_but_add_yours_too/)
 - [Advertising is a cancer](http://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html), [audiobook](magnet:?xt=urn:btih:dd172e3af7a5f4cd626324f76a58c10f55d38bb6&dn=Jacek%20Zlydach%20-%20Advertising%20is%20a%20Cancer%20on%20Society%20%5baudiobook%5d%20by%20dessalines)
 
 ## Schools of thought
 
 - [Glossary of Socialism Terms.](https://github.com/dessalines/essays/blob/master/glossary_of_socialist_terms.md)
-- [What are the different forms of Marxism and what are their differences?](http://www.reddit.com/r/communism101/comments/206xtz/what_are_the_different_forms_of_marxism_and_what/)
-- [Can someone give us a quick like-we're-five rundown of the distinctions between Trotskyism, Maoism, orthodox Marxism, and so on?](http://www.reddit.com/r/communism101/comments/132d5s/can_someone_give_us_a_quick_likewerefive_rundown/)
+- [What are the different forms of Marxism and what are their differences?](https://www.reddit.com/r/communism101/comments/206xtz/what_are_the_different_forms_of_marxism_and_what/)
+- [Can someone give us a quick like-we're-five rundown of the distinctions between Trotskyism, Maoism, orthodox Marxism, and so on?](https://www.reddit.com/r/communism101/comments/132d5s/can_someone_give_us_a_quick_likewerefive_rundown/)
 - [What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
-- [What's the difference in economic structure ( production and distribution) of anarchism, anarcho-communism, anarcho-syndicalism, and Marxist communism?](https://old.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/)
+- [What's the difference in economic structure ( production and distribution) of anarchism, anarcho-communism, anarcho-syndicalism, and Marxist communism?](https://www.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/)
 - [Parenti on Anarcho-Syndicalism / Worker-Coops](https://youtube.com/watch?v=WEkyW9GwbE8&local=1&nojs=0&player_style=youtube&quality=dash).
 - [Aimixin - Why Anarchism is fundamentally anti-socialist.](https://lemmygrad.ml/comment/187228)
 - [TheDashRendar - Where do tanks come from? How anarchists vs marxists wage warfare.](https://medium.com/@dashthered/where-do-tanks-come-from-8723ff77d83b)
@@ -147,16 +147,16 @@
 - [Huey P. Newton on the faults of western anarchism.](https://www.prisoncensorship.info/archive/etext/bpp/bpp161168.htm)
 - [What is the communist response to a lot of Anarchist criticisms? A Megathread.](https://www.reddit.com/r/communism/comments/cewriu/masterpost_for_defending_socialism_against/)
 - [The tyranny of structurelessness - The failure of anarchist-style organizing in the womens-liberation movement.](https://www.jofreeman.com/joreen/tyranny.htm)
-- [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
-- [Looking for reference to types of communism.](http://www.reddit.com/r/communism101/comments/1fcc6o/looking_for_reference_to_types_of_communism/)
+- [What is Stalinism?](https://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
+- [Looking for reference to types of communism.](https://www.reddit.com/r/communism101/comments/1fcc6o/looking_for_reference_to_types_of_communism/)
 - [What was Engels Contribution to Marxism?](https://necessityandfreedom.wordpress.com/2017/04/16/without-engels-there-would-be-no-marxism/)
 - [Was Marx anti-semitic? ( On the Jewish Question )](https://www.reddit.com/r/communism101/comments/exfvbe/for_anyone_who_are_confused_by_marx_is/)
 - [Were the nazis socialist? What about national socialism, the national socialist movement (NSM), and the national front?](https://www.snopes.com/news/2017/09/05/were-nazis-socialists/), [2](https://www.reddit.com/r/Socialism_101/comments/79kvin/what_is_the_difference_between_socialists_here/), [3](https://www.reddit.com/r/therewasanattempt/comments/cblf1y/to_commit_a_hate_crime/ethf3t8/), [4](https://www.reddit.com/r/ShitLiberalsSay/wiki/index#wiki_the_nazis_were_socialists.2C_communists_or_leftists)
 - [What is Fascism?](https://lemmygrad.ml/comment/1313977) ,[2](http://www.nybooks.com/articles/1995/06/22/ur-fascism/)
 - [Is the US a fascist state?](https://www.reddit.com/r/GenZhou/comments/qxguko/do_you_consider_the_us_to_be_a_fascist_state/hl9q3mr/)
-- [Did Karl Marx use "socialism" and "communism" interchangeably?](http://www.reddit.com/r/communism101/comments/2msa39/did_karl_marx_use_socialism_and_communism/)
+- [Did Karl Marx use "socialism" and "communism" interchangeably?](https://www.reddit.com/r/communism101/comments/2msa39/did_karl_marx_use_socialism_and_communism/)
 - [What is Luxemburgism?](https://www.reddit.com/r/communism/comments/bzl9iu/luxemburgism/eqtbcxe/)
-- [Is the revolutionary DotP a separate material stage apart from lower phased communism?](http://www.reddit.com/r/communism101/comments/2mrkkj/is_the_revolutionary_dotp_a_separate_material/)
+- [Is the revolutionary DotP a separate material stage apart from lower phased communism?](https://www.reddit.com/r/communism101/comments/2mrkkj/is_the_revolutionary_dotp_a_separate_material/)
 - [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](https://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_stage_of_communism_or_is/)
 - [What about Left Unity? Engels letter to Bebel.](https://www.marxists.org/archive/marx/works/1873/letters/73_06_20.htm) [2](https://www.reddit.com/r/sendinthetanks/comments/prbh1i/build_a_unired_front/hdhq26s/)
 - [What about Marxism and Empiricism? Is Marxism falsifiable?](https://www.reddit.com/r/communism101/comments/8978hb/is_marxism_falsifiable/)
@@ -193,18 +193,18 @@
 
 ## Who would sweep the floors under communism?
 
-- [How can people be expected to work hard if they don't get payed more FOR working harder? (I know nothing about communism)](http://www.reddit.com/r/communism101/comments/21u7jo/how_can_people_be_expected_to_work_hard_if_they/)
-- [What prevents cultural, technological or scientific stagnation in a communist society? Also what motivation do people have to work at their Jobs?](http://www.reddit.com/r/communism101/comments/27ia0t/what_prevents_cultural_technological_or/)
+- [How can people be expected to work hard if they don't get payed more FOR working harder? (I know nothing about communism)](https://www.reddit.com/r/communism101/comments/21u7jo/how_can_people_be_expected_to_work_hard_if_they/)
+- [What prevents cultural, technological or scientific stagnation in a communist society? Also what motivation do people have to work at their Jobs?](https://www.reddit.com/r/communism101/comments/27ia0t/what_prevents_cultural_technological_or/)
 - [What about automation / robotics? Why do some communists say innovation has stopped?](https://youtu.be/QGBQwZsp3T0)
 - [Would people innovate under Communism? Doesn't capitalism create innovation?](https://www.reddit.com/r/DebateCommunism/comments/9c9qj6/in_a_communist_society_what_are_people_motivated/)
-- [How does communism deal with lazy people?](http://www.reddit.com/r/communism101/comments/25r9hh/how_does_communism_deal_with_lazy_people/)
-- [How does communism/socialism deal with human laziness?](http://www.reddit.com/r/communism101/comments/1g235j/how_does_communismsocialism_deal_with_human/)
+- [How does communism deal with lazy people?](https://www.reddit.com/r/communism101/comments/25r9hh/how_does_communism_deal_with_lazy_people/)
+- [How does communism/socialism deal with human laziness?](https://www.reddit.com/r/communism101/comments/1g235j/how_does_communismsocialism_deal_with_human/)
 - [What about people who refuse to work?](https://www.reddit.com/r/Socialism_101/comments/cgo2ux/people_who_refuse_to_work/)
 
 ## What about cooperatives?
 
-- [Can cooperatives bring about socialism?](http://www.reddit.com/r/communism101/comments/336mz4/can_cooperatives_bring_about_socialism/)
-- [Couldn't small anarchist / anarcho-communist communes replace Capitalism?](https://old.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/)
+- [Can cooperatives bring about socialism?](https://www.reddit.com/r/communism101/comments/336mz4/can_cooperatives_bring_about_socialism/)
+- [Couldn't small anarchist / anarcho-communist communes replace Capitalism?](https://www.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/)
 
 ## What about democracy? Can't voting fix our problems?
 
@@ -217,7 +217,7 @@
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
 - [Paul Cockshott - On Socialism and Democracy.](https://www.youtube.com/watch?v=bHN0foV4Ntk) [2](https://www.youtube.com/watch?v=98lvNhNfse4&t=1518s) [3](https://www.youtube.com/watch?v=EjKYVQd4r9E)
 - [Comrade Hakim - Why electoralism always fails.](https://www.youtube.com/watch?v=WXbaZXQAbuU)
-- [Why not just vote leftists into office: what's wrong with democratic socialism?](https://old.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
+- [Why not just vote leftists into office: what's wrong with democratic socialism?](https://www.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
 - [W.E.B. Dubois - Why I don't vote](http://www.hartford-hwp.com/archives/45a/298.html)
 - [What about harm reduction?](http://www.indigenousaction.org/voting-is-not-harm-reduction-an-indigenous-perspective/)
 - [What's wrong with the DSA / Democratic socialism?](https://struggle-sessions.com/2020/04/20/dsa-are-capitalist-pigs/)
@@ -236,7 +236,7 @@
 ## Pacifism and Violence
 
 - [What about Pacifism / pacifist socialism? Is violence necessary to acheive socialism? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) [audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
-- [Why not just vote leftists into office: what's wrong with democratic socialism?](https://old.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
+- [Why not just vote leftists into office: what's wrong with democratic socialism?](https://www.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
 - [Is a bloodless revolution possible?](https://www.reddit.com/r/communism101/comments/cyanku/is_a_bloody_revolution_really_necessary_for_the/)
 - "Can the hungry go on a hunger strike? Non-violence is a piece of theatre. You need an audience. What can you do when you have no audience? People have the right to resist annihilation." - Arundhati Roy.
 - [What is imperialism?](https://www.reddit.com/r/capitalism_in_decay/comments/cjp4yu/a_medium_length_eli15_answer_to_the_question_what/)
@@ -253,18 +253,18 @@
 ## What would X be like under communism?
 
 - [What does housing look like in Communist countries?](https://www.reddit.com/r/communism101/comments/chpwq7/could_you_guys_help_us_figure_out_what_housing/euwffax/)
-- [How would a record company/label work in a communist society?](http://www.reddit.com/r/communism101/comments/1a0htc/how_would_a_record_companylabel_work_in_a/)
-- [Music tours and traveling in a socialist state?](http://www.reddit.com/r/communism101/comments/2bs0yb/music_tours_and_traveling_in_a_socialist_state/)
-- [How would airlines work for the workers and the customers in a communist world?](http://www.reddit.com/r/communism101/comments/1exz0n/how_would_airlines_work_for_the_workers_and_the/)
-- [How would a society without the family work?](http://www.reddit.com/r/communism101/comments/14mh40/how_would_a_society_without_the_family_work/)
-- [Record Collecting](http://www.reddit.com/r/communism101/comments/25t8ps/record_collecting/)
-- [How would everyday life be different in a Marxist society?](http://www.reddit.com/r/communism101/comments/2awusu/how_would_everyday_life_be_different_in_a_marxist/)
-- [How would non-essential products their production be promoted in a traditional Marxist economy?](http://www.reddit.com/r/communism101/comments/22bjbf/how_would_nonessential_products_their_production/)
-- [How would media be handled in a Communist state?](http://www.reddit.com/r/communism101/comments/1kr25m/how_would_media_be_handled_in_a_communist_state/)
-- [What is going to happen after the revolution?](http://www.reddit.com/r/communism101/comments/27l9cc/what_is_going_to_happen_after_the_revolution/)
-- [How would a communist economy really function in practice?](http://www.reddit.com/r/communism101/comments/1g279l/how_would_a_communist_economy_really_function_in/)
-- [How does communism deal with niches?](http://www.reddit.com/r/communism101/comments/27o04e/how_does_communism_deal_with_niches/)
-- [How would residentials be fairly distributed under full communism?](http://www.reddit.com/r/communism101/comments/2hnmxx/how_would_residentials_be_fairly_distributed/)
+- [How would a record company/label work in a communist society?](https://www.reddit.com/r/communism101/comments/1a0htc/how_would_a_record_companylabel_work_in_a/)
+- [Music tours and traveling in a socialist state?](https://www.reddit.com/r/communism101/comments/2bs0yb/music_tours_and_traveling_in_a_socialist_state/)
+- [How would airlines work for the workers and the customers in a communist world?](https://www.reddit.com/r/communism101/comments/1exz0n/how_would_airlines_work_for_the_workers_and_the/)
+- [How would a society without the family work?](https://www.reddit.com/r/communism101/comments/14mh40/how_would_a_society_without_the_family_work/)
+- [Record Collecting](https://www.reddit.com/r/communism101/comments/25t8ps/record_collecting/)
+- [How would everyday life be different in a Marxist society?](https://www.reddit.com/r/communism101/comments/2awusu/how_would_everyday_life_be_different_in_a_marxist/)
+- [How would non-essential products their production be promoted in a traditional Marxist economy?](https://www.reddit.com/r/communism101/comments/22bjbf/how_would_nonessential_products_their_production/)
+- [How would media be handled in a Communist state?](https://www.reddit.com/r/communism101/comments/1kr25m/how_would_media_be_handled_in_a_communist_state/)
+- [What is going to happen after the revolution?](https://www.reddit.com/r/communism101/comments/27l9cc/what_is_going_to_happen_after_the_revolution/)
+- [How would a communist economy really function in practice?](https://www.reddit.com/r/communism101/comments/1g279l/how_would_a_communist_economy_really_function_in/)
+- [How does communism deal with niches?](https://www.reddit.com/r/communism101/comments/27o04e/how_does_communism_deal_with_niches/)
+- [How would residentials be fairly distributed under full communism?](https://www.reddit.com/r/communism101/comments/2hnmxx/how_would_residentials_be_fairly_distributed/)
 - [How do police / cops differ in socialism?](https://www.reddit.com/r/DebateCommunism/comments/9hsoll/suppose_police_all_go_away_tomorrow_and_are/e6eguff/)
   - [An interview with some traffic cops in China.](https://youtu.be/QFJSepGLFTw?t=1450)
 - [What if some people don't wanna be communist?](https://www.reddit.com/r/DebateCommunism/comments/9mtnyt/what_if_some_people_dont_wanna_be_communist/e7hc63u/)
@@ -278,16 +278,16 @@
 - [Is the Labor theory of value (LTV) scientifically correct? What about academic economists and the subjective theory of value (STV)?](https://www.reddit.com/r/DebateCommunism/comments/9xo7l7/questions_about_ltv_and_stv/e9ts0k1/)
 - [Hakim - common capitalist criticisms of the LTV. ](https://www.youtube.com/watch?v=1oRCgUEpIQI)
 - [Empirical studies on the LTV](https://www.reddit.com/r/Marxism/comments/kjb6tp/the_labor_theory_of_value_an_examination/)
-- [Is human labor the source of value because human beings do not normally work for free?](http://www.reddit.com/r/communism101/comments/1hjpgk/is_human_labor_the_source_of_value_because_human/)
-- [Value as a necessary product of labor?](http://www.reddit.com/r/communism101/comments/2ufx5a/value_as_a_necessary_product_of_labor/)
-- [What is the right way to think about the relation between value and labor?](http://www.reddit.com/r/communism101/comments/1d3jy2/what_is_the_right_way_to_think_about_the_relation/)
+- [Is human labor the source of value because human beings do not normally work for free?](https://www.reddit.com/r/communism101/comments/1hjpgk/is_human_labor_the_source_of_value_because_human/)
+- [Value as a necessary product of labor?](https://www.reddit.com/r/communism101/comments/2ufx5a/value_as_a_necessary_product_of_labor/)
+- [What is the right way to think about the relation between value and labor?](https://www.reddit.com/r/communism101/comments/1d3jy2/what_is_the_right_way_to_think_about_the_relation/)
 - [Whats so bad about land ownership / renting / private property? Why do socialists want to abolish it? Don't landowners do work?](https://www.reddit.com/r/CapitalismVSocialism/comments/7r0t5a/how_landlords_create_value/dsu99td/)
 - [Hakim - The problem with landlords and rent.](https://www.youtube.com/watch?v=9gm4b1WgVEQ)
-- [I am in trouble understanding how exactly would a private property abolition work.](http://www.reddit.com/r/communism101/comments/1su2je/i_am_in_trouble_understanding_how_exactly_would_a/)
-- [Private property: Cause or result of alienation?](http://www.reddit.com/r/communism101/comments/1c35xf/private_property_cause_or_result_of_alienation/)
-- [In Marxian economics, is 'value' distinct from 'price'? What does 'value' indicate, exactly?](http://www.reddit.com/r/communism101/comments/139g19/in_marxian_economics_is_value_distinct_from_price/)
-- [can you explain the theory of alienation to me in a "explain like I'm five" manner?](http://www.reddit.com/r/communism101/comments/2jeyaj/can_you_explain_the_theory_of_alienation_to_me_in/)
-- [If private property is abolished, does this mean anyone can enter "one's home" (or where one lives) and cannot be expelled?](http://www.reddit.com/r/communism101/comments/19nx3l/if_private_property_is_abolished_does_this_mean/)
+- [I am in trouble understanding how exactly would a private property abolition work.](https://www.reddit.com/r/communism101/comments/1su2je/i_am_in_trouble_understanding_how_exactly_would_a/)
+- [Private property: Cause or result of alienation?](https://www.reddit.com/r/communism101/comments/1c35xf/private_property_cause_or_result_of_alienation/)
+- [In Marxian economics, is 'value' distinct from 'price'? What does 'value' indicate, exactly?](https://www.reddit.com/r/communism101/comments/139g19/in_marxian_economics_is_value_distinct_from_price/)
+- [can you explain the theory of alienation to me in a "explain like I'm five" manner?](https://www.reddit.com/r/communism101/comments/2jeyaj/can_you_explain_the_theory_of_alienation_to_me_in/)
+- [If private property is abolished, does this mean anyone can enter "one's home" (or where one lives) and cannot be expelled?](https://www.reddit.com/r/communism101/comments/19nx3l/if_private_property_is_abolished_does_this_mean/)
 - [What is the tendency of the rate of profit to fall? (TRPF)](http://socialistreview.org.uk/371/what-tendency-rate-profit-fall)
 - [Hakim - what is the TRPF? ](https://www.youtube.com/watch?v=SEGGvVinUao)
 - [Shouldn't capitalists be rewarded for Risk / Financial investment?](https://www.reddit.com/r/communism101/comments/av92oi/someone_said_the_following_in_a_debate_and_i/) [Well shouldn't business owners be rewarded for their financial risk?](https://www.reddit.com/r/communism101/comments/a8fnlm/counterarguments_to_common_capitalist_economic/) [Do Capitialists deserve profit?](https://www.reddit.com/r/communism101/comments/aany6r/trying_to_get_a_friend_to_the_left/) [Is profit proportional to risk?](https://www.reddit.com/r/communism101/comments/1p7d3u/refutation_of_risk_incentive_and_entrepreneurship/cczoar0/)
@@ -295,23 +295,23 @@
 
 ## On Nationalism and Internationalism
 
-- [Nationalism and internationalism, where do leftists stand?](http://www.reddit.com/r/communism101/comments/298jfb/nationalism_as_applied_internationalism/)
-- [Nationalism and Communism?](http://www.reddit.com/r/communism101/comments/146x30/nationalism_and_communism/)
-- [Why is patriotism bad?](http://www.reddit.com/r/communism101/comments/1nb7ke/whyis_patriotism_bad/)
+- [Nationalism and internationalism, where do leftists stand?](https://www.reddit.com/r/communism101/comments/298jfb/nationalism_as_applied_internationalism/)
+- [Nationalism and Communism?](https://www.reddit.com/r/communism101/comments/146x30/nationalism_and_communism/)
+- [Why is patriotism bad?](https://www.reddit.com/r/communism101/comments/1nb7ke/whyis_patriotism_bad/)
 - [Luna oi : how USAID serves the CIA. ](https://twitter.com/LunaOi_VN/status/1421564265530494978?s=20)
 
 ## On Women's Liberation
 
-- [Is it necessary to be a feminist to be a communist?](http://www.reddit.com/r/communism101/comments/17cn2z/is_it_necessary_to_be_a_feminist_to_be_a_communist/)
+- [Is it necessary to be a feminist to be a communist?](https://www.reddit.com/r/communism101/comments/17cn2z/is_it_necessary_to_be_a_feminist_to_be_a_communist/)
 - [How would eliminating Capitalism help women's liberation? Why did the patriarchy develop as it did?](https://www.reddit.com/r/communism101/comments/axljq5/how_would_eliminating_capitalism_help/)
 - [What is intersectionality, and how is it related to Marxism?](https://socialistworker.org/2017/08/01/a-marxist-case-for-intersectionality)
-- [What real solutions does socialism have for women, LGBTQ, etc.?](http://www.reddit.com/r/communism101/comments/1jprtn/what_real_solutions_does_socialism_have_for_women/)
-- [On Feminism](http://www.reddit.com/r/communism101/comments/1hyu6n/on_feminism/)
+- [What real solutions does socialism have for women, LGBTQ, etc.?](https://www.reddit.com/r/communism101/comments/1jprtn/what_real_solutions_does_socialism_have_for_women/)
+- [On Feminism](https://www.reddit.com/r/communism101/comments/1hyu6n/on_feminism/)
 - [Silvia Federici - Caliban and the Witch [audiobook] by dessalines](magnet:?xt=urn:btih:5235321931784e4cfb9efef3138b605164026ed9&dn=Silvia%20Federici%20-%20Caliban%20and%20the%20Witch%20%5baudiobook%5d%20by%20dessalines)
 - [Lise Vogel - Domestic Labor Revisited (an introduction to Marxist Feminism)](https://dessalines.github.io/essays/lise_vogel_domestic_labour_revisited.html)
 - [Lise Vogel - Marxism and the Oppression of Women [audiobook] by dessalines](magnet:?xt=urn:btih:2b32f06c48d977bb08f0c2eed444d4fbe281577f&dn=Lise%20Vogel%20-%20Marxism%20and%20the%20Oppression%20of%20Women%20%5baudiobook%5d%20by%20dessalines)
-- [What is proletarian/marxian feminism?](http://www.reddit.com/r/communism101/comments/18dfco/what_is_proletarianmarxian_feminism/)
-- [Hello comrades! can anyone explain the idea of marxist-feminism?](http://www.reddit.com/r/communism101/comments/2i1hlp/hello_comrades_can_anyone_explain_the_idea_of/)
+- [What is proletarian/marxian feminism?](https://www.reddit.com/r/communism101/comments/18dfco/what_is_proletarianmarxian_feminism/)
+- [Hello comrades! can anyone explain the idea of marxist-feminism?](https://www.reddit.com/r/communism101/comments/2i1hlp/hello_comrades_can_anyone_explain_the_idea_of/)
 - [What about the history of Marxist Feminism?](https://isreview.org/issue/93/womens-liberation-marxist-tradition)
 - [Thomas Sankara - Women’s liberation and African freedom struggle](http://www.themilitant.com/2011/7502/750249.html)
 - [Clara Zetkin - Lenin and the Women's Question](https://www.marxists.org/archive/zetkin/1920/lenin/zetkin1.htm)
@@ -363,7 +363,7 @@
 
 - [What is the socialist stance on guns?](https://www.reddit.com/r/communism101/comments/7xz4w7/does_anybody_know_what_karl_marxs_views_on_gun/)
 - [LiberationNews - A socialist approach to gun control.](https://www.liberationnews.org/united-states-violence-socialist-approach-student-walkouts-gun-control/)
-- [Is it true that gun ownership correlates to increased murders and violence?](http://www.reddit.com/r/bestof/comments/83wax3/-/dvlkxil)
+- [Is it true that gun ownership correlates to increased murders and violence?](https://www.reddit.com/r/bestof/comments/83wax3/-/dvlkxil)
 - [Do Marxists oppose individual terrorism? (Trotsky)](https://www.marxists.org/archive/trotsky/1911/11/tia09.htm)
 - [Where do socialists stand on gun violence and acts of terrorism?](https://www.reddit.com/r/communism101/comments/73tqcn/where_should_marxists_stand_on_gun_violence/)
 - [Will the revolution necessarily be violent?](https://www.reddit.com/r/Socialism_101/comments/9vvq6k/will_the_revolution_be_necessarily_violent/e9fer95/)
@@ -394,12 +394,12 @@
 ## On Leninism
 
 - [An overview of Leninism.](https://archive.ph/khO7R)
-- [What is the vanguard party? Is one necessary?](http://www.reddit.com/r/communism101/comments/142p1b/what_is_the_vanguard_party_is_one_necessary/)
-- [Why is a vanguard party necessary in Leninism?](http://www.reddit.com/r/communism101/comments/2n5xx3/why_is_a_vanguard_party_necessary_in_leninism/)
-- [What is Vanguardism and Democratic Centralism?](http://www.reddit.com/r/communism101/comments/2eo0ft/what_is_vanguardism_and_democratic_centralism/)
-- [What is a vanguard party supposed to be like? What qualifies and doesn't qualify as a vanguard party?](http://www.reddit.com/r/communism101/comments/1b0r0o/what_is_a_vanguard_party_supposed_to_be_like_what/)
-- [Difference between leninism and Marxist-leninism?](http://www.reddit.com/r/communism101/comments/21jk1t/difference_between_leninism_and_marxistleninism/)
-- [Why does left communism reject national liberation movements?](http://www.reddit.com/r/communism101/comments/27lbru/why_does_left_communism_reject_national/)
+- [What is the vanguard party? Is one necessary?](https://www.reddit.com/r/communism101/comments/142p1b/what_is_the_vanguard_party_is_one_necessary/)
+- [Why is a vanguard party necessary in Leninism?](https://www.reddit.com/r/communism101/comments/2n5xx3/why_is_a_vanguard_party_necessary_in_leninism/)
+- [What is Vanguardism and Democratic Centralism?](https://www.reddit.com/r/communism101/comments/2eo0ft/what_is_vanguardism_and_democratic_centralism/)
+- [What is a vanguard party supposed to be like? What qualifies and doesn't qualify as a vanguard party?](https://www.reddit.com/r/communism101/comments/1b0r0o/what_is_a_vanguard_party_supposed_to_be_like_what/)
+- [Difference between leninism and Marxist-leninism?](https://www.reddit.com/r/communism101/comments/21jk1t/difference_between_leninism_and_marxistleninism/)
+- [Why does left communism reject national liberation movements?](https://www.reddit.com/r/communism101/comments/27lbru/why_does_left_communism_reject_national/)
 - [Is it true that Socialism has killed X million people, and how many has capitalism killed?](https://www.reddit.com/r/LateStageCapitalism/comments/5q2oak/someone_dies_under_socialism_no_matter_how_its/dcvu8lg/)
 - [What's the role of the state in the revolution, and what is a state?](https://archive.ph/khO7R)
 - What about the USSR, wasn't it authoritarian? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
@@ -419,10 +419,10 @@
 ## On Trotskyism
 
 - [Taimur Rahman - Why I am not a Trotskyist.](https://www.youtube.com/watch?v=QQ9O5UPqcOE)
-- [Primarily to the trotskyists: Can you explain the theories of the degenerated workers state, the deformed workers state and state capitalism and can these theories co-exist in the same country?](http://www.reddit.com/r/communism101/comments/2x5m39/primarily_to_the_trotskyists_can_you_explain_the/)
-- [What are the main Marxist analyses of fascism? and a question regarding Trotsky's](http://www.reddit.com/r/communism101/comments/2p7ozi/what_are_the_main_marxist_analyses_of_fascism_and/)
-- [Did Stalin 'betray' the revolution? (repost of deleted question)](http://www.reddit.com/r/communism101/comments/1dp6qw/did_stalin_betray_the_revolution_repost_of/)
-- [Why was "Lenin's testament" suppressed by the Party after Lenin's death?](http://www.reddit.com/r/communism101/comments/2lfc5f/why_was_lenins_testament_suppressed_by_the_party/)
+- [Primarily to the trotskyists: Can you explain the theories of the degenerated workers state, the deformed workers state and state capitalism and can these theories co-exist in the same country?](https://www.reddit.com/r/communism101/comments/2x5m39/primarily_to_the_trotskyists_can_you_explain_the/)
+- [What are the main Marxist analyses of fascism? and a question regarding Trotsky's](https://www.reddit.com/r/communism101/comments/2p7ozi/what_are_the_main_marxist_analyses_of_fascism_and/)
+- [Did Stalin 'betray' the revolution? (repost of deleted question)](https://www.reddit.com/r/communism101/comments/1dp6qw/did_stalin_betray_the_revolution_repost_of/)
+- [Why was "Lenin's testament" suppressed by the Party after Lenin's death?](https://www.reddit.com/r/communism101/comments/2lfc5f/why_was_lenins_testament_suppressed_by_the_party/)
 - [Why was Trotsky assassinated?](https://internationalstalinsociety.wordpress.com/trotsky-the-anti-communist/)
 - https://www.marxists.org/history/etol/document/vietnam/pirani/hochiminh.htm
 
@@ -435,34 +435,34 @@
 - [Did socialism achieve anything in the USSR?](https://www.reddit.com/r/socialism/comments/86tqdd/but_socialism_doesnt_work_s/dw7qco0/)
 - [What are some of the USSR's accomplishments?](https://lemmygrad.ml/post/8636)
 - [Why do the majority of Russians regret the collapse of the USSR?](https://www.themoscowtimes.com/2017/12/25/majority-of-russians-regret-soviet-collapse-poll-says-a60039)
-- [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
+- [What is Stalinism?](https://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
 - [What about Stalin? Didn't he kill millions? (Revleft podcast on Stalin)](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
-- [Was Stalin's USSR State Capitalist?](http://www.reddit.com/r/communism101/comments/383c4i/was_stalins_ussr_state_capitalist/)
+- [Was Stalin's USSR State Capitalist?](https://www.reddit.com/r/communism101/comments/383c4i/was_stalins_ussr_state_capitalist/)
 - [Lenin on State Capitalism (The Tax in Kind)](https://www.marxists.org/archive/lenin/works/1921/apr/21.htm)
 - [What about the term tankies / stalinists? What's the meaning of the term?](https://www.reddit.com/r/communism101/comments/dm2mbz/on_tankies/) [What about the 1956 Hungarian revolt?](https://www.reddit.com/r/communism101/comments/dh6nyi/why_was_the_hungarian_uprising_crushed_by_the_ussr/), [2](https://www.reddit.com/r/communism101/comments/ht4z8a/hungarian_revolution_in_1956/), [3](https://www.reddit.com/r/GenZhou/comments/ol6h3b/im_simply_wondering_where_does_the_term_tankie/h5f3s6o/). [MI6 trained the hungarian opposition to fight soviets in the 1956 revolt.](http://archive.is/fMAzu) [3](https://www.reddit.com/r/PartyofCommunistsUSA/comments/9kqkt5/anticommunist_and_antijewish_pogroms_of_hungarys/) [4](http://www3.sympatico.ca/thidas/Hungarian-history/Exodus.html), [5](https://www.reddit.com/r/GenZhou/comments/ol6h3b/im_simply_wondering_where_does_the_term_tankie/h5f3s6o/)
 - [RedSails - on "Tankies"](https://redsails.org/tankies/)
 - [Hakim - Why the USSR was socialist - A critique of left-communism.](https://www.youtube.com/watch?v=CKggZ22izDs)
 - [Did Stalin really try to resign 4 times?](https://socialistmlmusings.wordpress.com/2017/02/23/stalins-four-attempts-at-resignation/)
-- [Why were there prison labor camps in the USSR and were they justified?](http://www.reddit.com/r/communism101/comments/2hkn8r/why_were_there_prison_labor_camps_in_the_ussr_and/)
+- [Why were there prison labor camps in the USSR and were they justified?](https://www.reddit.com/r/communism101/comments/2hkn8r/why_were_there_prison_labor_camps_in_the_ussr_and/)
 - [Did the USSR really make an alliance with the nazis? (Molotov-Ribbentrop Pact)](https://www.reddit.com/r/communism101/comments/148o4x/1939_sovietnazi_partition_of_poland/c7azkz9/), [2](https://www.telegraph.co.uk/news/worldnews/europe/russia/3223834/Stalin-planned-to-send-a-million-troops-to-stop-Hitler-if-Britain-and-France-agreed-pact.html), [3](https://www.reddit.com/r/communism101/comments/8mg59o/why_did_the_ussr_aid_nazi_germany_in_invading/), [4](https://www.reddit.com/r/communism/comments/4t1p4j/why_did_the_soviet_union_sign_the/), [5](https://i.imgur.com/cAMvQ1O.jpg)
   - [Einstein on the Molotov-Ribbentrop pact.](https://hexbear.net/comment/3582146)
-- [Did the USSR supply the Nazis with raw materials and weapons in the years before WW2?](http://www.reddit.com/r/communism101/comments/a5r9sx/-/eboru9r)
+- [Did the USSR supply the Nazis with raw materials and weapons in the years before WW2?](https://www.reddit.com/r/communism101/comments/a5r9sx/-/eboru9r)
 - [How many Jews escaped from Poland to the USSR in WW2?](https://www.jewishvirtuallibrary.org/escape-of-jews-from-poland-to-the-soviet-union)
 - [What about the Katyn Massacre?](https://www.reddit.com/r/communism101/comments/148o4x/1939_sovietnazi_partition_of_poland/c7azkz9/). [2](https://www.reddit.com/r/communism101/comments/71gikf/nkvd_and_soviet_crimes/dnalyrr/)
-- [What contributions did Stalin make to Marxism-Leninism?](http://www.reddit.com/r/communism101/comments/1ejidu/what_contributions_did_stalin_make_to/)
-- [Opinions on Defense of Stalin and Mao](http://www.reddit.com/r/communism/comments/11yp4f/opinions_on_defense_of_stalin_and_mao/)
-- [Stalin's Purges](http://www.reddit.com/r/communism/comments/qergf/stalins_purges/)
+- [What contributions did Stalin make to Marxism-Leninism?](https://www.reddit.com/r/communism101/comments/1ejidu/what_contributions_did_stalin_make_to/)
+- [Opinions on Defense of Stalin and Mao](https://www.reddit.com/r/communism/comments/11yp4f/opinions_on_defense_of_stalin_and_mao/)
+- [Stalin's Purges](https://www.reddit.com/r/communism/comments/qergf/stalins_purges/)
 - [Was Stalin / the USSR anti-Semitic? Are the communists the same as the nazis with regards to anti-semitism? What about the doctors plot?](https://www.reddit.com/r/communism101/comments/b2xtna/was_stalin_antisemitic/) [2](https://www.reddit.com/r/communism101/comments/grc3u1/antisemitism_in_the_ussr/fry3f52/) [3](https://www.reddit.com/r/DebateCommunism/comments/pr1zpg/how_did_the_jews_fare_under_communism/hdfmhs9/), [4](https://jewishcurrents.org/the-double-genocide-theory)
-- [What are some legitimate criticisms of Stalin?](http://www.reddit.com/r/communism/comments/10chdq/what_are_some_legitimate_criticisms_of_stalin/)
+- [What are some legitimate criticisms of Stalin?](https://www.reddit.com/r/communism/comments/10chdq/what_are_some_legitimate_criticisms_of_stalin/)
 - [Why did the USSR invade Finland in 1939?](https://www.reddit.com/r/GenZhou/comments/r44hdz/why_did_ussr_finland_in_1939_did_finland_provoke/)
-- [I need clarification on myths/truths of the USSR/Soviet Union.](http://www.reddit.com/r/communism101/comments/2dzicb/i_need_clarification_on_mythstruths_of_the/)
-- [I'm fascinated by the idea of communism...](http://www.reddit.com/r/communism101/comments/21s0dw/im_fascinated_by_the_idea_of_communism/)
-- [Was the Soviet Union democratic? If so to what extent?](http://www.reddit.com/r/communism101/comments/2i0p0z/was_the_soviet_union_democratic_if_so_to_what/)
-- [How necessary or productive were the torture, mass executions of captives, and labor camps of 20th-century socialist governments and revolutions?](http://www.reddit.com/r/communism101/comments/2ksxum/how_necessary_or_productive_were_the_torture_mass/)
-- [Why did Lenin abolish factory committees established by workers?](http://www.reddit.com/r/communism101/comments/1ypaur/why_did_lenin_abolish_factory_committees/)
-- [How much of the USSR's "dark history" under Stalin can actually be attributed to Yezhov?](http://www.reddit.com/r/communism101/comments/2qlm9z/how_much_of_the_ussrs_dark_history_under_stalin/)
-- [Forced Deportation Under Stalin](http://www.reddit.com/r/communism101/comments/316tey/forced_deportation_under_stalin/), [2](https://www.reddit.com/r/DebateCommunism/comments/ddedgw/marxistleninistswhat_do_you_think_of_the/f2hwvlm/)
-- [Did the Soviet Union manufacture a famine in Ukraine? What about the Holodomor?](https://reddit.com/r/socialism/comments/a7njo6/66_of_russians_say_that_they_regret_that_the_ussr/ec4skiw?context=3), [2](https://www.reddit.com/r/communism101/comments/1c4to0/is_there_a_different_aspectpov_to_the_holodomor/),[3](https://www.reddit.com/r/communism101/comments/79nmdh/red_famine_by_anne_applebaum_what_is_this_all/),[4](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_the_soviet_union_manufactured_a_famine_in_ukraine),[5](https://sputniknews.com/politics/201508091025560345/),[6](https://www.reddit.com/r/GenZhou/comments/r42840/what_were_the_main_causes_of_the_ukraine_famine/), [A podcast on Stalin, Holodomor, and the purges.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
+- [I need clarification on myths/truths of the USSR/Soviet Union.](https://www.reddit.com/r/communism101/comments/2dzicb/i_need_clarification_on_mythstruths_of_the/)
+- [I'm fascinated by the idea of communism...](https://www.reddit.com/r/communism101/comments/21s0dw/im_fascinated_by_the_idea_of_communism/)
+- [Was the Soviet Union democratic? If so to what extent?](https://www.reddit.com/r/communism101/comments/2i0p0z/was_the_soviet_union_democratic_if_so_to_what/)
+- [How necessary or productive were the torture, mass executions of captives, and labor camps of 20th-century socialist governments and revolutions?](https://www.reddit.com/r/communism101/comments/2ksxum/how_necessary_or_productive_were_the_torture_mass/)
+- [Why did Lenin abolish factory committees established by workers?](https://www.reddit.com/r/communism101/comments/1ypaur/why_did_lenin_abolish_factory_committees/)
+- [How much of the USSR's "dark history" under Stalin can actually be attributed to Yezhov?](https://www.reddit.com/r/communism101/comments/2qlm9z/how_much_of_the_ussrs_dark_history_under_stalin/)
+- [Forced Deportation Under Stalin](https://www.reddit.com/r/communism101/comments/316tey/forced_deportation_under_stalin/), [2](https://www.reddit.com/r/DebateCommunism/comments/ddedgw/marxistleninistswhat_do_you_think_of_the/f2hwvlm/)
+- [Did the Soviet Union manufacture a famine in Ukraine? What about the Holodomor?](https://www.reddit.com/r/socialism/comments/a7njo6/66_of_russians_say_that_they_regret_that_the_ussr/ec4skiw?context=3), [2](https://www.reddit.com/r/communism101/comments/1c4to0/is_there_a_different_aspectpov_to_the_holodomor/),[3](https://www.reddit.com/r/communism101/comments/79nmdh/red_famine_by_anne_applebaum_what_is_this_all/),[4](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_the_soviet_union_manufactured_a_famine_in_ukraine),[5](https://sputniknews.com/politics/201508091025560345/),[6](https://www.reddit.com/r/GenZhou/comments/r42840/what_were_the_main_causes_of_the_ukraine_famine/), [A podcast on Stalin, Holodomor, and the purges.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 - [Did Stalin / the USSR intentionally wreck the anarchists in the Spanish Civil War / Revolutionary Catalonia?](https://www.reddit.com/r/communism101/comments/1e1bhf/what_was_the_role_of_ussr_in_revolutionary_spain/c9w2jva/) , [2](https://www.reddit.com/r/communism101/comments/1jlpyu/what_contributed_to_the_fallingout_between/cbg3v0p/)
 - [Did the early USSR repress anarchists? What about Nestor Makhno and the Free territory of Ukraine?](https://www.reddit.com/r/communism/comments/64wkgf/polemic_the_anarchokulak_bandits_of_russia_and/)
   - [A brief history of Nestor Makhno.](https://archive.fo/B6Mpi)
@@ -536,23 +536,23 @@
 
 ### Further reading
 
-- [A collection of Soviet history books on Stalin and Stalinism.](http://www.reddit.com/r/communism/comments/1hzwl3/a_collection_of_soviet_history_books_on_stalin/)
+- [A collection of Soviet history books on Stalin and Stalinism.](https://www.reddit.com/r/communism/comments/1hzwl3/a_collection_of_soviet_history_books_on_stalin/)
 - [_The Triumph of Evil, Chapter 1: The Documented Facts About Eastern Europe and Communism_](http://redscans.files.wordpress.com/2011/09/austin-murphy-the-triumph-of-evil.pdf) by A. Murphy
 
 ## On Mao, Maoism, and Marxism-Leninism-Maoism, and the PRC
 
-- [What is Maoism?](http://www.reddit.com/r/communism101/comments/139sid/what_is_maoism/)
-- [How many peopled really died during the Great Leap Forward?](http://www.reddit.com/r/communism/comments/39w9w0/how_many_peopled_really_died_during_the_great/)
+- [What is Maoism?](https://www.reddit.com/r/communism101/comments/139sid/what_is_maoism/)
+- [How many peopled really died during the Great Leap Forward?](https://www.reddit.com/r/communism/comments/39w9w0/how_many_peopled_really_died_during_the_great/)
 - [Did Mao really kill millions of people in the great leap forward?](https://monthlyreview.org/commentary/did-mao-really-kill-millions-in-the-great-leap-forward#.T5wbUSfm_x8.reddit)
 - [What about the mass killing of landlords? What about landlordism?](https://www.reddit.com/r/communism101/comments/bvk5rd/what_do_you_think_of_the_mass_killing_of/)
 - [What about the famines? Did Mao kill millions?](https://www.reddit.com/r/communism/comments/11yp4f/opinions_on_defense_of_stalin_and_mao/c6qobhh/)
-- [Why did Mao launch the Cultural Revolution? What was he trying to achieve as distinct from the Revolution the Chinese Communists had already won? To what extent did he succeed? Does it have any continuing impact? (x-post from /r/AskHistorians)](http://www.reddit.com/r/communism101/comments/23958h/why_did_mao_launch_the_cultural_revolution_what/)
+- [Why did Mao launch the Cultural Revolution? What was he trying to achieve as distinct from the Revolution the Chinese Communists had already won? To what extent did he succeed? Does it have any continuing impact? (x-post from /r/AskHistorians)](https://www.reddit.com/r/communism101/comments/23958h/why_did_mao_launch_the_cultural_revolution_what/)
 - [What was the cultural revolution? A Documentary series on it, called How yukong moved the mountains](https://www.youtube.com/watch?v=zLN-jRZRPrc&list=PLMt0ncvnKoz3ar_f78qBeA29-0kwrsXvT)
 - [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 - [What's the difference between MZT (Mao-Zedong-Thought) and MLM (Marxism-Leninism-Maoism)? How does Socialism with Chinese Characteristics (SWCC) differ from MLM? Does modern China uphold Mao? What about the cultural revolution?](http://web.archive.org/web/20210218232858/http://cpcchina.chinadaily.com.cn/fastfacts/2010-10/18/content_11425373.htm) [2](https://leohezhao.medium.com/wrong-turns-on-the-revolutionary-road-ultra-leftism-and-the-cultural-revolution-2e090793dfad) [3](https://www.greanvillepost.com/2018/10/30/the-long-game-and-its-contradictions/) [4](https://www.reddit.com/r/asktankies/comments/qts7sn/what_is_the_difference_between_maoism_and/hkom8qx/)
 - [A lecture on MZT, and the thought of the first generation leaders of the PRC. Also on the origins of the term, "Maoism".](https://www.youtube.com/watch?v=lf3VW9wzl1g)
-- [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
-- [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
+- [Where should I start with Mao?](https://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
+- [Debastardising Mao.](https://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
 - [Was Sun Yat Sen a communist?](https://www.youtube.com/watch?v=3kvAMVX0bjE)
 - [Deng on why Mao's legacy must be upheld.](https://redsails.org/deng-and-fallaci/)
 - [Deng Xiaoping - a visionary marxist-leninist.](https://twitter.com/RodericDay/status/1353776771573948418?s=20)
@@ -605,7 +605,7 @@
 - [China pushing forward Marxist training in colleges, attracts 1M students.](http://www.globaltimes.cn/content/988795.shtml)
 - [China tells the US that it has no plans to weaken the role of its State-Owned-Enterprises, one of the US's main demands in the trade war. "Beijing plans to make the state economy stronger, bigger, and better."](https://www.scmp.com/economy/china-economy/article/3038993/china-wont-give-its-state-led-economic-model-top-trade?fbclid=IwAR2ys8_Y_6Nxq2x__BM4SoKdR63it7X_JRy1XJdkLw4QrK0VQ77mXYyrcks)
 - [Unlike the US, China refuses to bail out over-leveraged property developers, and lets them go bankrupt.](https://www.reddit.com/r/Sino/comments/pnqrf7/whats_happening_with_evergrande_will_it_have_a/)
-- [A China misinformation Megathread.](https://old.reddit.com/r/communism/comments/c2b7ma/china_megathread_everything_a_leftist_must_know/)
+- [A China misinformation Megathread.](https://www.reddit.com/r/communism/comments/c2b7ma/china_megathread_everything_a_leftist_must_know/)
 
 ### Is China a Democracy?
 
@@ -751,7 +751,7 @@
 - [If China Is Anti-Islam, Why Are These Chinese Muslims Enjoying a Faith Revival?](https://time.com/3099950/china-muslim-hui-xinjiang-uighur-islam/)
 - [A New York Times "expose" of re-education centers in Xinjiang lied and mistranslated every claim.](https://www.quora.com/What-would-be-the-consequences-of-the-New-York-Times-expose-on-Xinjiang/answer/Jamin-Chen-1)
 - [Reddit holds an AMA](https://www.reddit.com/r/IAmA/comments/e9ad4n/i_am_rushan_abbas_uyghur_activist_and_survivor_of/) for an "Uyghur Activist", who turns out to be [Rushan Abbas](https://web.archive.org/web/20181207031224/https://www.isi-consultants.com/rushan-abbas/), a CIA agent who worked for Homeland Security, Department of Defense, Department of State, Department of Justice, and various U.S. intelligence agencies, and even worked at Guantanamo bay, the US muslim torture camp. [1](https://www.reddit.com/r/ShitLiberalsSay/comments/e9crzq/shit_liberals_do_claim_to_be_an_uyghur_survivor/) [2](https://medium.com/@rsahthion/a-reddit-ama-claiming-to-be-a-uiyghur-quickly-exposes-a-cia-asset-slandering-china-1d667c098b77)
-- [Reddit holds yet another AMA with Sophie Richardson, the "China director" at the US soft-power regime-change agency Human Rights Watch. The comments expose her as not speaking chinese, and spreading blatant lies about China.](https://www.reddit.com/r/worldnews/comments/hwi7ub/i_am_sophie_richardson_china_director_at_human/) [2](https://web.archive.org/web/20200924183937/https://old.reddit.com/r/worldnews/comments/hwi7ub/i_am_sophie_richardson_china_director_at_human/)
+- [Reddit holds yet another AMA with Sophie Richardson, the "China director" at the US soft-power regime-change agency Human Rights Watch. The comments expose her as not speaking chinese, and spreading blatant lies about China.](https://www.reddit.com/r/worldnews/comments/hwi7ub/i_am_sophie_richardson_china_director_at_human/) [2](https://web.archive.org/web/20200924183937/https://www.reddit.com/r/worldnews/comments/hwi7ub/i_am_sophie_richardson_china_director_at_human/)
 - [Reddit holds another AMA with a grifting author, Amelia Pang](https://www.reddit.com/r/IAmA/comments/m99tvp/im_the_author_of_made_in_china_a_prisoner_an_sos/), who wrote a NYTimes best selling book about going undercover into an Uyghur prison. It turns out that she worked for the Epoch Times for many years, and also never visited or talked with a single prisoner. Her book is based on extrapolations from a 1991 film. She leaves the AMA after leaving all the top questions unanswered.
 - [A case study in Anti-Chinese racism.](https://medium.com/@rsahthion/a-case-study-in-racist-anti-chinese-sentiment-fuelled-by-american-bots-and-western-propaganda-f0a69978d568)
 - [Debunking an article from the intercept about Uyghurs.](https://twitter.com/RodericDay/status/1355383514137554944?s=20)
@@ -762,9 +762,9 @@
 - [A rebuttal of a Guardian article by Gulbahar Haitiwaji](https://twitter.com/moghilemear13/status/1351397520358957058) [2](https://www.reddit.com/r/communism/comments/kwew3n/contradictions_in_the_new_uighur_story_by/)
 - [A short, shareable version on why this isn't a genocide - cynthiakao](https://www.tiktok.com/@cynthiakao/video/6945108711006309638)
 - [Italian Government's report on human rights in Xinjiang](https://idi-international.org/wp-content/uploads/2021/05/New-Report.pdf)
-- [Buzzfeed says this Xinjiang detention camp has 10,000 Uighurs. It's 3 times smaller than an American prison with 10,000 people and is consistent with how big a normal prison (for criminals) would be given the population.](https://old.reddit.com/r/Sino/comments/jcteui/buzzfeed_says_this_xinjiang_detention_camp_has/)
+- [Buzzfeed says this Xinjiang detention camp has 10,000 Uighurs. It's 3 times smaller than an American prison with 10,000 people and is consistent with how big a normal prison (for criminals) would be given the population.](https://www.reddit.com/r/Sino/comments/jcteui/buzzfeed_says_this_xinjiang_detention_camp_has/)
 - [There are more mosques in Xinjiang alone than in the EU. with sources](https://lemmygrad.ml/post/33375)
-- [1 million detanees is heard again and again. You’d need a detention city the size of San Francisco to detain one million Uighurs. So where is it?](https://old.reddit.com/r/Sino/comments/i9k4hb/youd_need_a_detention_city_the_size_of_san/)
+- [1 million detanees is heard again and again. You’d need a detention city the size of San Francisco to detain one million Uighurs. So where is it?](https://www.reddit.com/r/Sino/comments/i9k4hb/youd_need_a_detention_city_the_size_of_san/)
 - [Xinjiang Uyghur Human Rights Issue Proved To Be A Plot By The Whistleblower](https://www.youtube.com/watch?v=6gIKdsAlWcE)
 - [Citizens of Xinjiang Speak](https://www.youtube.com/playlist?list=PLkbOIKUddMBtp0_xEFqn4zey48kkgJq5w)
 - [The Xinjiang Atrocity Propaganda Blitz](https://redsails.org/the-xinjiang-atrocity-propaganda-blitz/)
@@ -794,7 +794,7 @@
 - [The protest movement followed the line of "color revolutions", in which the US tried to destabilize and create counter-revolutions in eastern Europe and Latin America after the fall of the USSR. The strategy was to stir division within and without, by inundating the media with news of massacres of "peaceful", pro-capitalist / market reformers.](http://www.fightbacknews.org/2019/6/4/reflections-tiananmen-square-and-attempt-end-chinese-socialism)
 - [The defeat of a counter revolution in China](https://frso.org/main-documents/looking-back-at-tiananmen-square-the-defeat-of-counter-revolution-in-china/).
 - [Interviews from some of the student leaders.](https://www.youtube.com/watch?v=Vu3zmbFGwQA)
-- [An account from a resident.](https://old.reddit.com/r/AskAChinese/comments/grdaqv/thoughts_on_tiananmen_square_massacre/g45hnv0)
+- [An account from a resident.](https://www.reddit.com/r/AskAChinese/comments/grdaqv/thoughts_on_tiananmen_square_massacre/g45hnv0)
 - [Tiananmen Square "Massacre", A Propaganda Hoax](https://www.youtube.com/watch?v=R6RT_s1T050).
 - [The truth about the Tiananmen square protests](https://www.youtube.com/watch?v=sqPI8xlnrwg)
 
@@ -827,11 +827,11 @@
 ## On Cuba
 
 - [A Cuba and Fidel Megathread.](https://www.reddit.com/r/communism/comments/cfu81s/cuba_and_fidel_castro_megathread/)
-- [Just how socialist was/is Cuba?](http://www.reddit.com/r/communism101/comments/2n372o/just_how_socialist_wasis_cuba/)
-- [Why, in your opinion, have most attempts to form countries based economically on communism and socialism (USSR, Cuba, China) fail?](http://www.reddit.com/r/communism101/comments/1f8obt/honestly_not_trolling_why_in_your_opinion_have/)
-- [In defence of (and questions about) Cuba](http://www.reddit.com/r/communism/comments/x3qtw/in_defence_of_and_questions_about_cuba/)
+- [Just how socialist was/is Cuba?](https://www.reddit.com/r/communism101/comments/2n372o/just_how_socialist_wasis_cuba/)
+- [Why, in your opinion, have most attempts to form countries based economically on communism and socialism (USSR, Cuba, China) fail?](https://www.reddit.com/r/communism101/comments/1f8obt/honestly_not_trolling_why_in_your_opinion_have/)
+- [In defence of (and questions about) Cuba](https://www.reddit.com/r/communism/comments/x3qtw/in_defence_of_and_questions_about_cuba/)
 - [Did the cuban people like Fidel Castro?](https://www.youtube.com/watch?v=P2Obp6YS4SY)
-- [Multiple questions about Cuba](http://www.reddit.com/r/communism101/comments/2pg82b/multiple_questions_about_cuba/)
+- [Multiple questions about Cuba](https://www.reddit.com/r/communism101/comments/2pg82b/multiple_questions_about_cuba/)
 - [Did the US really think Castro was a dictator? Answer: No.](https://www.reddit.com/r/ShitLiberalsSay/comments/87tto3/i_submitted_a_til_about_fidel_castros_hatred_for/dwgpg7d/)
 - [Why did people flee Cuba / Did Cuba have a famine in the 1990s?](https://www.reddit.com/r/DebateCommunism/comments/8yc2ak/if_cuba_is_a_decenthighquality_state_why_werent/e29so7h/)
 - [Did Fidel Castro persecute gay / LGBT people? What about the UMAP prisons?](https://www.reddit.com/r/Anarchy101/comments/8kxgul/what_do_anarchists_think_of_the_castro_regime/dzc2wp8/)
@@ -860,13 +860,13 @@
 - [Are north korean defectors really paid to lie by the south? A short documentary.](https://www.youtube.com/watch?v=ktE_3PrJZO0&feature=youtu.be)
 - [What is everyday life like? A conversation with a North Korean Citizen.](https://cym.ie/2018/05/28/a-conversation-with-a-north-korean-citizen/)
 - [Is the DPRK really a monarchy? How does its political system work?](https://writetorebel.com/2017/03/28/socialism-and-democracy-in-the-dprk/)
-- [Why do some communists support the DPRK?](http://www.reddit.com/r/communism101/comments/1ypwmd/why_do_some_communists_support_the_dprk/)
-- [What exactly is Juche?](http://www.reddit.com/r/communism101/comments/1y172i/what_exactly_is_juche/)
-- [Is the DPRK socialist?](http://www.reddit.com/r/communism101/comments/1ygskq/is_the_dprk_socialist/)
-- [How do elections work in the DPRK?](http://www.reddit.com/r/communism101/comments/1zzeri/how_do_elections_work_in_the_dprk/)
-- [Human rights and the DPRK](http://www.reddit.com/r/communism101/comments/1tb5ho/human_rights_and_the_dprk/)
-- [What evidence is there than DPRK is not engaged in gross violations of human rights?](http://www.reddit.com/r/communism101/comments/2mfq2m/what_evidence_is_there_than_dprk_is_not_engaged/)
-- [Can someone explain Songbun (Caste system) of the DPRK to me?](http://www.reddit.com/r/communism101/comments/2dqtn3/can_someone_explain_songbun_caste_system_of_the/)
+- [Why do some communists support the DPRK?](https://www.reddit.com/r/communism101/comments/1ypwmd/why_do_some_communists_support_the_dprk/)
+- [What exactly is Juche?](https://www.reddit.com/r/communism101/comments/1y172i/what_exactly_is_juche/)
+- [Is the DPRK socialist?](https://www.reddit.com/r/communism101/comments/1ygskq/is_the_dprk_socialist/)
+- [How do elections work in the DPRK?](https://www.reddit.com/r/communism101/comments/1zzeri/how_do_elections_work_in_the_dprk/)
+- [Human rights and the DPRK](https://www.reddit.com/r/communism101/comments/1tb5ho/human_rights_and_the_dprk/)
+- [What evidence is there than DPRK is not engaged in gross violations of human rights?](https://www.reddit.com/r/communism101/comments/2mfq2m/what_evidence_is_there_than_dprk_is_not_engaged/)
+- [Can someone explain Songbun (Caste system) of the DPRK to me?](https://www.reddit.com/r/communism101/comments/2dqtn3/can_someone_explain_songbun_caste_system_of_the/)
 - [What about Otto Warmbier?](https://nypost.com/2017/09/26/coroners-report-for-otto-warmbier-shows-no-signs-of-torture/)[2](https://www.reddit.com/r/communism101/comments/awuok8/with_all_of_the_news_about_north_korea_going/)
 
 ### [Do North Koreans believe in unicorns and think Kim Jong-Un is immortal?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_north_koreans_believe_in_unicorns_and_they_think_kim_jong-un_is_immortal)
@@ -880,7 +880,7 @@
 - [_Korea Resilient! Socialism in Democratic Korea_](http://return2source.wordpress.com/2012/01/17/korea-resilient-socialism-in-democratic-korea/) by Vince Sherman
 - [_How to Think about Socialism in Korea_](https://mltoday.com/article/1302-how-to-think-about-socialism-in-korea/)
 - [_Understanding North Korea_](http://www.globalresearch.ca/understanding-north-korea/3818) by Stephen Gowans
-- [_A Model of Democratic and Participatory Socialist Planning_](http://www.reddit.com/r/communism/comments/2kwid3/a_model_of_democratic_and_participatory_socialist/) by MasCapital
+- [_A Model of Democratic and Participatory Socialist Planning_](https://www.reddit.com/r/communism/comments/2kwid3/a_model_of_democratic_and_participatory_socialist/) by MasCapital
 - [_Constitution of the DPRK_](http://www.kfausa.org/dprk-constitution/)
 - [_Socialist Korea: A Case Study in the Strategy of Economic Development_](http://gen.lib.rus.ec/book/index.php?md5=6b0447bc14808161362b828aee0a284a) by Brun and Hersch
 - [_Interview: Understanding and Defending North Korea_](http://www.invent-the-future.org/2013/11/understanding-north-korea/)
@@ -889,7 +889,7 @@
 
 ### Further reading
 
-- [Essential readings on the Juche idea and the Korean revolution](http://www.reddit.com/r/communism101/comments/2pil0z/what_are_some_essential_readings_on_the_juche_idea/)
+- [Essential readings on the Juche idea and the Korean revolution](https://www.reddit.com/r/communism101/comments/2pil0z/what_are_some_essential_readings_on_the_juche_idea/)
 - [E-Library on the DPRK](http://www.korea-dpr.com/e_library.html)
 
 ## On Venezuela
@@ -1313,7 +1313,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 
 ### Others
 
-- [What's so bad about Winston Churchill?](http://www.reddit.com/r/ShitLiberalsSay/comments/80sxhj/-/duy08zm) , [2](https://crimesofbritain.com/2016/09/13/the-trial-of-winston-churchill/), [3](https://www.rbth.com/blogs/2013/06/13/operation_unthinkable_churchills_plan_to_start_world_war_iii_26091)
+- [What's so bad about Winston Churchill?](https://www.reddit.com/r/ShitLiberalsSay/comments/80sxhj/-/duy08zm) , [2](https://crimesofbritain.com/2016/09/13/the-trial-of-winston-churchill/), [3](https://www.rbth.com/blogs/2013/06/13/operation_unthinkable_churchills_plan_to_start_world_war_iii_26091)
 - [What about Jordan Peterson?](https://www.reddit.com/r/Socialism_101/comments/85cuay/thoughts_on_jordan_petersons_criticism_of_marxism/dvwnd25/)
 - [Is Christianity / the Bible Communist?](https://www.reddit.com/r/LateStageCapitalism/comments/9b7gsw/joel_osteen/e515qdb/)
 - [Was Mark Twain a socialist?](https://socialistworker.org/2010/04/21/the-twain-they-didnt-teach)
@@ -1407,7 +1407,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Trolling threads on /r/communism, and banning pro-China posters. Banned one person for pointing out their discord stickied Obama's anti-China docu and said it was "required watching"](https://www.reddit.com/r/communism/comments/fgdjpc/does_going_against_western_propaganda_ever_make/fk47f81/)
 - Had a "no-dengism" rule on their official subreddit sidebar for over a year.
 - [Banned me for supporting Stalin.](https://i.imgur.com/gBzROhU.png, https://www.reddit.com/r/MoreTankieChapo/comments/fdfyr8/why_is_this_liberal_allowed_to_be_a_mod_thought/)
-- [Purging their sub off any pro-CPC posters](https://www.reddit.com/r/MoreTankieChapo/comments/gyx1nv/reminder_about_rules_1_and_7/) After a community backlash, they removed the anti dengism rule and one of the mods, [but still continued bans on pro China posters.](https://reddit.com/r/sendinthetanks/comments/gzdmyw/welcome_to_the_newly_banned/ftg1l30)
+- [Purging their sub off any pro-CPC posters](https://www.reddit.com/r/MoreTankieChapo/comments/gyx1nv/reminder_about_rules_1_and_7/) After a community backlash, they removed the anti dengism rule and one of the mods, [but still continued bans on pro China posters.](https://www.reddit.com/r/sendinthetanks/comments/gzdmyw/welcome_to_the_newly_banned/ftg1l30)
 - [Quick TLDR](https://www.reddit.com/r/sendinthetanks/comments/gzjn3i/what_is_happening_in_rmoretankiechapo/).
 
 ### Amnesty International
@@ -1459,7 +1459,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Blackredguard](https://twitter.com/BlackRedGuard1/status/1383849476863844359?s=20)
 - [A response to David Harvey's theories of Imperialism by John Smith.](https://urpe.wordpress.com/2018/01/11/a-critique-of-david-harvey-on-imperialism/)
 - [Is signal secure? Yasha Levine](https://yasha.substack.com/p/signal-is-a-government-op-85e)
-- Belarus: [1](https://np.reddit.com/r/EuropeanSocialists/comments/i8cf4z/nazi_roots_of_symbols_of_the_belarusian_opposition/), [2](https://thegrayzone.com/2021/05/26/belarus-roman-protasevich-plane-nazis-ukraine/), [3](https://www.rt.com/russia/525032-protasevich-arrest-neo-nazi-links/). https://cprf.ru/2022/05/in-ukraine-russia-is-fighting-neo-nazism/
+- Belarus: [1](https://www.reddit.com/r/EuropeanSocialists/comments/i8cf4z/nazi_roots_of_symbols_of_the_belarusian_opposition/), [2](https://thegrayzone.com/2021/05/26/belarus-roman-protasevich-plane-nazis-ukraine/), [3](https://www.rt.com/russia/525032-protasevich-arrest-neo-nazi-links/). https://cprf.ru/2022/05/in-ukraine-russia-is-fighting-neo-nazism/
 - [The Fort Dietrich virus](https://twitter.com/ProPeace97/status/1420657562618318850)
 - [Cory booker](https://twitter.com/Remroum/status/1425296761820786688?s=20)
 - [Aleksandr I. Solzhenitsyn and the Gulag Archipelago](https://www.reddit.com/r/GenZhou/comments/pd01t7/how_reliable_is_this_anticommunist_defense_of/hamp4mz/)
