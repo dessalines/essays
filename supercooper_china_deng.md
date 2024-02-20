@@ -98,7 +98,7 @@ Some have also suggested that China's socialist character can be demonstrated th
 
 I have just one last thing to say on this point, a sure-fire way of telling that China isn't a capitalist economy is to observe the variance in their growth, or rather the lack thereof. That is, their economic performance is almost completely consistent and they do not experience boom and bust cycles, which are typical for free markets. This also means that China was relatively unaffected by the Global Financial Crisis, which by comparison hit the western world hard.
 
-[https://www.youtube.com/watch?v=PqUNd82pYCI](https://www.youtube.com/watch?v=PqUNd82pYCI&t=260s)
+[https://youtube.com/watch?v=PqUNd82pYCI](https://youtube.com/watch?v=PqUNd82pYCI&t=260s)
 
 [https://twitter.com/hancocktom/status/1087236461890482176](https://twitter.com/hancocktom/status/1087236461890482176)
 
@@ -134,7 +134,7 @@ As for your final point, that the success of Deng's market reforms is a testamen
 
 In Vietnam, the "Doi Moi" market reforms began in 1986, but their economy didn't start booming until the US lifted their sanctions in 1994. It's a similar story in Cuba, where the economy experienced a small boom after Obama partially lifted US sanctions, and in North Korea, who were actually more developed than South Korea until their trade relations broke down in the 1980s.
 
-[https://www.youtube.com/watch?v=pRm7Wfzy-dY](https://www.youtube.com/watch?v=pRm7Wfzy-dY)
+[https://youtube.com/watch?v=pRm7Wfzy-dY](https://youtube.com/watch?v=pRm7Wfzy-dY)
 
 This also means it is incorrect to attribute stagnation in Maoist China to deficiencies in the centrally planned economy (the Great Leap Forward and the Cultural Revolution actually decentralized both the economy and the political system), especially considering the staggering economic growth of Soviet industrialization which literally happened during the Great Depression.
 
@@ -160,7 +160,7 @@ Finally, in addition to China not being a free market capitalist economy (as I'v
 
 This draws a lot of parallels with the contentions of Ha-Joon Chang, particularly the part about government-organized systems being the most effective at overcoming poverty for developing nations. There are plenty of examples other than China to back this up as well, such as South Korea, who despite often being considered a bastion of free market capitalism did not progress significantly until the state took over the heavy industry sector and adopted Five-Year Plans. Similarly, we saw with the previous example of Vietnam that they were only able to develop heavy industry and all the benefits that came with it due to the non-capitalist features of their state-owned enterprises, hence their ascendancy would not have been possible with a free market. Indeed, this fact can also be displayed through the sheer uniqueness of China's expansion, which is literally unprecedented in modern history as Richard Woolf mentioned. In fact, between 1988 and 2008, absolute levels of poverty increased in every region of the world except China, where poverty decreases were so huge (400 million people) that they singlehandedly reversed the entire global trend. This is why it's so disingenuous of libertarians when they point to poverty reduction statistics as a testament to the free market, ignoring that almost 90% of those alleviated people come from China and Vietnam alone while capitalist countries (rich and poor alike) have remained stagnant by comparison.
 
-[https://www.youtube.com/watch?v=YRWt85Xq_OU](https://www.youtube.com/watch?v=YRWt85Xq_OU)
+[https://youtube.com/watch?v=YRWt85Xq_OU](https://youtube.com/watch?v=YRWt85Xq_OU)
 
 The point I'm trying to make here is that capitalism has proven unable to repeat the successes of these socialist countries, and what better way to demonstrate that than by comparing China with its equally large capitalist neighbor India, let's see what Martin Jacques has to say.
 
@@ -206,11 +206,11 @@ Additionally, although liberals often speculate that China's remarkable growth c
 
 [https://www.invent-the-future.org/2018/05/why-doesnt-the-soviet-union-exist-any-more-part-8-will-the-peoples-republic-of-china-go-the-way-of-the-ussr/](https://www.invent-the-future.org/2018/05/why-doesnt-the-soviet-union-exist-any-more-part-8-will-the-peoples-republic-of-china-go-the-way-of-the-ussr/)
 
-[https://www.youtube.com/watch?v=wYFZnLSm9z0](https://www.youtube.com/watch?v=wYFZnLSm9z0)
+[https://youtube.com/watch?v=wYFZnLSm9z0](https://youtube.com/watch?v=wYFZnLSm9z0)
 
 [https://medium.com/@wolf.aldrich/three-questions-about-china-and-the-communist-party-of-china-7056e40b40f3](https://medium.com/@wolf.aldrich/three-questions-about-china-and-the-communist-party-of-china-7056e40b40f3)
 
-[https://www.youtube.com/watch?v=0Bzbi-M-AF8](https://www.youtube.com/watch?v=0Bzbi-M-AF8)
+[https://youtube.com/watch?v=0Bzbi-M-AF8](https://youtube.com/watch?v=0Bzbi-M-AF8)
 
 [https://www.reddit.com/r/communism/comments/a6zs4m/socialist_vietnam_now_ranks_no1_in_the_world_for/ebzefqn?utm_source=share&utm_medium=web2x](https://www.reddit.com/r/communism/comments/a6zs4m/socialist_vietnam_now_ranks_no1_in_the_world_for/ebzefqn?utm_source=share&utm_medium=web2x)
 
@@ -222,6 +222,6 @@ Additionally, although liberals often speculate that China's remarkable growth c
 
 [https://monthlyreview.org/commentary/did-mao-really-kill-millions-in-the-great-leap-forward/](https://monthlyreview.org/commentary/did-mao-really-kill-millions-in-the-great-leap-forward/)
 
-[https://www.youtube.com/watch?v=dvCVe-zY5NA](https://www.youtube.com/watch?v=dvCVe-zY5NA)
+[https://youtube.com/watch?v=dvCVe-zY5NA](https://youtube.com/watch?v=dvCVe-zY5NA)
 
 [https://medium.com/@otelocarvalho/socialism-today-in-vietnam-ac22ce2edf47](https://medium.com/@otelocarvalho/socialism-today-in-vietnam-ac22ce2edf47)

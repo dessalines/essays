@@ -1,6 +1,6 @@
 # Paul Cockshott - Cyber-Communism
 
-Taken from his book, [Towards a New Socialism](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/), [audiobook here](https://www.youtube.com/watch?v=yjHCPWs5sl4&list=PL0-IkmzWbjoZNiItBbuVvKQBdE80tsyhx), and specifically his youtube lectures [Going beyond Money](https://www.youtube.com/watch?v=cI01-5zhwdA), and [Getting down to details](https://www.youtube.com/watch?v=kTl4b0w6mpk).
+Taken from his book, [Towards a New Socialism](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/), [audiobook here](https://youtube.com/watch?v=yjHCPWs5sl4&list=PL0-IkmzWbjoZNiItBbuVvKQBdE80tsyhx), and specifically his youtube lectures [Going beyond Money](https://youtube.com/watch?v=cI01-5zhwdA), and [Getting down to details](https://youtube.com/watch?v=kTl4b0w6mpk).
 
 ## How it works
 

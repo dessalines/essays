@@ -3,7 +3,7 @@
 ## Learning the language
 
 - [jan Lentan's lessons](https://devurandom.xyz/tokipona/). By far the best guide for learning the language.
-- [jan Misali's 12 days of toki pona](https://www.youtube.com/watch?v=4L-dvvng4Zc). Not as good as jan Lentan's lessons, but serves as a speedy introduction to the vocab.
+- [jan Misali's 12 days of toki pona](https://youtube.com/watch?v=4L-dvvng4Zc). Not as good as jan Lentan's lessons, but serves as a speedy introduction to the vocab.
 
 ## Vocabulary
 
@@ -15,7 +15,7 @@
 
 ## Listening / Fluency
 
-- [Youtube channel - ma pi toki pona](https://www.youtube.com/channel/UCQTppoxw6lJTtvr9ZRIjmgg) . Has lots of fluent speakers having conversations about different topics.
+- [Youtube channel - ma pi toki pona](https://youtube.com/channel/UCQTppoxw6lJTtvr9ZRIjmgg) . Has lots of fluent speakers having conversations about different topics.
 
 ## Other resources
 

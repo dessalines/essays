@@ -14,11 +14,11 @@
 
 ## To Watch
 
-- https://youtu.be/dpQ3IMd4AMg?list=PLwFUKjRMEUxw2IRsDA8GZGW1AZdgCoiAA
-- https://youtu.be/q2hrlAGewvY
-- https://youtu.be/Ng3UC894haQ
-- https://youtu.be/qrXIeWGvHDg?list=PLrYgra2FrMh-fQrd59Gdqn9Jq9ZLTqfJc
-- https://youtu.be/mfBwNIjMbss?list=PL7VdqFXO0Lzdu2U1q-_vZxcuWyqJEitZV
+- https://youtube.com/watch?v=dpQ3IMd4AMg?list=PLwFUKjRMEUxw2IRsDA8GZGW1AZdgCoiAA
+- https://youtube.com/watch?v=q2hrlAGewvY
+- https://youtube.com/watch?v=Ng3UC894haQ
+- https://youtube.com/watch?v=qrXIeWGvHDg?list=PLrYgra2FrMh-fQrd59Gdqn9Jq9ZLTqfJc
+- https://youtube.com/watch?v=mfBwNIjMbss?list=PL7VdqFXO0Lzdu2U1q-_vZxcuWyqJEitZV
 
 ## Immersion resources
 
@@ -34,11 +34,11 @@
 
 ## Listening / Watching
 
-- [HIT Chinese (comprehensible input)](https://www.youtube.com/channel/UCv33mxPEDfd_Ee1pz1y8KLw)
-- [Unconventional Chinese with Keren](https://www.youtube.com/channel/UCxqLWT3swHvP9_4bv7Qssxw)
-- [Slow and clear Chinese](https://www.youtube.com/channel/UCdwdSGQsSbcapDmODtOr58g)
-- [Shuo Shuo Chinese](https://www.youtube.com/channel/UC_Aiv9xguPQxZ6msnNoz3HQ)
-- [Xue Bai Lessons](https://www.youtube.com/channel/UCpuAQiIlxFe0FlR2gXXLUKA) (Comprehensive, but not liking so far)
+- [HIT Chinese (comprehensible input)](https://youtube.com/channel/UCv33mxPEDfd_Ee1pz1y8KLw)
+- [Unconventional Chinese with Keren](https://youtube.com/channel/UCxqLWT3swHvP9_4bv7Qssxw)
+- [Slow and clear Chinese](https://youtube.com/channel/UCdwdSGQsSbcapDmODtOr58g)
+- [Shuo Shuo Chinese](https://youtube.com/channel/UC_Aiv9xguPQxZ6msnNoz3HQ)
+- [Xue Bai Lessons](https://youtube.com/channel/UCpuAQiIlxFe0FlR2gXXLUKA) (Comprehensive, but not liking so far)
 
 ## Reading
 
@@ -47,7 +47,7 @@
 ## Content
 
 - [CCTV live channels](https://tv.cctv.com/live/)
-- [Some Dramas](https://www.youtube.com/user/chinaonetv)
+- [Some Dramas](https://youtube.com/user/chinaonetv)
 
 ## Vocab
 

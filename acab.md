@@ -30,7 +30,7 @@ Oh, and for anyone wondering what the alternative is, here are some things domes
 
 - Actually solved murders, rapes, and thefts against working class people.
 - Were fully accountable for offenses (although these were rare since there was no for-profit abduction system as exists in Capitalism).
-- Enforced traffic guidelines in cities, first with suggestions, then with minimal to no fines. See this episode of [How Yukong moved the mountains](https://youtu.be/5m6qbrWTj7Y?t=1456) to get an idea of the demeanor of some police in China during the cultural revolution for example.
+- Enforced traffic guidelines in cities, first with suggestions, then with minimal to no fines. See this episode of [How Yukong moved the mountains](https://youtube.com/watch?v=5m6qbrWTj7Y?t=1456) to get an idea of the demeanor of some police in China during the cultural revolution for example.
 - Arrested Capitalists, not empowered them.
 - Worker strikes, when they happened, were left alone.
 - Had minimal crime rates, since homelessness and joblessness were low.

@@ -63,7 +63,7 @@ For example, a Copper mine owner neither physically mines the copper, and (livin
 
 A 1983 report by England national income and expenditures found that on average, **26 minutes of every hour worked** (or 43% of labor value added) by English workers across a wide range of industries went to various exploiting or unproductive groups, with workers receiving only _57% of their pre-tax productive output as wages_<sup>[1](https://users.wfu.edu/cottrell/socialism_book/)</sup>. In other words, at least **40% of the work you do every day is stolen by Capitalists.**
 
-Capitalists use the surplus to [push out competitors](https://en.wikipedia.org/wiki/Anti-competitive_practices) and gain market share, leading to the destruction of most small businesses, with [just a few companies](http://imgur.com/a/xgnEp) controlling our food, media, [news](https://www.youtube.com/watch?v=x6U2Un5kEdI), energy, transportation, and finances.
+Capitalists use the surplus to [push out competitors](https://en.wikipedia.org/wiki/Anti-competitive_practices) and gain market share, leading to the destruction of most small businesses, with [just a few companies](http://imgur.com/a/xgnEp) controlling our food, media, [news](https://youtube.com/watch?v=x6U2Un5kEdI), energy, transportation, and finances.
 
 In the table below, both capital and surplus value are controlled by a company's owners, who usually appoint a board of directors. This owning class (called Capitalists, or the [Bourgeoisie](https://en.wikipedia.org/wiki/Bourgeoisie)) make up a **tiny minority** of the population.
 
@@ -120,11 +120,11 @@ In the table below, both capital and surplus value are controlled by a company's
 </table>
 <p> </p>
 
-[Wage workers](https://www.youtube.com/watch?v=oztdRo9GLLk) are **completely dependent** on selling their labor power to those in control of production in order to gain access to the necessities of life (money for food, shelter, clothing, etc). Its similarities to chattel slavery has lead many to term wage work as [wage slavery](https://en.wikipedia.org/wiki/Wage_slavery), with voluntary employment being simply a false choice between **one exploiter or another**.
+[Wage workers](https://youtube.com/watch?v=oztdRo9GLLk) are **completely dependent** on selling their labor power to those in control of production in order to gain access to the necessities of life (money for food, shelter, clothing, etc). Its similarities to chattel slavery has lead many to term wage work as [wage slavery](https://en.wikipedia.org/wiki/Wage_slavery), with voluntary employment being simply a false choice between **one exploiter or another**.
 
 Technological advancements, instead of benefiting workers, result in decreased or stagnant wages, worsening bargaining power, or **mass layoffs**. For example, a machine that replaces 10 workers _leads to their firing_, resulting in a benefit for the machine owner, and an economic hardship to the fired workers.
 
-Socialist states may choose to accumulate a surplus (to pay for things like health care, research and development, and defense), but [this surplus is socialist-owned and controlled](https://youtu.be/C-T-Fr6DvFw). Rather than benefitting a minority of capitalists, [it goes to benefit workers.](https://www.globalresearch.ca/left-anticommunism-the-unkindest-cut/5502859)
+Socialist states may choose to accumulate a surplus (to pay for things like health care, research and development, and defense), but [this surplus is socialist-owned and controlled](https://youtube.com/watch?v=C-T-Fr6DvFw). Rather than benefitting a minority of capitalists, [it goes to benefit workers.](https://www.globalresearch.ca/left-anticommunism-the-unkindest-cut/5502859)
 
 **Increase in profits due primarily to automation**
 
@@ -158,15 +158,15 @@ The labor theory was commonly accepted in the 19th century ( especially by Smith
 
 Coming down to reality from idealist and subjective experience, value, like any other scientific concept, such as energy, **is preserved** in a closed system.
 
-The labor theory of value [has been proven empirically correct in recent decades](https://www.youtube.com/watch?v=emnYMfjYh1Q), by comparing the amount of labor required in given industries, and the money output of those industries. For nearly every country with sufficient economic data, **the correlation is > 95%**.
+The labor theory of value [has been proven empirically correct in recent decades](https://youtube.com/watch?v=emnYMfjYh1Q), by comparing the amount of labor required in given industries, and the money output of those industries. For nearly every country with sufficient economic data, **the correlation is > 95%**.
 
-Under capitalism, [the subjective theory of value](https://en.wikipedia.org/wiki/Subjective_theory_of_value) is based almost entirely on the [supply and demand curve model which is unscientific](https://www.youtube.com/watch?v=fmbm3u2r_Cs), [2](https://www.youtube.com/watch?v=SKGYzhoYK2I) since it presupposes more unknowns than knowns, and as such is useless at making any predictions. Capitalist value theories are based around [utility](https://en.wikipedia.org/wiki/Utility), IE joy, which isn't quantifiable, measurable, comparable, or falsifiable, and as such is _useless_ as a scientific concept. Its greatest use is to allow the mega-rich to justify owning [thousands of lifetimes](https://www.reddit.com/r/socialism/comments/4wxdnb/how_many_lifetimes_of_labor_has_bill_gates_stolen/?ref=search_posts) of stolen labor.
+Under capitalism, [the subjective theory of value](https://en.wikipedia.org/wiki/Subjective_theory_of_value) is based almost entirely on the [supply and demand curve model which is unscientific](https://youtube.com/watch?v=fmbm3u2r_Cs), [2](https://youtube.com/watch?v=SKGYzhoYK2I) since it presupposes more unknowns than knowns, and as such is useless at making any predictions. Capitalist value theories are based around [utility](https://en.wikipedia.org/wiki/Utility), IE joy, which isn't quantifiable, measurable, comparable, or falsifiable, and as such is _useless_ as a scientific concept. Its greatest use is to allow the mega-rich to justify owning [thousands of lifetimes](https://www.reddit.com/r/socialism/comments/4wxdnb/how_many_lifetimes_of_labor_has_bill_gates_stolen/?ref=search_posts) of stolen labor.
 
 Most capitalist economists treat value like magic fairy dust: it can be created and destroyed with a mere thought. [Many modern economists and economics professors serve a role akin to the priests during feudalism](https://truthout.org/articles/economic-theorists-the-high-priests-of-capitalism/): treating value and rewards in idealist terms, rather than as scientific concepts, justifying capitalism's immense inequality ( whilst often getting paid to promote it ), and demonizing other theories ( such as LTV ) as heresy.
 
 [The planned economies](capitalism_doesnt_work.md) such as that of the USSR, while imperfect, often provided [better social outcomes](https://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/) than its Western equivalents. Its publicly owned, planned economy brought it from feudalism to a world superpower, with the [fastest growing economy of the 20th century](https://artir.files.wordpress.com/2016/03/captura-de-pantalla-de-2016-05-26-10-15-23.png), despite starting out at the same level of economic development as Brazil in 1920.
 
-This video by [Paul Cockshott - Going beyond Money](https://www.youtube.com/watch?v=cI01-5zhwdA), illustrates how it is currently possible to go beyond money, and to build a democratically planned, labor-time based economy **for human needs, rather than private profit.**
+This video by [Paul Cockshott - Going beyond Money](https://youtube.com/watch?v=cI01-5zhwdA), illustrates how it is currently possible to go beyond money, and to build a democratically planned, labor-time based economy **for human needs, rather than private profit.**
 
 ## Risk
 
@@ -186,9 +186,9 @@ The socialist argument is not that individual passive investors should still bea
 
 Socialists view democracy under capitalism to be impossible. Most current-day systems are better labeled as [Bourgeois Democracy](https://en.wikipedia.org/wiki/Democracy_in_Marxism), or democracy for the rich **only**, which socialists contrast with proletarian democracy. Under capitalism, political parties, representatives, infrastructure, and the media **are controlled by capitalists**, who place restrictions on the choices given to workers, limit their representative options to vetted capitalist puppets, and limit the [scope of public debate](https://en.wikipedia.org/wiki/Overton_window) to pro-capitalist views.
 
-[Bourgeois democracies](https://en.wikipedia.org/wiki/Liberal_democracy#Dictatorship_of_the_bourgeoisie) are in reality [Capitalist Dictatorships](https://i.imgur.com/8vDYw17.jpg), resulting in legislation favorable to the wealthy, regardless of the population's actual preferences. [The Princeton Study, conducted in the US in 2014](https://www.youtube.com/watch?v=5tu32CCA_Ig), found that the preferences of the average US citizen exert a near-zero influence on legislation, making the US system of elections and campaigning little more than political theater. **Multi-party, Parliamentary / representative democracy has proven to be the safest shell for capitalist rule**, regardless of voting methods or differing political structures, for countries as diverse as Australia, Japan, Sweden, the UK, the US, South Korea, or Brazil.
+[Bourgeois democracies](https://en.wikipedia.org/wiki/Liberal_democracy#Dictatorship_of_the_bourgeoisie) are in reality [Capitalist Dictatorships](https://i.imgur.com/8vDYw17.jpg), resulting in legislation favorable to the wealthy, regardless of the population's actual preferences. [The Princeton Study, conducted in the US in 2014](https://youtube.com/watch?v=5tu32CCA_Ig), found that the preferences of the average US citizen exert a near-zero influence on legislation, making the US system of elections and campaigning little more than political theater. **Multi-party, Parliamentary / representative democracy has proven to be the safest shell for capitalist rule**, regardless of voting methods or differing political structures, for countries as diverse as Australia, Japan, Sweden, the UK, the US, South Korea, or Brazil.
 
-Ancient Greek philosophers like Plato and Aristotle more accurately defined Democracy as [rule by the poor](https://www.youtube.com/watch?v=bHN0foV4Ntk), and they considered states based on elections to be anti-democratic Aristocracies, since only the wealthy and ruling families have the resources to finance elections. They contrasted this with [random selection / sortition](https://en.wikipedia.org/wiki/Sortition), and citizen's assemblies, as being the defining features of democracy, both of which are non-existent in the countries listed above. Today, liberal / parliamentary "democracies" are [dominated by wealthy candidates, and entrenched political families](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answers/81676052?share=0ac8c628&srid=JMzz), with Capitalists standing **above** political power.
+Ancient Greek philosophers like Plato and Aristotle more accurately defined Democracy as [rule by the poor](https://youtube.com/watch?v=bHN0foV4Ntk), and they considered states based on elections to be anti-democratic Aristocracies, since only the wealthy and ruling families have the resources to finance elections. They contrasted this with [random selection / sortition](https://en.wikipedia.org/wiki/Sortition), and citizen's assemblies, as being the defining features of democracy, both of which are non-existent in the countries listed above. Today, liberal / parliamentary "democracies" are [dominated by wealthy candidates, and entrenched political families](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answers/81676052?share=0ac8c628&srid=JMzz), with Capitalists standing **above** political power.
 
 This system of sham elections acts as a distracting theatre piece, giving the illusion of democracy, whilst in reality it serves to platform capitalist views, make them appear more popular than they are, and manufacture consent for the system itself.
 
@@ -201,7 +201,7 @@ Communists propose building alternatives alongside of bourgeois democracy, with 
 - Replacement of bourgeois parliamentary bodies with broadly inclusive workers organizations, such as unions, councils, or syndicates.
 - Seizing land, productive facilities, and housing and putting them under democratic control.
 - Elimination of all debts, suppression of all private banks and stock markets.
-- Direct democracy in as many decisions as possible, often called [cyber communism](https://www.youtube.com/watch?v=cI01-5zhwdA).
+- Direct democracy in as many decisions as possible, often called [cyber communism](https://youtube.com/watch?v=cI01-5zhwdA).
 - A democratically planned economy for human needs, with open participation.
 - Low-level workplace democracy.
 - Elimination of the standing army, and the substitution for it of armed workers.
@@ -224,7 +224,7 @@ The extra, unemployed workers make up a [reserve army of labor](https://en.wikip
 
 Since workers have less money to survive, there is a [tendency for the rate of profit to fall](https://en.wikipedia.org/wiki/Tendency_of_the_rate_of_profit_to_fall), and capitalists fight and wage wars over the decreasing surplus. [Late stage capitalism](https://www.reddit.com/r/LateStageCapitalism/top/) refers to the extreme polarization of the two classes, the increasingly absurd and cruel ways our society copes and justifies such stark inequality, and the horrible things capitalism forces people to do to survive.
 
-As the supply of labor outstrips the demand, it becomes cheaper to employ workers rather than to sink startup costs into innovative technology. Soon, **the technological growth rate grinds to a halt** ([as of 2018 technological growth in Europe has slowed to ~1-2% per year](https://www.youtube.com/watch?v=kTl4b0w6mpk)), just as in ancient Rome, inexpensive slave labor lead to stagnant technological progress.
+As the supply of labor outstrips the demand, it becomes cheaper to employ workers rather than to sink startup costs into innovative technology. Soon, **the technological growth rate grinds to a halt** ([as of 2018 technological growth in Europe has slowed to ~1-2% per year](https://youtube.com/watch?v=kTl4b0w6mpk)), just as in ancient Rome, inexpensive slave labor lead to stagnant technological progress.
 
 In actuality, **capitalism is highly unstable**, made up of a series of crises, economic bubbles, booms, and eventual busts, termed [business cycles](https://en.wikipedia.org/wiki/Business_cycle), that occur every few years with varying intensity, but with most of the resulting burden shifted to workers. The capitalist state often intervenes to prop up failing businesses, and bail out members of its own class.
 
@@ -242,7 +242,7 @@ Many of the largest corporations in the US, [openly bankroll police departments]
 
 ## The State, and Revolution
 
-Private ownership of the means of production was established through force and [private tyranny](https://www.youtube.com/watch?v=FVt7U2YIgZs), and is only upheld through force. The state is a **special organization of force used for the suppression of one class by another** which (in capitalist society) exercises a monopoly on violence to forcibly maintain the right to private property. The modern state developed alongside the emergent capitalist system as the bourgeoisie seized political and economic control. It arises from the irreconcilable class antagonisms that exist in society.
+Private ownership of the means of production was established through force and [private tyranny](https://youtube.com/watch?v=FVt7U2YIgZs), and is only upheld through force. The state is a **special organization of force used for the suppression of one class by another** which (in capitalist society) exercises a monopoly on violence to forcibly maintain the right to private property. The modern state developed alongside the emergent capitalist system as the bourgeoisie seized political and economic control. It arises from the irreconcilable class antagonisms that exist in society.
 
 The State, under capitalist society, which protects private property and upholds the capitalist mode of production, is an instrument wielded by the bourgeoisie to _suppress the proletariat_. **So long as there are classes in society, a State (or any organization that uses force in the interests of a class) must exist.**
 
@@ -252,7 +252,7 @@ Socialism as an economic system is distinct from [neoliberalism](https://en.wiki
 
 ## The Communist Legacy
 
-Some Marxists say the regimes typically called socialist are more correctly defined as [State Capitalist](https://en.wikipedia.org/wiki/State_capitalism), since production was controlled by state bureaucracies who also distributed the surplus, rather than through the democratic input of workers. Other Marxists call them _siege socialist_, contrasting it with _pure socialism_, stating that siege socialism is a natural reaction to the external pressures of capitalist encirclement, and that _pure socialism_ is an ideal which is [ahistorical and nonfalsifiable.](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/) The US for example, has been involved in [militarily crushing nearly every socialist attempt](us_atrocities.md) for the last 80 years, and installing right-wing fascist dictatorships (friendly to US interests) in their place. Needless to say, **capitalist encirclement has a profoundly distorting affect** on the building of socialism; very few attempts have survived US interventionism. [This talk](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be) by Micheal Parenti is a good reflection on the soviet experiment.
+Some Marxists say the regimes typically called socialist are more correctly defined as [State Capitalist](https://en.wikipedia.org/wiki/State_capitalism), since production was controlled by state bureaucracies who also distributed the surplus, rather than through the democratic input of workers. Other Marxists call them _siege socialist_, contrasting it with _pure socialism_, stating that siege socialism is a natural reaction to the external pressures of capitalist encirclement, and that _pure socialism_ is an ideal which is [ahistorical and nonfalsifiable.](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/) The US for example, has been involved in [militarily crushing nearly every socialist attempt](us_atrocities.md) for the last 80 years, and installing right-wing fascist dictatorships (friendly to US interests) in their place. Needless to say, **capitalist encirclement has a profoundly distorting affect** on the building of socialism; very few attempts have survived US interventionism. [This talk](https://youtube.com/watch?v=z7WmYEoNtPY) by Micheal Parenti is a good reflection on the soviet experiment.
 
 The early stages of the [1917 Russian Revolution](https://en.wikipedia.org/wiki/October_Revolution) were far more progressive than is typically portrayed; Divorce was legalized, **Homosexuality was decriminalized**, land was distributed to the peasantry, banks were nationalized, control of factories was given to worker's councils, **the workday was shortened**, wages were fixed at a higher rate, all elected officials could now be immediately recalled; it created mass literacy drives, free nurseries, communal kitchens, and laundries. 14 Western nations (including the US) [sent troops to Russia](https://en.wikipedia.org/wiki/Allied_intervention_in_the_Russian_Civil_War) to fight against the gains of the revolution.
 
@@ -270,7 +270,7 @@ Even if we were to fully accept the Western propaganda that socialist regimes ha
 
 Communism is the highest developed stage of socialism wherein there is no state, no money, no class system. The means of production are owned by all and provide for everyone's needs. There are also presumably high levels of automation so [most do not have to work](http://imgur.com/yQpzb).
 
-Many socialists point to [directly democratic](https://en.wikipedia.org/wiki/Direct_democracy) [worker’s councils](https://en.wikipedia.org/wiki/Workers'_council) as an ideal way to organize production, with [gift economies](https://en.wikipedia.org/wiki/Gift_economy) for abundant goods, and [labor voucher](https://en.wikipedia.org/wiki/Labour_voucher) economies for scarce/luxury goods. Here is an example of a [moneyless, Cyber-Communist system](paul_cockshott_cyber_communism.md), [video](https://www.youtube.com/watch?v=cI01-5zhwdA).
+Many socialists point to [directly democratic](https://en.wikipedia.org/wiki/Direct_democracy) [worker’s councils](https://en.wikipedia.org/wiki/Workers'_council) as an ideal way to organize production, with [gift economies](https://en.wikipedia.org/wiki/Gift_economy) for abundant goods, and [labor voucher](https://en.wikipedia.org/wiki/Labour_voucher) economies for scarce/luxury goods. Here is an example of a [moneyless, Cyber-Communist system](paul_cockshott_cyber_communism.md), [video](https://youtube.com/watch?v=cI01-5zhwdA).
 
 Past and present socialist societies include - The [Paris Commune](https://en.wikipedia.org/wiki/Paris_commune), [Socialist Federal Republic of Yugoslavia](https://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia), [USSR](https://en.wikipedia.org/wiki/Soviet_Union), [People's Republic of China](https://en.wikipedia.org/wiki/People%27s_Republic_of_China), [Socialist Republic of Vietnam](https://en.wikipedia.org/wiki/Vietnam), [Laos](https://en.wikipedia.org/wiki/Laos), [Belarussian SSR](https://en.wikipedia.org/wiki/Byelorussian_Soviet_Socialist_Republic), [Peoples socialist republic of Albania](https://en.wikipedia.org/wiki/People%27s_Socialist_Republic_of_Albania), [Peoples republic of Bulgaria](https://en.wikipedia.org/wiki/People%27s_Republic_of_Bulgaria), the [GDR](https://en.wikipedia.org/wiki/German_Democratic_Republic), [Hungary](https://en.wikipedia.org/wiki/Hungarian_People%27s_Republic), the [Democratic people's republic of Korea](https://en.wikipedia.org/wiki/Democratic_People%27s_Republic_of_Korea), [Mongolian people's republic](https://en.wikipedia.org/wiki/Mongolian_People%27s_Republic), and [Cuba](https://en.wikipedia.org/wiki/Cuba).
 
@@ -287,22 +287,22 @@ Past and present socialist societies include - The [Paris Commune](https://en.wi
 
 ## Videos
 
-- [Introduction to Marxism by Professor Richard D. Wolff](https://www.youtube.com/watch?v=T9Whccunka4)
-- [Socialism for Dummies by Professor Richard D. Wolff](https://www.youtube.com/watch?v=ysZC0JOYYWw)
-- [Michael Parenti - Reflections on the overthrow of the Soviet Union](https://www.youtube.com/watch?v=z7WmYEoNtPY)
-- [Paul Cockshott - Going beyond Money (how cyber communism can work)](https://www.youtube.com/watch?v=cI01-5zhwdA)
-- [Michael Parenti on US imperialism, and the overthrow of Yugoslavia](https://www.youtube.com/watch?v=ApaMIJiOt-c)
-- [Michael Parenti on anti-sovietism in the US media](https://www.youtube.com/watch?v=FUWrgLpazwE)
-- [Michael Parenti on Imperialism and Film - Rambo and the Swarthy Hordes](https://www.youtube.com/watch?v=S33DKRcqvkQ)
-- [Karl Marx and Marxism - BBC documentary by Stuart Hall](http://www.youtube.com/watch?v=m8bdndigRA8)
-- [Dr Gabor Maté - Why Capitalism Makes Us Sick](https://www.youtube.com/watch?v=AaAJQR_9Dg8)
+- [Introduction to Marxism by Professor Richard D. Wolff](https://youtube.com/watch?v=T9Whccunka4)
+- [Socialism for Dummies by Professor Richard D. Wolff](https://youtube.com/watch?v=ysZC0JOYYWw)
+- [Michael Parenti - Reflections on the overthrow of the Soviet Union](https://youtube.com/watch?v=z7WmYEoNtPY)
+- [Paul Cockshott - Going beyond Money (how cyber communism can work)](https://youtube.com/watch?v=cI01-5zhwdA)
+- [Michael Parenti on US imperialism, and the overthrow of Yugoslavia](https://youtube.com/watch?v=ApaMIJiOt-c)
+- [Michael Parenti on anti-sovietism in the US media](https://youtube.com/watch?v=FUWrgLpazwE)
+- [Michael Parenti on Imperialism and Film - Rambo and the Swarthy Hordes](https://youtube.com/watch?v=S33DKRcqvkQ)
+- [Karl Marx and Marxism - BBC documentary by Stuart Hall](https://youtube.com/watch?v=m8bdndigRA8)
+- [Dr Gabor Maté - Why Capitalism Makes Us Sick](https://youtube.com/watch?v=AaAJQR_9Dg8)
 - [Vijay Prashad - Military power, and the American Empire in decline.](https://youtube.com/watch?v=hTb2uVIWG5Q)
-- [The Philosophy of Antifa (Philosophy Tube)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
-- [3 minute intro to Marxism](https://www.youtube.com/watch?v=Vz3eOb6Yl1s)
-- [10 minute intro to Karl Marx](https://www.youtube.com/watch?v=fSQgCy_iIcc)
-- [10 minute intro to Capitalism by Professor Richard D. Wolff](https://www.youtube.com/watch?v=YMdIgGOYKhs)
-- [Introduction to Anarchism by Noam Chomsky](https://www.youtube.com/watch?v=7_Bv2MKY7uI), [#1](https://www.youtube.com/watch?v=RUzquEya6Lw), [#2](https://www.youtube.com/watch?v=_FHNMZbnvYU)
-- [Chomsky on american or right-libertarianism](https://www.youtube.com/watch?v=FVt7U2YIgZs)
+- [The Philosophy of Antifa (Philosophy Tube)](https://youtube.com/watch?v=bgwS_FMZ3nQ)
+- [3 minute intro to Marxism](https://youtube.com/watch?v=Vz3eOb6Yl1s)
+- [10 minute intro to Karl Marx](https://youtube.com/watch?v=fSQgCy_iIcc)
+- [10 minute intro to Capitalism by Professor Richard D. Wolff](https://youtube.com/watch?v=YMdIgGOYKhs)
+- [Introduction to Anarchism by Noam Chomsky](https://youtube.com/watch?v=7_Bv2MKY7uI), [#1](https://youtube.com/watch?v=RUzquEya6Lw), [#2](https://youtube.com/watch?v=_FHNMZbnvYU)
+- [Chomsky on american or right-libertarianism](https://youtube.com/watch?v=FVt7U2YIgZs)
 
 ## Literature
 
@@ -311,15 +311,15 @@ Past and present socialist societies include - The [Paris Commune](https://en.wi
 ### Audiobooks
 
 - [Dessalines List of Audiobooks](audiobooks.md) (Many of the books and articles above are here)
-- [Dessalines Youtube Channel w/ Audiobooks](https://www.youtube.com/channel/UC7HJWIFGGeMiJi2h3k18CrQ)
+- [Dessalines Youtube Channel w/ Audiobooks](https://youtube.com/channel/UC7HJWIFGGeMiJi2h3k18CrQ)
 
 ### Modern introductory books
 
 - [Introductory books](magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack)
 - [Paul D’Amatto - the meaning of Marxism](magnet:?xt=urn:btih:24c9a942f97f99c1816a344292b7baff5f289986&dn=The+Meaning+of+Marxism+-+Paul+D%27Amato.epub)
 - [Danny Katch - Socialism…. Seriously](magnet:?xt=urn:btih:1565682421ff7082fdad461266ab9e403fb50cfc)
-- [Chris Harman - How Marxism Works](https://www.marxists.org/archive/harman/1979/marxism/index.html). [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjob9lPqBGAyQAX6lhxm5fE_d)
-- Michael Parenti - Blackshirts and Reds. [Youtube audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoak57jcXDh1rY4n7Ic-EVsE)
+- [Chris Harman - How Marxism Works](https://www.marxists.org/archive/harman/1979/marxism/index.html). [Audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjob9lPqBGAyQAX6lhxm5fE_d)
+- Michael Parenti - Blackshirts and Reds. [Youtube audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoak57jcXDh1rY4n7Ic-EVsE)
 - [Peter Gelderloos - How Nonviolence Protects the State](https://theanarchistlibrary.org/library/peter-gelderloos-how-nonviolence-protects-the-state)
 - [Socialist books starter pack (torrent)](magnet:?xt=urn:btih:6980fde654f217ec9c81b30eab1ca3a13bbbca1e&dn=Socialist+books+starter+pack)
 
@@ -330,32 +330,32 @@ Past and present socialist societies include - The [Paris Commune](https://en.wi
 - [Lenin - The Three Sources and Three Component Parts of Marxism](https://www.marxists.org/archive/lenin/works/1913/mar/x01.htm)
 - [Lenin - A liberal professor on Equality](https://www.marxists.org/archive/lenin/works/1914/mar/11.htm)
 - [Eugene Debs - Capitalism and Socialism](https://www.marxists.org/archive/debs/works/1912/1912-capsoc.htm)
-- [Stephen Gowans - Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work) [audiobook](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
-- Why do many socialist attempts end up in an one-party state? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
-- [Red Phoenix - Pacifism - How to do the enemy's job for them.](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/), [audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
+- [Stephen Gowans - Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work) [audiobook](https://youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
+- Why do many socialist attempts end up in an one-party state? Watch this [brilliant talk by Micheal Parenti](https://youtube.com/watch?v=z7WmYEoNtPY), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://youtube.com/watch?v=51KSe96VCuI)
+- [Red Phoenix - Pacifism - How to do the enemy's job for them.](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/), [audiobook](https://youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 
 ### Marxist literature
 
-- [Engels - Socialism: Utopian and Scientific](http://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm), [audiobook](https://www.youtube.com/watch?v=IS4cpvvLeYo&list=PL0-IkmzWbjobt3oC7Mhq9kHWVbBKRtyg8)
+- [Engels - Socialism: Utopian and Scientific](http://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm), [audiobook](https://youtube.com/watch?v=IS4cpvvLeYo&list=PL0-IkmzWbjobt3oC7Mhq9kHWVbBKRtyg8)
 - [Marx/Engels - The Communist Manifesto](http://www.marxists.org/archive/marx/works/1848/communist-manifesto/)
 - [Marx - Wage Labour and Capital](https://www.marxists.org/archive/marx/works/1847/wage-labour/)
-- [Rosa Luxemburg - Reform or Revolution](http://www.marxists.org/archive/luxemburg/1900/reform-revolution/index.htm) . [Audiobook](https://www.youtube.com/watch?v=YhzmaUofLS8&list=PL0-IkmzWbjoYqO_Yec4sWzPeeFXMOkPWs)
-- [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/). [Audiobook](https://www.youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
-- [Lenin - “Left-Wing” Communism: an Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/) . [Audiobook](https://www.youtube.com/watch?v=6wtRQaoSlxs&list=PL0-IkmzWbjob1T8DTNDG7EQaN18eSJ97m)
+- [Rosa Luxemburg - Reform or Revolution](http://www.marxists.org/archive/luxemburg/1900/reform-revolution/index.htm) . [Audiobook](https://youtube.com/watch?v=YhzmaUofLS8&list=PL0-IkmzWbjoYqO_Yec4sWzPeeFXMOkPWs)
+- [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/). [Audiobook](https://youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
+- [Lenin - “Left-Wing” Communism: an Infantile Disorder](https://www.marxists.org/archive/lenin/works/1920/lwc/) . [Audiobook](https://youtube.com/watch?v=6wtRQaoSlxs&list=PL0-IkmzWbjob1T8DTNDG7EQaN18eSJ97m)
 - [Lenin - Imperialism, the Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/)
 - [Trotsky - Fascism: What it is and how to Fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm)
-- [Silvia Federici - Caliban and the Witch [audiobook]](https://m.youtube.com/playlist?list=PL0-IkmzWbjobK8JtYpzxIJH-BUjQDv9xm)
+- [Silvia Federici - Caliban and the Witch [audiobook]](https://youtube.com/playlist?list=PL0-IkmzWbjobK8JtYpzxIJH-BUjQDv9xm)
 
 ### Marxian economics
 
-- [Cockshott and Cottrell - Towards a New Socialism](https://users.wfu.edu/cottrell/socialism_book/), [audiobook](https://www.youtube.com/watch?v=yjHCPWs5sl4&list=PL0-IkmzWbjoZNiItBbuVvKQBdE80tsyhx)
+- [Cockshott and Cottrell - Towards a New Socialism](https://users.wfu.edu/cottrell/socialism_book/), [audiobook](https://youtube.com/watch?v=yjHCPWs5sl4&list=PL0-IkmzWbjoZNiItBbuVvKQBdE80tsyhx)
 
 ### History books
 
 - [J. Sakai - Settlers: the Mythology of the White Proletariat](http://readsettlers.org/text-index.html), [audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoZEICtu8cocz_3oRFS6L7wN)
 - [Howard Zinn - A Peoples History of the United States](http://www.historyisaweapon.com/zinnapeopleshistory.html)
 - [Roxanne Dunbar-Ortiz - An indigenous peoples history of the US. ](magnet:?xt=urn:btih:1ae24bda86bd23da6edad32568ad5ff574663f88&dn=Roxanne%20Dunbar-Ortiz%20-%20An%20Indigenous%20Peoples'%20History%20of%20the%20United%20States.mp3)
-- Michael Parenti - Blackshirts and Reds. [Youtube audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoak57jcXDh1rY4n7Ic-EVsE)
+- Michael Parenti - Blackshirts and Reds. [Youtube audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoak57jcXDh1rY4n7Ic-EVsE)
 - Michael Parenti - Inventing Reality. [Youtube audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjob0rkb9-tZlCvHAKse_HtF6)
 - [Parenti - Inventing Reality: A critique of US media](magnet:?xt=urn:btih:e6c5eaf8b2844984394ac9901c0e563785ba4bb2&dn=Michael%20Parenti%20-%20Inventing%20Reality%20%5baudiobook%5d%20by%20dessalines)
 - [Eduardo Galeano - Open Veins of Latin America](https://www.amazon.com/Open-Veins-Latin-America-Centuries/dp/0853459916/ref=sr_1_1?ie=UTF8&qid=1485894404&sr=8-1&keywords=open+veins+of+latin+america)
@@ -406,25 +406,25 @@ Past and present socialist societies include - The [Paris Commune](https://en.wi
 
 ## Documentaries
 
-- [Seeing Red](https://www.youtube.com/watch?v=nhmGVnHxtf0)
-- [Tsar to Lenin](https://www.youtube.com/watch?v=k3hWg3_CLGc)
-- [Fidel - The untold story (Cuban Revolution)](https://www.youtube.com/watch?v=P2Obp6YS4SY)
-- [How Yukong moved the mountains (Chinese Revolution)](https://www.youtube.com/watch?v=zLN-jRZRPrc&list=PLMt0ncvnKoz3ar_f78qBeA29-0kwrsXvT)
-- [Malcolm X - Make it Plain](https://www.youtube.com/watch?v=3zIGNkR62Mo)
-- [The Upright Man (Thomas Sankara)](https://www.youtube.com/watch?v=G7Vlt41HPUE)
-- [Grenada - Future coming Towards Us](https://www.youtube.com/watch?v=7z-AxNFx88o)
-- [Paul Robeson - Here I Stand](https://www.youtube.com/watch?v=BUki-v-NvoE)
-- [Black gods with guns - Robert F Williams and Black Power](https://www.youtube.com/watch?v=DxqK6eqwwLc)
+- [Seeing Red](https://youtube.com/watch?v=nhmGVnHxtf0)
+- [Tsar to Lenin](https://youtube.com/watch?v=k3hWg3_CLGc)
+- [Fidel - The untold story (Cuban Revolution)](https://youtube.com/watch?v=P2Obp6YS4SY)
+- [How Yukong moved the mountains (Chinese Revolution)](https://youtube.com/watch?v=zLN-jRZRPrc&list=PLMt0ncvnKoz3ar_f78qBeA29-0kwrsXvT)
+- [Malcolm X - Make it Plain](https://youtube.com/watch?v=3zIGNkR62Mo)
+- [The Upright Man (Thomas Sankara)](https://youtube.com/watch?v=G7Vlt41HPUE)
+- [Grenada - Future coming Towards Us](https://youtube.com/watch?v=7z-AxNFx88o)
+- [Paul Robeson - Here I Stand](https://youtube.com/watch?v=BUki-v-NvoE)
+- [Black gods with guns - Robert F Williams and Black Power](https://youtube.com/watch?v=DxqK6eqwwLc)
 - [The Act of Killing - Communist purging in Indonesia](magnet:?xt=urn:btih:e5be6accaffca538de67cfacad28b6514ff1f889)
-- [Lenin - old British Documentary](https://www.youtube.com/watch?v=iGE6T3SRNAs)
+- [Lenin - old British Documentary](https://youtube.com/watch?v=iGE6T3SRNAs)
 - [Oliver Stone - Untold History of the US](magnet:?xt=urn:btih:0c9e61eae5abb0618f09de1fc81e4d74031a6c47)
-- [Soviet Storm - WW2 in the East](https://www.youtube.com/watch?v=JhXKlYnSWjA&app=desktop)
-- [Red ant dream](https://www.youtube.com/watch?v=cVvThDX4bbQ)
-- [The Murder of Fred Hampton](https://www.youtube.com/watch?v=B6-JVliecLo)
-- [The Revolution will not be televised (Chavez and Venezuela)](https://www.youtube.com/watch?v=Id--ZFtjR5c)
+- [Soviet Storm - WW2 in the East](https://youtube.com/watch?v=JhXKlYnSWjA)
+- [Red ant dream](https://youtube.com/watch?v=cVvThDX4bbQ)
+- [The Murder of Fred Hampton](https://youtube.com/watch?v=B6-JVliecLo)
+- [The Revolution will not be televised (Chavez and Venezuela)](https://youtube.com/watch?v=Id--ZFtjR5c)
 - [A place called Chiapas (EZLN)](https://www.imdb.com/title/tt0145394/?ref_=ttls_li_tt)
-- [Loyal Citizens of Pyongyang in Seoul (서울의 평양 시민들)](https://www.youtube.com/watch?v=ktE_3PrJZO0)
-- [The Haircut - A North Korean Adventure](https://www.youtube.com/watch?v=2BO83Ig-E8E)
+- [Loyal Citizens of Pyongyang in Seoul (서울의 평양 시민들)](https://youtube.com/watch?v=ktE_3PrJZO0)
+- [The Haircut - A North Korean Adventure](https://youtube.com/watch?v=2BO83Ig-E8E)
 - [Weight of Chains - The overthrow of Yugoslavia.](https://en.wikipedia.org/wiki/The_Weight_of_Chains)
 - [Coup 53](https://en.wikipedia.org/wiki/Coup_53)
 
@@ -442,7 +442,7 @@ Past and present socialist societies include - The [Paris Commune](https://en.wi
 ## Channels
 
 - [Comrade Hakim](https://youtube.com/channel/UCPPZoYsfoSekIpLcz9plX1Q)
-- [Empire Files](https://www.youtube.com/channel/UCG29FnXZm4F5U8xpqs1cs1Q)
+- [Empire Files](https://youtube.com/channel/UCG29FnXZm4F5U8xpqs1cs1Q)
 - [Paul Cockshott](https://youtube.com/channel/UCVBfIU1_zO-P_R9keEGdDHQ)
 - [Richard Wolff - Democracy at Work](https://www.democracyatwork.info/)
 - Vijay Prashad
