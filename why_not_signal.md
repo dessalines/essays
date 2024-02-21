@@ -110,7 +110,7 @@ The reason the US government hasn't tried to block or hinder Signal, _is because
 
 The US has an [interesting law](https://en.wikipedia.org/wiki/National_security_letter) that applies to _any US company_ operating within its borders: it is **illegal to tell your users that the the US government has asked your company to spy on their behalf.** This is called a [key disclosure law](https://www.privacyguides.org/providers/#kdl), and the US's version of it, called [National Security Letters](https://en.wikipedia.org/wiki/National_security_letter), underwent an expansion with the PATRIOT act.
 
-Companies that don't comply with this law, [such as Lavabit, are forced to shut themselves down in protest, in order to avoid prison time](https://www.youtube.com/watch?v=spW0q-g2BxU), or remain open, and funnel user communications to the US government. The Signal foundation is a US domiciled company, and must comply with this law.
+Companies that don't comply with this law, [such as Lavabit, are forced to shut themselves down in protest, in order to avoid prison time](https://youtube.com/watch?v=spW0q-g2BxU), or remain open, and funnel user communications to the US government. The Signal foundation is a US domiciled company, and must comply with this law.
 
 Signal also notably **isn't self-hostable**: there's no way to run your own signal server, and control your data. [Marlinspike ruthlessly shuts down anyone attempting to build alternate clients or servers that could communicate with the main one.](https://github.com/LibreSignal/LibreSignal/issues/37#issuecomment-217211165) [2](https://github.com/LibreSignal/LibreSignal)
 
@@ -136,7 +136,7 @@ Phone numbers in nearly every country, including the US, **are directly linked t
 
 This is also why it's impossible for anonymous or Internet-only activists to use Signal: by giving others their phone number, they give away their full name and address.
 
-[Privacy advocates stress that services need to minimize "linkability"](https://www.youtube.com/watch?v=ACI7zZGgi80): the less identifiers that link to your real identity, the better. Signal forgoes this requirement in favor of easy onboarding, and connecting to your existing contacts and message history. That might be acceptable for an Apple or Whatsapp, but shouldn't be for one marketing itself to activists as "secure".
+[Privacy advocates stress that services need to minimize "linkability"](https://youtube.com/watch?v=ACI7zZGgi80): the less identifiers that link to your real identity, the better. Signal forgoes this requirement in favor of easy onboarding, and connecting to your existing contacts and message history. That might be acceptable for an Apple or Whatsapp, but shouldn't be for one marketing itself to activists as "secure".
 
 Signal also allows you to be discoverable via your phone number, without your consent. Law enforcement officials frequently add the phone numbers of suspects, or groups of suspects to their own signal app, and signal will happily tell them which of their suspects are using signal.
 
@@ -173,7 +173,7 @@ An exhaustive list of other technical concerns, such as Signal's reliance on Goo
 
 ### End-to-end encrypted
 
-The communication between persons or groups of persons should be encrypted in such a way that only the senders and recipients can read the messages. For an explanation of how this works, [watch this video on public key cryptography.](https://www.youtube.com/watch?v=YEBfamv-_do)
+The communication between persons or groups of persons should be encrypted in such a way that only the senders and recipients can read the messages. For an explanation of how this works, [watch this video on public key cryptography.](https://youtube.com/watch?v=YEBfamv-_do)
 
 ### Open Source
 

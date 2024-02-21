@@ -2,7 +2,7 @@
 
 ## Videos
 
-- [Homebrewing basics playlist](https://www.youtube.com/playlist?list=PLJGQZwp3xofuwirWhdD2ks1Zf2cji0-rr&disable_polymer=true)
+- [Homebrewing basics playlist](https://youtube.com/playlist?list=PLJGQZwp3xofuwirWhdD2ks1Zf2cji0-rr)
 
 ## Instructions
 

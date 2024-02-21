@@ -1,4 +1,4 @@
-# [How to torrent](https://youtu.be/ScDCIQI1LLI)
+# [How to torrent](https://youtube.com/watch?v=ScDCIQI1LLI)
 
 ## Why Bittorrent?
 
@@ -11,7 +11,7 @@
 
 - ISPs watch what you download.
 - Hides your traffic from your ISP.
-- Protects you using [tunneling and encryption](https://www.youtube.com/watch?v=yB1KiboEWC4).
+- Protects you using [tunneling and encryption](https://youtube.com/watch?v=yB1KiboEWC4).
 
 ## Find a Torrent Client
 

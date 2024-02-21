@@ -113,10 +113,10 @@
 ## Didn't communism fail? It works in theory but not in practice.
 
 - [Did Socialism work in the USSR, and didn't the fall of the USSR bring more prosperity to Russia? IE, how to respond to "Communism doesn't work."](capitalism_doesnt_work.md), [2](https://www.reddit.com/r/communism/comments/ea6av0/how_to_respond_to_communism_doesnt_work/)
-- [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work), [audiobook](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
-- [Why, in your opinion, have most attempts to form countries based economically on communism and socialism (USSR, Cuba, China) fail?](http://www.reddit.com/r/communism101/comments/1f8obt/honestly_not_trolling_why_in_your_opinion_have/)
+- [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work), [audiobook](https://youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
+- [Why, in your opinion, have most attempts to form countries based economically on communism and socialism (USSR, Cuba, China) fail?](https://www.reddit.com/r/communism101/comments/1f8obt/honestly_not_trolling_why_in_your_opinion_have/)
 - [Were people really going hungry / starving in the USSR?](https://www.cia.gov/readingroom/document/cia-rdp85t00313r000300140006-0)
-- [Why did the Soviet Union fail?](http://www.reddit.com/r/communism101/comments/1zrroq/why_did_the_soviet_union_fail/)
+- [Why did the Soviet Union fail?](https://www.reddit.com/r/communism101/comments/1zrroq/why_did_the_soviet_union_fail/)
 - [What about the gulags?](https://www.greanvillepost.com/2018/10/09/the-truth-about-the-soviet-gulag-surprisingly-revealed-by-the-cia/) [2](https://www.reddit.com/r/communism101/comments/9bem2d/what_were_the_gulags_according_to_self_identified/e52ls2e/) [3](https://espressostalinist.com/the-real-stalin-series/gulag/), [4](http://www.mariosousa.se/LiesconcerningthehistoryoftheSovietUnion.html), [5](https://www.reddit.com/r/communism101/comments/ds8qk3/the_truth_about_the_gulags/f6obxuc/)
 - [Didn't the USSR kill millions of it citizens, with most people living in poverty and dying early?](https://en.wikipedia.org/wiki/Demographics_of_the_Soviet_Union#Life_expectancy_and_infant_mortality)
 - [What about Stalin, the purges, the holodomor, etc? A revleft podcast.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
@@ -130,50 +130,50 @@
 ## What about human nature?
 
 - [History and human nature.](https://github.com/dessalines/essays/blob/master/crash_course_socialism.md#history-and-human-nature)
-- [What about human nature?](http://www.reddit.com/r/communism101/comments/2yk3xl/what_about_human_nature_answer_but_add_yours_too/)
+- [What about human nature?](https://www.reddit.com/r/communism101/comments/2yk3xl/what_about_human_nature_answer_but_add_yours_too/)
 - [Advertising is a cancer](http://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html), [audiobook](magnet:?xt=urn:btih:dd172e3af7a5f4cd626324f76a58c10f55d38bb6&dn=Jacek%20Zlydach%20-%20Advertising%20is%20a%20Cancer%20on%20Society%20%5baudiobook%5d%20by%20dessalines)
 
 ## Schools of thought
 
 - [Glossary of Socialism Terms.](https://github.com/dessalines/essays/blob/master/glossary_of_socialist_terms.md)
-- [What are the different forms of Marxism and what are their differences?](http://www.reddit.com/r/communism101/comments/206xtz/what_are_the_different_forms_of_marxism_and_what/)
-- [Can someone give us a quick like-we're-five rundown of the distinctions between Trotskyism, Maoism, orthodox Marxism, and so on?](http://www.reddit.com/r/communism101/comments/132d5s/can_someone_give_us_a_quick_likewerefive_rundown/)
+- [What are the different forms of Marxism and what are their differences?](https://www.reddit.com/r/communism101/comments/206xtz/what_are_the_different_forms_of_marxism_and_what/)
+- [Can someone give us a quick like-we're-five rundown of the distinctions between Trotskyism, Maoism, orthodox Marxism, and so on?](https://www.reddit.com/r/communism101/comments/132d5s/can_someone_give_us_a_quick_likewerefive_rundown/)
 - [What's the difference between anarchism and communism?](https://www.reddit.com/r/DebateCommunism/comments/576t0d/im_an_anarchocommunist_leninise_me/)
-- [What's the difference in economic structure ( production and distribution) of anarchism, anarcho-communism, anarcho-syndicalism, and Marxist communism?](https://old.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/)
-- [Parenti on Anarcho-Syndicalism / Worker-Coops](https://youtube.com/watch?v=WEkyW9GwbE8&local=1&nojs=0&player_style=youtube&quality=dash).
+- [What's the difference in economic structure ( production and distribution) of anarchism, anarcho-communism, anarcho-syndicalism, and Marxist communism?](https://www.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/)
+- [Parenti on Anarcho-Syndicalism / Worker-Coops](https://youtube.com/watch?v=WEkyW9GwbE8).
 - [Aimixin - Why Anarchism is fundamentally anti-socialist.](https://lemmygrad.ml/comment/187228)
 - [TheDashRendar - Where do tanks come from? How anarchists vs marxists wage warfare.](https://medium.com/@dashthered/where-do-tanks-come-from-8723ff77d83b)
-- [Comrade Hakim - On the difference betweeen "liberatarian" and "authoritarian" socialism.](https://www.youtube.com/watch?v=6GM893c1X8s)
+- [Comrade Hakim - On the difference betweeen "liberatarian" and "authoritarian" socialism.](https://youtube.com/watch?v=6GM893c1X8s)
 - [Huey P. Newton on the faults of western anarchism.](https://www.prisoncensorship.info/archive/etext/bpp/bpp161168.htm)
 - [What is the communist response to a lot of Anarchist criticisms? A Megathread.](https://www.reddit.com/r/communism/comments/cewriu/masterpost_for_defending_socialism_against/)
 - [The tyranny of structurelessness - The failure of anarchist-style organizing in the womens-liberation movement.](https://www.jofreeman.com/joreen/tyranny.htm)
-- [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
-- [Looking for reference to types of communism.](http://www.reddit.com/r/communism101/comments/1fcc6o/looking_for_reference_to_types_of_communism/)
+- [What is Stalinism?](https://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
+- [Looking for reference to types of communism.](https://www.reddit.com/r/communism101/comments/1fcc6o/looking_for_reference_to_types_of_communism/)
 - [What was Engels Contribution to Marxism?](https://necessityandfreedom.wordpress.com/2017/04/16/without-engels-there-would-be-no-marxism/)
 - [Was Marx anti-semitic? ( On the Jewish Question )](https://www.reddit.com/r/communism101/comments/exfvbe/for_anyone_who_are_confused_by_marx_is/)
 - [Were the nazis socialist? What about national socialism, the national socialist movement (NSM), and the national front?](https://www.snopes.com/news/2017/09/05/were-nazis-socialists/), [2](https://www.reddit.com/r/Socialism_101/comments/79kvin/what_is_the_difference_between_socialists_here/), [3](https://www.reddit.com/r/therewasanattempt/comments/cblf1y/to_commit_a_hate_crime/ethf3t8/), [4](https://www.reddit.com/r/ShitLiberalsSay/wiki/index#wiki_the_nazis_were_socialists.2C_communists_or_leftists)
 - [What is Fascism?](https://lemmygrad.ml/comment/1313977) ,[2](http://www.nybooks.com/articles/1995/06/22/ur-fascism/)
 - [Is the US a fascist state?](https://www.reddit.com/r/GenZhou/comments/qxguko/do_you_consider_the_us_to_be_a_fascist_state/hl9q3mr/)
-- [Did Karl Marx use "socialism" and "communism" interchangeably?](http://www.reddit.com/r/communism101/comments/2msa39/did_karl_marx_use_socialism_and_communism/)
+- [Did Karl Marx use "socialism" and "communism" interchangeably?](https://www.reddit.com/r/communism101/comments/2msa39/did_karl_marx_use_socialism_and_communism/)
 - [What is Luxemburgism?](https://www.reddit.com/r/communism/comments/bzl9iu/luxemburgism/eqtbcxe/)
-- [Is the revolutionary DotP a separate material stage apart from lower phased communism?](http://www.reddit.com/r/communism101/comments/2mrkkj/is_the_revolutionary_dotp_a_separate_material/)
+- [Is the revolutionary DotP a separate material stage apart from lower phased communism?](https://www.reddit.com/r/communism101/comments/2mrkkj/is_the_revolutionary_dotp_a_separate_material/)
 - [Is socialism the lowest stage of communism or is it the transition to communism, in between capitalism and communism?](https://www.reddit.com/r/communism101/comments/2rijno/is_socialism_the_lowest_stage_of_communism_or_is/)
 - [What about Left Unity? Engels letter to Bebel.](https://www.marxists.org/archive/marx/works/1873/letters/73_06_20.htm) [2](https://www.reddit.com/r/sendinthetanks/comments/prbh1i/build_a_unired_front/hdhq26s/)
 - [What about Marxism and Empiricism? Is Marxism falsifiable?](https://www.reddit.com/r/communism101/comments/8978hb/is_marxism_falsifiable/)
-- [Hakim - On Capitalism and Corporatism](https://www.youtube.com/watch?v=luB9VUsXRs8)
+- [Hakim - On Capitalism and Corporatism](https://youtube.com/watch?v=luB9VUsXRs8)
 - [What about "patriotic" socialism?](https://www.reddit.com/r/GenZhou/comments/qlxfhd/on_the_question_of_patriotic_socialism_a_reply_to/) [2](https://www.reddit.com/r/GenZedong/comments/qm43vh/can_the_mods_start_being_authoritarian_and_crack/hj8ctfi/)
 - [On the origins of the creator of the term totalitarianism, Hannah Arendt](https://twitter.com/aiukliAfrika/status/1063203765082304512)
 
 ## On Ultra-leftism / Left-Communism
 
-- What about the USSR, wasn't it authoritarian? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
+- What about the USSR, wasn't it authoritarian? Watch this [brilliant talk by Micheal Parenti](https://youtube.com/watch?v=z7WmYEoNtPY), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://youtube.com/watch?v=51KSe96VCuI)
 - [Why do most Marxists dislike ultra-lefts / left-communists (the "not real socialism" crowd) ?](https://medium.com/@leohezhao/left-communists-and-ultra-leftists-are-reactionaries-2d2fca4c991a)
-- [Hakim - Why the USSR was socialist - A critique of left-communism.](https://www.youtube.com/watch?v=CKggZ22izDs)
-- [Cockshott - In what sense was the USSR socialist?](https://www.youtube.com/watch?v=Nu85byBBddY)
-- [Cockshott - Socialism and surplus - Why the USSR was socialist.](https://www.youtube.com/watch?v=C-T-Fr6DvFw)
+- [Hakim - Why the USSR was socialist - A critique of left-communism.](https://youtube.com/watch?v=CKggZ22izDs)
+- [Cockshott - In what sense was the USSR socialist?](https://youtube.com/watch?v=Nu85byBBddY)
+- [Cockshott - Socialism and surplus - Why the USSR was socialist.](https://youtube.com/watch?v=C-T-Fr6DvFw)
 - [Where are communists on the political compass?](https://www.reddit.com/r/communism101/comments/f4a9w9/where_do_communists_fall_on_the_political_spectrum/fhozyg4/)
-- [Lenin - "Left-Wing" Communism: An infantile disorder.](https://www.marxists.org/archive/lenin/works/1920/lwc/) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjob1T8DTNDG7EQaN18eSJ97m)
-- [Western Marxism's martyrdom / purity complex.](https://blackagendareport.com/western-marxism-loves-purity-and-martyrdom-not-real-revolution) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoaZIsNaAcjt87etb0A_0FWB)
+- [Lenin - "Left-Wing" Communism: An infantile disorder.](https://www.marxists.org/archive/lenin/works/1920/lwc/) [Audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjob1T8DTNDG7EQaN18eSJ97m)
+- [Western Marxism's martyrdom / purity complex.](https://blackagendareport.com/western-marxism-loves-purity-and-martyrdom-not-real-revolution) [Audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoaZIsNaAcjt87etb0A_0FWB)
 
 * [The CIA reads french postmodernist theory: how the CIA pushed "post-Marxist" theory to build support for imperialism.](https://thephilosophicalsalon.com/the-cia-reads-french-theory-on-the-intellectual-labor-of-dismantling-the-cultural-left/)
 * [On MLM / Gonzalo, and the shining path.](https://www.reddit.com/r/asktankies/comments/po4vo1/what_is_your_view_of_chairman_gonzalo/) [2](https://lemmygrad.ml/comment/184251) [3](https://socialistfight.com/2017/02/22/the-lucanamarca-massacre/), [4](https://lemmygrad.ml/comment/188644)
@@ -182,50 +182,50 @@
 ## Did economic planning work?
 
 - [Did Socialism work, in the USSR?](https://github.com/dessalines/essays/blob/master/capitalism_doesnt_work.md)
-- [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work) [audiobook](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
+- [Do Publicly Owned, Planned Economies Work?](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work) [audiobook](https://youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
 - [My economics teacher said that the planned economies communist countries had are proven failures. Is this true?](https://www.reddit.com/r/communism101/comments/3e68nf/my_economics_teacher_said_that_the_planned/)
 - [Do planned economies have any elegant math behind them?](https://www.reddit.com/r/DebateCommunism/comments/cy5duq/does_communism_have_any_elegant_mathematical/)
-- [Is there a surplus in socialist economies? How is it different from the surplus in capitalism and feudalism?](https://www.youtube.com/watch?v=C-T-Fr6DvFw)
-- [How did early hunter gatherer and agricultural societies work? Were they egalitarian? How did private property come about? Why did women have a higher status? How did classes and inequality arise?](https://www.youtube.com/watch?v=9u2TtXVABcc)
-- [How can economic planning solve the climate and food crisis?](https://www.youtube.com/watch?v=-U4CZ92ftE4)
-- [Towards a new socialism - Cockshott and Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/) [audiobook](https://www.youtube.com/watch?v=yjHCPWs5sl4&list=PL0-IkmzWbjoZNiItBbuVvKQBdE80tsyhx)
+- [Is there a surplus in socialist economies? How is it different from the surplus in capitalism and feudalism?](https://youtube.com/watch?v=C-T-Fr6DvFw)
+- [How did early hunter gatherer and agricultural societies work? Were they egalitarian? How did private property come about? Why did women have a higher status? How did classes and inequality arise?](https://youtube.com/watch?v=9u2TtXVABcc)
+- [How can economic planning solve the climate and food crisis?](https://youtube.com/watch?v=-U4CZ92ftE4)
+- [Towards a new socialism - Cockshott and Cottrell](http://ricardo.ecn.wfu.edu/~cottrell/socialism_book/) [audiobook](https://youtube.com/watch?v=yjHCPWs5sl4&list=PL0-IkmzWbjoZNiItBbuVvKQBdE80tsyhx)
 - [Why are communists against markets?](https://github.com/dessalines/essays/blob/master/market_socialism.md)
 
 ## Who would sweep the floors under communism?
 
-- [How can people be expected to work hard if they don't get payed more FOR working harder? (I know nothing about communism)](http://www.reddit.com/r/communism101/comments/21u7jo/how_can_people_be_expected_to_work_hard_if_they/)
-- [What prevents cultural, technological or scientific stagnation in a communist society? Also what motivation do people have to work at their Jobs?](http://www.reddit.com/r/communism101/comments/27ia0t/what_prevents_cultural_technological_or/)
-- [What about automation / robotics? Why do some communists say innovation has stopped?](https://youtu.be/QGBQwZsp3T0)
+- [How can people be expected to work hard if they don't get payed more FOR working harder? (I know nothing about communism)](https://www.reddit.com/r/communism101/comments/21u7jo/how_can_people_be_expected_to_work_hard_if_they/)
+- [What prevents cultural, technological or scientific stagnation in a communist society? Also what motivation do people have to work at their Jobs?](https://www.reddit.com/r/communism101/comments/27ia0t/what_prevents_cultural_technological_or/)
+- [What about automation / robotics? Why do some communists say innovation has stopped?](https://youtube.com/watch?v=QGBQwZsp3T0)
 - [Would people innovate under Communism? Doesn't capitalism create innovation?](https://www.reddit.com/r/DebateCommunism/comments/9c9qj6/in_a_communist_society_what_are_people_motivated/)
-- [How does communism deal with lazy people?](http://www.reddit.com/r/communism101/comments/25r9hh/how_does_communism_deal_with_lazy_people/)
-- [How does communism/socialism deal with human laziness?](http://www.reddit.com/r/communism101/comments/1g235j/how_does_communismsocialism_deal_with_human/)
+- [How does communism deal with lazy people?](https://www.reddit.com/r/communism101/comments/25r9hh/how_does_communism_deal_with_lazy_people/)
+- [How does communism/socialism deal with human laziness?](https://www.reddit.com/r/communism101/comments/1g235j/how_does_communismsocialism_deal_with_human/)
 - [What about people who refuse to work?](https://www.reddit.com/r/Socialism_101/comments/cgo2ux/people_who_refuse_to_work/)
 
 ## What about cooperatives?
 
-- [Can cooperatives bring about socialism?](http://www.reddit.com/r/communism101/comments/336mz4/can_cooperatives_bring_about_socialism/)
-- [Couldn't small anarchist / anarcho-communist communes replace Capitalism?](https://old.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/)
+- [Can cooperatives bring about socialism?](https://www.reddit.com/r/communism101/comments/336mz4/can_cooperatives_bring_about_socialism/)
+- [Couldn't small anarchist / anarcho-communist communes replace Capitalism?](https://www.reddit.com/r/DebateCommunism/comments/9ak0wo/whats_the_difference_between_communism_and/e4w0v9n/)
 
 ## What about democracy? Can't voting fix our problems?
 
-- [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
-- [Halim Alrah - Why liberal democracies are a sham. ](https://www.youtube.com/watch?v=oYodY6o172A)
-- [What about social democracy / democratic socialism / the Nordic model? Isn't Sweden socialist?](https://www.youtube.com/watch?v=Jd03a8Pm1hs)
+- [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
+- [Halim Alrah - Why liberal democracies are a sham. ](https://youtube.com/watch?v=oYodY6o172A)
+- [What about social democracy / democratic socialism / the Nordic model? Isn't Sweden socialist?](https://youtube.com/watch?v=Jd03a8Pm1hs)
 - [On the unraveling of the Nordic welfare states: increasing inequality and forced austerity.](https://www.reddit.com/r/GenZhou/comments/pmtapr/does_anyone_have_works_on_the_erosion_of_the/hcmyub4/)
 - [Rainer shea - How social democrats help usher in fascism in Germany, and in the US today. ](https://rainershea612.medium.com/social-democrats-helped-usher-in-fascism-in-germany-theyre-doing-it-again-in-america-f84f71846e91)
 - [Scandinavia's covert role in western imperialism](https://www.telesurenglish.net/analysis/Scandinavias-Covert-Role-in-Western-Imperialism-20170320-0022.html)
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
-- [Paul Cockshott - On Socialism and Democracy.](https://www.youtube.com/watch?v=bHN0foV4Ntk) [2](https://www.youtube.com/watch?v=98lvNhNfse4&t=1518s) [3](https://www.youtube.com/watch?v=EjKYVQd4r9E)
-- [Comrade Hakim - Why electoralism always fails.](https://www.youtube.com/watch?v=WXbaZXQAbuU)
-- [Why not just vote leftists into office: what's wrong with democratic socialism?](https://old.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
+- [Paul Cockshott - On Socialism and Democracy.](https://youtube.com/watch?v=bHN0foV4Ntk) [2](https://youtube.com/watch?v=98lvNhNfse4&t=1518s) [3](https://youtube.com/watch?v=EjKYVQd4r9E)
+- [Comrade Hakim - Why electoralism always fails.](https://youtube.com/watch?v=WXbaZXQAbuU)
+- [Why not just vote leftists into office: what's wrong with democratic socialism?](https://www.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
 - [W.E.B. Dubois - Why I don't vote](http://www.hartford-hwp.com/archives/45a/298.html)
 - [What about harm reduction?](http://www.indigenousaction.org/voting-is-not-harm-reduction-an-indigenous-perspective/)
 - [What's wrong with the DSA / Democratic socialism?](https://struggle-sessions.com/2020/04/20/dsa-are-capitalist-pigs/)
 - [How do socialists feel about elections? What about democratic socialism?](https://isreview.org/issue/13/marxists-and-elections)
 - [Can a one-party state really be a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
-- [Why is Chinas one party system outperforming western democracies that have abysmal approval ratings?](https://www.youtube.com/watch?v=s0YjL9rZyR0)
+- [Why is Chinas one party system outperforming western democracies that have abysmal approval ratings?](https://youtube.com/watch?v=s0YjL9rZyR0)
 - [How the capitalist democratic party sabotaged the Sanders campaign.](https://medium.com/@rainershea612/the-democratic-party-is-fully-prepared-to-steal-the-primary-from-sanders-again-51b7b1130a8d)
-- [Why Sanders is not a socialist - Anticonquista ](https://www.youtube.com/watch?v=VbcrJT485r8)
+- [Why Sanders is not a socialist - Anticonquista ](https://youtube.com/watch?v=VbcrJT485r8)
 - [Paying one half of the poor to kill the other half: Why Marxists should not support Sanders.](https://www.reddit.com/r/communism/comments/f7g3dj/paying_one_half_of_the_poor_to_kill_the_other/)
 - [The propaganda multiplier: A study on media / news concentration, and how the wests propaganda machine functions.](https://swprs.org/the-propaganda-multiplier/)
 - [On "brainwashing"](https://redsails.org/brainwashing/)
@@ -235,38 +235,38 @@
 
 ## Pacifism and Violence
 
-- [What about Pacifism / pacifist socialism? Is violence necessary to acheive socialism? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) [audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
-- [Why not just vote leftists into office: what's wrong with democratic socialism?](https://old.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
+- [What about Pacifism / pacifist socialism? Is violence necessary to acheive socialism? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) [audiobook](https://youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
+- [Why not just vote leftists into office: what's wrong with democratic socialism?](https://www.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
 - [Is a bloodless revolution possible?](https://www.reddit.com/r/communism101/comments/cyanku/is_a_bloody_revolution_really_necessary_for_the/)
 - "Can the hungry go on a hunger strike? Non-violence is a piece of theatre. You need an audience. What can you do when you have no audience? People have the right to resist annihilation." - Arundhati Roy.
 - [What is imperialism?](https://www.reddit.com/r/capitalism_in_decay/comments/cjp4yu/a_medium_length_eli15_answer_to_the_question_what/)
 - [The CIA, Gene sharp, and it's pacifist color revolution regime change tactics. ](https://web.archive.org/web/20130503221026/http://www.dailycensored.com/the-cia-and-nonviolent-resistance-3/)
 - [Regime Change Agent: Gene Sharp's liberal non-violence.](https://nonsite.org/change-agent-gene-sharps-neoliberal-nonviolence-part-one/)
-- [Was the civil rights struggle in the US really nonviolent?](http://mshistorynow.mdah.state.ms.us/articles/62/the-civil-rights-movement-in-mississippi-on-violence-and-nonviolence) [Malcolm X - message to the grassroots. ](https://www.youtube.com/watch?v=Ku2JzolPt50)
+- [Was the civil rights struggle in the US really nonviolent?](http://mshistorynow.mdah.state.ms.us/articles/62/the-civil-rights-movement-in-mississippi-on-violence-and-nonviolence) [Malcolm X - message to the grassroots. ](https://youtube.com/watch?v=Ku2JzolPt50)
 - [FBI cointel directives on "nonviolent" groups.](https://herb.ashp.cuny.edu/items/show/814)
 - [Is a state really necessary to transition into communism?](https://www.reddit.com/r/communism101/comments/f0l14l/why_is_a_state_necessary_to_transition_into/)
 - [Engels - on authority. ](https://www.marxists.org/archive/marx/works/1872/10/authority.htm)
-- [An Overview of Leninism](https://archive.ph/khO7R), [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoaFTdUpdzXv-zCvYsz4sB01). [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) , [audiobook](https://www.youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
-- [Luxemburg - Reform or Revolution](https://www.marxists.org/archive/luxemburg/1900/reform-revolution/), [audiobook](https://www.youtube.com/watch?v=YhzmaUofLS8&list=PL0-IkmzWbjoYqO_Yec4sWzPeeFXMOkPWs)
-- [Trotsky - Fascism - What it is and how to fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm), [audiobook](https://www.youtube.com/watch?v=S39lCH8PnZ8&list=PL0-IkmzWbjoa-4fIC4TbpTJgRM77It6LC)
+- [An Overview of Leninism](https://archive.ph/khO7R), [audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoaFTdUpdzXv-zCvYsz4sB01). [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) , [audiobook](https://youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
+- [Luxemburg - Reform or Revolution](https://www.marxists.org/archive/luxemburg/1900/reform-revolution/), [audiobook](https://youtube.com/watch?v=YhzmaUofLS8&list=PL0-IkmzWbjoYqO_Yec4sWzPeeFXMOkPWs)
+- [Trotsky - Fascism - What it is and how to fight it](https://www.marxists.org/archive/trotsky/works/1944/1944-fas.htm), [audiobook](https://youtube.com/watch?v=S39lCH8PnZ8&list=PL0-IkmzWbjoa-4fIC4TbpTJgRM77It6LC)
 
 ## What would X be like under communism?
 
 - [What does housing look like in Communist countries?](https://www.reddit.com/r/communism101/comments/chpwq7/could_you_guys_help_us_figure_out_what_housing/euwffax/)
-- [How would a record company/label work in a communist society?](http://www.reddit.com/r/communism101/comments/1a0htc/how_would_a_record_companylabel_work_in_a/)
-- [Music tours and traveling in a socialist state?](http://www.reddit.com/r/communism101/comments/2bs0yb/music_tours_and_traveling_in_a_socialist_state/)
-- [How would airlines work for the workers and the customers in a communist world?](http://www.reddit.com/r/communism101/comments/1exz0n/how_would_airlines_work_for_the_workers_and_the/)
-- [How would a society without the family work?](http://www.reddit.com/r/communism101/comments/14mh40/how_would_a_society_without_the_family_work/)
-- [Record Collecting](http://www.reddit.com/r/communism101/comments/25t8ps/record_collecting/)
-- [How would everyday life be different in a Marxist society?](http://www.reddit.com/r/communism101/comments/2awusu/how_would_everyday_life_be_different_in_a_marxist/)
-- [How would non-essential products their production be promoted in a traditional Marxist economy?](http://www.reddit.com/r/communism101/comments/22bjbf/how_would_nonessential_products_their_production/)
-- [How would media be handled in a Communist state?](http://www.reddit.com/r/communism101/comments/1kr25m/how_would_media_be_handled_in_a_communist_state/)
-- [What is going to happen after the revolution?](http://www.reddit.com/r/communism101/comments/27l9cc/what_is_going_to_happen_after_the_revolution/)
-- [How would a communist economy really function in practice?](http://www.reddit.com/r/communism101/comments/1g279l/how_would_a_communist_economy_really_function_in/)
-- [How does communism deal with niches?](http://www.reddit.com/r/communism101/comments/27o04e/how_does_communism_deal_with_niches/)
-- [How would residentials be fairly distributed under full communism?](http://www.reddit.com/r/communism101/comments/2hnmxx/how_would_residentials_be_fairly_distributed/)
+- [How would a record company/label work in a communist society?](https://www.reddit.com/r/communism101/comments/1a0htc/how_would_a_record_companylabel_work_in_a/)
+- [Music tours and traveling in a socialist state?](https://www.reddit.com/r/communism101/comments/2bs0yb/music_tours_and_traveling_in_a_socialist_state/)
+- [How would airlines work for the workers and the customers in a communist world?](https://www.reddit.com/r/communism101/comments/1exz0n/how_would_airlines_work_for_the_workers_and_the/)
+- [How would a society without the family work?](https://www.reddit.com/r/communism101/comments/14mh40/how_would_a_society_without_the_family_work/)
+- [Record Collecting](https://www.reddit.com/r/communism101/comments/25t8ps/record_collecting/)
+- [How would everyday life be different in a Marxist society?](https://www.reddit.com/r/communism101/comments/2awusu/how_would_everyday_life_be_different_in_a_marxist/)
+- [How would non-essential products their production be promoted in a traditional Marxist economy?](https://www.reddit.com/r/communism101/comments/22bjbf/how_would_nonessential_products_their_production/)
+- [How would media be handled in a Communist state?](https://www.reddit.com/r/communism101/comments/1kr25m/how_would_media_be_handled_in_a_communist_state/)
+- [What is going to happen after the revolution?](https://www.reddit.com/r/communism101/comments/27l9cc/what_is_going_to_happen_after_the_revolution/)
+- [How would a communist economy really function in practice?](https://www.reddit.com/r/communism101/comments/1g279l/how_would_a_communist_economy_really_function_in/)
+- [How does communism deal with niches?](https://www.reddit.com/r/communism101/comments/27o04e/how_does_communism_deal_with_niches/)
+- [How would residentials be fairly distributed under full communism?](https://www.reddit.com/r/communism101/comments/2hnmxx/how_would_residentials_be_fairly_distributed/)
 - [How do police / cops differ in socialism?](https://www.reddit.com/r/DebateCommunism/comments/9hsoll/suppose_police_all_go_away_tomorrow_and_are/e6eguff/)
-  - [An interview with some traffic cops in China.](https://youtu.be/QFJSepGLFTw?t=1450)
+  - [An interview with some traffic cops in China.](https://youtube.com/watch?v=QFJSepGLFTw?t=1450)
 - [What if some people don't wanna be communist?](https://www.reddit.com/r/DebateCommunism/comments/9mtnyt/what_if_some_people_dont_wanna_be_communist/e7hc63u/)
 - [What about drugs / drug use?](https://en.prolewiki.org/wiki/Critique:On_drug_use)
 
@@ -276,46 +276,46 @@
 
 - [What is surplus value?](crash_course_socialism.md#surplus-value)
 - [Is the Labor theory of value (LTV) scientifically correct? What about academic economists and the subjective theory of value (STV)?](https://www.reddit.com/r/DebateCommunism/comments/9xo7l7/questions_about_ltv_and_stv/e9ts0k1/)
-- [Hakim - common capitalist criticisms of the LTV. ](https://www.youtube.com/watch?v=1oRCgUEpIQI)
+- [Hakim - common capitalist criticisms of the LTV. ](https://youtube.com/watch?v=1oRCgUEpIQI)
 - [Empirical studies on the LTV](https://www.reddit.com/r/Marxism/comments/kjb6tp/the_labor_theory_of_value_an_examination/)
-- [Is human labor the source of value because human beings do not normally work for free?](http://www.reddit.com/r/communism101/comments/1hjpgk/is_human_labor_the_source_of_value_because_human/)
-- [Value as a necessary product of labor?](http://www.reddit.com/r/communism101/comments/2ufx5a/value_as_a_necessary_product_of_labor/)
-- [What is the right way to think about the relation between value and labor?](http://www.reddit.com/r/communism101/comments/1d3jy2/what_is_the_right_way_to_think_about_the_relation/)
+- [Is human labor the source of value because human beings do not normally work for free?](https://www.reddit.com/r/communism101/comments/1hjpgk/is_human_labor_the_source_of_value_because_human/)
+- [Value as a necessary product of labor?](https://www.reddit.com/r/communism101/comments/2ufx5a/value_as_a_necessary_product_of_labor/)
+- [What is the right way to think about the relation between value and labor?](https://www.reddit.com/r/communism101/comments/1d3jy2/what_is_the_right_way_to_think_about_the_relation/)
 - [Whats so bad about land ownership / renting / private property? Why do socialists want to abolish it? Don't landowners do work?](https://www.reddit.com/r/CapitalismVSocialism/comments/7r0t5a/how_landlords_create_value/dsu99td/)
-- [Hakim - The problem with landlords and rent.](https://www.youtube.com/watch?v=9gm4b1WgVEQ)
-- [I am in trouble understanding how exactly would a private property abolition work.](http://www.reddit.com/r/communism101/comments/1su2je/i_am_in_trouble_understanding_how_exactly_would_a/)
-- [Private property: Cause or result of alienation?](http://www.reddit.com/r/communism101/comments/1c35xf/private_property_cause_or_result_of_alienation/)
-- [In Marxian economics, is 'value' distinct from 'price'? What does 'value' indicate, exactly?](http://www.reddit.com/r/communism101/comments/139g19/in_marxian_economics_is_value_distinct_from_price/)
-- [can you explain the theory of alienation to me in a "explain like I'm five" manner?](http://www.reddit.com/r/communism101/comments/2jeyaj/can_you_explain_the_theory_of_alienation_to_me_in/)
-- [If private property is abolished, does this mean anyone can enter "one's home" (or where one lives) and cannot be expelled?](http://www.reddit.com/r/communism101/comments/19nx3l/if_private_property_is_abolished_does_this_mean/)
+- [Hakim - The problem with landlords and rent.](https://youtube.com/watch?v=9gm4b1WgVEQ)
+- [I am in trouble understanding how exactly would a private property abolition work.](https://www.reddit.com/r/communism101/comments/1su2je/i_am_in_trouble_understanding_how_exactly_would_a/)
+- [Private property: Cause or result of alienation?](https://www.reddit.com/r/communism101/comments/1c35xf/private_property_cause_or_result_of_alienation/)
+- [In Marxian economics, is 'value' distinct from 'price'? What does 'value' indicate, exactly?](https://www.reddit.com/r/communism101/comments/139g19/in_marxian_economics_is_value_distinct_from_price/)
+- [can you explain the theory of alienation to me in a "explain like I'm five" manner?](https://www.reddit.com/r/communism101/comments/2jeyaj/can_you_explain_the_theory_of_alienation_to_me_in/)
+- [If private property is abolished, does this mean anyone can enter "one's home" (or where one lives) and cannot be expelled?](https://www.reddit.com/r/communism101/comments/19nx3l/if_private_property_is_abolished_does_this_mean/)
 - [What is the tendency of the rate of profit to fall? (TRPF)](http://socialistreview.org.uk/371/what-tendency-rate-profit-fall)
-- [Hakim - what is the TRPF? ](https://www.youtube.com/watch?v=SEGGvVinUao)
+- [Hakim - what is the TRPF? ](https://youtube.com/watch?v=SEGGvVinUao)
 - [Shouldn't capitalists be rewarded for Risk / Financial investment?](https://www.reddit.com/r/communism101/comments/av92oi/someone_said_the_following_in_a_debate_and_i/) [Well shouldn't business owners be rewarded for their financial risk?](https://www.reddit.com/r/communism101/comments/a8fnlm/counterarguments_to_common_capitalist_economic/) [Do Capitialists deserve profit?](https://www.reddit.com/r/communism101/comments/aany6r/trying_to_get_a_friend_to_the_left/) [Is profit proportional to risk?](https://www.reddit.com/r/communism101/comments/1p7d3u/refutation_of_risk_incentive_and_entrepreneurship/cczoar0/)
 - [What is the power of the US dollar / US currency?](https://news.cgtn.com/news/2019-07-01/Why-has-the-clock-started-ticking-on-the-U-S-dollar-deathwatch--HXc5WwRLWw/index.html)
 
 ## On Nationalism and Internationalism
 
-- [Nationalism and internationalism, where do leftists stand?](http://www.reddit.com/r/communism101/comments/298jfb/nationalism_as_applied_internationalism/)
-- [Nationalism and Communism?](http://www.reddit.com/r/communism101/comments/146x30/nationalism_and_communism/)
-- [Why is patriotism bad?](http://www.reddit.com/r/communism101/comments/1nb7ke/whyis_patriotism_bad/)
+- [Nationalism and internationalism, where do leftists stand?](https://www.reddit.com/r/communism101/comments/298jfb/nationalism_as_applied_internationalism/)
+- [Nationalism and Communism?](https://www.reddit.com/r/communism101/comments/146x30/nationalism_and_communism/)
+- [Why is patriotism bad?](https://www.reddit.com/r/communism101/comments/1nb7ke/whyis_patriotism_bad/)
 - [Luna oi : how USAID serves the CIA. ](https://twitter.com/LunaOi_VN/status/1421564265530494978?s=20)
 
 ## On Women's Liberation
 
-- [Is it necessary to be a feminist to be a communist?](http://www.reddit.com/r/communism101/comments/17cn2z/is_it_necessary_to_be_a_feminist_to_be_a_communist/)
+- [Is it necessary to be a feminist to be a communist?](https://www.reddit.com/r/communism101/comments/17cn2z/is_it_necessary_to_be_a_feminist_to_be_a_communist/)
 - [How would eliminating Capitalism help women's liberation? Why did the patriarchy develop as it did?](https://www.reddit.com/r/communism101/comments/axljq5/how_would_eliminating_capitalism_help/)
 - [What is intersectionality, and how is it related to Marxism?](https://socialistworker.org/2017/08/01/a-marxist-case-for-intersectionality)
-- [What real solutions does socialism have for women, LGBTQ, etc.?](http://www.reddit.com/r/communism101/comments/1jprtn/what_real_solutions_does_socialism_have_for_women/)
-- [On Feminism](http://www.reddit.com/r/communism101/comments/1hyu6n/on_feminism/)
+- [What real solutions does socialism have for women, LGBTQ, etc.?](https://www.reddit.com/r/communism101/comments/1jprtn/what_real_solutions_does_socialism_have_for_women/)
+- [On Feminism](https://www.reddit.com/r/communism101/comments/1hyu6n/on_feminism/)
 - [Silvia Federici - Caliban and the Witch [audiobook] by dessalines](magnet:?xt=urn:btih:5235321931784e4cfb9efef3138b605164026ed9&dn=Silvia%20Federici%20-%20Caliban%20and%20the%20Witch%20%5baudiobook%5d%20by%20dessalines)
 - [Lise Vogel - Domestic Labor Revisited (an introduction to Marxist Feminism)](https://dessalines.github.io/essays/lise_vogel_domestic_labour_revisited.html)
 - [Lise Vogel - Marxism and the Oppression of Women [audiobook] by dessalines](magnet:?xt=urn:btih:2b32f06c48d977bb08f0c2eed444d4fbe281577f&dn=Lise%20Vogel%20-%20Marxism%20and%20the%20Oppression%20of%20Women%20%5baudiobook%5d%20by%20dessalines)
-- [What is proletarian/marxian feminism?](http://www.reddit.com/r/communism101/comments/18dfco/what_is_proletarianmarxian_feminism/)
-- [Hello comrades! can anyone explain the idea of marxist-feminism?](http://www.reddit.com/r/communism101/comments/2i1hlp/hello_comrades_can_anyone_explain_the_idea_of/)
+- [What is proletarian/marxian feminism?](https://www.reddit.com/r/communism101/comments/18dfco/what_is_proletarianmarxian_feminism/)
+- [Hello comrades! can anyone explain the idea of marxist-feminism?](https://www.reddit.com/r/communism101/comments/2i1hlp/hello_comrades_can_anyone_explain_the_idea_of/)
 - [What about the history of Marxist Feminism?](https://isreview.org/issue/93/womens-liberation-marxist-tradition)
 - [Thomas Sankara - Women’s liberation and African freedom struggle](http://www.themilitant.com/2011/7502/750249.html)
 - [Clara Zetkin - Lenin and the Women's Question](https://www.marxists.org/archive/zetkin/1920/lenin/zetkin1.htm)
-- [Witchcraft - Class struggle and women's liberation in the middle ages.](https://www.cvltnation.com/rebellion-of-the-damned-witchcraft-as-social-revolt-in-early-modern-france/) [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoYf68CgjTOc88IDu1mvI4_L)
+- [Witchcraft - Class struggle and women's liberation in the middle ages.](https://www.cvltnation.com/rebellion-of-the-damned-witchcraft-as-social-revolt-in-early-modern-france/) [audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoYf68CgjTOc88IDu1mvI4_L)
 - [Interviews with Women in the USSR.](https://www.reddit.com/r/communism101/comments/e30gjm/ussr_and_women_rights/f90d0r8/)
 - [What's wrong with "more women CEO" / imperial feminism?](https://twitter.com/RaniaKhalek/status/1207061598680027137?s=20)
 - [Redfightback - Misogyny is Not Caused by Biological “Sex”! The Historical-Materialist Theory of Gender](https://redfightback.org/misogyny-is-not-caused-by-biological-sex-the-historical-materialist-theory-of-gender/)
@@ -336,7 +336,7 @@
 - [How is racism related to capitalism?](http://www.historicalmaterialism.org/articles/racism-and-logic-capitalism)
 - [Was the US communist movement anti-racist?](http://socialistworker.org/2010/11/18/race-and-us-socialist-tradition)
 - [Is Racism human nature?](http://socialistworker.org/2010/10/21/the-roots-of-racism)
-- [Lenin on Anti-Semitism.](https://youtu.be/rj7iRwzX-A0)
+- [Lenin on Anti-Semitism.](https://youtube.com/watch?v=rj7iRwzX-A0)
 - [What about identity politics / race and class?](https://www.reddit.com/r/communism101/comments/bupg87/if_socialism_is_about_uniting_as_a_working_class/)
 - [How would eliminating capitalism help marginalized groups such as women, gays, racial minorities, etc?](https://www.reddit.com/r/communism101/comments/axljq5/how_would_eliminating_capitalism_help/)
 - [What about black-on-black crime (Insert racist thing here)?](https://www.politifact.com/truth-o-meter/statements/2015/nov/23/donald-trump/trump-tweet-blacks-white-homicide-victims/)
@@ -363,7 +363,7 @@
 
 - [What is the socialist stance on guns?](https://www.reddit.com/r/communism101/comments/7xz4w7/does_anybody_know_what_karl_marxs_views_on_gun/)
 - [LiberationNews - A socialist approach to gun control.](https://www.liberationnews.org/united-states-violence-socialist-approach-student-walkouts-gun-control/)
-- [Is it true that gun ownership correlates to increased murders and violence?](http://www.reddit.com/r/bestof/comments/83wax3/-/dvlkxil)
+- [Is it true that gun ownership correlates to increased murders and violence?](https://www.reddit.com/r/bestof/comments/83wax3/-/dvlkxil)
 - [Do Marxists oppose individual terrorism? (Trotsky)](https://www.marxists.org/archive/trotsky/1911/11/tia09.htm)
 - [Where do socialists stand on gun violence and acts of terrorism?](https://www.reddit.com/r/communism101/comments/73tqcn/where_should_marxists_stand_on_gun_violence/)
 - [Will the revolution necessarily be violent?](https://www.reddit.com/r/Socialism_101/comments/9vvq6k/will_the_revolution_be_necessarily_violent/e9fer95/)
@@ -379,7 +379,7 @@
 
 - [Why do communists dislike liberals?](https://www.reddit.com/r/communism101/comments/4uaxjf/whats_the_deal_with_communists_hating_liberals/), [2](https://www.reddit.com/r/me_irl/comments/cccf31/meirl/etnbaxx/)
   - [Liberalism - The tyranny of wealth](https://orgrad.wordpress.com/articles/liberalism-the-two-faced-tyranny-of-wealth/)
-  - [Losurdo - Liberalism - A counter history (audiobook)](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZsDdCDgfVRmKCV-GmtCEuI)
+  - [Losurdo - Liberalism - A counter history (audiobook)](https://youtube.com/playlist?list=PL0-IkmzWbjoZsDdCDgfVRmKCV-GmtCEuI)
 - [What about free speech?](https://www.reddit.com/r/communism101/comments/c9ee36/comment/et0a5tc/)
   - [How do communists feel about free speech? Are they okay with suppression of free speech in places like China?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/et0a5tc/)
   - [What does free speech really mean?](https://www.reddit.com/r/communism101/comments/8onmz2/free_speech_under_communism/)
@@ -389,23 +389,23 @@
   - [Why not vote for the lesser of two evils (Lesser-evilism)?](https://socialistworker.org/2003-2/465/465_11_LesserEvil.php)
   - [Can't we change the democrats from within?](https://socialistworker.org/2005-1/533/533_13_TwoParties.php)
   - [What about "moderates" like Jimmy Carter? Can't we push them to change?](https://socialistworker.org/2006-1/572/572_09_Carter.php)
-  - [Can't we use voting to solve our problem? Is violence really necessary? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) [audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
+  - [Can't we use voting to solve our problem? Is violence really necessary? What about Martin Luther King Jr. and Gandhi?](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/) [audiobook](https://youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 
 ## On Leninism
 
 - [An overview of Leninism.](https://archive.ph/khO7R)
-- [What is the vanguard party? Is one necessary?](http://www.reddit.com/r/communism101/comments/142p1b/what_is_the_vanguard_party_is_one_necessary/)
-- [Why is a vanguard party necessary in Leninism?](http://www.reddit.com/r/communism101/comments/2n5xx3/why_is_a_vanguard_party_necessary_in_leninism/)
-- [What is Vanguardism and Democratic Centralism?](http://www.reddit.com/r/communism101/comments/2eo0ft/what_is_vanguardism_and_democratic_centralism/)
-- [What is a vanguard party supposed to be like? What qualifies and doesn't qualify as a vanguard party?](http://www.reddit.com/r/communism101/comments/1b0r0o/what_is_a_vanguard_party_supposed_to_be_like_what/)
-- [Difference between leninism and Marxist-leninism?](http://www.reddit.com/r/communism101/comments/21jk1t/difference_between_leninism_and_marxistleninism/)
-- [Why does left communism reject national liberation movements?](http://www.reddit.com/r/communism101/comments/27lbru/why_does_left_communism_reject_national/)
+- [What is the vanguard party? Is one necessary?](https://www.reddit.com/r/communism101/comments/142p1b/what_is_the_vanguard_party_is_one_necessary/)
+- [Why is a vanguard party necessary in Leninism?](https://www.reddit.com/r/communism101/comments/2n5xx3/why_is_a_vanguard_party_necessary_in_leninism/)
+- [What is Vanguardism and Democratic Centralism?](https://www.reddit.com/r/communism101/comments/2eo0ft/what_is_vanguardism_and_democratic_centralism/)
+- [What is a vanguard party supposed to be like? What qualifies and doesn't qualify as a vanguard party?](https://www.reddit.com/r/communism101/comments/1b0r0o/what_is_a_vanguard_party_supposed_to_be_like_what/)
+- [Difference between leninism and Marxist-leninism?](https://www.reddit.com/r/communism101/comments/21jk1t/difference_between_leninism_and_marxistleninism/)
+- [Why does left communism reject national liberation movements?](https://www.reddit.com/r/communism101/comments/27lbru/why_does_left_communism_reject_national/)
 - [Is it true that Socialism has killed X million people, and how many has capitalism killed?](https://www.reddit.com/r/LateStageCapitalism/comments/5q2oak/someone_dies_under_socialism_no_matter_how_its/dcvu8lg/)
 - [What's the role of the state in the revolution, and what is a state?](https://archive.ph/khO7R)
-- What about the USSR, wasn't it authoritarian? Watch this [brilliant talk by Micheal Parenti](https://www.youtube.com/watch?v=z7WmYEoNtPY&feature=youtu.be), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://www.youtube.com/watch?v=51KSe96VCuI)
+- What about the USSR, wasn't it authoritarian? Watch this [brilliant talk by Micheal Parenti](https://youtube.com/watch?v=z7WmYEoNtPY), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://youtube.com/watch?v=51KSe96VCuI)
 - [What is Socialism in one country? What's the controversy around it w/ respect to Stalin and Trotsky?](https://www.reddit.com/r/communism101/comments/dsj2wv/was_lenin_in_favour_of_socialism_in_one_country/) [2](https://www.reddit.com/r/communism101/comments/7mwac2/how_do_trotskyists_or_trotsky_himself_respond_to/) [3](https://www.reddit.com/r/communism101/comments/774lmt/can_someone_eli5_the_differences_between_stalins/) [4](https://www.reddit.com/r/communism101/comments/4yhc4y/socialism_in_one_country_please_assist_me_in_the/)
 - [What did Lenin say about socialism in one country?](https://espressostalinist.com/2012/03/11/lenin-on-socialism-in-one-country-2/)
-- [Taimur Rahman - Why I am not a Trotskyist](https://www.youtube.com/watch?v=QQ9O5UPqcOE).
+- [Taimur Rahman - Why I am not a Trotskyist](https://youtube.com/watch?v=QQ9O5UPqcOE).
 - [What is Dialectical Materialism?](https://www.reddit.com/r/Socialism_101/comments/e6iyt3/can_someone_explain_the_concept_of_dialectical/f9r4iep/), [2](https://dashthered.medium.com/marxism-for-normal-people-dialectical-materialism-deb5034685a4)
 - [Is Chomsky right about Marxist-Leninists being evil?](https://www.reddit.com/r/socialism/comments/4394rt/how_do_you_guys_feel_about_chomskys_views_on/czgj95w/)
 - [Chomsky's takes - A thread](https://mobile.twitter.com/RodericDay/status/1245340127968333829?s=20)
@@ -414,15 +414,15 @@
 
 - [_The Leninist Theory of Organisation_](http://www.marxists.org/archive/mandel/196x/leninism/index.htm) by Ernest Mandel
 - [_Lenin: A Study on the Unity of his Thought_](http://www.marxists.org/archive/lukacs/works/1924/lenin/) by Georg Lukacs
-- [_Socialism: Utopian and Scientific_](https://www.marxists.org/archive/marx/works/1880/soc-utop/) by Friedrich Engels [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjobt3oC7Mhq9kHWVbBKRtyg8)
+- [_Socialism: Utopian and Scientific_](https://www.marxists.org/archive/marx/works/1880/soc-utop/) by Friedrich Engels [Audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjobt3oC7Mhq9kHWVbBKRtyg8)
 
 ## On Trotskyism
 
-- [Taimur Rahman - Why I am not a Trotskyist.](https://www.youtube.com/watch?v=QQ9O5UPqcOE)
-- [Primarily to the trotskyists: Can you explain the theories of the degenerated workers state, the deformed workers state and state capitalism and can these theories co-exist in the same country?](http://www.reddit.com/r/communism101/comments/2x5m39/primarily_to_the_trotskyists_can_you_explain_the/)
-- [What are the main Marxist analyses of fascism? and a question regarding Trotsky's](http://www.reddit.com/r/communism101/comments/2p7ozi/what_are_the_main_marxist_analyses_of_fascism_and/)
-- [Did Stalin 'betray' the revolution? (repost of deleted question)](http://www.reddit.com/r/communism101/comments/1dp6qw/did_stalin_betray_the_revolution_repost_of/)
-- [Why was "Lenin's testament" suppressed by the Party after Lenin's death?](http://www.reddit.com/r/communism101/comments/2lfc5f/why_was_lenins_testament_suppressed_by_the_party/)
+- [Taimur Rahman - Why I am not a Trotskyist.](https://youtube.com/watch?v=QQ9O5UPqcOE)
+- [Primarily to the trotskyists: Can you explain the theories of the degenerated workers state, the deformed workers state and state capitalism and can these theories co-exist in the same country?](https://www.reddit.com/r/communism101/comments/2x5m39/primarily_to_the_trotskyists_can_you_explain_the/)
+- [What are the main Marxist analyses of fascism? and a question regarding Trotsky's](https://www.reddit.com/r/communism101/comments/2p7ozi/what_are_the_main_marxist_analyses_of_fascism_and/)
+- [Did Stalin 'betray' the revolution? (repost of deleted question)](https://www.reddit.com/r/communism101/comments/1dp6qw/did_stalin_betray_the_revolution_repost_of/)
+- [Why was "Lenin's testament" suppressed by the Party after Lenin's death?](https://www.reddit.com/r/communism101/comments/2lfc5f/why_was_lenins_testament_suppressed_by_the_party/)
 - [Why was Trotsky assassinated?](https://internationalstalinsociety.wordpress.com/trotsky-the-anti-communist/)
 - https://www.marxists.org/history/etol/document/vietnam/pirani/hochiminh.htm
 
@@ -435,34 +435,34 @@
 - [Did socialism achieve anything in the USSR?](https://www.reddit.com/r/socialism/comments/86tqdd/but_socialism_doesnt_work_s/dw7qco0/)
 - [What are some of the USSR's accomplishments?](https://lemmygrad.ml/post/8636)
 - [Why do the majority of Russians regret the collapse of the USSR?](https://www.themoscowtimes.com/2017/12/25/majority-of-russians-regret-soviet-collapse-poll-says-a60039)
-- [What is Stalinism?](http://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
+- [What is Stalinism?](https://www.reddit.com/r/communism101/comments/15g4xo/what_is_stalinism/)
 - [What about Stalin? Didn't he kill millions? (Revleft podcast on Stalin)](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
-- [Was Stalin's USSR State Capitalist?](http://www.reddit.com/r/communism101/comments/383c4i/was_stalins_ussr_state_capitalist/)
+- [Was Stalin's USSR State Capitalist?](https://www.reddit.com/r/communism101/comments/383c4i/was_stalins_ussr_state_capitalist/)
 - [Lenin on State Capitalism (The Tax in Kind)](https://www.marxists.org/archive/lenin/works/1921/apr/21.htm)
 - [What about the term tankies / stalinists? What's the meaning of the term?](https://www.reddit.com/r/communism101/comments/dm2mbz/on_tankies/) [What about the 1956 Hungarian revolt?](https://www.reddit.com/r/communism101/comments/dh6nyi/why_was_the_hungarian_uprising_crushed_by_the_ussr/), [2](https://www.reddit.com/r/communism101/comments/ht4z8a/hungarian_revolution_in_1956/), [3](https://www.reddit.com/r/GenZhou/comments/ol6h3b/im_simply_wondering_where_does_the_term_tankie/h5f3s6o/). [MI6 trained the hungarian opposition to fight soviets in the 1956 revolt.](http://archive.is/fMAzu) [3](https://www.reddit.com/r/PartyofCommunistsUSA/comments/9kqkt5/anticommunist_and_antijewish_pogroms_of_hungarys/) [4](http://www3.sympatico.ca/thidas/Hungarian-history/Exodus.html), [5](https://www.reddit.com/r/GenZhou/comments/ol6h3b/im_simply_wondering_where_does_the_term_tankie/h5f3s6o/)
 - [RedSails - on "Tankies"](https://redsails.org/tankies/)
-- [Hakim - Why the USSR was socialist - A critique of left-communism.](https://www.youtube.com/watch?v=CKggZ22izDs)
+- [Hakim - Why the USSR was socialist - A critique of left-communism.](https://youtube.com/watch?v=CKggZ22izDs)
 - [Did Stalin really try to resign 4 times?](https://socialistmlmusings.wordpress.com/2017/02/23/stalins-four-attempts-at-resignation/)
-- [Why were there prison labor camps in the USSR and were they justified?](http://www.reddit.com/r/communism101/comments/2hkn8r/why_were_there_prison_labor_camps_in_the_ussr_and/)
+- [Why were there prison labor camps in the USSR and were they justified?](https://www.reddit.com/r/communism101/comments/2hkn8r/why_were_there_prison_labor_camps_in_the_ussr_and/)
 - [Did the USSR really make an alliance with the nazis? (Molotov-Ribbentrop Pact)](https://www.reddit.com/r/communism101/comments/148o4x/1939_sovietnazi_partition_of_poland/c7azkz9/), [2](https://www.telegraph.co.uk/news/worldnews/europe/russia/3223834/Stalin-planned-to-send-a-million-troops-to-stop-Hitler-if-Britain-and-France-agreed-pact.html), [3](https://www.reddit.com/r/communism101/comments/8mg59o/why_did_the_ussr_aid_nazi_germany_in_invading/), [4](https://www.reddit.com/r/communism/comments/4t1p4j/why_did_the_soviet_union_sign_the/), [5](https://i.imgur.com/cAMvQ1O.jpg)
   - [Einstein on the Molotov-Ribbentrop pact.](https://hexbear.net/comment/3582146)
-- [Did the USSR supply the Nazis with raw materials and weapons in the years before WW2?](http://www.reddit.com/r/communism101/comments/a5r9sx/-/eboru9r)
+- [Did the USSR supply the Nazis with raw materials and weapons in the years before WW2?](https://www.reddit.com/r/communism101/comments/a5r9sx/-/eboru9r)
 - [How many Jews escaped from Poland to the USSR in WW2?](https://www.jewishvirtuallibrary.org/escape-of-jews-from-poland-to-the-soviet-union)
 - [What about the Katyn Massacre?](https://www.reddit.com/r/communism101/comments/148o4x/1939_sovietnazi_partition_of_poland/c7azkz9/). [2](https://www.reddit.com/r/communism101/comments/71gikf/nkvd_and_soviet_crimes/dnalyrr/)
-- [What contributions did Stalin make to Marxism-Leninism?](http://www.reddit.com/r/communism101/comments/1ejidu/what_contributions_did_stalin_make_to/)
-- [Opinions on Defense of Stalin and Mao](http://www.reddit.com/r/communism/comments/11yp4f/opinions_on_defense_of_stalin_and_mao/)
-- [Stalin's Purges](http://www.reddit.com/r/communism/comments/qergf/stalins_purges/)
+- [What contributions did Stalin make to Marxism-Leninism?](https://www.reddit.com/r/communism101/comments/1ejidu/what_contributions_did_stalin_make_to/)
+- [Opinions on Defense of Stalin and Mao](https://www.reddit.com/r/communism/comments/11yp4f/opinions_on_defense_of_stalin_and_mao/)
+- [Stalin's Purges](https://www.reddit.com/r/communism/comments/qergf/stalins_purges/)
 - [Was Stalin / the USSR anti-Semitic? Are the communists the same as the nazis with regards to anti-semitism? What about the doctors plot?](https://www.reddit.com/r/communism101/comments/b2xtna/was_stalin_antisemitic/) [2](https://www.reddit.com/r/communism101/comments/grc3u1/antisemitism_in_the_ussr/fry3f52/) [3](https://www.reddit.com/r/DebateCommunism/comments/pr1zpg/how_did_the_jews_fare_under_communism/hdfmhs9/), [4](https://jewishcurrents.org/the-double-genocide-theory)
-- [What are some legitimate criticisms of Stalin?](http://www.reddit.com/r/communism/comments/10chdq/what_are_some_legitimate_criticisms_of_stalin/)
+- [What are some legitimate criticisms of Stalin?](https://www.reddit.com/r/communism/comments/10chdq/what_are_some_legitimate_criticisms_of_stalin/)
 - [Why did the USSR invade Finland in 1939?](https://www.reddit.com/r/GenZhou/comments/r44hdz/why_did_ussr_finland_in_1939_did_finland_provoke/)
-- [I need clarification on myths/truths of the USSR/Soviet Union.](http://www.reddit.com/r/communism101/comments/2dzicb/i_need_clarification_on_mythstruths_of_the/)
-- [I'm fascinated by the idea of communism...](http://www.reddit.com/r/communism101/comments/21s0dw/im_fascinated_by_the_idea_of_communism/)
-- [Was the Soviet Union democratic? If so to what extent?](http://www.reddit.com/r/communism101/comments/2i0p0z/was_the_soviet_union_democratic_if_so_to_what/)
-- [How necessary or productive were the torture, mass executions of captives, and labor camps of 20th-century socialist governments and revolutions?](http://www.reddit.com/r/communism101/comments/2ksxum/how_necessary_or_productive_were_the_torture_mass/)
-- [Why did Lenin abolish factory committees established by workers?](http://www.reddit.com/r/communism101/comments/1ypaur/why_did_lenin_abolish_factory_committees/)
-- [How much of the USSR's "dark history" under Stalin can actually be attributed to Yezhov?](http://www.reddit.com/r/communism101/comments/2qlm9z/how_much_of_the_ussrs_dark_history_under_stalin/)
-- [Forced Deportation Under Stalin](http://www.reddit.com/r/communism101/comments/316tey/forced_deportation_under_stalin/), [2](https://www.reddit.com/r/DebateCommunism/comments/ddedgw/marxistleninistswhat_do_you_think_of_the/f2hwvlm/)
-- [Did the Soviet Union manufacture a famine in Ukraine? What about the Holodomor?](https://reddit.com/r/socialism/comments/a7njo6/66_of_russians_say_that_they_regret_that_the_ussr/ec4skiw?context=3), [2](https://www.reddit.com/r/communism101/comments/1c4to0/is_there_a_different_aspectpov_to_the_holodomor/),[3](https://www.reddit.com/r/communism101/comments/79nmdh/red_famine_by_anne_applebaum_what_is_this_all/),[4](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_the_soviet_union_manufactured_a_famine_in_ukraine),[5](https://sputniknews.com/politics/201508091025560345/),[6](https://www.reddit.com/r/GenZhou/comments/r42840/what_were_the_main_causes_of_the_ukraine_famine/), [A podcast on Stalin, Holodomor, and the purges.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
+- [I need clarification on myths/truths of the USSR/Soviet Union.](https://www.reddit.com/r/communism101/comments/2dzicb/i_need_clarification_on_mythstruths_of_the/)
+- [I'm fascinated by the idea of communism...](https://www.reddit.com/r/communism101/comments/21s0dw/im_fascinated_by_the_idea_of_communism/)
+- [Was the Soviet Union democratic? If so to what extent?](https://www.reddit.com/r/communism101/comments/2i0p0z/was_the_soviet_union_democratic_if_so_to_what/)
+- [How necessary or productive were the torture, mass executions of captives, and labor camps of 20th-century socialist governments and revolutions?](https://www.reddit.com/r/communism101/comments/2ksxum/how_necessary_or_productive_were_the_torture_mass/)
+- [Why did Lenin abolish factory committees established by workers?](https://www.reddit.com/r/communism101/comments/1ypaur/why_did_lenin_abolish_factory_committees/)
+- [How much of the USSR's "dark history" under Stalin can actually be attributed to Yezhov?](https://www.reddit.com/r/communism101/comments/2qlm9z/how_much_of_the_ussrs_dark_history_under_stalin/)
+- [Forced Deportation Under Stalin](https://www.reddit.com/r/communism101/comments/316tey/forced_deportation_under_stalin/), [2](https://www.reddit.com/r/DebateCommunism/comments/ddedgw/marxistleninistswhat_do_you_think_of_the/f2hwvlm/)
+- [Did the Soviet Union manufacture a famine in Ukraine? What about the Holodomor?](https://www.reddit.com/r/socialism/comments/a7njo6/66_of_russians_say_that_they_regret_that_the_ussr/ec4skiw?context=3), [2](https://www.reddit.com/r/communism101/comments/1c4to0/is_there_a_different_aspectpov_to_the_holodomor/),[3](https://www.reddit.com/r/communism101/comments/79nmdh/red_famine_by_anne_applebaum_what_is_this_all/),[4](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_the_soviet_union_manufactured_a_famine_in_ukraine),[5](https://sputniknews.com/politics/201508091025560345/),[6](https://www.reddit.com/r/GenZhou/comments/r42840/what_were_the_main_causes_of_the_ukraine_famine/), [A podcast on Stalin, Holodomor, and the purges.](https://revolutionaryleftradio.libsyn.com/joseph-mother-fucking-stain)
 - [Did Stalin / the USSR intentionally wreck the anarchists in the Spanish Civil War / Revolutionary Catalonia?](https://www.reddit.com/r/communism101/comments/1e1bhf/what_was_the_role_of_ussr_in_revolutionary_spain/c9w2jva/) , [2](https://www.reddit.com/r/communism101/comments/1jlpyu/what_contributed_to_the_fallingout_between/cbg3v0p/)
 - [Did the early USSR repress anarchists? What about Nestor Makhno and the Free territory of Ukraine?](https://www.reddit.com/r/communism/comments/64wkgf/polemic_the_anarchokulak_bandits_of_russia_and/)
   - [A brief history of Nestor Makhno.](https://archive.fo/B6Mpi)
@@ -509,7 +509,7 @@
 
 ### [Was Soviet Socialism an economic failure?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_4.3A_socialism_is_an_economic_failure)
 
-- [_Do Publicly Owned, Planned Economies Work?_](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/) by Stephen Gowans, [Audiobook](https://www.youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
+- [_Do Publicly Owned, Planned Economies Work?_](http://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/) by Stephen Gowans, [Audiobook](https://youtube.com/watch?v=mYf3gZZFa0k&list=PL0-IkmzWbjobDdDbSC_YgZfV94BQiRIB8)
 - [_From Farm to Factory_](http://gen.lib.rus.ec/book/index.php?md5=fa5b6de5135f49269cd2b35b727236f7) by Robert Allen
 - [_The Rise of Socialism_](http://www.marxists.org/archive/foster/1932/toward/03.htm) by William Foster
 - [_We Lived Better Then_](http://gowans.wordpress.com/2011/12/20/we-lived-better-then/) by Stephen Gowans
@@ -536,28 +536,28 @@
 
 ### Further reading
 
-- [A collection of Soviet history books on Stalin and Stalinism.](http://www.reddit.com/r/communism/comments/1hzwl3/a_collection_of_soviet_history_books_on_stalin/)
+- [A collection of Soviet history books on Stalin and Stalinism.](https://www.reddit.com/r/communism/comments/1hzwl3/a_collection_of_soviet_history_books_on_stalin/)
 - [_The Triumph of Evil, Chapter 1: The Documented Facts About Eastern Europe and Communism_](http://redscans.files.wordpress.com/2011/09/austin-murphy-the-triumph-of-evil.pdf) by A. Murphy
 
 ## On Mao, Maoism, and Marxism-Leninism-Maoism, and the PRC
 
-- [What is Maoism?](http://www.reddit.com/r/communism101/comments/139sid/what_is_maoism/)
-- [How many peopled really died during the Great Leap Forward?](http://www.reddit.com/r/communism/comments/39w9w0/how_many_peopled_really_died_during_the_great/)
+- [What is Maoism?](https://www.reddit.com/r/communism101/comments/139sid/what_is_maoism/)
+- [How many peopled really died during the Great Leap Forward?](https://www.reddit.com/r/communism/comments/39w9w0/how_many_peopled_really_died_during_the_great/)
 - [Did Mao really kill millions of people in the great leap forward?](https://monthlyreview.org/commentary/did-mao-really-kill-millions-in-the-great-leap-forward#.T5wbUSfm_x8.reddit)
 - [What about the mass killing of landlords? What about landlordism?](https://www.reddit.com/r/communism101/comments/bvk5rd/what_do_you_think_of_the_mass_killing_of/)
 - [What about the famines? Did Mao kill millions?](https://www.reddit.com/r/communism/comments/11yp4f/opinions_on_defense_of_stalin_and_mao/c6qobhh/)
-- [Why did Mao launch the Cultural Revolution? What was he trying to achieve as distinct from the Revolution the Chinese Communists had already won? To what extent did he succeed? Does it have any continuing impact? (x-post from /r/AskHistorians)](http://www.reddit.com/r/communism101/comments/23958h/why_did_mao_launch_the_cultural_revolution_what/)
-- [What was the cultural revolution? A Documentary series on it, called How yukong moved the mountains](https://www.youtube.com/watch?v=zLN-jRZRPrc&list=PLMt0ncvnKoz3ar_f78qBeA29-0kwrsXvT)
+- [Why did Mao launch the Cultural Revolution? What was he trying to achieve as distinct from the Revolution the Chinese Communists had already won? To what extent did he succeed? Does it have any continuing impact? (x-post from /r/AskHistorians)](https://www.reddit.com/r/communism101/comments/23958h/why_did_mao_launch_the_cultural_revolution_what/)
+- [What was the cultural revolution? A Documentary series on it, called How yukong moved the mountains](https://youtube.com/watch?v=zLN-jRZRPrc&list=PLMt0ncvnKoz3ar_f78qBeA29-0kwrsXvT)
 - [What are Mao's contributions to Marxism? (MLM)](https://jiminykrix.wordpress.com/2016/09/14/what-maoism-has-to-offer-the-world-and-why-so-many-former-non-communists-think-its-dope/)
 - [What's the difference between MZT (Mao-Zedong-Thought) and MLM (Marxism-Leninism-Maoism)? How does Socialism with Chinese Characteristics (SWCC) differ from MLM? Does modern China uphold Mao? What about the cultural revolution?](http://web.archive.org/web/20210218232858/http://cpcchina.chinadaily.com.cn/fastfacts/2010-10/18/content_11425373.htm) [2](https://leohezhao.medium.com/wrong-turns-on-the-revolutionary-road-ultra-leftism-and-the-cultural-revolution-2e090793dfad) [3](https://www.greanvillepost.com/2018/10/30/the-long-game-and-its-contradictions/) [4](https://www.reddit.com/r/asktankies/comments/qts7sn/what_is_the_difference_between_maoism_and/hkom8qx/)
-- [A lecture on MZT, and the thought of the first generation leaders of the PRC. Also on the origins of the term, "Maoism".](https://www.youtube.com/watch?v=lf3VW9wzl1g)
-- [Where should I start with Mao?](http://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
-- [Debastardising Mao.](http://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
-- [Was Sun Yat Sen a communist?](https://www.youtube.com/watch?v=3kvAMVX0bjE)
+- [A lecture on MZT, and the thought of the first generation leaders of the PRC. Also on the origins of the term, "Maoism".](https://youtube.com/watch?v=lf3VW9wzl1g)
+- [Where should I start with Mao?](https://www.reddit.com/r/communism101/comments/1dmxcl/where_should_i_start_with_mao/)
+- [Debastardising Mao.](https://www.reddit.com/r/communism101/comments/1ecf32/debastardising_mao/)
+- [Was Sun Yat Sen a communist?](https://youtube.com/watch?v=3kvAMVX0bjE)
 - [Deng on why Mao's legacy must be upheld.](https://redsails.org/deng-and-fallaci/)
 - [Deng Xiaoping - a visionary marxist-leninist.](https://twitter.com/RodericDay/status/1353776771573948418?s=20)
 - [Deng - We will always side with the third world.](https://www.reddit.com/r/GenZedong/comments/p9d2zy/117_years_ago_a_national_hero_was_born/h9wxz32/)
-- [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](http://www.michaelparenti.org/Tibet.html) [audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZjKom_Qj0jcDReaMb_r52z)
+- [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](http://www.michaelparenti.org/Tibet.html) [audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoZjKom_Qj0jcDReaMb_r52z)
 - [Tibet, China, and the Violent reaction of a wealthy elite.](https://historicly.substack.com/p/tibet-china-and-the-violent-reaction)
 - [Mao's liberation of Tibet](https://stalinsmoustache.org/2018/09/19/maos-liberation-of-tibet/)
 - [Dalai Lama - Forgive Pinochet](https://www.cbc.ca/news/world/forgive-pinochet-says-dalai-lama-1.187150)
@@ -565,7 +565,7 @@
 - [Dalai Lama - If the next Dalai Lama is a female, her face must be attractive, otherwise its not much use... she should use makeup.](https://twitter.com/DanielDumbrill/status/1345465786907774976?s=20)
 - [Did China really try to save the GDR?](https://www.reddit.com/r/Sino/comments/dsvsf9/newly_declassified_documents_released_by_german/)
 - [Didn't China cause the Coronavirus? A Megathread.](https://www.reddit.com/r/communism/comments/fi390n/china_and_the_coronavirus/)
-- [What about China's coronavirus response? Is there really any sinophobia?](https://www.reddit.com/r/communism/comments/evwls8/megathread_addressing_sinophobia_and_chinas/) [2](https://amp.theguardian.com/world/2020/jan/28/canada-chinese-community-battles-racist-backlash-amid-coronavirus-outbreak?__twitter_impression=true) [3](https://www.youtube.com/watch?v=GasWB8s-tqs&feature=youtu.be)
+- [What about China's coronavirus response? Is there really any sinophobia?](https://www.reddit.com/r/communism/comments/evwls8/megathread_addressing_sinophobia_and_chinas/) [2](https://amp.theguardian.com/world/2020/jan/28/canada-chinese-community-battles-racist-backlash-amid-coronavirus-outbreak?__twitter_impression=true) [3](https://youtube.com/watch?v=GasWB8s-tqs)
 - [The New York Times anti-China Syndrome (about the coronavirus)](https://fair.org/home/nyts-china-syndrome/)
 - [Debunking NYTimes anti-china covid-19 talking points, especially about Dr Li.](https://mronline.org/2020/03/05/yellow-caking-an-epidemic/)
 - [NYT misquotes WHO doctors who went to China, the doctors refute them.](https://twitter.com/catcontentonly/status/1360731850034053120?s=20)
@@ -573,7 +573,7 @@
 - [An April 2020 poll of Republicans and Democrats finds that 77% blame China for coronavirus, with 54% saying China owes reparations. ](http://archive.is/FB7KP)
 - [Vijay Prashad and Qiao Collective - On the covid timeline, and US Sinophobia.](https://www.qiaocollective.com/home/conversation-vijay-prashad)
 - [Did China hide covid?](https://www.peoplesworld.org/article/trumps-blame-china-campaign-is-an-effort-to-dodge-responsibility/)
-- [Taimur Rahman - How China beat the Coronavirus.](https://www.youtube.com/watch?v=HN8bKQOyw_Q)
+- [Taimur Rahman - How China beat the Coronavirus.](https://youtube.com/watch?v=HN8bKQOyw_Q)
 - [What about the suicide nets at Foxconn?](https://www.reddit.com/r/Sino/comments/dnafal/question_suicide_nets/)
 - [Is china persecuting gay people?](https://twitter.com/isgoodrum/status/1366919923390324737)
 - [Deng Xiaoping - on the question of national minorities and Han chauvinism](https://redsails.org/the-question-of-minority-nationalities-in-the-southwest/)
@@ -586,49 +586,49 @@
 - [Is modern day china communist? Is it staying true to communist values?](https://www.reddit.com/r/communism101/comments/91liw2/how_is_china_staying_true_to_communist_values/e2z3kzu/)
 - [Didn't China go Capitalist with Deng Xiaoping? Didn't it liberalize its economy? Is China's drastic decrease in poverty a result of the increase in free market capitalist policies?](https://www.reddit.com/r/DebateCommunism/comments/b3gjfe/chinas_drastic_decrease_in_poverty_is_a_result_of/ey8depl/?context=3)
 - [Is the CPC committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
-- [The Long Game and Its Contradictions](https://www.greanvillepost.com/2018/10/30/the-long-game-and-its-contradictions/). [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoali1j-mai9MtggjA-Vzc4x)
+- [The Long Game and Its Contradictions](https://www.greanvillepost.com/2018/10/30/the-long-game-and-its-contradictions/). [Audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoali1j-mai9MtggjA-Vzc4x)
 - [The myth of Chinese state capitalism. Did Deng really betray Chinese socialism?](http://www.greanvillepost.com/2015/08/20/the-myth-of-chinese-capitalism-2/)
-- [Tsinghua University- Is Socialism with Chinese Characteristics real socialism, or is it state Capitalism?](https://www.youtube.com/watch?v=62mvMWJHt8g)
+- [Tsinghua University- Is Socialism with Chinese Characteristics real socialism, or is it state Capitalism?](https://youtube.com/watch?v=62mvMWJHt8g)
 - [Isn't China revisionist for having a capitalist sector of the economy, and working with capitalists? Why isn't it fully planned like the USSR was?](https://lemmygrad.ml/comment/185239)
 - [Castro on why both China and Vietnam are socialist countries.](https://redsails.org/fidel-and-gawronski/)
 - [Roderic Day - China has billionaires.](https://redsails.org/china-has-billionaires)
-- [What is socialism with Chinese characteristics (SWCC\)?](https://www.youtube.com/watch?v=Ff_ZkwJmfWQ)
+- [What is socialism with Chinese characteristics (SWCC\)?](https://youtube.com/watch?v=Ff_ZkwJmfWQ)
 - [How is SWCC not revisionist? How is it any different from Gorbachev's market reforms?](https://lemmygrad.ml/post/229830), [2](https://lemmygrad.ml/post/231549)
 - [Domenico Losurdo - is China state capitalist?](https://redsails.org/losurdo-on-china/), [2](https://redsails.org/flight-from-history/#the-peoples-republic-of-china-and-the-historical-analysis-of-socialism)
 - [Did Lenin say anything about Market Socialism, or productivism?](https://www.reddit.com/r/DebateCommunism/comments/quevn9/what_are_actually_existing_socialist_countries_as/hkqprfx/)
-- [Vijay Prashad - Is China capitalist?](https://www.youtube.com/watch?v=3X7U2W6ryjE)
+- [Vijay Prashad - Is China capitalist?](https://youtube.com/watch?v=3X7U2W6ryjE)
 - [Why do Chinese billionaires keep ending up in prison?](https://www.theatlantic.com/international/archive/2013/01/why-do-chinese-billionaires-keep-ending-up-in-prison/272633/) [Why are many billionaires and CEOs going missing?](https://www.independent.co.uk/news/business/news/china-billionaires-ceo-disappearing-missing-station-sanctioned-abductions-beijing-security-agencies-a7564896.html) [China sentences Ex-Chairman of a major bank, guilty of embezzling ~$100M USD, to death in 2019.](https://www.bloomberg.com/news/articles/2019-12-27/china-sentences-ex-chairman-of-troubled-hengfeng-bank-to-death)
-- [China cracks down on billionaires - Ben Norton interviews Ian Goodrum](https://youtu.be/TiJ2-Uw_0tA)
+- [China cracks down on billionaires - Ben Norton interviews Ian Goodrum](https://youtube.com/watch?v=TiJ2-Uw_0tA)
 - [Do capitalists control the communist party? No](https://medium.com/@leohezhao/the-long-game-and-its-contradictions-8ff92823cf68?postPublishedType=repub), [pic](https://cdn-images-1.medium.com/max/2087/1*A-SuzTx-HlyvrIPKaOTOHA.jpeg)
 - [How the State runs business in China.](https://www.theguardian.com/world/2019/jul/25/china-business-xi-jinping-communist-party-state-private-enterprise-huawei)
 - [50% of the economy is in the socialist public sector and directly follows the plan (40% if you ignore the agricultural sector). 20 to 30% is inside the state capitalist sector, which is the sector partially or totally owned by domestic capitalists but run by the CPC or by local workers councils. The rest is made up of the small bourgeois ownership like in the NEP.](https://chinareporting.blogspot.com/2009/11/class-nature-of-chinese-state-critique_26.html)
 - [China pushing forward Marxist training in colleges, attracts 1M students.](http://www.globaltimes.cn/content/988795.shtml)
 - [China tells the US that it has no plans to weaken the role of its State-Owned-Enterprises, one of the US's main demands in the trade war. "Beijing plans to make the state economy stronger, bigger, and better."](https://www.scmp.com/economy/china-economy/article/3038993/china-wont-give-its-state-led-economic-model-top-trade?fbclid=IwAR2ys8_Y_6Nxq2x__BM4SoKdR63it7X_JRy1XJdkLw4QrK0VQ77mXYyrcks)
 - [Unlike the US, China refuses to bail out over-leveraged property developers, and lets them go bankrupt.](https://www.reddit.com/r/Sino/comments/pnqrf7/whats_happening_with_evergrande_will_it_have_a/)
-- [A China misinformation Megathread.](https://old.reddit.com/r/communism/comments/c2b7ma/china_megathread_everything_a_leftist_must_know/)
+- [A China misinformation Megathread.](https://www.reddit.com/r/communism/comments/c2b7ma/china_megathread_everything_a_leftist_must_know/)
 
 ### Is China a Democracy?
 
 - [Is China a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
 - [Workplace democracy in action in the CPC.](https://archive.ph/DwD1n)
 - [What kind of democracy does China have, and how is it different from the west?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answers/81676052?share=0ac8c628&srid=JMzz)
-- In contrast to low US political approval ratings, 96% of Chinese are satisfied with the national government (Edelmans 2016). World Values Surveys says that 83% think the country is run for their benefit rather than for the benefit of special groups. [A Harvard research center study of long-term public opinion survey finds that > 95% of Chinese citizens approved their government.](https://news.harvard.edu/gazette/story/2020/07/long-term-survey-reveals-chinese-government-satisfaction/) [How is this possible in a one-party state? (TED talk by Eric X Li)](https://www.youtube.com/watch?v=s0YjL9rZyR0)
-- [How does China’s political system work?](https://www.youtube.com/watch?v=Qu4QTxl9GVw)
-- [How are Chinese leaders elected / chosen? How meristocratic is the system? How do elections differ from those in western bourgeois democracies?](https://www.youtube.com/watch?v=TgpQxVCekgw)
+- In contrast to low US political approval ratings, 96% of Chinese are satisfied with the national government (Edelmans 2016). World Values Surveys says that 83% think the country is run for their benefit rather than for the benefit of special groups. [A Harvard research center study of long-term public opinion survey finds that > 95% of Chinese citizens approved their government.](https://news.harvard.edu/gazette/story/2020/07/long-term-survey-reveals-chinese-government-satisfaction/) [How is this possible in a one-party state? (TED talk by Eric X Li)](https://youtube.com/watch?v=s0YjL9rZyR0)
+- [How does China’s political system work?](https://youtube.com/watch?v=Qu4QTxl9GVw)
+- [How are Chinese leaders elected / chosen? How meristocratic is the system? How do elections differ from those in western bourgeois democracies?](https://youtube.com/watch?v=TgpQxVCekgw)
 - [Who runs China? Makeup of the national people's congress.](https://news.cgtn.com/event/2019/whorunschina/index.html)
 - [US policy-makers are misjudging popular support China's Government.](https://www.marketwatch.com/story/these-numbers-show-just-how-much-the-lives-of-everyday-chinese-have-improved-in-recent-decades-2019-10-02)
 - [The american dream is alive... in China.](https://www.nytimes.com/interactive/2018/11/18/world/asia/china-social-mobility.html)
 
 ### Workers rights
 
-- [The real wage (IE the wage adjusted for the prices you pay) has gone up 4x in the past 25 years, more than any other country. This is staggering considering it's the most populous country on the planet. The US real wage by comparison is lower in 2019 than it was in 1973.](https://www.youtube.com/watch?v=Cw8SvK0E5dI)
+- [The real wage (IE the wage adjusted for the prices you pay) has gone up 4x in the past 25 years, more than any other country. This is staggering considering it's the most populous country on the planet. The US real wage by comparison is lower in 2019 than it was in 1973.](https://youtube.com/watch?v=Cw8SvK0E5dI)
 - [Workplace democracy in action in the CPC.](https://archive.ph/DwD1n)
 - [US Life expectancy peaked in 2015, is on the decline, and is now lower than in China.](https://www.businessinsider.com/china-boasts-that-its-healthy-life-expectancy-beats-the-us-is-correct-2018-5) [2](http://www.xinhuanet.com/english/2019-09/07/c_138372963.htm)
-  - How [healthcare works in China (refuting a fearmongering NYT video about health care in China)](https://www.youtube.com/watch?v=mvpo2jv5eqI).
+  - How [healthcare works in China (refuting a fearmongering NYT video about health care in China)](https://youtube.com/watch?v=mvpo2jv5eqI).
   - [Uninsured Chinese citizens pay an average of $5-7 to see a specialist (the majority of hospital visits ), and with insurance, its free. 95% of Chinese citizens have insurance](https://hotpot.team/new-york-times-lies/)
 - [Wages themselves are forced to rise in the private sector by the CPC (+16% every years, +400% since 1980) who force the capitalists to accept the presence of CPC chapters who represent the interest of the workers, increasing workers control even in the capitalist parts of the economy. ](https://www.workers.org/2015/07/21/china-rising-wages-and-worker-militancy/#.WXOlQtPytsM)
 - [Eliminated Urban Poverty. On track to eliminate all poverty within a decade.](https://www.theguardian.com/business/economics-blog/2015/aug/19/china-poverty-inequality-development-goals)
-- [CGTN documentary - China's war on poverty](https://www.youtube.com/watch?v=nuaJGPZCBYU)
+- [CGTN documentary - China's war on poverty](https://youtube.com/watch?v=nuaJGPZCBYU)
 - [Trade union laws of the PRC.](https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/30352/118793/F1165849917/CHN30352%202.pdf)
 - [The west views China as one big sweatshop, but the actual working hours aren't much more than anywhere else. The average for a migrant worker (most vulnerable to exploitation as they are traveling from the countryside) is 8.8 hours, little under an hour more than a typical working day. Labor strikes are rarely suppressed, and usually get the support of the PRC.](https://www.forbes.com/sites/mitchfree/2013/07/11/held-hostage-entrepreneurs-uneasy-over-chinese-govt-inaction/#2431f5463de4)
 - [The workplace safety standards of China are better than in the capitalist countries of the West like in Australia who have an higher rate of work related death despite having a GDP per capita 3-5 times higher.](http://www.trotskyistplatform.com/workplace-safety-now-better-in-china-than-in-australia/)
@@ -637,7 +637,7 @@
 - [In a typical example of proletarian police accountability, the CPC sentences a police officer to death for killing a pregnant woman in a restaurant in southern China.](https://www.bbc.com/news/world-asia-26230765)
 - [The US is losing to China: “Washington is actually far more corrupt than Beijing. If you want to get something done in Washington, you do what you do in Jakarta: just slip some money to the right people.”](https://www.forbes.com/sites/eamonnfingleton/2014/11/12/obama-in-china-taking-candy-from-a-baby/#27d9d3c1231e)
 - [Hudson and Escobar - The consequences of moving from Industrial to Finance Capital in the US](https://consortiumnews.com/2021/01/07/the-consequences-of-moving-from-industrial-to-financial-capitalism/)
-- [Hudson and Escobar - China, the US, Russia - Finance capitalism, Industrial capitalism, and rent seeking](https://www.youtube.com/watch?v=IquO_TcMZIQ)
+- [Hudson and Escobar - China, the US, Russia - Finance capitalism, Industrial capitalism, and rent seeking](https://youtube.com/watch?v=IquO_TcMZIQ)
 
 ### Is China destroying the environment?
 
@@ -649,14 +649,14 @@
 ### Is China Imperialist?
 
 - [Debunking the claim that "China is Imperialist"](https://web.archive.org/web/20200218214921/https://medium.com/@rainershea612/catagorically-debunking-the-claim-that-china-is-imperialist-a9ae7b280a44)
-- [The demeanor of Chinese leaders (Xi Jinping) vs Western leaders (Nancy Pelosi) towards African nations. One of the reasons why African nations favor China instead of the West.](https://www.reddit.com/r/GenZedong/comments/kxabq5/the_demeanor_of_chinese_leaders_xi_jinping_vs/) [Full video here](https://www.youtube.com/watch?v=P5uzxV8ub9k)
+- [The demeanor of Chinese leaders (Xi Jinping) vs Western leaders (Nancy Pelosi) towards African nations. One of the reasons why African nations favor China instead of the West.](https://www.reddit.com/r/GenZedong/comments/kxabq5/the_demeanor_of_chinese_leaders_xi_jinping_vs/) [Full video here](https://youtube.com/watch?v=P5uzxV8ub9k)
 - [An African leader on the hypocrisy of those saying China is imperialist.](https://www.reddit.com/r/Sino/comments/pn5bmz/african_leader_calls_out_western_hypocrisy_when/)
-- [China africa panel: if you want actual infrastructure, you go to China, not the west. ](https://m.youtube.com/watch?v=TPXS0OZikzs&feature=youtu.be)
+- [China africa panel: if you want actual infrastructure, you go to China, not the west. ](https://youtube.com/watch?v=TPXS0OZikzs)
 - [Is China really imperialist? What's the difference between what Europe did to Africa, and what China is doing?](https://www.reddit.com/r/GenZedong/comments/g0lp70/people_are_saying_that_china_is_colonialist_by/fnanq5x/)
 - [Five imperialist myths about China's role in Africa.](https://liberationschool.org/five-imperialist-myths-about-chinas-role-in-africa/)
-- [Evo Morales - Why China and Russia aren't imperialist, but the US is.](https://www.youtube.com/watch?v=f-zG2eFsNoc)
+- [Evo Morales - Why China and Russia aren't imperialist, but the US is.](https://youtube.com/watch?v=f-zG2eFsNoc)
 - [US air force veteran Bill Brown breaks down the history of anti-chinese propaganda, and why China is not colonialist like the west.](https://twitter.com/thouse_opinions/status/1371723368832004099)
-- [Yanis Varoufakis on China's foreign policy dealings with Greece and Africa](https://www.youtube.com/watch?v=PBgbYQ5QAM0).
+- [Yanis Varoufakis on China's foreign policy dealings with Greece and Africa](https://youtube.com/watch?v=PBgbYQ5QAM0).
 - [Vijay Prashad and Qiao Collective - Is China imperializing Africa?](https://www.qiaocollective.com/home/conversation-vijay-prashad)
 - [Danny Haiphong from BlackAgenaReport interview with Anya Parampil from thegrayzone: on the new cold war, and a myriad of lies about China.](https://thegrayzone.com/2020/08/24/42711/)
 - [The Belt and Road Initiative: the antithesis of Colonialism.](https://qutnyti.wordpress.com/2018/07/16/belt-road-initiative-an-anti-thesis-of-colonialism/)
@@ -675,9 +675,9 @@
 
 ### Is China anti-LGBT / Homophobic / anti-feminist?
 
-- [CGTN: Jin Xing: Transgender woman talks on life challenges faced in China, guts to correct them](https://www.youtube.com/watch?v=p-OlO8QZ70s)
-- [CGTN: Gay Leap Forward: LGBT in China](https://www.youtube.com/watch?v=doAh4ZhGhsY)
-- [AsianBoss: Chinese React To Social Media Ban On Gay Content](https://www.youtube.com/watch?v=sTzgE1nvxZs)
+- [CGTN: Jin Xing: Transgender woman talks on life challenges faced in China, guts to correct them](https://youtube.com/watch?v=p-OlO8QZ70s)
+- [CGTN: Gay Leap Forward: LGBT in China](https://youtube.com/watch?v=doAh4ZhGhsY)
+- [AsianBoss: Chinese React To Social Media Ban On Gay Content](https://youtube.com/watch?v=sTzgE1nvxZs)
 - [Is it safe to be trans in China?](https://twitter.com/SeraJadeAtPSA/status/1433816613309014016)
 - [What about the ban on gay / effeminate men on TV?](https://twitter.com/Mango_Press_/status/1433821330315653125). [2](https://www.globaltimes.cn/page/202109/1233146.shtml) [3](https://chinadigitaltimes.net/2021/08/translation-everyone-can-sense-that-a-profound-transformation-is-underway/), [4](https://www.reddit.com/r/InformedTankie/comments/phbsea/this_recent_essay_is_circulating_widely_all_over/)
 - [A history of feminism in China](https://lemmygrad.ml/post/412635/comment/306770)
@@ -688,8 +688,8 @@
 - The extradition bill came about when a [man from Hong Kong killed his pregnant girlfriend while in holiday in Taiwan.](https://www.reddit.com/r/communism101/comments/c1nxga/opinions_on_hong_kong_protests/ered9wl/) [1](https://www.scmp.com/news/hong-kong/law-and-crime/article/3008099/sentence-man-who-killed-girlfriend-taiwan-sets) He fled back to Hong Kong. Taiwan asked for him to be extradited, but Hong Kong did not have an extradition treaty with Taiwan, so the administration in Hong Kong proposed a bill that would allow Taiwan, the PRC, and Macau to request extradition, which the judiciary in Hong Kong can then approve. [There were 49 crimes that were to be included in the bill that would allow extradition requests.](https://qz.com/1636663/the-37-crimes-included-in-hong-kongs-proposed-extradition-law/) Some of these were financial crimes (Hong Kong is a popular tax haven for billionaires), and the Capitalists in Hong Kong shit themselves because they are often in breach of PRC law, but protected by Hong Kong's independence as a Special Administrative Region. This bill is completely reasonable, and any fears of the PRC taking over or of the extradition of 'political' criminals is unfounded. The US is encouraging the organizers to keep protesting in order to provoke the administration in Hong Kong to crack down on them, so that they can blame China and keep up their propaganda narrative that 'CHINA BAD!' [More here.](https://www.scmp.com/news/hong-kong/law-and-crime/article/3008099/sentence-man-who-killed-girlfriend-taiwan-sets)
 - [AntiConquista - the History of Hong Kong, and the nature of the protest movement, and who's funding it.](https://youtube.com/watch?v=hY8rCElJ4nQ)
 - [The Hong Kong Protests: Irrational chaos](https://youtube.com/watch?v=PCokRDKR89c).
-- [Bayarea415 on The Hong Kong Protests, and color revolutions](https://www.youtube.com/watch?v=ClKkoteV1ts).
-- [Hong Kong - The Protest movement unmasked. (Also gets into the inequality and housing crisis driving the movement)](https://youtube.com/watch?v=0CUgy-Hzyfo&local=1&nojs=0&player_style=youtube&quality=dash)
+- [Bayarea415 on The Hong Kong Protests, and color revolutions](https://youtube.com/watch?v=ClKkoteV1ts).
+- [Hong Kong - The Protest movement unmasked. (Also gets into the inequality and housing crisis driving the movement)](https://youtube.com/watch?v=0CUgy-Hzyfo)
 - [The US has admitted that it’s funding the protests](https://www.globalresearch.ca/us-now-admits-funding-occupy-central-hong-kong/5405680). [Hong Kong Human Rights Monitor and HKCTU, along with 68 other Hong Kong “democratic right” organizations earn hundreds of thousands every year from State Department funded NGOs.](https://twitter.com/redniangzijun/status/1137901349750939648)
 - [American government officials caught ON CAMERA colluding with HK protest leaders.](https://www.reddit.com/r/socialism/comments/cndqwh/hk_protest_leaders_caught_meeting_with_us_chief/?utm_source=share&utm_medium=ios_app)
 - [American Government NGOs fuel Hong Kong Protests](https://www.mintpressnews.com/hong-kong-protests/259202/).
@@ -709,7 +709,7 @@
 - [China’s Social Credit System, and how it isn't actually Black Mirror and how you should stop using facile pop cultural references to demonize countries you haven't bothered to understand.](https://mobile.twitter.com/isgoodrum/status/975536363364696064?lang=en)
 - [The US has more CCTV's per capita than China.](https://aithority.com/news/top-10-countries-and-cities-by-number-of-cctv-cameras/#:%7E:text=The%20United%20States%20has%2015.28,the%20United%20Kingdom%20with%207.5.&text=Russia%20has%20around%20196%2C000%20CCTV,Petersburg.)
 - The US's credit score system is vastly more influential and detrimental to a majority of its population than China's social credit system, [which largely doesn't even exist](https://foreignpolicy.com/2018/11/16/chinas-orwellian-social-credit-score-isnt-real/), and where it does exist it is [only used to target businesses](https://foreignpolicy.com/2021/09/15/china-social-credit-system-authoritarian/).
-- [numuves - How the US dominates tech](https://www.youtube.com/watch?v=EgzB4_Zw3RE)
+- [numuves - How the US dominates tech](https://youtube.com/watch?v=EgzB4_Zw3RE)
 - [On the great firewall, and china not allowing US taech companies. ](https://mobile.twitter.com/Mango_Press_/status/1423263749302067202)
 
 ### What's going on with the Uyghurs?
@@ -718,18 +718,18 @@
 - [XinJiang: Facts vs Fiction.](https://medium.com/@leohezhao/xinjiang-facts-vs-fiction-bdc2aa403c91)
 - [A Pakistani Diplomat given full access to “re-education camps” and this is what she found](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang).
   - Despite claims of "erasing Uyghur culture", [they stated](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang): "I did not find any instance of forced labor or cultural and religious repression. The imams we met at the mosques and the students and teachers at the Xinjiang Islamic Institute told us that they enjoy freedom in practicing Islam and that the Chinese government extends support for maintenance of mosques all over Xinjiang. [...]The most visible sign of protection of Uyghur culture by the government is the government-run bilingual kindergarten schools where children learn Putonghua as well as Uyghur language and culture from a very young age."
-  - The grandaughters of Rebiya Kadeer (Once the richest woman in Xinjiang, and now a member of the "Uyghur world congress", an org claiming that China is oppressing Uyghurs), [talking about how their grandmother is lying about Xinjiang.](https://www.youtube.com/watch?v=aeEFuGnbV-s)
+  - The grandaughters of Rebiya Kadeer (Once the richest woman in Xinjiang, and now a member of the "Uyghur world congress", an org claiming that China is oppressing Uyghurs), [talking about how their grandmother is lying about Xinjiang.](https://youtube.com/watch?v=aeEFuGnbV-s)
 - [Egyptian media delegates provide a detailed insight of the situation in Xinjiang](https://www.thenews.com.pk/latest/430738-egyptian-media-delegates-provide-a-detailed-insight-of-the-situation-in-xinjiang)
 - [A majority of Muslim countries support China's policies in XinJiang](https://i.imgur.com/Cks29xL.jpg), [and don't believe the western lies told about it.](https://www.moroccoworldnews.com/2019/07/278860/arab-muslim-majority-countries-china-mistreatment-uighurs/). [54 Countries in total](http://www.globaltimes.cn/content/1168522.shtml). [2](http://www.xinhuanet.com/english/2019-07/13/c_138222183.htm), [3](https://www.cnsnews.com/news/article/patrick-goodenough/china-thanks-37-countries-including-islamic-states-praising-its), [4](http://www.globaltimes.cn/content/1159357.shtml) Supporters: Algeria, Angola, Bahrain, Belarus, Bolivia, Burkina Faso, Burma, Burundi, Cambodia, Cameroon, Comoros, Congo, Cuba, DR Congo, Egypt, Eritrea, Gabon, Kuwait, Laos, Nigeria, North Korea, Oman, Pakistan, Philippines, Qatar, Russia, Saudi Arabia, Somalia, Sudan, Syria, Tajikistan, Togo, Turkmenistan, UAE, Venezuela, Zimbabwe.
 - [China's policies in the Xinjiang Uyghur autonomous region lift 1.85 million people out of poverty from 2014-2017.](http://www.xinhuanet.com/english/2018-10/24/c_137554986.htm?source=post_page---------------------------)
-- [Dan Cohen - Is China committing genocide? Behind the US goverments propaganda campaign.](https://www.youtube.com/watch?v=Hjurb61SZgk)
+- [Dan Cohen - Is China committing genocide? Behind the US goverments propaganda campaign.](https://youtube.com/watch?v=Hjurb61SZgk)
 - [Redsails - The Xinjiang atrocity propaganda blitz](https://redsails.org/the-xinjiang-atrocity-propaganda-blitz/)
 - [RodericDay - A thread about the key sources for Uyghur Genocide (Especially Adrian Zenz).](https://threadreaderapp.com/thread/1287411708374454273.html)
 - [Chollima report - Who is Adrian Zenz? The Christian Fundamentalist Leading the Global Xinjiang Narrative](https://chollima.org/who-is-adrian-zenz-the-christian-fundamentalist-leading-the-global-xinjiang-narrative/)
-- [BayArea415 - american debunks major western propaganda on Uyghurs and Xinjiang](https://www.youtube.com/watch?v=8yURIS7S9zg)
+- [BayArea415 - american debunks major western propaganda on Uyghurs and Xinjiang](https://youtube.com/watch?v=8yURIS7S9zg)
 - [Dr. Asata Bair - The six basic problems of the Uyghur genocide narrative.](https://nitter.cc/i/status/1367632236007202819)
-- [Nuance - The sad truth about Muslims in China.](https://www.youtube.com/watch?v=BPxZfqcKPF0)
-- [The Xinjiang "Genocide" - an excerpt from the Genocide panel.](https://www.youtube.com/watch?v=mH-0l_zToN4)
+- [Nuance - The sad truth about Muslims in China.](https://youtube.com/watch?v=BPxZfqcKPF0)
+- [The Xinjiang "Genocide" - an excerpt from the Genocide panel.](https://youtube.com/watch?v=mH-0l_zToN4)
 - [TheCanadaFiles - Subcommittee report declaring “Uighur Genocide” dominated by researchers and groups funded by CIA cut-out, National Endowment for Democracy.](https://www.thecanadafiles.com/articles/subcommittee-report-declaring-uighur-genocide-dominated-by-researchers-and-groups-funded-by-cia-cut-out-national-endowment-for-democracy)
 - [US fuels terrorism in China.](https://journal-neo.org/2018/10/24/us-fueling-terrorism-in-china/)
 - [Wiki on the Turkestan Islamic Party (has a full list of terrorist attacks committed by east turkestan separatists)](https://en.wikipedia.org/wiki/Turkistan_Islamic_Party)
@@ -737,9 +737,9 @@
 - [The TiP militants fighting in Syria.](https://apnews.com/article/591f9b238c84477b87cfac68bfe169fc)
 - [Alan Macleod - In 2018 the US Was at War With Uyghur Terrorists. Now It Claims They Don’t Even Exist.](https://www.mintpressnews.com/us-was-at-war-uyghur-terrorists-now-claims-etim-doesnt-exist/276916/)
 - [China’s Xinjiang Problem – Made in USA](https://journal-neo.org/2015/11/10/chinas-xinjiang-problem-made-in-usa/).
-- [Numeves: US Col Wilkerson - Why the US is in Afghanistan and Pakistan, in 2 minutes.](https://www.youtube.com/watch?v=4N385vKhXYQ)
-- [US Col Lawrence Wilkerson admits to USA involvement in fomenting civil unrest in Xinjiang China using Uighurs.](https://www.youtube.com/watch?v=00Cvx0R8iDo)
-- [Former FBI Agent turned whistleblower Sibel Edmonds talks about how US-funded Gladio operatives from Turkey have been smuggling out young Uyghurs, turning them into militants, and sending them back to poorer areas in Xinjiang to commit terrorist attacks, as part of an effort to destabilize Xinjiang and disrupt Chinese trade.](https://www.youtube.com/watch?v=6gIKdsAlWcE)
+- [Numeves: US Col Wilkerson - Why the US is in Afghanistan and Pakistan, in 2 minutes.](https://youtube.com/watch?v=4N385vKhXYQ)
+- [US Col Lawrence Wilkerson admits to USA involvement in fomenting civil unrest in Xinjiang China using Uighurs.](https://youtube.com/watch?v=00Cvx0R8iDo)
+- [Former FBI Agent turned whistleblower Sibel Edmonds talks about how US-funded Gladio operatives from Turkey have been smuggling out young Uyghurs, turning them into militants, and sending them back to poorer areas in Xinjiang to commit terrorist attacks, as part of an effort to destabilize Xinjiang and disrupt Chinese trade.](https://youtube.com/watch?v=6gIKdsAlWcE)
 - [No, the UN did not report China has ‘massive internment camps’ for Uighur Muslims](https://thegrayzone.com/2018/08/23/un-did-not-report-china-internment-camps-uighur-muslims/).
 - [What about Democracy now and the Intercept's claims about the Uyghur camps?](https://medium.com/@rainershea612/liberal-anti-chinese-propaganda-helped-create-the-far-right-campaign-to-blame-china-for-covid-19-7253dca6f429)
 - [The better cotton initiative, a global advocacy group for cotton laborers, found that no forced labor was taking place in Xinjiang.](https://www.dimsumdaily.hk/better-cotton-initiative-bci-in-shanghai-reiterates-no-forced-labour-found-in-xinjiang/)
@@ -751,22 +751,22 @@
 - [If China Is Anti-Islam, Why Are These Chinese Muslims Enjoying a Faith Revival?](https://time.com/3099950/china-muslim-hui-xinjiang-uighur-islam/)
 - [A New York Times "expose" of re-education centers in Xinjiang lied and mistranslated every claim.](https://www.quora.com/What-would-be-the-consequences-of-the-New-York-Times-expose-on-Xinjiang/answer/Jamin-Chen-1)
 - [Reddit holds an AMA](https://www.reddit.com/r/IAmA/comments/e9ad4n/i_am_rushan_abbas_uyghur_activist_and_survivor_of/) for an "Uyghur Activist", who turns out to be [Rushan Abbas](https://web.archive.org/web/20181207031224/https://www.isi-consultants.com/rushan-abbas/), a CIA agent who worked for Homeland Security, Department of Defense, Department of State, Department of Justice, and various U.S. intelligence agencies, and even worked at Guantanamo bay, the US muslim torture camp. [1](https://www.reddit.com/r/ShitLiberalsSay/comments/e9crzq/shit_liberals_do_claim_to_be_an_uyghur_survivor/) [2](https://medium.com/@rsahthion/a-reddit-ama-claiming-to-be-a-uiyghur-quickly-exposes-a-cia-asset-slandering-china-1d667c098b77)
-- [Reddit holds yet another AMA with Sophie Richardson, the "China director" at the US soft-power regime-change agency Human Rights Watch. The comments expose her as not speaking chinese, and spreading blatant lies about China.](https://www.reddit.com/r/worldnews/comments/hwi7ub/i_am_sophie_richardson_china_director_at_human/) [2](https://web.archive.org/web/20200924183937/https://old.reddit.com/r/worldnews/comments/hwi7ub/i_am_sophie_richardson_china_director_at_human/)
+- [Reddit holds yet another AMA with Sophie Richardson, the "China director" at the US soft-power regime-change agency Human Rights Watch. The comments expose her as not speaking chinese, and spreading blatant lies about China.](https://www.reddit.com/r/worldnews/comments/hwi7ub/i_am_sophie_richardson_china_director_at_human/) [2](https://web.archive.org/web/20200924183937/https://www.reddit.com/r/worldnews/comments/hwi7ub/i_am_sophie_richardson_china_director_at_human/)
 - [Reddit holds another AMA with a grifting author, Amelia Pang](https://www.reddit.com/r/IAmA/comments/m99tvp/im_the_author_of_made_in_china_a_prisoner_an_sos/), who wrote a NYTimes best selling book about going undercover into an Uyghur prison. It turns out that she worked for the Epoch Times for many years, and also never visited or talked with a single prisoner. Her book is based on extrapolations from a 1991 film. She leaves the AMA after leaving all the top questions unanswered.
 - [A case study in Anti-Chinese racism.](https://medium.com/@rsahthion/a-case-study-in-racist-anti-chinese-sentiment-fuelled-by-american-bots-and-western-propaganda-f0a69978d568)
 - [Debunking an article from the intercept about Uyghurs.](https://twitter.com/RodericDay/status/1355383514137554944?s=20)
 - [A debunk of a buzzfeed article that used google maps as its primary source.](https://www.reddit.com/r/Sino/comments/nxvkx2/with_buzzfeed_winning_the_pulitzer_prize_for/h1h164l/)
 - [Zenz makes a claim that 500,000 tibetans (1 out of every 3 working age Tibetans) are in forced labor camps.](https://www.reddit.com/r/GenZedong/comments/ixmy9p/china_has_somehow_put_16_of_the_entire_tibetan/)
 - [Breaking down the BBC's visit to XinJiang.](https://medium.com/@sunfeiyang/breaking-down-the-bbcs-visit-to-hotan-xinjiang-e284934a7aab)
-- [BBC gets caught doctoring an image from a vlogger in China to make it look depressing, then quietly reverts their change after getting caught.](https://www.youtube.com/watch?v=eS8EceIa1MQ)
+- [BBC gets caught doctoring an image from a vlogger in China to make it look depressing, then quietly reverts their change after getting caught.](https://youtube.com/watch?v=eS8EceIa1MQ)
 - [A rebuttal of a Guardian article by Gulbahar Haitiwaji](https://twitter.com/moghilemear13/status/1351397520358957058) [2](https://www.reddit.com/r/communism/comments/kwew3n/contradictions_in_the_new_uighur_story_by/)
 - [A short, shareable version on why this isn't a genocide - cynthiakao](https://www.tiktok.com/@cynthiakao/video/6945108711006309638)
 - [Italian Government's report on human rights in Xinjiang](https://idi-international.org/wp-content/uploads/2021/05/New-Report.pdf)
-- [Buzzfeed says this Xinjiang detention camp has 10,000 Uighurs. It's 3 times smaller than an American prison with 10,000 people and is consistent with how big a normal prison (for criminals) would be given the population.](https://old.reddit.com/r/Sino/comments/jcteui/buzzfeed_says_this_xinjiang_detention_camp_has/)
+- [Buzzfeed says this Xinjiang detention camp has 10,000 Uighurs. It's 3 times smaller than an American prison with 10,000 people and is consistent with how big a normal prison (for criminals) would be given the population.](https://www.reddit.com/r/Sino/comments/jcteui/buzzfeed_says_this_xinjiang_detention_camp_has/)
 - [There are more mosques in Xinjiang alone than in the EU. with sources](https://lemmygrad.ml/post/33375)
-- [1 million detanees is heard again and again. You’d need a detention city the size of San Francisco to detain one million Uighurs. So where is it?](https://old.reddit.com/r/Sino/comments/i9k4hb/youd_need_a_detention_city_the_size_of_san/)
-- [Xinjiang Uyghur Human Rights Issue Proved To Be A Plot By The Whistleblower](https://www.youtube.com/watch?v=6gIKdsAlWcE)
-- [Citizens of Xinjiang Speak](https://www.youtube.com/playlist?list=PLkbOIKUddMBtp0_xEFqn4zey48kkgJq5w)
+- [1 million detanees is heard again and again. You’d need a detention city the size of San Francisco to detain one million Uighurs. So where is it?](https://www.reddit.com/r/Sino/comments/i9k4hb/youd_need_a_detention_city_the_size_of_san/)
+- [Xinjiang Uyghur Human Rights Issue Proved To Be A Plot By The Whistleblower](https://youtube.com/watch?v=6gIKdsAlWcE)
+- [Citizens of Xinjiang Speak](https://youtube.com/playlist?list=PLkbOIKUddMBtp0_xEFqn4zey48kkgJq5w)
 - [The Xinjiang Atrocity Propaganda Blitz](https://redsails.org/the-xinjiang-atrocity-propaganda-blitz/)
 - [World Bank Statement on Review of Project in Xinjiang, China](https://www.worldbank.org/en/news/statement/2019/11/11/world-bank-statement-on-review-of-project-in-xinjiang-china)
 - [Breaking down another 2022 BBC "leak" of Uyghur oppression.](https://mobile.twitter.com/Cinqscories/status/1529035490032340993)
@@ -793,10 +793,10 @@
 - [There was a Spanish television crew that covered the entire Tiananmen Square incident as it unfolded. Their footage showed that there was no massacre. A few things worthy of pointing out - Liu Xiaobo and Hou Dejian, both student leaders of the Tiananmen protests, have been recorded as saying that they never saw anyone killed at the protests.](https://vimeo.com/448970787)
 - [The protest movement followed the line of "color revolutions", in which the US tried to destabilize and create counter-revolutions in eastern Europe and Latin America after the fall of the USSR. The strategy was to stir division within and without, by inundating the media with news of massacres of "peaceful", pro-capitalist / market reformers.](http://www.fightbacknews.org/2019/6/4/reflections-tiananmen-square-and-attempt-end-chinese-socialism)
 - [The defeat of a counter revolution in China](https://frso.org/main-documents/looking-back-at-tiananmen-square-the-defeat-of-counter-revolution-in-china/).
-- [Interviews from some of the student leaders.](https://www.youtube.com/watch?v=Vu3zmbFGwQA)
-- [An account from a resident.](https://old.reddit.com/r/AskAChinese/comments/grdaqv/thoughts_on_tiananmen_square_massacre/g45hnv0)
-- [Tiananmen Square "Massacre", A Propaganda Hoax](https://www.youtube.com/watch?v=R6RT_s1T050).
-- [The truth about the Tiananmen square protests](https://www.youtube.com/watch?v=sqPI8xlnrwg)
+- [Interviews from some of the student leaders.](https://youtube.com/watch?v=Vu3zmbFGwQA)
+- [An account from a resident.](https://www.reddit.com/r/AskAChinese/comments/grdaqv/thoughts_on_tiananmen_square_massacre/g45hnv0)
+- [Tiananmen Square "Massacre", A Propaganda Hoax](https://youtube.com/watch?v=R6RT_s1T050).
+- [The truth about the Tiananmen square protests](https://youtube.com/watch?v=sqPI8xlnrwg)
 
 ### What is Radio Free Asia?
 
@@ -827,11 +827,11 @@
 ## On Cuba
 
 - [A Cuba and Fidel Megathread.](https://www.reddit.com/r/communism/comments/cfu81s/cuba_and_fidel_castro_megathread/)
-- [Just how socialist was/is Cuba?](http://www.reddit.com/r/communism101/comments/2n372o/just_how_socialist_wasis_cuba/)
-- [Why, in your opinion, have most attempts to form countries based economically on communism and socialism (USSR, Cuba, China) fail?](http://www.reddit.com/r/communism101/comments/1f8obt/honestly_not_trolling_why_in_your_opinion_have/)
-- [In defence of (and questions about) Cuba](http://www.reddit.com/r/communism/comments/x3qtw/in_defence_of_and_questions_about_cuba/)
-- [Did the cuban people like Fidel Castro?](https://www.youtube.com/watch?v=P2Obp6YS4SY)
-- [Multiple questions about Cuba](http://www.reddit.com/r/communism101/comments/2pg82b/multiple_questions_about_cuba/)
+- [Just how socialist was/is Cuba?](https://www.reddit.com/r/communism101/comments/2n372o/just_how_socialist_wasis_cuba/)
+- [Why, in your opinion, have most attempts to form countries based economically on communism and socialism (USSR, Cuba, China) fail?](https://www.reddit.com/r/communism101/comments/1f8obt/honestly_not_trolling_why_in_your_opinion_have/)
+- [In defence of (and questions about) Cuba](https://www.reddit.com/r/communism/comments/x3qtw/in_defence_of_and_questions_about_cuba/)
+- [Did the cuban people like Fidel Castro?](https://youtube.com/watch?v=P2Obp6YS4SY)
+- [Multiple questions about Cuba](https://www.reddit.com/r/communism101/comments/2pg82b/multiple_questions_about_cuba/)
 - [Did the US really think Castro was a dictator? Answer: No.](https://www.reddit.com/r/ShitLiberalsSay/comments/87tto3/i_submitted_a_til_about_fidel_castros_hatred_for/dwgpg7d/)
 - [Why did people flee Cuba / Did Cuba have a famine in the 1990s?](https://www.reddit.com/r/DebateCommunism/comments/8yc2ak/if_cuba_is_a_decenthighquality_state_why_werent/e29so7h/)
 - [Did Fidel Castro persecute gay / LGBT people? What about the UMAP prisons?](https://www.reddit.com/r/Anarchy101/comments/8kxgul/what_do_anarchists_think_of_the_castro_regime/dzc2wp8/)
@@ -855,18 +855,18 @@
 
 ## On North Korea / the DPRK
 
-- [Is north korea a totalitarian dictatorship? Are they all really required to get the same haircut? A short documentary.](https://www.youtube.com/watch?v=2BO83Ig-E8E)
+- [Is north korea a totalitarian dictatorship? Are they all really required to get the same haircut? A short documentary.](https://youtube.com/watch?v=2BO83Ig-E8E)
 - [South Korea boosts reward for defectors to $860k USD](https://www.bbc.com/news/world-asia-39170614).
-- [Are north korean defectors really paid to lie by the south? A short documentary.](https://www.youtube.com/watch?v=ktE_3PrJZO0&feature=youtu.be)
+- [Are north korean defectors really paid to lie by the south? A short documentary.](https://youtube.com/watch?v=ktE_3PrJZO0)
 - [What is everyday life like? A conversation with a North Korean Citizen.](https://cym.ie/2018/05/28/a-conversation-with-a-north-korean-citizen/)
 - [Is the DPRK really a monarchy? How does its political system work?](https://writetorebel.com/2017/03/28/socialism-and-democracy-in-the-dprk/)
-- [Why do some communists support the DPRK?](http://www.reddit.com/r/communism101/comments/1ypwmd/why_do_some_communists_support_the_dprk/)
-- [What exactly is Juche?](http://www.reddit.com/r/communism101/comments/1y172i/what_exactly_is_juche/)
-- [Is the DPRK socialist?](http://www.reddit.com/r/communism101/comments/1ygskq/is_the_dprk_socialist/)
-- [How do elections work in the DPRK?](http://www.reddit.com/r/communism101/comments/1zzeri/how_do_elections_work_in_the_dprk/)
-- [Human rights and the DPRK](http://www.reddit.com/r/communism101/comments/1tb5ho/human_rights_and_the_dprk/)
-- [What evidence is there than DPRK is not engaged in gross violations of human rights?](http://www.reddit.com/r/communism101/comments/2mfq2m/what_evidence_is_there_than_dprk_is_not_engaged/)
-- [Can someone explain Songbun (Caste system) of the DPRK to me?](http://www.reddit.com/r/communism101/comments/2dqtn3/can_someone_explain_songbun_caste_system_of_the/)
+- [Why do some communists support the DPRK?](https://www.reddit.com/r/communism101/comments/1ypwmd/why_do_some_communists_support_the_dprk/)
+- [What exactly is Juche?](https://www.reddit.com/r/communism101/comments/1y172i/what_exactly_is_juche/)
+- [Is the DPRK socialist?](https://www.reddit.com/r/communism101/comments/1ygskq/is_the_dprk_socialist/)
+- [How do elections work in the DPRK?](https://www.reddit.com/r/communism101/comments/1zzeri/how_do_elections_work_in_the_dprk/)
+- [Human rights and the DPRK](https://www.reddit.com/r/communism101/comments/1tb5ho/human_rights_and_the_dprk/)
+- [What evidence is there than DPRK is not engaged in gross violations of human rights?](https://www.reddit.com/r/communism101/comments/2mfq2m/what_evidence_is_there_than_dprk_is_not_engaged/)
+- [Can someone explain Songbun (Caste system) of the DPRK to me?](https://www.reddit.com/r/communism101/comments/2dqtn3/can_someone_explain_songbun_caste_system_of_the/)
 - [What about Otto Warmbier?](https://nypost.com/2017/09/26/coroners-report-for-otto-warmbier-shows-no-signs-of-torture/)[2](https://www.reddit.com/r/communism101/comments/awuok8/with_all_of_the_news_about_north_korea_going/)
 
 ### [Do North Koreans believe in unicorns and think Kim Jong-Un is immortal?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_north_koreans_believe_in_unicorns_and_they_think_kim_jong-un_is_immortal)
@@ -880,7 +880,7 @@
 - [_Korea Resilient! Socialism in Democratic Korea_](http://return2source.wordpress.com/2012/01/17/korea-resilient-socialism-in-democratic-korea/) by Vince Sherman
 - [_How to Think about Socialism in Korea_](https://mltoday.com/article/1302-how-to-think-about-socialism-in-korea/)
 - [_Understanding North Korea_](http://www.globalresearch.ca/understanding-north-korea/3818) by Stephen Gowans
-- [_A Model of Democratic and Participatory Socialist Planning_](http://www.reddit.com/r/communism/comments/2kwid3/a_model_of_democratic_and_participatory_socialist/) by MasCapital
+- [_A Model of Democratic and Participatory Socialist Planning_](https://www.reddit.com/r/communism/comments/2kwid3/a_model_of_democratic_and_participatory_socialist/) by MasCapital
 - [_Constitution of the DPRK_](http://www.kfausa.org/dprk-constitution/)
 - [_Socialist Korea: A Case Study in the Strategy of Economic Development_](http://gen.lib.rus.ec/book/index.php?md5=6b0447bc14808161362b828aee0a284a) by Brun and Hersch
 - [_Interview: Understanding and Defending North Korea_](http://www.invent-the-future.org/2013/11/understanding-north-korea/)
@@ -889,17 +889,17 @@
 
 ### Further reading
 
-- [Essential readings on the Juche idea and the Korean revolution](http://www.reddit.com/r/communism101/comments/2pil0z/what_are_some_essential_readings_on_the_juche_idea/)
+- [Essential readings on the Juche idea and the Korean revolution](https://www.reddit.com/r/communism101/comments/2pil0z/what_are_some_essential_readings_on_the_juche_idea/)
 - [E-Library on the DPRK](http://www.korea-dpr.com/e_library.html)
 
 ## On Venezuela
 
-- [What's going on with venezuela? Rebuttal to John Oliver's venezuela show, and overview of the situation in Venezeula](https://www.bitchute.com/video/HmgCqjDblLP0/). [Censored youtube link](https://www.youtube.com/watch?v=_fV-C1Ag5sI).
-- [An ocean of lies about VZ.](https://www.youtube.com/watch?v=ii5MlQgGXyk)
+- [What's going on with venezuela? Rebuttal to John Oliver's venezuela show, and overview of the situation in Venezeula](https://www.bitchute.com/video/HmgCqjDblLP0/). [Censored youtube link](https://youtube.com/watch?v=_fV-C1Ag5sI).
+- [An ocean of lies about VZ.](https://youtube.com/watch?v=ii5MlQgGXyk)
 - [What about the US trying to send aid to VZ? The US has blocked the shipment of Insulin](https://venezuelanalysis.com/analysis/14111), Dialysis, and [Malaria medicine.](https://venezuelanalysis.com/ANALYSIS/13529)
-- [Who's crashing Venezuelas economy?](https://www.youtube.com/watch?v=YqHzDLSl8U4)
-- [Capitalist sabotage in Venezuela](https://www.youtube.com/watch?v=rk1qlKu_RJo).
-- [What about the black markets?](https://www.youtube.com/watch?v=YUYWrPiUeWY&feature=youtu.be)
+- [Who's crashing Venezuelas economy?](https://youtube.com/watch?v=YqHzDLSl8U4)
+- [Capitalist sabotage in Venezuela](https://youtube.com/watch?v=rk1qlKu_RJo).
+- [What about the black markets?](https://youtube.com/watch?v=YUYWrPiUeWY)
 - [Are the people in VZ really starving?](https://monthlyreview.org/2018/06/01/the-politics-of-food-in-venezuela/)
 - [Are the US after venezuela's oil reserves?](https://www.reddit.com/r/LateStageCapitalism/comments/afdi29/empire_files_venezuela_supermarkets_to_black/edxw7mz/)
 - [Whats going on in Venezuela?](https://www.reddit.com/r/communism101/comments/66f7u5/eli5_comrades_what_is_the_situation_in_venezuela/)
@@ -935,7 +935,7 @@
 
 ### Whats so bad about Bill Gates?
 
-- [He's a philanthro-capitalist imperialist: using the bill and melinda gates foundation charity as a bargaining chip to work in the interests of billionaire elites.](https://www.liberationnews.org/real-agenda-gates-foundation/) [Youtube Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoZsjovp13f1xCA-4ewzOdqd)
+- [He's a philanthro-capitalist imperialist: using the bill and melinda gates foundation charity as a bargaining chip to work in the interests of billionaire elites.](https://www.liberationnews.org/real-agenda-gates-foundation/) [Youtube Audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoZsjovp13f1xCA-4ewzOdqd)
   - [Gates spearheads the neoliberal plunder of African Agriculture.](https://theecologist.org/2016/jan/21/gates-foundation-spearheading-neoliberal-plunder-african-agriculture)
   - The Gates foundation tests pharmaceutical products on humans for profit, usually in poorer countries without regulatory bodies. [One such mass test, on behalf of Merck and Pfizer, of a harmful HPV vaccine on 23,000 girls in india kills 7 girls, sterilizes hundreds more, and leads to public outrage.](https://m.economictimes.com/industry/healthcare/biotech/healthcare/controversial-vaccine-studies-why-is-bill-melinda-gates-foundation-under-fire-from-critics-in-india/amp_articleshow/41280050.cms)
   - The Gates foundation helps big pharma find test markets for their drugs, selling them in the global south. This includes drugs such as Gardasil, Norplant, Cervarix. A South African newspaper declared: “We are guinea pigs for the drugmakers.” In the case of Gardasil, the drug-pushing was cloaked in the language of environmentalism, popular empowerment, and feminism. Melinda Gates evoked “choice” in support of her family planning initiatives, but in reality was not poor women, but a handful of the world’s wealthiest people who have presumed to choose which methods of contraception will be delivered, and to whom.
@@ -963,7 +963,7 @@
   - 8 variations of “Jewish?” (Charlie Chaplin), “Polish Jew, (Tom Driberg)” “English Jew,” or “Jewess.”
   - [Paul Robeson](https://en.wikipedia.org/wiki/Paul_Robeson) - "ROBESON, Paul (US Negro) ...Very anti-white. [Henry] Wallace supporter."
     - Paul Robeson wasn't anti-white, just look at the welsh coal miners for whom Robeson Campaigned.
-    - [The testimony of Paul Robeson](https://www.youtube.com/watch?v=kmFjjaFNHKo) (one of the people Orwell snitched on), to HUAC (House of Unamerican activities committee) during the red scare.
+    - [The testimony of Paul Robeson](https://youtube.com/watch?v=kmFjjaFNHKo) (one of the people Orwell snitched on), to HUAC (House of Unamerican activities committee) during the red scare.
   - [Stephen Spender](https://en.wikipedia.org/wiki/Stephen_Spender) - "Sentimental sympathiser... Tendency towards homosexuality"
   - [Hugh MacDiarmid](https://en.wikipedia.org/wiki/Hugh_MacDiarmid), Scottish nationalist poet, and anti-imperialist.
   - [George Padmore](https://en.wikipedia.org/wiki/George_Padmore), Trinidadian journalist and anti-imperialist campaigner.
@@ -993,9 +993,9 @@
 https://web.archive.org/web/20230728092729/https://apnews.com/general-news-f40d8c2c7d8d4ffeadd576ded89acc0c
 https://web.archive.org/web/20221222165322/https://www.mkgandhi.org/mynonviolence/chap27.htm
 
-- [Was Gandhi really a racist? What about Gandhi's legacy? A great lecture by Arundati Roy.](https://www.youtube.com/watch?v=CrN8PgZzc6k)
+- [Was Gandhi really a racist? What about Gandhi's legacy? A great lecture by Arundati Roy.](https://youtube.com/watch?v=CrN8PgZzc6k)
 - Gandhi believed that the Jews should have submitted to suffering voluntarily at the hands of the Nazis since that would have brought them brought ["them an inner strength and joy which no number of resolutions of sympathy passed in the world outside Germany can"](https://web.archive.org/web/20221222165322/https://www.mkgandhi.org/mynonviolence/chap27.htm). ["The Jews should have offered themselves to the butcher’s knife. [...] It would have aroused the world and the people of Germany ... as it is, they succumbed anyway in their millions."](https://web.archive.org/web/20230728092729/https://apnews.com/general-news-f40d8c2c7d8d4ffeadd576ded89acc0c)
-- [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://www.youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
+- [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 - "Can the hungry go on a hunger strike? Non-violence is a piece of theatre. You need an audience. What can you do when you have no audience? People have the right to resist annihilation." - Arundhati Roy.
 - [Gandhi was a pedophile, sleeping even with his own grand-niece](https://www.youthkiawaaz.com/2013/10/gandhi-used-power-position-exploit-young-women-way-react-matters-even-today/).
 
@@ -1018,7 +1018,7 @@ https://web.archive.org/web/20221222165322/https://www.mkgandhi.org/mynonviolenc
 
 - [Supports US imperialism](https://leftistcritic.wordpress.com/2017/01/31/bernie-sanders-an-imperialist-worth-despising/). [2](https://www.alternet.org/election-2016/bernie-sanders-troubling-history-supporting-us-military-violence-abroad)
   - [Voted for US intervention](https://i.imgur.com/HCvaDLp.jpg) in the following nations: Afghanistan, Lebanon, [Libya](https://www.leftvoice.org/not-on-our-side-on-bernie-sanders-and-imperialism), [Somalia](http://votesmart.org/bill/2732/7934/27110/bernie-sanders-voted-yea-passage-with-amendment-s-j-res-45-authorization-for-use-of-%20us-armed-forces-in-somalia#7934), Syria, Yemen, [Yugoslavia](http://www.libertyunionparty.org/?page_id=363),[2](http://votesmart.org/bill/2808/7948/27110/bosnia-troop-deployment-resolution#.Ve5QZkvJyhG), Bosnia, Haiti, Congo, Liberia, Sudan, and Ukraine.
-  - [Warmongers on the Bill O'Reilley show for the US to intervene against Russia, Syria, and China.](https://www.youtube.com/watch?v=EO4Ko-v-q0g&feature=youtu.be&t=2m12s)
+  - [Warmongers on the Bill O'Reilley show for the US to intervene against Russia, Syria, and China.](https://youtube.com/watch?v=EO4Ko-v-q0g&t=2m12s)
   - [Votes with the rest of the US senate to send $40B in weaponry to Ukraine.](https://mobile.twitter.com/mtracey/status/1527359801746853902)
   - [Supports drone bombing: "They have, at times, been effective."](https://abcnews.go.com/Politics/bernie-sanders-people-responding-message/story?id=33413601). Another interview: ["Drones have done some good things. They've been selective; they've taken out people who should be taken out"](https://www.telesurenglish.net/news/Bernie-Sanders-Drones-Have-Done-Some-Good-Things-20160330-0006.html)
   - Staunchly supports Israel in their displacement of Palestinians (while blaming hamas for the conflict). [Says he will not move back the US embassy in Israel back from Jerusalem to Tel Aviv, after Trump moved it the previous year.](https://electronicintifada.net/blogs/ali-abunimah/why-bernie-sanders-still-encouraging-israels-crimes)
@@ -1029,11 +1029,11 @@ https://web.archive.org/web/20221222165322/https://www.mkgandhi.org/mynonviolenc
   - [Praises the Hong Kong protestors, tells China to back off.](https://imgur.com/mwsMLSS)
   - [After the Jan 2020 US assassination of Iranian general Soleimani, Sanders showed remorse for the "4500 brave US troops who died", and trillions of dollars spent on the war in Iraq, instead of the 1M Iraqi civilians killed.](https://i.imgur.com/vRHPO9K.jpg)
   - [Calls for Russia to pardon white-nationalist Alexei Navalny](https://i.imgur.com/8R84SWi.png).
-- [Bernie is against open borders](https://www.youtube.com/watch?v=vf-k6qOfXz0), believes in strong border and anti-immigration policies. [2](https://i.imgur.com/WcQ8bNQ.jpg)
+- [Bernie is against open borders](https://youtube.com/watch?v=vf-k6qOfXz0), believes in strong border and anti-immigration policies. [2](https://i.imgur.com/WcQ8bNQ.jpg)
   - When asked about the 2018 Migrant caravan, where Border agents tear gassed migrants, Bernie replied, ["not all migrants seeking asylum at the US-Mexico border have a credible claim. "You have to look at it case-by-case."](https://thehill.com/homenews/senate/418398-bernie-sanders-some-migrants-lack-credible-claim-for-asylum)
   - [Believes that Russians are to blame for the failure of US democracy. "Protecting american democracy from foreign invasion."](https://i.imgur.com/GkSXsZY.jpg). [2020 Campaign trail: "Americans are sick and tired of Russian intereferenc in our elections"](https://twitter.com/thehill/status/1230994357236322304)
-- [Why Sanders is not a socialist - Anticonquista ](https://www.youtube.com/watch?v=VbcrJT485r8)
-- [Shills for democrats, campaigned for Hillary Clinton.](https://www.newyorker.com/news/amy-davidson/bernie-sanderss-hard-fight-for-hillary-clinton) After conceding the 2020 democratic primary to Joe Biden (even after Tara Reide's rape allegations against Biden surfaced), [Sanders tells his supporters that it would be "irresponsible" for progressives to not support Joe Biden.](https://communism.lemmy.ml/pictshare/2dfdmn.png) His support for Biden comes 2 months earlier than the last election when he supported Hillary. When asked about why one of his former secretaries publicly refused to support Biden, Sanders stated, “She is my former press secretary — not on the payroll”. [2](https://apnews.com/a1bfb62e37fe34e09ff123a58a1329fa). “I will do everything I can to help elect Joe,” Sanders continued. [Says Biden will be "more receptive to progressives than past democrats."](https://www.cnbc.com/2020/06/09/sanders-biden-more-receptive-to-progressives-than-past-democrats.html) ["I have a better relationship with Joe Biden than I did with Hillary."](https://i.imgur.com/SHJNerc.png) Says ["Biden could be the most progressive President since FDR."](https://www.youtube.com/watch?v=ieFL8StRyJo)
+- [Why Sanders is not a socialist - Anticonquista ](https://youtube.com/watch?v=VbcrJT485r8)
+- [Shills for democrats, campaigned for Hillary Clinton.](https://www.newyorker.com/news/amy-davidson/bernie-sanderss-hard-fight-for-hillary-clinton) After conceding the 2020 democratic primary to Joe Biden (even after Tara Reide's rape allegations against Biden surfaced), [Sanders tells his supporters that it would be "irresponsible" for progressives to not support Joe Biden.](https://communism.lemmy.ml/pictshare/2dfdmn.png) His support for Biden comes 2 months earlier than the last election when he supported Hillary. When asked about why one of his former secretaries publicly refused to support Biden, Sanders stated, “She is my former press secretary — not on the payroll”. [2](https://apnews.com/a1bfb62e37fe34e09ff123a58a1329fa). “I will do everything I can to help elect Joe,” Sanders continued. [Says Biden will be "more receptive to progressives than past democrats."](https://www.cnbc.com/2020/06/09/sanders-biden-more-receptive-to-progressives-than-past-democrats.html) ["I have a better relationship with Joe Biden than I did with Hillary."](https://i.imgur.com/SHJNerc.png) Says ["Biden could be the most progressive President since FDR."](https://youtube.com/watch?v=ieFL8StRyJo)
 - [Equates socialism with US corporate bailouts.](https://www.leftvoice.org/sanders-speech-explains-his-vision-of-socialism-it-sounds-a-lot-like-new-deal-liberalism)
 - [Thanked Jeff Bezos for deigning to raise amazon wages](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqM9uBoBvLLw/v1/600x-1.jpg), Bezos [responds with "you're welcome"](https://pbs.twimg.com/media/DohNI5GUUAAin6q.jpg).
 - [In the wake of the George Floyd murder, and the call to defund police, Sanders says the country needs "well-trained, well-educated, and well-paid professionals in police departments."](https://i.imgur.com/48YlZbS.jpg)
@@ -1083,7 +1083,7 @@ https://web.archive.org/web/20221222165322/https://www.mkgandhi.org/mynonviolenc
 - [She's a social democrat, not a socialist, fronting for the Democratic party](https://blackagendareport.com/open-letter-socialists-who-might-be-fronting-democratic-party). [2](https://www.wsws.org/en/articles/2021/03/30/cort-m30.html)
 - [Danny Haiphong from BlackAgendaReport - On the Obama-ification of "the squad".](https://popularresistance.org/the-obama-fication-of-the-squad-strengthens-the-right-at-the-expense-of-the-left/)
 - [Richard Medhurst - On the squad as a branding exercise, and AOC's support for US bombings and prison camps.](https://twitter.com/richimedhurst/status/1376005285140123648?s=20)
-- [AOC asks all supporters to vote for democrats, including Andrew Cuomo.](https://youtu.be/iaLpyJI0ltg?t=647)
+- [AOC asks all supporters to vote for democrats, including Andrew Cuomo.](https://youtube.com/watch?v=iaLpyJI0ltg?t=647)
 - [AOC says she will vote for Biden in the 2020 election, saying, "I think it’s incredibly important we support the Democratic nominee in November".](https://thehill.com/homenews/campaign/494275-ocasio-cortez-says-she-will-vote-for-biden-in-november)
 - Going back on her promise to only back "progressive democrats" after her election to congress in 2018, she [backs Nancy Pelosi for speaker of the house.](https://www.nbcnews.com/politics/congress/ocasio-cortez-backs-pelosi-speaker-dem-rebellion-falters-n939086)
 - [Attacks critics of Biden as being "privileged" and "wanting to reinvent themselves", when she herself used to work for startup incubators. ](https://www.wsws.org/en/articles/2021/03/26/aoc-m26.html)
@@ -1119,7 +1119,7 @@ _Much credit to [this post.](https://politijohn.tumblr.com/post/186036319237/get
   - [As part of her tough on crime approach she assigned senior prosecutors to misdemeanors like graffiti and vandalism, tripling the number of cases brought to trial.](https://twitter.com/walkerbragman/status/1146176227797032960)
   - [After a federal judge orders California to expand prison releases to reduce crowding, her office argued in court that if forced to release these inmates early, prisons would lose an important labor pool.](https://www.latimes.com/local/political/la-me-ff-federal-judges-order-state-to-release-more-prisoners-20141114-story.html)
   - Spent years jailing [disproportionately black nonviolent cannabis users](https://afropunk.com/2019/01/kamala-harris-has-been-tough-on-black-people-not-crime/) while [opposing taking cannabis off DEA’s list of most dangerous substances](https://www.jacobinmag.com/2017/08/kamala-harris-trump-obama-california-attorney-general) and [literally laughing at the idea of legalizing it](https://blog.sfgate.com/smellthetruth/2014/08/06/kamala-harris-laughs-at-pot-legalization/) multiple [times](https://twitter.com/WalkerBragman/status/1146174630648057859), even as her [Republican opponent ran to the left of her on the issue.](https://archives.sfweekly.com/thesnitch/2014/10/08/marijuana-advocates-ditch-kamala-harris-for-weed-friendly-republican) She then tried to pander [by admitting to smoking herself despite prosecuting others, but got her story all wrong.](https://www.marijuanamoment.net/kamala-harriss-snoopgate-is-what-a-political-marijuana-controversy-looks-like-in-2019/) [Drug convictions under her office soared, convicting more people of marijuana possession than her predecessor (she also admitted to smoking marijuana)](https://www.mercurynews.com/2019/09/11/kamala-harris-prosecuting-marijuana-cases/) [2](https://www.rollingstone.com/culture/culture-features/kamala-harris-marijuana-policy-tulsi-gabbard-debates-866102/)
-  - [Laughs about threatening parents with jailtime for truancy.](https://www.youtube.com/watch?v=DhJwmIPRmYk) [2](http://archive.is/Hkqdd). [The stories of several mothers she jailed.](https://www.huffpost.com/entry/kamala-harris-truancy-arrests-2020-progressive-prosecutor_n_5c995789e4b0f7bfa1b57d2e)
+  - [Laughs about threatening parents with jailtime for truancy.](https://youtube.com/watch?v=DhJwmIPRmYk) [2](http://archive.is/Hkqdd). [The stories of several mothers she jailed.](https://www.huffpost.com/entry/kamala-harris-truancy-arrests-2020-progressive-prosecutor_n_5c995789e4b0f7bfa1b57d2e)
   - [Pushed a law that forced schools to turn over undocumented students to ICE.](https://www.huffpost.com/entry/kamala-harris-san-francisco-immigrant-policy_n_5c758153e4b0bf166204509b)
   - [Opposed reforming California’s three-strikes law](https://www.thenation.com/article/archive/reforming-three-strikes/), which is the only one in the country to impose life sentences for minor felonies and incarcerates black people at 12x the rate as white people, [three different times](http://archive.is/I2QPh), even while her [Republican opponent supported reform.](http://archive.is/GZtet)
   - [Tried to deny a transgender inmate healthcare and endangered trans women by forcing them into mens prisons](https://www.washingtonblade.com/2015/05/05/harris-renews-effort-to-block-gender-reassignment-for-trans-inmate/), leading to [the rape and torture of at least one trans inmate.](https://theappeal.org/incarcerated-transgender-womens-lives-must-matter/)
@@ -1168,7 +1168,7 @@ _Much credit to [this post.](https://politijohn.tumblr.com/post/186036319237/get
 ### Joe Biden
 
 - [Breaks every single campaign promise.](https://twitter.com/nickwestes/status/1369670676299214852?s=20)
-- [Biden on young, black, "super-predators"](https://www.youtube.com/watch?v=seRaSRZKo2U)
+- [Biden on young, black, "super-predators"](https://youtube.com/watch?v=seRaSRZKo2U)
 - [Biden - "I don't want to defund the police, we need more police. Trump wants to tho"](https://twitter.com/PplsCityCouncil/status/1297035723485323264?s=20) [2](https://twitter.com/BethLynch2020/status/1303377661545324545?s=20)
 - ["I have no plans for defense cuts."](https://www.stripes.com/news/us/biden-says-us-must-maintain-small-force-in-middle-east-has-no-plans-for-major-defense-cuts-1.644631)
 - [He's a confirmed rapist.](https://soundcloud.com/katie-halper/joe-bidens-accuser-finally-tells-her-full-story)
@@ -1182,7 +1182,7 @@ _Much credit to [this post.](https://politijohn.tumblr.com/post/186036319237/get
 - [Biden on George Floyd protesters - "Shoot em in the leg instead of the heart."](https://twitter.com/jaboukie/status/1267565376885448706?s=20) [Then goes on to suggest an additional $300M in funding for police.](https://twitter.com/ajitxsingh/status/1270713176145793024?s=20)
 - [Biden: "Socialism will never happen here. I beat the socialist ( Sanders, who immediately began campaigning for him )"](https://www.mediaite.com/news/joe-biden-torpedoes-bernie-sanders-in-pitch-to-wisconsin-voters-worried-about-socialism-i-beat-the-socialist/)
 - [Biden: "Iraq was a problem that had to be dealt with sooner rather than later."](https://twitter.com/richimedhurst/status/1313831422495465473?s=20)
-- ["Israel is the best 3B dollar investment we have. If Israel didn't exist, we'd have to go out and invent an Israel."](https://youtu.be/vK-nRcnLdMQ)
+- ["Israel is the best 3B dollar investment we have. If Israel didn't exist, we'd have to go out and invent an Israel."](https://youtube.com/watch?v=vK-nRcnLdMQ)
 - [Biden: "I am a Zionist."](https://twitter.com/SarcasmStardust/status/1392825468999684103?s=20)
 - ["If Haiti quietly sunk into the Caribbean, it wouldn't matter a whole lot to our interests."](https://twitter.com/RaniaKhalek/status/1362900547062403072?s=20)
 - [Danny Haiphong - Biden's victory in the 2020 election is still a loss for humanity](https://blackagendareport.com/joe-bidens-victory-still-loss-humanity)
@@ -1201,7 +1201,7 @@ _Much credit to [this post.](https://politijohn.tumblr.com/post/186036319237/get
 - ["Immigration has to be restricted to prevent the rise of Fascism."](https://twitter.com/zei_squirrel/status/1186709823250927616)
 - [Helped work to overthrow Yugoslavia.](https://en.wikipedia.org/wiki/Committee_for_the_Defence_of_Human_Rights) [2](https://www.counterpunch.org/2023/01/02/capitalisms-court-jester-slavoj-zizek/)
 - [Thinks socialism died a long time ago in Cuba, that everyone lives there because of a misguided devotion to Castro, and thinks the bolivarian revolution will soon fail.](https://inthesetimes.com/article/the-left-fidelity-castration-slavoj-zizek-fidel-castro-cuba-che-communism)
-- [Defines Marxism: "Marx wanted a return to traditional values."](https://youtu.be/YTCiVDwmZ6U?t=147)
+- [Defines Marxism: "Marx wanted a return to traditional values."](https://youtube.com/watch?v=YTCiVDwmZ6U?t=147)
 - [Comes out in favor of NATO against Russia, in the 2022 Ukraine conflict.](https://www.theguardian.com/commentisfree/2022/may/23/we-must-stop-letting-russia-define-the-terms-of-the-ukraine-crisis)
 - [Argues for a stronger NATO to fight against Russia and for Ukraine.](https://amp.theguardian.com/commentisfree/2022/jun/21/pacificsm-is-the-wrong-response-to-the-war-in-ukraine)
 - ["Denazification should begin in russia", writing for radio free Europe.](https://www.rferl.org/a/zizek-interview-russia-denazification-ukraine-war/32204259.html)
@@ -1238,12 +1238,12 @@ _Much credit to [this post.](https://politijohn.tumblr.com/post/186036319237/get
   - [Gave an $85B bailout to automotive giants GM and Chrysler when they requested it in 2009.](https://en.wikipedia.org/wiki/Effects_of_the_2008%E2%80%9310_automotive_industry_crisis_on_the_United_States)
   - [Injected money into the private sector to bailed out wall street](https://www.salon.com/2009/03/20/reich_3/), [2](https://www.thebalance.com/obama-tax-cuts-3306330) with his [top-down 2009 ARRA stimulus package](https://en.wikipedia.org/wiki/American_Recovery_and_Reinvestment_Act_of_2009).
   - [Extended Bush-Era corporate tax rates, 1% increased their share of US wealth immensely during his term.](https://itep.org/federal-tax-cuts-in-the-bush-obama-and-trump-years/)
-  - At an elite gala for wealthy oil execs, [he tells them to "just say thank you"](https://therealnews.com/columns/obama-tells-wall-street-to-thank-him-for-making-so-much-money-at-elite-gala-with-top-bush-reagan-official), for turning the US into the world's largest oil producer and making them all richer. [He approves a 117M ton expansion of coal production](https://www.youtube.com/watch?v=IlmT_UVxKNI), outraging climate activists.
+  - At an elite gala for wealthy oil execs, [he tells them to "just say thank you"](https://therealnews.com/columns/obama-tells-wall-street-to-thank-him-for-making-so-much-money-at-elite-gala-with-top-bush-reagan-official), for turning the US into the world's largest oil producer and making them all richer. [He approves a 117M ton expansion of coal production](https://youtube.com/watch?v=IlmT_UVxKNI), outraging climate activists.
 - Obama went back on his campaign promise for a single-payer health care system, and removed the public option from his ACA ( a proposal mostly taken from Mitt Romney, and written by health-care industry moguls), which granted massive subsidies to empower the parasitic health insurance industry ( [~1.2 Trillion USD](https://www.iii.org/fact-statistic/facts-statistics-industry-overview) ), forcing those unable to afford insurance to pay a $700 yearly fee for not having it ( called the ["shared responsibility provision"](https://www.healthinsurance.org/glossary/individual-shared-responsibility-provision/) ). His ACA is essentially a huge govt subsidy directly into the pockets of private health companies along with a mandate that forced people to pay these companies as well. At least [1/4th of US workers are trapped in the gig economy](https://www.theguardian.com/commentisfree/2019/jun/02/gig-economy-us-trump-uber-california-robert-reich), and many more are employed at less than full-time hours without insurance.
 - [Did nothing about ballooning student loan debt ( now > $1T, an 86% increase during his tenure ), refusing to institute forgiveness programs, or allowing student loans to be discharged through bankruptcy.](https://thehill.com/blogs/congress-blog/education/279512-president-obamas-horrible-terrible-legacy-on-student-loans) Obama federalized the system to where the government now profits immensely from both interest on loans it makes directly to students, and defaults. [Outsourced federal student loan debt collections to private loan firms for a huge profit.](https://www.motherjones.com/politics/2018/08/debt-student-loan-forgiveness-betsy-devos-education-department-fedloan/) [2](https://www.nytimes.com/2012/09/09/business/once-a-student-now-dogged-by-collection-agencies.html)
 - Presided over the [largest foreclosure crisis in US history](https://www.peoplespolicyproject.org/wp-content/uploads/2017/12/Foreclosed.pdf), did nothing about it.
 - The Obama era was one of the greatest decreases in working class and [black wealth](https://jacobinmag.com/2017/12/obama-foreclosure-crisis-wealth-inequality), [2](https://www.peoplespolicyproject.org/wp-content/uploads/2017/12/Foreclosed.pdf) in history: home equity decreased by ~$17k between 2007 and 2016. His housing policies led to millions losing their homes. While Wall street banks recieved $29 Trillion in bailouts, $75 Billion in relief was set aside for housing foreclosures and mortgage assistance. Instead of being paid to families, this was paid to mortgage servicers, and the services found ways to pocket the money and continue foreclosures: by the end of the program, less than 20% of the funds were used, and most had dropped out of the program due to foreclosures. The Obama administration refused to prosecute the fraud, or any of those responsible for the 2008 financial crisis.
-- [Visited Flint Michigan during their lead-water poisoning crisis, to support the governor's non-response, and do damage control for the democratic party, outraging citizens.](https://m.youtube.com/watch?v=GVv3n18_TGs) Refused to give federal aid to the city, or call a state of emergency. In a highly offensive gesture during a town hall meeting, he made light of the situation by pretending to drink the poisoned tap water. Eventually authorized FEMA to give a pithy $5M to the city, while estimates suggested that at least $100M is needed. 100k citizens, including 8-10k children have lead poisoning as a result of the state's negligence.
+- [Visited Flint Michigan during their lead-water poisoning crisis, to support the governor's non-response, and do damage control for the democratic party, outraging citizens.](https://youtube.com/watch?v=GVv3n18_TGs) Refused to give federal aid to the city, or call a state of emergency. In a highly offensive gesture during a town hall meeting, he made light of the situation by pretending to drink the poisoned tap water. Eventually authorized FEMA to give a pithy $5M to the city, while estimates suggested that at least $100M is needed. 100k citizens, including 8-10k children have lead poisoning as a result of the state's negligence.
 - Spends his post-presidency jet-skiing with billionaires, [making ~400k for every wall street speaking engagement](https://www.thestreet.com/investing/highest-paid-public-speakers-14315669), buying a massive multi-million dollar estate, and doing [anti-China netflix documentaries](https://www.standard.co.uk/insider/alist/barack-and-michelle-obama-net-worth-2020-how-much-is-the-former-us-president-worth-along-with-his-a4178561.html). [His net-worth increased 3000% post-presidency.](https://www.businessinsider.com/barack-obama-michelle-obama-net-worth-2018-7)
 
 #### Mass Imprisonment
@@ -1255,7 +1255,7 @@ _Much credit to [this post.](https://politijohn.tumblr.com/post/186036319237/get
   - The [War On Drugs](https://en.wikipedia.org/wiki/War_on_Drugs), a policy of arrest and imprisonment targeting minorities, first initiated by Nixon, has over the years created a monstrous system of mass incarceration, resulting in the imprisonment of 1.5 million people each year, with the US having the most prisoners per capita of any nation. One in five black Americans will spend time behind bars due to drug laws. The war has created a permanent underclass of impoverished people who have few educational or job opportunities as a result of being punished for drug offenses, in a vicious cycle of oppression. [1](https://en.wikipedia.org/wiki/War_on_Drugs#cite_note-59), [2](https://en.wikipedia.org/wiki/War_on_Drugs)
   - [Obama authorizes the use of Military equipment for police.](https://www.mintpressnews.com/white-house-reauthorize-military-equipment-police/218714/)
   - Massively grew the US [prison–industrial complex](https://en.wikipedia.org/wiki/Prison%E2%80%93industrial_complex), and the [rapid expansion of the US inmate population](https://en.wikipedia.org/wiki/United_States_incarceration_rate#Growth) to the political influence of [private prison](https://en.wikipedia.org/wiki/Private_prison) companies and businesses that supply goods and services to government prison agencies. Such groups include corporations that contract [prison labor](https://en.wikipedia.org/wiki/Prison_labor), construction companies, [surveillance](https://en.wikipedia.org/wiki/Surveillance) technology vendors, companies that operate prison food services and medical facilities, [private probation](https://en.wikipedia.org/wiki/Private_probation) companies, lawyers, and [lobby groups](https://en.wikipedia.org/wiki/Lobby_groups) that represent them. Activist groups such as the [National Organization for the Reform of Marijuana Laws](https://en.wikipedia.org/wiki/National_Organization_for_the_Reform_of_Marijuana_Laws) (NORML) have argued that the prison-industrial complex is perpetuating a flawed belief that imprisonment is an effective solution to social problems such as [homelessness](https://en.wikipedia.org/wiki/Homelessness), [unemployment](https://en.wikipedia.org/wiki/Unemployment), [drug addiction](https://en.wikipedia.org/wiki/Drug_addiction), [mental illness](https://en.wikipedia.org/wiki/Mental_illness), and [illiteracy](https://en.wikipedia.org/wiki/Illiteracy). [1](https://en.wikipedia.org/wiki/Prison%E2%80%93industrial_complex)
-  - On April 12, 2015, [Freddie Carlos Gray, Jr.](https://en.wikipedia.org/wiki/Death_of_Freddie_Gray), a 25-year-old [Black man](https://en.wikipedia.org/wiki/Black_American), was [arrested](https://en.wikipedia.org/wiki/Arrested) by the [Baltimore Police Department](https://en.wikipedia.org/wiki/Baltimore_Police_Department) for possessing what the police alleged was an illegal [switchblade](https://en.wikipedia.org/wiki/Switchblade) under Baltimore law. While being transported in a [police van](https://en.wikipedia.org/wiki/Police_van), several cops held him down, putting pressure on his spinal cord, after which he fell into a [coma](https://en.wikipedia.org/wiki/Coma) and died, sparking a series of [protests in Baltimore](https://en.wikipedia.org/wiki/2015_Baltimore_protests); riot police responded violently, and called in the national guard to aid against the "thugs", as they were labeled by [Obama in a press conference](https://youtu.be/ml1LzRenH_Q). After the protests were put down, the police officers were given separate trials, and all of them were found innocent. [1](https://en.wikipedia.org/wiki/Death_of_Freddie_Gray)
+  - On April 12, 2015, [Freddie Carlos Gray, Jr.](https://en.wikipedia.org/wiki/Death_of_Freddie_Gray), a 25-year-old [Black man](https://en.wikipedia.org/wiki/Black_American), was [arrested](https://en.wikipedia.org/wiki/Arrested) by the [Baltimore Police Department](https://en.wikipedia.org/wiki/Baltimore_Police_Department) for possessing what the police alleged was an illegal [switchblade](https://en.wikipedia.org/wiki/Switchblade) under Baltimore law. While being transported in a [police van](https://en.wikipedia.org/wiki/Police_van), several cops held him down, putting pressure on his spinal cord, after which he fell into a [coma](https://en.wikipedia.org/wiki/Coma) and died, sparking a series of [protests in Baltimore](https://en.wikipedia.org/wiki/2015_Baltimore_protests); riot police responded violently, and called in the national guard to aid against the "thugs", as they were labeled by [Obama in a press conference](https://youtube.com/watch?v=ml1LzRenH_Q). After the protests were put down, the police officers were given separate trials, and all of them were found innocent. [1](https://en.wikipedia.org/wiki/Death_of_Freddie_Gray)
 - After the [ATF was caught in a scandal of selling guns to drug cartels](https://www.latimes.com/nation/atf-fast-furious-sg-storygallery.html?page=2), Obama defends and refuses to prosecute.
 
 #### Mass surveillance
@@ -1263,7 +1263,7 @@ _Much credit to [this post.](https://politijohn.tumblr.com/post/186036319237/get
 - [Obama authorized the massive, behind-closed-doors growth of the worldwide US surveillance system.](<https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)>)
   - Since 2012, the US military has a [state-run and funded astroturfing campaign](https://www.theguardian.com/technology/2011/mar/17/us-spy-operation-social-networks) to manipulate public opinion online, and spread pro-US propaganda through government funded sockpuppets, called [Operation Earnest Voice](https://en.wikipedia.org/wiki/Operation_Earnest_Voice).
   - The 2010 [US diplomatic cables leak](https://en.wikipedia.org/wiki/United_States_diplomatic_cables_leak) by Chelsea Manning revealed a pervasive policy of using US ambassadors as spies, supporting dictatorships, spying on the UN, strong-arming for US companies abroad, and disrupting nuclear disarmament talks. The scope of these leaks touches every country the US has a relationship with, and they are better detailed [here](https://en.wikipedia.org/wiki/Contents_of_the_United_States_diplomatic_cables_leak). [1](https://en.wikipedia.org/wiki/Contents_of_the_United_States_diplomatic_cables_leak), [2](https://en.wikipedia.org/wiki/United_States_diplomatic_cables_leak)
-- [Obama ruthlessly went after and jailed whistleblowers](https://www.sandiegouniontribune.com/opinion/the-conversation/sd-before-trump-obama-prosecuted-leaks-20170804-htmlstory.html), [2](https://www.theguardian.com/us-news/2015/mar/16/whistleblowers-double-standard-obama-david-petraeus-chelsea-manning), indicting [more than all previous presidents combined.](https://www.youtube.com/watch?v=x-iT51XSTgE) [2](https://www.youtube.com/watch?v=wS9TXJqxkSQ), [3](https://www.youtube.com/watch?v=YIWjon88lWc)
+- [Obama ruthlessly went after and jailed whistleblowers](https://www.sandiegouniontribune.com/opinion/the-conversation/sd-before-trump-obama-prosecuted-leaks-20170804-htmlstory.html), [2](https://www.theguardian.com/us-news/2015/mar/16/whistleblowers-double-standard-obama-david-petraeus-chelsea-manning), indicting [more than all previous presidents combined.](https://youtube.com/watch?v=x-iT51XSTgE) [2](https://youtube.com/watch?v=wS9TXJqxkSQ), [3](https://youtube.com/watch?v=YIWjon88lWc)
   - In 2010, [Chelsea Manning](https://en.wikipedia.org/wiki/Chelsea_Manning) was imprisoned under the espionage act for a series of leaks which embarrassed the US government, including the [July 12, 2007 Baghdad airstrike](https://en.wikipedia.org/wiki/July_12,_2007_Baghdad_airstrike), [Afghan War documents](https://en.wikipedia.org/wiki/Afghan_War_documents_leak), [Iraq War documents leak](https://en.wikipedia.org/wiki/Iraq_War_documents_leak), [US diplomatic cables leak](https://en.wikipedia.org/wiki/United_States_diplomatic_cables_leak), and the [Guantanamo Bay files leak](https://en.wikipedia.org/wiki/Guantanamo_Bay_files_leak). The leak was, in Manning's Words: "possibly one of the most significant documents of our time, removing the fog of war and revealing the true nature of 21st century asymmetric warfare". [1](https://en.wikipedia.org/wiki/Chelsea_Manning)
 - [Encouraged the FBI to use informants to infiltrate US Muslim communities, blocked their exposure by expanding the definition of state secrets.](https://www.colorlines.com/articles/obamas-unprecedented-use-state-secrets-defend-religious-profiling)
 
@@ -1313,7 +1313,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 
 ### Others
 
-- [What's so bad about Winston Churchill?](http://www.reddit.com/r/ShitLiberalsSay/comments/80sxhj/-/duy08zm) , [2](https://crimesofbritain.com/2016/09/13/the-trial-of-winston-churchill/), [3](https://www.rbth.com/blogs/2013/06/13/operation_unthinkable_churchills_plan_to_start_world_war_iii_26091)
+- [What's so bad about Winston Churchill?](https://www.reddit.com/r/ShitLiberalsSay/comments/80sxhj/-/duy08zm) , [2](https://crimesofbritain.com/2016/09/13/the-trial-of-winston-churchill/), [3](https://www.rbth.com/blogs/2013/06/13/operation_unthinkable_churchills_plan_to_start_world_war_iii_26091)
 - [What about Jordan Peterson?](https://www.reddit.com/r/Socialism_101/comments/85cuay/thoughts_on_jordan_petersons_criticism_of_marxism/dvwnd25/)
 - [Is Christianity / the Bible Communist?](https://www.reddit.com/r/LateStageCapitalism/comments/9b7gsw/joel_osteen/e515qdb/)
 - [Was Mark Twain a socialist?](https://socialistworker.org/2010/04/21/the-twain-they-didnt-teach)
@@ -1330,7 +1330,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 
 ### Did atom bombs really end WW2?
 
-- [No, the entrance of the USSR into the war against Japan was the cause of Japan's surrender, which the US fully knew about since they were intercepting Japan's communications. The Atom bombing of Japanese civilians was in reality a display of military power against the USSR, and the first act of the cold war.](http://foreignpolicy.com/2013/05/30/the-bomb-didnt-beat-japan-stalin-did/) [Audiobook](https://www.youtube.com/playlist?list=PL0-IkmzWbjoaLP3G2HGj-O5JTepm0Kjt-), [Summary](https://www.reddit.com/r/Socialism_101/comments/bd615l/perspectives_on_ww2/eky36vp/?context=3).
+- [No, the entrance of the USSR into the war against Japan was the cause of Japan's surrender, which the US fully knew about since they were intercepting Japan's communications. The Atom bombing of Japanese civilians was in reality a display of military power against the USSR, and the first act of the cold war.](http://foreignpolicy.com/2013/05/30/the-bomb-didnt-beat-japan-stalin-did/) [Audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoaLP3G2HGj-O5JTepm0Kjt-), [Summary](https://www.reddit.com/r/Socialism_101/comments/bd615l/perspectives_on_ww2/eky36vp/?context=3).
 - [The bombs were not only unnecessary, they didn't contribute to the decision to surrender.](https://www.reddit.com/r/GenZhou/comments/r3eeyu/justification_for_nuking_hiroshima_and_nagasaki/hmaa3mz/)
 
 ### What about overpopulation / unsustainability?
@@ -1344,7 +1344,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 
 - [Would basic income fix our problems?](https://www.reddit.com/r/socialism/comments/8p097l/i_just_realized_that_monopoly_has_integrated/)
 - [A Marxist critique of Basic income.](https://www.reddit.com/r/communism/comments/8wizh9/marxist_critiques_on_the_universal_basic_income/)
-- [Why basic income is a bad idea - Paul Cockshott](https://www.reddit.com/r/socialism/comments/9lj3bh/why_basic_income_is_a_bad_idea/), [2](https://www.youtube.com/watch?v=QGBQwZsp3T0), [3](https://www.reddit.com/r/socialism/comments/9li3gj/what_do_socialists_think_about_a_universal_basic/)
+- [Why basic income is a bad idea - Paul Cockshott](https://www.reddit.com/r/socialism/comments/9lj3bh/why_basic_income_is_a_bad_idea/), [2](https://youtube.com/watch?v=QGBQwZsp3T0), [3](https://www.reddit.com/r/socialism/comments/9li3gj/what_do_socialists_think_about_a_universal_basic/)
 - [What would happen to workers in poorer countries?](https://www.reddit.com/r/communism/comments/5iznp8/opinions_on_universal_basic_income/)
 - [Could Basic income "save" Capitalism?](https://www.reddit.com/r/Socialism_101/comments/92qgzn/realistically_could_universal_basic_income_save/)
 - [Its supported by, and benefits, silicon valley billionaires.](https://www.latimes.com/opinion/op-ed/la-oe-rushkoff-universal-basic-income-silicon-valley-20170721-story.html)
@@ -1361,13 +1361,13 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 
 ### VaushV
 
-- [A compilation of his takes.](https://www.youtube.com/watch?v=xyaRosqQOxk)
+- [A compilation of his takes.](https://youtube.com/watch?v=xyaRosqQOxk)
 - Vaush on LGBT and Trans people: ["The left community online, **particularly the LGBT community**, is cancerous as fuck"](https://twitter.com/lporiginalg/status/1230667829537427462?s=20) "You don't have to be a psychologist to see that a large portion of the broader woket--d cancel-culture idpol left, is predicated on **shared mental illness**. This is **particularly prevalent in the trans community.** If you disagree with me on this, you're wrong. [...] These people are sub-human."
   - [Vaush says in his discord that: "if trans people didn't exist, my notification feed would be a lot better". Rails on about "trans-advocates".](https://i.imgur.com/lR5NhnF.png)
   - [Vaush laughs at trans suicide. ](https://streamable.com/q39axh)
 - [Harrasses a woman by asking her if she wanted to see his penis even though she said no repeatedly. Sends her a picture of himself in the shower anyway.](https://www.reddit.com/r/ShitLiberalsSay/comments/i5nka7/vaush_says_tankies_are_irrelevant_because_he_has/g0raeoh?utm_source=share&utm_medium=web2x)
 - [Vaush has a pre-occupation with pedophilia and beastiality](https://www.reddit.com/r/Enough_Vaush_Spam/comments/q9gkx3/vaush_is_obsessed_with_paedophilia_and_child_porn/), [2](https://www.reddit.com/r/Enough_Vaush_Spam/comments/ou0d2u/vaush_has_a_very_disturbing_preoccupation_with/)
-  - Claims that [its possible for an adult and child to have a "positive sexual relationship."](https://www.youtube.com/watch?v=_kX3zewAQ64)
+  - Claims that [its possible for an adult and child to have a "positive sexual relationship."](https://youtube.com/watch?v=_kX3zewAQ64)
 - [Compares the purchase of a computer to the purchase of child-porn.](https://www.reddit.com/r/ShitLiberalsSay/comments/g7bwgd/famous_breadtuber_vaush_i_cant_blame_people_for/)
 - [Very happy to say the n-word.](https://twitter.com/high_define/status/1265033740075634688?s=20) [again](https://twitter.com/comradecorm/status/1263512305800810503?s=20)
   - [Defends using the N-word as a "power-move" which he is unashamed of.](https://i.imgur.com/ExE1sFZ.jpg)
@@ -1385,11 +1385,11 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Says: "If you identify as LGBT, then you must consider North Korea your enemy", citing wapo, the geneva US mission, and CIA NK org. Ignores the DPRK's pro-lgbt stances.](https://i.redd.it/nvgx1vz4z3b51.png) [2](https://web.archive.org/web/20050806002431/http://www.korea-dpr.com/faq.htm#20)
 - He's in no leftist orgs, plays video games all day, and takes home [$1.5k / month from his subscribers by holding "debates" where he just rants at people.](https://www.patreon.com/vaush)
 - ["Marxism isn't a rejection of liberalism, it's about making it better." ](https://twitter.com/commiefr0g/status/1290343782450434049)
-- ["Marxism isn't about collectivism, its about freedom from tyranny. Collectivism is groupthink."](https://www.youtube.com/watch?v=gWsrVEyEIcI)
-- [Hakim - Vaush has no idea what he's talking about.](https://www.youtube.com/watch?v=NX9_kXYMSck)
+- ["Marxism isn't about collectivism, its about freedom from tyranny. Collectivism is groupthink."](https://youtube.com/watch?v=gWsrVEyEIcI)
+- [Hakim - Vaush has no idea what he's talking about.](https://youtube.com/watch?v=NX9_kXYMSck)
 - [Claims that tankies only exist in "small online circles", ignoring the millions of communists in the global south.](https://twitter.com/duck_azz/status/1291635709154033664?s=20)
 - [Supports US presence in the middle east as a "stabilizing force"](https://twitter.com/SpookySocialist/status/1367635044311957506?s=20)
-- [Says the US military needs to stay in Afghanistan.](https://www.youtube.com/watch?v=tcB_HklU7aA)
+- [Says the US military needs to stay in Afghanistan.](https://youtube.com/watch?v=tcB_HklU7aA)
 - [Wishes the CIA would coup Russia to install a pro western regime.](https://twitter.com/SarcasmStardust/status/1469307746671550468?s=20)
 - [Vaush on Russia: "We need to starve russia out, sanction their leaders, cripple their economy, wait for them to bleed out, and then when they're ready to play ball, they'll be a nice, compliant country."]
 - [Wishes that Assange would be tortured to death in a CIA black site, because it would "trigger all the worst people on twitter."](https://twitter.com/SarcasmStardust/status/1470528366348582915?s=20)
@@ -1407,7 +1407,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Trolling threads on /r/communism, and banning pro-China posters. Banned one person for pointing out their discord stickied Obama's anti-China docu and said it was "required watching"](https://www.reddit.com/r/communism/comments/fgdjpc/does_going_against_western_propaganda_ever_make/fk47f81/)
 - Had a "no-dengism" rule on their official subreddit sidebar for over a year.
 - [Banned me for supporting Stalin.](https://i.imgur.com/gBzROhU.png, https://www.reddit.com/r/MoreTankieChapo/comments/fdfyr8/why_is_this_liberal_allowed_to_be_a_mod_thought/)
-- [Purging their sub off any pro-CPC posters](https://www.reddit.com/r/MoreTankieChapo/comments/gyx1nv/reminder_about_rules_1_and_7/) After a community backlash, they removed the anti dengism rule and one of the mods, [but still continued bans on pro China posters.](https://reddit.com/r/sendinthetanks/comments/gzdmyw/welcome_to_the_newly_banned/ftg1l30)
+- [Purging their sub off any pro-CPC posters](https://www.reddit.com/r/MoreTankieChapo/comments/gyx1nv/reminder_about_rules_1_and_7/) After a community backlash, they removed the anti dengism rule and one of the mods, [but still continued bans on pro China posters.](https://www.reddit.com/r/sendinthetanks/comments/gzdmyw/welcome_to_the_newly_banned/ftg1l30)
 - [Quick TLDR](https://www.reddit.com/r/sendinthetanks/comments/gzjn3i/what_is_happening_in_rmoretankiechapo/).
 
 ### Amnesty International
@@ -1423,21 +1423,21 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - https://i.imgur.com/9PY54DI.jpg
 - https://www.wsws.org/en/articles/2021/05/01/ukr-m01.html
 - https://www.liberationschool.org/the-roots-of-fascism-in-ukraine/
-- https://www.youtube.com/watch?v=VtOx6dW_0vU
+- https://youtube.com/watch?v=VtOx6dW_0vU
 - https://lemmygrad.ml/post/135575
 - https://www.workers.org/2022/02/62086/
 - Decommunisation laws: https://en.wikipedia.org/wiki/Volodymyr_Viatrovych, no laws against neo-nazism
-- https://www.youtube.com/watch?v=7zZwhGHeIYM
-- https://youtu.be/JrMiSQAGOS4
+- https://youtube.com/watch?v=7zZwhGHeIYM
+- https://youtube.com/watch?v=JrMiSQAGOS4
 - https://v.redd.it/re0qb940lkk81
 - https://v.redd.it/j6lrcei3psk81
 - https://www.haaretz.com/food/2016-04-04/ty-article/a-queasy-dinner-at-lvivs-jewish-eatery/0000017f-f631-d47e-a37f-ff3df9880000
 
 ### Others
 
-- [What is Antifa? (Abby)](https://www.youtube.com/watch?v=bgwS_FMZ3nQ)
-- [Whats so bad about UBI (universal basic income)?](https://thenewinquiry.com/universal-basic-bullshit/),[2](https://www.dissentmagazine.org/article/false-promise-universal-basic-income-andy-stern-ruger-bregman),[3](https://youtu.be/J10jKdPRN9A)
-- [Why are socialists against Israel / Zionism?](https://www.youtube.com/watch?v=BT5L4YU_Fl4&feature=youtu.be)
+- [What is Antifa? (Abby)](https://youtube.com/watch?v=bgwS_FMZ3nQ)
+- [Whats so bad about UBI (universal basic income)?](https://thenewinquiry.com/universal-basic-bullshit/),[2](https://www.dissentmagazine.org/article/false-promise-universal-basic-income-andy-stern-ruger-bregman),[3](https://youtube.com/watch?v=J10jKdPRN9A)
+- [Why are socialists against Israel / Zionism?](https://youtube.com/watch?v=BT5L4YU_Fl4)
 - [Do most US troops come from poor neighborhoods? (Yes, debunking the heritage foundation debunkers)](https://www.boiseweekly.com/boise/poor-and-uneducated-like-we-thought/Content?oid=933196)
 - [Why communists do not participate in anti-russia hysteria, pushed by the democrats.](https://www.reddit.com/r/communism/comments/90i5yp/why_the_marxist_left_is_opposed_to_and_does_not/), [2](https://www.reddit.com/r/LateStageCapitalism/comments/9vaw8f/-/e9b1kxr)
 - [Is there any real evidence for Russian interference in US elections?](https://www.realclearinvestigations.com/articles/2019/07/05/crowdstrikeout_muellers_own_report_undercuts_its_core_russia-meddling_claims.html) [2](https://thegrayzone.com/2020/05/11/bombshell-crowdstrike-admits-no-evidence-russia-stole-emails-from-dnc-server/)
@@ -1447,8 +1447,8 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Gensec Nguyen Phu Trong - On Vietnam's socialist market economy, and its historical development. What were the Doi Moi reforms?](https://en.nhandan.org.vn/politics/item/9924202-some-theoretical-and-practical-issues-on-socialism-and-the-path-towards-socialism-in-vietnam.html)
 - [How is socialism progressing in Bolivia?](https://www.reddit.com/r/communism/comments/cg2t3j/masterpost_on_the_achievements_of_socialism_in/)
 - [Anti-imperialism of Evo Morales - A fight for Bolivia's resources.](https://www.commondreams.org/views/2019/11/12/after-morales-ousted-coup-lithium-question-looms-large-bolivia)
-- [How does the US and British strategy of Balkanization work?](https://youtu.be/niZsLfxNwvI?t=807)
-- Caleb Maupin - [1](https://www.youtube.com/watch?v=i29kWYXlwhw), [2](https://www.youtube.com/watch?v=fmQtvk5elYc), [3](https://www.reddit.com/r/BeardTube/comments/fkwaso/the_successes_of_socialism_in_vietnam/fkwb68a/), [4](https://i.imgur.com/kbeSu33.jpg), [5](https://i.imgur.com/u0jygQ9.png)
+- [How does the US and British strategy of Balkanization work?](https://youtube.com/watch?v=niZsLfxNwvI?t=807)
+- Caleb Maupin - [1](https://youtube.com/watch?v=i29kWYXlwhw), [2](https://youtube.com/watch?v=fmQtvk5elYc), [3](https://www.reddit.com/r/BeardTube/comments/fkwaso/the_successes_of_socialism_in_vietnam/fkwb68a/), [4](https://i.imgur.com/kbeSu33.jpg), [5](https://i.imgur.com/u0jygQ9.png)
 - Prysner - [1](https://twitter.com/Duophile/status/1256563958141591556?s=20)
 - [Omar](https://electronicintifada.net/blogs/ali-abunimah/ilhan-omar-backs-israel-lobby-campaign-against-iran) [2](https://twitter.com/hansalexrazo/status/1258473006419959808?s=20), [3](https://www.washingtonexaminer.com/news/ilhan-omar-says-her-political-role-model-is-inspirationally-bold-margaret-thatcher), [4](https://twitter.com/caitoz/status/1362154968883503106?s=20)
 - [Bordiga](https://libcom.org/forums/history/bordiga-leninist-who-put-his-hopes-axis-27122017)
@@ -1459,7 +1459,7 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [Blackredguard](https://twitter.com/BlackRedGuard1/status/1383849476863844359?s=20)
 - [A response to David Harvey's theories of Imperialism by John Smith.](https://urpe.wordpress.com/2018/01/11/a-critique-of-david-harvey-on-imperialism/)
 - [Is signal secure? Yasha Levine](https://yasha.substack.com/p/signal-is-a-government-op-85e)
-- Belarus: [1](https://np.reddit.com/r/EuropeanSocialists/comments/i8cf4z/nazi_roots_of_symbols_of_the_belarusian_opposition/), [2](https://thegrayzone.com/2021/05/26/belarus-roman-protasevich-plane-nazis-ukraine/), [3](https://www.rt.com/russia/525032-protasevich-arrest-neo-nazi-links/). https://cprf.ru/2022/05/in-ukraine-russia-is-fighting-neo-nazism/
+- Belarus: [1](https://www.reddit.com/r/EuropeanSocialists/comments/i8cf4z/nazi_roots_of_symbols_of_the_belarusian_opposition/), [2](https://thegrayzone.com/2021/05/26/belarus-roman-protasevich-plane-nazis-ukraine/), [3](https://www.rt.com/russia/525032-protasevich-arrest-neo-nazi-links/). https://cprf.ru/2022/05/in-ukraine-russia-is-fighting-neo-nazism/
 - [The Fort Dietrich virus](https://twitter.com/ProPeace97/status/1420657562618318850)
 - [Cory booker](https://twitter.com/Remroum/status/1425296761820786688?s=20)
 - [Aleksandr I. Solzhenitsyn and the Gulag Archipelago](https://www.reddit.com/r/GenZhou/comments/pd01t7/how_reliable_is_this_anticommunist_defense_of/hamp4mz/)
@@ -1474,4 +1474,4 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 
   https://5pillarsuk.com/2018/02/23/black-panther-the-same-old-western-politics-with-a-black-face/
 
-[Life in occupied Palestine by Anna](https://m.youtube.com/watch?v=Q_MDC2Gty4I&feature=youtu.be)
+[Life in occupied Palestine by Anna](https://youtube.com/watch?v=Q_MDC2Gty4I)

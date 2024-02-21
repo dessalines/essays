@@ -2,7 +2,7 @@
 
 ## Read by Dessalines
 
-- [Youtube Channel](https://www.youtube.com/channel/UC7HJWIFGGeMiJi2h3k18CrQ)
+- [Youtube Channel](https://youtube.com/channel/UC7HJWIFGGeMiJi2h3k18CrQ)
 - [Lenin - The State and Revolution](magnet:?xt=urn:btih:bf60338d499a40e4e99ca8edffda9447402a29de&dn=Lenin+-+The+State+and+Revolution+%5Baudiobook%5D+by+dessalines)
 - [Engels - Socialism - Utopian and Scientific](magnet:?xt=urn:btih:676a3acf1baa5e5bbd26dea9b95272e5ba252fb6&dn=Engels%20-%20Socialism%20-%20Utopian%20and%20Scientific%20%5baudiobook%5d%20by%20dessalines)
 - [Rosa Luxemburg - Reform or Revolution](magnet:?xt=urn:btih:ef5f7d59d0792aedc3a80673b34d0f6b21fd7802&dn=Rosa%20Luxemburg%20-%20Reform%20or%20Revolution%20%5baudiobook%5d%20by%20dessalines)

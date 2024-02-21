@@ -16,7 +16,7 @@ For listening to books / podcasts, use [Smart Audiobook Player](https://play.goo
 
 ## Morning
 
-Inspired by [Andrew Huberman's optimal morning routine](https://www.youtube.com/watch?v=gR_f-iwUGY4&), [Med school insiders routine.](https://www.youtube.com/watch?v=LQ8JOsc3-wU), [2](https://www.youtube.com/watch?v=t-ezOLT2Kv0), and [Ali Abdals's Sleep routine](https://www.youtube.com/watch?v=K3eS4jr2pIo1).
+Inspired by [Andrew Huberman's optimal morning routine](https://youtube.com/watch?v=gR_f-iwUGY4&), [Med school insiders routine.](https://youtube.com/watch?v=LQ8JOsc3-wU), [2](https://youtube.com/watch?v=t-ezOLT2Kv0), and [Ali Abdals's Sleep routine](https://youtube.com/watch?v=K3eS4jr2pIo).
 
 Try to keep the total time to under an hour, allocating more of the time to meditating or working out.
 
@@ -44,7 +44,7 @@ Put on sunscreen. No need to clean / rinse face. Don't miss ears and neck.
 
 ### Stretch
 
-Do [Jeremy Ethiers routine](https://www.youtube.com/watch?v=RqcOCBb4arc), especially the thoracic rotations. Your neck and back will thank you.
+Do [Jeremy Ethiers routine](https://youtube.com/watch?v=RqcOCBb4arc), especially the thoracic rotations. Your neck and back will thank you.
 
 Stretch knees and ankles if necessary.
 
@@ -100,7 +100,7 @@ Don't soap your skin or face, only soap folds: your armpits, and crotch.
 
 The colder the shower, the faster you'll be.
 
-Do [Ali Abdals routine](https://www.youtube.com/watch?v=OrElyY7MFVs), or [Dr Dray's Routine](https://www.youtube.com/watch?v=G8q08kY3zqY). Rinse / use cleanser, then moisturizer, then retinol, then sun-tan lotion. Do any makeup you need to after.
+Do [Ali Abdals routine](https://youtube.com/watch?v=OrElyY7MFVs), or [Dr Dray's Routine](https://youtube.com/watch?v=G8q08kY3zqY). Rinse / use cleanser, then moisturizer, then retinol, then sun-tan lotion. Do any makeup you need to after.
 
 Put on deodorant after clothes.
 
@@ -152,7 +152,7 @@ Your willpower / energy to do daily tasks is like a tank, and needs to be replen
 
 ### When to eat
 
-Do IF (intermittent fasting). No, its [not bad for you... its good for your long-term health](https://www.youtube.com/watch?v=7nJgHBbEgsE), and can help you lose or gain weight depending on your goal.
+Do IF (intermittent fasting). No, its [not bad for you... its good for your long-term health](https://youtube.com/watch?v=7nJgHBbEgsE), and can help you lose or gain weight depending on your goal.
 
 Start out with a **14-10** (14 hour fast, 10 hour eat), and work your way up to either a 20-4, or 22-2. Aim for eating one big meal a day, and snacking / eating whatever you want the rest of your window. I start eating at 4-5pm, and end at 8-9pm.
 
