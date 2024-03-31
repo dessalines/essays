@@ -534,6 +534,10 @@
 - [_An experiment in living socialism: Bulgaria then and now_](https://drive.google.com/file/d/0B-eTgjCs2lzpMl92U3JzQ0pIa3c/view?usp=sharing) by F.S.
 - [_Growing Up Under Communism Was The Happiest Time Of My Life_](http://www.dailymail.co.uk/news/article-1221064/Oppressive-grey-No-growing-communism-happiest-time-life.html) by Zsuzsanna Clark
 
+### Russian Federation (1991-present)
+
+- [Stansfield Smith - Is Russia Imperialist?](https://mronline.org/2019/01/02/is-russia-imperialist/)
+
 ### Further reading
 
 - [A collection of Soviet history books on Stalin and Stalinism.](https://www.reddit.com/r/communism/comments/1hzwl3/a_collection_of_soviet_history_books_on_stalin/)
@@ -586,7 +590,7 @@
 - [Is modern day china communist? Is it staying true to communist values?](https://www.reddit.com/r/communism101/comments/91liw2/how_is_china_staying_true_to_communist_values/e2z3kzu/)
 - [Didn't China go Capitalist with Deng Xiaoping? Didn't it liberalize its economy? Is China's drastic decrease in poverty a result of the increase in free market capitalist policies?](https://www.reddit.com/r/DebateCommunism/comments/b3gjfe/chinas_drastic_decrease_in_poverty_is_a_result_of/ey8depl/?context=3)
 - [Is the CPC committed to communism?](https://www.reddit.com/r/communism101/comments/c9ee36/why_do_i_see_so_many_people_on_the_communism/esxapi2/)
-- [The Long Game and Its Contradictions](https://www.greanvillepost.com/2018/10/30/the-long-game-and-its-contradictions/). [Audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoali1j-mai9MtggjA-Vzc4x)
+- [The Long Game and Its Contradictions](https://archive.is/GfM71). [Audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoali1j-mai9MtggjA-Vzc4x)
 - [The myth of Chinese state capitalism. Did Deng really betray Chinese socialism?](http://www.greanvillepost.com/2015/08/20/the-myth-of-chinese-capitalism-2/)
 - [Tsinghua University- Is Socialism with Chinese Characteristics real socialism, or is it state Capitalism?](https://youtube.com/watch?v=62mvMWJHt8g)
 - [Isn't China revisionist for having a capitalist sector of the economy, and working with capitalists? Why isn't it fully planned like the USSR was?](https://lemmygrad.ml/comment/185239)

@@ -92,7 +92,7 @@ Signal could very well be another Crypto AG-style [honeypot](<https://en.wikiped
 
 ---
 
-Signal's use luckily never caught on by the general public of China (or the Hong Kong Administrative region), whose government prefers autonomy, rather than letting US tech control its communication platforms, as most of the rest of the world naively allows. (For example, India's most popular social media apps, are Facebook and Youtube, meaning that US surveillance giants own and control the everyday communications of a country much larger than their own). Signal instead became used by US and western activists, and due to the contradictions of surveillance capitalism, also now its general populace.
+Signal's use luckily never caught on by the general public of China, whose government prefers autonomy, rather than letting US tech control its communication platforms, as most of the rest of the world naively allows. (For example, India's most popular social media apps, are Facebook and Youtube, meaning that US surveillance giants own and control the everyday communications of a country much larger than their own). Signal instead became used by US and western activists, and due to the contradictions of surveillance capitalism, also now its general populace.
 
 However this is no case of [blowback](<https://en.wikipedia.org/wiki/Blowback_(intelligence)>), [Marlinspike's confused and useful idiot politics aside](https://lemmygrad.ml/pictrs/image/n9o9bNI6gp.jpg); Signal's other deficiencies mean that there are less impediments to US government surveillance over it than previously thought, and make its claims to being "secure", questionable.
 
@@ -100,7 +100,9 @@ As the above article states, after Yasha Levine wrote an article exposing Signal
 
 > Our primary interest is to make sure the extended OTF network and the Internet Freedom community are not spooked by the [Yasha Levine's] article (no pun intended). Fortunately all the major players in the community are together in Valencia this week - and report out from there indicates they remain comfortable with OTF/RFA.
 
-Clearly the US government was interested in Signal's continued use and expansion.
+Clearly the US government was **promoting Signal's continued use and expansion.**
+
+In 2024, Meredith Whittaker, the acting president of the Signal Foundation, [even held an interview with Lawfare](https://www.lawfaremedia.org/article/at-signal-a-revolution-in-messaging), a US state-department connected Washington DC think-tank, dedicated to US national security.
 
 The reason the US government hasn't tried to block or hinder Signal, _is because it's satisfied with the amount of information Signal can provide to it._
 
@@ -108,9 +110,9 @@ The reason the US government hasn't tried to block or hinder Signal, _is because
 
 #### National Security Letters (NSLs)
 
-The US has an [interesting law](https://en.wikipedia.org/wiki/National_security_letter) that applies to _any US company_ operating within its borders: it is **illegal to tell your users that the the US government has asked your company to spy on their behalf.** This is called a [key disclosure law](https://www.privacyguides.org/providers/#kdl), and the US's version of it, called [National Security Letters](https://en.wikipedia.org/wiki/National_security_letter), underwent an expansion with the PATRIOT act.
+The US has an [interesting law](https://en.wikipedia.org/wiki/National_security_letter) that applies to _any US company_ operating within its borders: it is **illegal to tell your users that the the US government has asked your company to spy on their behalf.** This is called a [key disclosure law](https://www.privacyguides.org/providers/#kdl), and the US's version of it, called [National Security Letters](https://en.wikipedia.org/wiki/National_security_letter), underwent an expansion with the PATRIOT act; by 2013, President Obama’s Intelligence Review Group reported issuing on average, **nearly 60 NSLs every day.**
 
-Companies that don't comply with this law, [such as Lavabit, are forced to shut themselves down in protest, in order to avoid prison time](https://youtube.com/watch?v=spW0q-g2BxU), or remain open, and funnel user communications to the US government. The Signal foundation is a US domiciled company, and must comply with this law.
+Companies that don't comply with this law, [such as Lavabit, are forced to shut themselves down in protest, in order to avoid prison time](https://youtube.com/watch?v=spW0q-g2BxU), or remain open, and funnel user communications to the US government. The Signal foundation is a US domiciled company, and must comply with this law. 
 
 Signal also notably **isn't self-hostable**: there's no way to run your own signal server, and control your data. [Marlinspike ruthlessly shuts down anyone attempting to build alternate clients or servers that could communicate with the main one.](https://github.com/LibreSignal/LibreSignal/issues/37#issuecomment-217211165) [2](https://github.com/LibreSignal/LibreSignal)
 
