@@ -112,7 +112,7 @@ The reason the US government hasn't tried to block or hinder Signal, _is because
 
 The US has an [interesting law](https://en.wikipedia.org/wiki/National_security_letter) that applies to _any US company_ operating within its borders: it is **illegal to tell your users that the the US government has asked your company to spy on their behalf.** This is called a [key disclosure law](https://www.privacyguides.org/providers/#kdl), and the US's version of it, called [National Security Letters](https://en.wikipedia.org/wiki/National_security_letter), underwent an expansion with the PATRIOT act; by 2013, President Obama’s Intelligence Review Group reported issuing on average, **nearly 60 NSLs every day.**
 
-Companies that don't comply with this law, [such as Lavabit, are forced to shut themselves down in protest, in order to avoid prison time](https://youtube.com/watch?v=spW0q-g2BxU), or remain open, and funnel user communications to the US government. The Signal foundation is a US domiciled company, and must comply with this law. 
+Companies that don't comply with this law, [such as Lavabit, are forced to shut themselves down in protest, in order to avoid prison time](https://youtube.com/watch?v=spW0q-g2BxU), or remain open, and funnel user communications to the US government. The Signal foundation is a US domiciled company, and must comply with this law.
 
 Signal also notably **isn't self-hostable**: there's no way to run your own signal server, and control your data. [Marlinspike ruthlessly shuts down anyone attempting to build alternate clients or servers that could communicate with the main one.](https://github.com/LibreSignal/LibreSignal/issues/37#issuecomment-217211165) [2](https://github.com/LibreSignal/LibreSignal)
 

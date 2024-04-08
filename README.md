@@ -16,12 +16,11 @@
 ## Essays
 
 - [Capitalism doesn't work](capitalism_doesnt_work.md)
-- [Why do we say all cops are bastards?](acab.md)
 - [Paul Cockshott's Cyber-Communist System](paul_cockshott_cyber_communism.md)
-- [Lenin's revolutionary strategy](lenin_lwc.md)
-- [Why not Market Socialism?](market_socialism.md)
-- [Whats wrong with Nietzsche?](nietzsche.md)
 - [Why not Signal?](why_not_signal.md)
+- [Lenin's revolutionary strategy](lenin_lwc.md)
+- [Whats wrong with Nietzsche?](nietzsche.md)
+- [Why do we say all cops are bastards?](acab.md)
 
 ## Media
 
@@ -31,4 +30,4 @@
 ## Links
 
 - [ProleWiki - The Proletarian Marxist-Leninist Encyclopedia](https://prolewiki.org)
-- [Marxist.space - A great collection of resources](https://marxist.space/)
+- [Lemmygrad.ml - A collection of Communist communities](https://lemmygrad.ml)

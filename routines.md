@@ -187,4 +187,3 @@ Don't drink caffeine after ~ 3pm, as it will mess up your sleep cycle.
 Don't drink alcohol too late at night. Keep it to 1-2 drinks max per day. If you care about your weight / body fat, don't drink at all.
 
 If you want to get high and still be functional, try CBD oil, or weed / delta-8 gummies. They last a long time, are cheaper than alcohol or other drugs, aren't addictive, have miniscule calories compared to alcohol. You won't smell like weed, and you won't damage your lungs using them.
-
