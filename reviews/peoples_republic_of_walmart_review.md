@@ -1,0 +1,9 @@
+# People's Republic of wal-mart short review
+
+The only point the book makes, is that large capitalist monopolies, like wal-mart or amazon, which are themselves economies larger than many countries, don't compete inside themselves; they use computerized, fully top-to-bottom planning to minimize waste and achieve a high degree of efficiency. That argument, is mainly posed in two chapters (the amazon chapter the only one worth reading), and its a good one, even though its not new (capitalist firms that reach monopoly positions, don't compete within themselves, that's been known since the days of the east india company and other entrenched monopolies, and that point doesn't need a whole book, a short article works fine).
+
+But around 60% of the book is uneducated western takes on actually existing socialist economies and democracies, and it tries really hard to make the case that planning in the USSR was "authoritarian", not democratic, and was a failure, which it [clearly was not (see this introductory article.)](https://gowans.blog/2012/12/21/do-publicly-owned-planned-economies-work/) Many great books have been written on the planned economies of USSR, China, GDR, Cuba, and to write a book about economic planning without investigating these, is utterly shameful and eurocentric. I can recommend some books if anyone's interested.
+
+Secondly, they don't propose any alternatives, except a vague "planning, but its democratic this time unlik those ebil communists", unlike other great works that actually try to work out how a fully planned democratic economy would work, like Paul Cockshott's towards a new socialism, which I've written a [short write-up on here.](https://github.com/dessalines/essays/blob/master/paul_cockshott_cyber_communism.md)
+
+TLDR, The writers are western chauvinists. They tried to write a book on economic planning, whilst ignoring the massive successes of planned economies in the 20th-21st century.
