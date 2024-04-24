@@ -14,4 +14,3 @@
 - Mindful breath that you will succeed, and are on the same path as the Buddha and other arahants.
 - Mindful breath of loving-kindness towards all beings.
 - Mindful breath of death, and the impurity of your body.
-

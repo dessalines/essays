@@ -38,6 +38,7 @@
     - [Did the Soviet Union and the Warsaw pact nations have functioning democracies?](#did-the-soviet-union-and-the-warsaw-pact-nations-have-functioning-democracies)
     - [Was Soviet Socialism an economic failure?](#was-soviet-socialism-an-economic-failure)
     - [Did the citizens of the Soviet Union dislike their government?](#did-the-citizens-of-the-soviet-union-dislike-their-government)
+    - [Russian Federation (1991-present)](#russian-federation-1991-present)
     - [Further reading](#further-reading-1)
   - [On Mao, Maoism, and Marxism-Leninism-Maoism, and the PRC](#on-mao-maoism-and-marxism-leninism-maoism-and-the-prc)
     - [Is China State Capitalist?](#is-china-state-capitalist)
