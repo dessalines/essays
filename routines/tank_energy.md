@@ -21,7 +21,7 @@ pomos: tank emptiers
 ## Tank emptiers
 
 - Social media
+- Scrolling
 - Coding
 - Watching movies
 - Reading books
-- Masterbating
