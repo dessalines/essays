@@ -24,8 +24,7 @@ Start at full clockwise
 
 ## Recipe
 
-- Preheat and Rinse (Plastic) Brewer and Filter with Hot tap water (Hot to Touch)
-- Dig a mound in the middle of the Ground Coffee
+- Preheat and Rinse (Plastic) Brewer and Filter with Hot tap water (Hot to Touch)- Dig a mound in the middle of the Ground Coffee
 - Zero/Reset Scale with Brewer and Ground Coffee
 - Boil Water
 
@@ -93,7 +92,7 @@ Notes:
 
 [Source](https://www.youtube.com/watch?v=M4bqjmdCwRY)
 
-- Equal grams of chocalate bar, and oat milk.
+- Equal grams of chocolate bar, and oat milk.
 - Heat in microwave for 30 seconds.
 - Mix it using a blender (try fork first).
 - Put it in a plastic squeeze bottle.
@@ -103,7 +102,7 @@ Notes:
 
 - 250g ice
 - 275-300g water
-- 18-30g light roast coffee . Brew as normal
+- 18g light roast coffee. Brew as normal
 
 # Favorites
 
