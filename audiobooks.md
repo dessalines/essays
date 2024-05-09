@@ -64,6 +64,9 @@
 - [Gabriel Rockhill - Capitalisms Court Jester - Slavoj Zizek [audiobook] by dessalines v2](magnet:?xt=urn:btih:622b5b7b1678e1bb863e90f5c3314819c5c19fed&dn=Gabriel%20Rockhill%20-%20Capitalisms%20Court%20Jester%20-%20Slavoj%20Zizek%20%5Baudiobook%5D%20by%20dessalines%20v2)
 - [Domenico Losurdo - Stalin - The History and Critique of a Black Legend [audiobook] by dessalines](magnet:?xt=urn:btih:4609781a0abcb0e5bc9376e3d89f465bcf8a58c9&dn=Domenico%20Losurdo%20-%20Stalin%20-%20The%20History%20and%20Critique%20of%20a%20Black%20Legend%20%5Baudiobook%5D%20by%20dessalines)
 - [Ven. Mahasi Sayadaw - Practical Vipassana Exercises [audiobook] by dessalines](magnet:?xt=urn:btih:53845d7e0245c6341ae517c0fd534fe4bd70f3b8&dn=Ven.%20Mahasi%20Sayadaw%20-%20Practical%20Vipassana%20Exercises%20%5Baudiobook%5D%20by%20dessalines)
+- [Domenico Losurdo - Non-Violence - A History Beyond the Myth [audiobook] by dessalines](magnet:?xt=urn:btih:958ce6d1a9ba8b81048ea8a1794e2a07cc825b9b&dn=Domenico%20Losurdo%20-%20Non-Violence%20-%20A%20History%20Beyond%20the%20Myth%20%5Baudiobook%5D%20by%20dessalines)
+- [Stansfield Smith - Is Russia Imperialist [audiobook] by dessalines](magnet:?xt=urn:btih:62d58388c20495cdbd50cae9d9ce0c53ec1f4c0c&dn=Stansfield%20Smith%20-%20Is%20Russia%20Imperialist%20%5Baudiobook%5D%20by%20dessalines)
+- [Zak Cope - The Wealth of Some Nations [audiobook] by dessalines](magnet:?xt=urn:btih:41dbc3d90972ce215f2a80c95e9e2ee21304f7cc&dn=Zak%20Cope%20-%20The%20Wealth%20of%20Some%20Nations%20%5Baudiobook%5D%20by%20dessalines)
 
 ## Read by others
 
@@ -104,3 +107,4 @@
 - [Roxanne Dunbar-Ortiz - Loaded - A Disarming History of the Second Amendment audible](magnet:?xt=urn:btih:162963ae3b655a8259decfbf2d0f85078bcebb32&dn=Roxanne%20Dunbar-Ortiz%20-%20Loaded%20-%20A%20Disarming%20History%20of%20the%20Second%20Amendment%20%5baudible%5d)
 - [Roxanne Dunbar-Ortiz - All the Real Indians Died Off and 20 other Myths about Native Americans [audible]](magnet:?xt=urn:btih:69d2d5b33665f9c7fd0bc7ab72d7254ed07919a2&dn=Roxanne%20Dunbar-Ortiz%20-%20All%20the%20Real%20Indians%20Died%20Off%20and%2020%20other%20Myths%20about%20Native%20Americans%20%5baudible%5d)
 - [Quotations from Chairman Mao Tse-Tung [audible]](magnet:?xt=urn:btih:4ef97e58482bc6a48af28ffd86d1cfd269dfc194&dn=Quotations%20from%20Chairman%20Mao%20Tse-Tung%20%5Baudible%5D)
+- [William Blum - Killing Hope [audiobook] by hablini](magnet:?xt=urn:btih:386a3416b92a2c48adf0a2f547a4be3c841ded09&dn=William%20Blum%20-%20Killing%20Hope%20%5Baudiobook%5D%20by%20hablini)
