@@ -67,6 +67,8 @@
 - [Domenico Losurdo - Non-Violence - A History Beyond the Myth [audiobook] by dessalines](magnet:?xt=urn:btih:958ce6d1a9ba8b81048ea8a1794e2a07cc825b9b&dn=Domenico%20Losurdo%20-%20Non-Violence%20-%20A%20History%20Beyond%20the%20Myth%20%5Baudiobook%5D%20by%20dessalines)
 - [Stansfield Smith - Is Russia Imperialist [audiobook] by dessalines](magnet:?xt=urn:btih:62d58388c20495cdbd50cae9d9ce0c53ec1f4c0c&dn=Stansfield%20Smith%20-%20Is%20Russia%20Imperialist%20%5Baudiobook%5D%20by%20dessalines)
 - [Zak Cope - The Wealth of Some Nations [audiobook] by dessalines](magnet:?xt=urn:btih:41dbc3d90972ce215f2a80c95e9e2ee21304f7cc&dn=Zak%20Cope%20-%20The%20Wealth%20of%20Some%20Nations%20%5Baudiobook%5D%20by%20dessalines)
+- [Gabriel Rockhill - Imperialist Propaganda [audiobook] by dessalines](magnet:?xt=urn:btih:cec5b0115355815a99c907f06afd31e4c0c5b2d6&dn=Gabriel%20Rockhill%20-%20Imperialist%20Propaganda%20%5Baudiobook%5D%20by%20dessalines)
+- [Domenico Losurdo - Towards a Critique of the Category of Totalitarianism [audiobook] by dessalines](magnet:?xt=urn:btih:17900753ee74b3a1207b79197701bc920291c902&dn=Domenico%20Losurdo%20-%20Towards%20a%20Critique%20of%20the%20Category%20of%20Totalitarianism%20%5Baudiobook%5D%20by%20dessalines)
 
 ## Read by others
 
