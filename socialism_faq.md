@@ -864,7 +864,6 @@
 - [South Korea boosts reward for defectors to $860k USD](https://www.bbc.com/news/world-asia-39170614).
 - [Are north korean defectors really paid to lie by the south? A short documentary.](https://youtube.com/watch?v=ktE_3PrJZO0)
 - [What is everyday life like? A conversation with a North Korean Citizen.](https://cym.ie/2018/05/28/a-conversation-with-a-north-korean-citizen/)
-- [Is the DPRK really a monarchy? How does its political system work?](https://writetorebel.com/2017/03/28/socialism-and-democracy-in-the-dprk/)
 - [Why do some communists support the DPRK?](https://www.reddit.com/r/communism101/comments/1ypwmd/why_do_some_communists_support_the_dprk/)
 - [What exactly is Juche?](https://www.reddit.com/r/communism101/comments/1y172i/what_exactly_is_juche/)
 - [Is the DPRK socialist?](https://www.reddit.com/r/communism101/comments/1ygskq/is_the_dprk_socialist/)
