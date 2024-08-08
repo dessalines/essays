@@ -8,6 +8,10 @@ Over-focus on detachment from what makes us human, and what has dominated our na
 
 Reread will durants critique of schoepenhauer for this.
 
+Reread the article on misogyny in buddhism.
+
+If we can look on a flower without selfish attachment, then why are relationships shunned?
+
 ## The focus on idealist, rather than materialist goals.
 
 Isn't the biggest source of suffering on the planet hunger, starvation, the unequal distribution of resources, the fact that 20 men own more wealth than all the women in Africa. Buddhism limits itself to the spiritual realm, yet this is not the primary realm of suffering. Without social and political organization devoted to eliminating this greatest source of suffering, which must first be sati.
@@ -26,4 +30,25 @@ McMindfulness, capitalist use of mindfulness. Our life comes from our mind, why 
 
 Dipa ma for example, even claimed to have many supernatural powers, yet she used none of them to undo the horrors of capitalism or colonialism.
 
-If all these enlightened beings are doing is alleviating spiritual or psychological suffering, then they aren't doing anything remotely as positive as someone doing work to fight poverty. All their thousands of hours spent on the cushion aren't es worthwhile as a single flawed person giving food to the homeless, or organizing against capitalism.
+If all these enlightened beings are doing is alleviating spiritual or psychological suffering, then they aren't doing anything remotely as positive as someone doing work to fight poverty. All their thousands of hours spent on the cushion aren't as worthwhile as a single flawed person giving food to the homeless, or organizing against capitalism.
+
+## If you replace god with enlightenment, then why is enlightenment causeless, or outside of samsara? IE to the childs query, who created god? can't the same criticism be applied to who created nirvana?
+
+## Why is dancing, music, art, rejected?
+
+The buddha made rules for monks to not engage in these things, making a negative value judgement on art, creativity and the diversity and beauty of human experience.
+
+https://buddhism.stackexchange.com/questions/10172/what-did-the-buddha-say-about-music
+
+## Why
+
+## Defense of feudalism, and not challenging the power of kings, who keep most people subjugated.
+
+Misogyny:
+
+- https://sujato.wordpress.com/2009/11/30/sexism-andocentrism-misogyny/
+- https://qz.com/india/586192/theres-a-misogynist-aspect-of-buddhism-that-nobody-talks-about
+- https://tricycle.org/article/putting-end-buddhist-patriarchy/
+- https://en.wikipedia.org/wiki/Women_in_Buddhism
+
+https://tricycle.org/magazine/buddhist-renunciation/

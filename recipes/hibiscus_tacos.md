@@ -14,4 +14,3 @@
 - Strain liquid into bowl.
 - You can make agua jamaica by adding 4 more cups of water, and 1/4th cup sugar to the strained liquid.
 - Heat olive oil on med heat until translucent. Add flowers, cook for 10m. Add preferred spices.
-
