@@ -27,7 +27,7 @@
 - Decentralized, **no reliance** on cloud providers like Google, Microsoft, Apple, Spotify, Netflix Youtube, etc.
   - Self-hosted and self-reliant.
   - Simple files preferred over running services.
-- Make sure no sites / services are [US based.](https://www.privacytools.io/providers/#ukusa)
+- Make sure no sites / services are [US based.](https://en.wikipedia.org//wiki/Five_Eyes)
 
 ## Media
 
@@ -116,4 +116,4 @@
 
 ## Links
 
-- [PrivacyTools.io](https://www.privacytools.io/)
+- [PrivacyGuides.org](https://www.privacyguides.org/)
