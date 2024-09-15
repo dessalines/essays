@@ -16,3 +16,5 @@ This is a collection of Buddhist works, roughly organized according to difficult
 - Bhikkhu Bodhi - In the Buddha's words
 - [Loving Kindness (metta) in Theravada Buddhism &#8211; drarisworld](https://drarisworld.wordpress.com/2019/04/06/loving-kindness-metta-in-theravada-buddhism/)
 - [Metta: The Philosophy and Practice of Universal Love](https://www.accesstoinsight.org/lib/authors/buddharakkhita/wheel365.html)
+- Mahasi Sayadaw - intro book
+- Mahasi Sayadaw - Manual of insight
