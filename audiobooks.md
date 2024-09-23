@@ -110,3 +110,4 @@
 - [Roxanne Dunbar-Ortiz - All the Real Indians Died Off and 20 other Myths about Native Americans [audible]](magnet:?xt=urn:btih:69d2d5b33665f9c7fd0bc7ab72d7254ed07919a2&dn=Roxanne%20Dunbar-Ortiz%20-%20All%20the%20Real%20Indians%20Died%20Off%20and%2020%20other%20Myths%20about%20Native%20Americans%20%5baudible%5d)
 - [Quotations from Chairman Mao Tse-Tung [audible]](magnet:?xt=urn:btih:4ef97e58482bc6a48af28ffd86d1cfd269dfc194&dn=Quotations%20from%20Chairman%20Mao%20Tse-Tung%20%5Baudible%5D)
 - [William Blum - Killing Hope [audiobook] by hablini](magnet:?xt=urn:btih:386a3416b92a2c48adf0a2f547a4be3c841ded09&dn=William%20Blum%20-%20Killing%20Hope%20%5Baudiobook%5D%20by%20hablini)
+- [Malcolm Harris - Palo Alto](magnet:?xt=urn:btih:99856fbbe2662a1a8a3c149d4d8dd1d5a3f375d8&dn=Malcolm%20Harris%20-%20Palo%20Alto%20-%20mp3)
