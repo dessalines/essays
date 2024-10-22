@@ -69,6 +69,11 @@
 - [Zak Cope - The Wealth of Some Nations [audiobook] by dessalines](magnet:?xt=urn:btih:41dbc3d90972ce215f2a80c95e9e2ee21304f7cc&dn=Zak%20Cope%20-%20The%20Wealth%20of%20Some%20Nations%20%5Baudiobook%5D%20by%20dessalines)
 - [Gabriel Rockhill - Imperialist Propaganda [audiobook] by dessalines](magnet:?xt=urn:btih:cec5b0115355815a99c907f06afd31e4c0c5b2d6&dn=Gabriel%20Rockhill%20-%20Imperialist%20Propaganda%20%5Baudiobook%5D%20by%20dessalines)
 - [Domenico Losurdo - Towards a Critique of the Category of Totalitarianism [audiobook] by dessalines](magnet:?xt=urn:btih:17900753ee74b3a1207b79197701bc920291c902&dn=Domenico%20Losurdo%20-%20Towards%20a%20Critique%20of%20the%20Category%20of%20Totalitarianism%20%5Baudiobook%5D%20by%20dessalines)
+- [Anna Louise Strong - This Soviet World [audiobook] by dessalines](magnet:?xt=urn:btih:594263b97e6207308869c9cefad51ad93ec4932b&dn=Anna%20Louise%20Strong%20-%20This%20Soviet%20World%20%5Baudiobook%5D%20by%20dessalines)
+- [Domenico Losurdo - War and Revolution [audiobook] by dessalines](magnet:?xt=urn:btih:d965dd742c82a1e6601ec84a03fbccd656d174a2&dn=Domenico%20Losurdo%20-%20War%20and%20Revolution%20%5Baudiobook%5D%20by%20dessalines)
+- [Fidel Castro interviewed by Jas Gawronski [audiobook] by dessalines](magnet:?xt=urn:btih:ba81986fd991e675ec3215a723f38388bb5f64f6&dn=Fidel%20Castro%20-%20Fidel%20Castro%20interviewed%20by%20Jas%20Gawronski%20%5Baudiobook%5D%20by%20dessalines)
+- [Stansfield Smith - The United States has many political prisoners [audiobook] by dessalines](magnet:?xt=urn:btih:790967eb2cdf97d5ea824390bded939694a59919&dn=Stansfield%20Smith%20-%20The%20United%20States%20has%20many%20political%20prisoners%20%5Baudiobook%5D%20by%20dessalines)
+- [Stansfield Smith - US national security state censoring anti-imperialists to control compatible left [audiobook] by dessalines](magnet:?xt=urn:btih:328655d377b50de53379c4779670fd531508f1f5&dn=Stansfield%20Smith%20-%20US%20national%20security%20state%20censoring%20anti-imperialists%20to%20control%20compatible%20left%20%5Baudiobook%5D%20by%20dessalines)
 
 ## Read by others
 

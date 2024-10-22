@@ -213,7 +213,7 @@
 - [Halim Alrah - Why liberal democracies are a sham. ](https://youtube.com/watch?v=oYodY6o172A)
 - [What about social democracy / democratic socialism / the Nordic model? Isn't Sweden socialist?](https://youtube.com/watch?v=Jd03a8Pm1hs)
 - [On the unraveling of the Nordic welfare states: increasing inequality and forced austerity.](https://www.reddit.com/r/GenZhou/comments/pmtapr/does_anyone_have_works_on_the_erosion_of_the/hcmyub4/)
-- [Scandinavia's covert role in western imperialism](https://www.telesurenglish.net/analysis/Scandinavias-Covert-Role-in-Western-Imperialism-20170320-0022.html)
+- [Scandinavia's covert role in western imperialism](https://www.greenleft.org.au/content/scandinavias-covert-imperialist-role)
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
 - [Paul Cockshott - On Socialism and Democracy.](https://youtube.com/watch?v=bHN0foV4Ntk) [2](https://youtube.com/watch?v=98lvNhNfse4&t=1518s) [3](https://youtube.com/watch?v=EjKYVQd4r9E)
 - [Comrade Hakim - Why electoralism always fails.](https://youtube.com/watch?v=WXbaZXQAbuU)
