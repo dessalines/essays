@@ -258,7 +258,6 @@ Briar is newer, and lacks too many features to be usable for large organizations
 - The iOS client from v3.0 supports instant push notifications - it requires that users opt-in to using a central push notifications server. The project plans to add support for users to [self-host a part of notifications server functionality](https://github.com/simplex-chat/simplex-chat/blob/stable/blog/20220404-simplex-chat-instant-notifications.md#our-ios-approach-has-one-trade-off).
 - The Android client supports fully private notification by running an optional always-on background service.
 - There is no web-based client because of additional attack vectors.
-- SimpleX messaging servers can see users IP addresses; the project plans to embed access via Tor into the apps.
 
 ## Conclusions
 
