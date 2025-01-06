@@ -218,6 +218,8 @@
 - [Paul Cockshott - On Socialism and Democracy.](https://youtube.com/watch?v=bHN0foV4Ntk) [2](https://youtube.com/watch?v=98lvNhNfse4&t=1518s) [3](https://youtube.com/watch?v=EjKYVQd4r9E)
 - [Comrade Hakim - Why electoralism always fails.](https://youtube.com/watch?v=WXbaZXQAbuU)
 - [Why not just vote leftists into office: what's wrong with democratic socialism?](https://www.reddit.com/r/communism/comments/duk2yy/the_problem_with_democratic_socialism_in_related/)
+- [An Overview of Leninism](https://archive.ph/khO7R), [audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoaFTdUpdzXv-zCvYsz4sB01). [Lenin - State and Revolution](https://www.marxists.org/archive/lenin/works/1917/staterev/) , [audiobook](https://youtube.com/watch?v=7GrP0EVJkVE&list=PL0-IkmzWbjoatUez9-2vaAvB78afoKNRC)
+- [LeftVoice - Bourgeois Democracy - What do Marxists mean by this term?](https://www.hamptonthink.org/read/bourgeois-democracy-what-do-marxists-mean-by-this-term)
 - [W.E.B. Dubois - Why I don't vote](http://www.hartford-hwp.com/archives/45a/298.html)
 - [What about harm reduction?](http://www.indigenousaction.org/voting-is-not-harm-reduction-an-indigenous-perspective/)
 - [What's wrong with the DSA / Democratic socialism?](https://struggle-sessions.com/2020/04/20/dsa-are-capitalist-pigs/)
@@ -609,7 +611,7 @@
 - [China pushing forward Marxist training in colleges, attracts 1M students.](http://www.globaltimes.cn/content/988795.shtml)
 - [China tells the US that it has no plans to weaken the role of its State-Owned-Enterprises, one of the US's main demands in the trade war. "Beijing plans to make the state economy stronger, bigger, and better."](https://www.scmp.com/economy/china-economy/article/3038993/china-wont-give-its-state-led-economic-model-top-trade?fbclid=IwAR2ys8_Y_6Nxq2x__BM4SoKdR63it7X_JRy1XJdkLw4QrK0VQ77mXYyrcks)
 - [Unlike the US, China refuses to bail out over-leveraged property developers, and lets them go bankrupt.](https://www.reddit.com/r/Sino/comments/pnqrf7/whats_happening_with_evergrande_will_it_have_a/)
-- [A China misinformation Megathread.](https://www.reddit.com/r/communism/comments/c2b7ma/china_megathread_everything_a_leftist_must_know/)
+- [A China misinformation Megathread.](https://web.archive.org/web/20200727154945/https://www.reddit.com/r/communism/comments/c2b7ma/china_megathread_everything_a_leftist_must_know/)
 
 ### Is China a Democracy?
 
@@ -1195,12 +1197,9 @@ _Much credit to [this post.](https://politijohn.tumblr.com/post/186036319237/get
 - [Defends excluding Puerto Ricans from disability payments](https://thehill.com/regulation/court-battles/557166-biden-administration-will-defend-excluding-puerto-ricans-from)
 - [Biden Justice Department defends Trump in suit over rape denial](https://www.politico.com/news/2021/06/07/biden-justice-department-defends-trump-in-suit-over-rape-denial-492088)
 
-### Greta Thunberg
-
-- http://www.wrongkindofgreen.org/2019/01/17/the-manufacturing-of-greta-thunberg-for-consent-the-political-economy-of-the-non-profit-industrial-complex/
-
 ### Slavoj Zizek
 
+- [Zizek - Capitalism's court jester.](https://www.counterpunch.org/2023/01/02/capitalisms-court-jester-slavoj-zizek/)
 - ["Immigration has to be restricted to prevent the rise of Fascism."](https://twitter.com/zei_squirrel/status/1186709823250927616)
 - [Helped work to overthrow Yugoslavia.](https://en.wikipedia.org/wiki/Committee_for_the_Defence_of_Human_Rights) [2](https://www.counterpunch.org/2023/01/02/capitalisms-court-jester-slavoj-zizek/)
 - [Thinks socialism died a long time ago in Cuba, that everyone lives there because of a misguided devotion to Castro, and thinks the bolivarian revolution will soon fail.](https://inthesetimes.com/article/the-left-fidelity-castration-slavoj-zizek-fidel-castro-cuba-che-communism)
@@ -1208,10 +1207,9 @@ _Much credit to [this post.](https://politijohn.tumblr.com/post/186036319237/get
 - [Comes out in favor of NATO against Russia, in the 2022 Ukraine conflict.](https://www.theguardian.com/commentisfree/2022/may/23/we-must-stop-letting-russia-define-the-terms-of-the-ukraine-crisis)
 - [Argues for a stronger NATO to fight against Russia and for Ukraine.](https://amp.theguardian.com/commentisfree/2022/jun/21/pacificsm-is-the-wrong-response-to-the-war-in-ukraine)
 - ["Denazification should begin in russia", writing for radio free Europe.](https://www.rferl.org/a/zizek-interview-russia-denazification-ukraine-war/32204259.html)
-- [Zizek - Capitalism's court jester](https://www.counterpunch.org/2023/01/02/capitalisms-court-jester-slavoj-zizek/)
-- [He's anti-USSR, anti bolivarian revolution, supported the coups in Ukraine and Libya](https://alphonsevanworden.tumblr.com/post/146430343445/the-protocols-of-the-learned-lacanian-of)
+- [He's anti-USSR, anti bolivarian revolution, supported the coups in Ukraine and Libya.](https://alphonsevanworden.tumblr.com/post/146430343445/the-protocols-of-the-learned-lacanian-of)
 - ["The left must embrace law and order".](https://www.newstatesman.com/world/europe/2023/07/age-of-anarchy-slavoj-zizek)
-- ["Isreal and Hamas are the same"](https://www.project-syndicate.org/commentary/israel-palestine-hamas-and-hardliners-against-peace-by-slavoj-zizek-2023-10)
+- ["Israel and Hamas are the same"](https://www.project-syndicate.org/commentary/israel-palestine-hamas-and-hardliners-against-peace-by-slavoj-zizek-2023-10)
 - [More here](https://www.reddit.com/r/Marxism/comments/dlz8me/zizek_criticizes_european_leftists_who_reject/f4yl11f/)
 
 ### What's wrong with Barack Obama?

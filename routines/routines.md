@@ -8,7 +8,7 @@ During the non-thinking activities, such as working out, stretching, showering, 
 
 ## Recommended apps
 
-For creating recurring habits, use [habits](https://f-droid.org/packages/com.willbsp.habits/), [loop habit tracker](https://loophabits.org/), or recurring tasks using tasks.org . The [don't break the chain](https://luxafor.com/dont-break-the-chain-explained/) method is a proven way to build habits gradually.
+For creating recurring habits, use [habit-maker](https://github.com/dessalines/habit-maker), [loop habit tracker](https://loophabits.org/), or recurring tasks using tasks.org . The [don't break the chain](https://luxafor.com/dont-break-the-chain-explained/) method is a proven way to build habits gradually.
 
 For a TODO list / task app, use [tasks.org](https://tasks.org/). You can also use this to build habits, by making daily recurring tasks.
 
@@ -34,7 +34,7 @@ You get dehydrated at night, drink a lot right when you get up. Fill a water bot
 
 ### Mouth / Incisors
 
-Brush, floss, and scrape your tongue. Your mouth is gross after sleeping. Use white strips once a week or so if your teeth are discolored from coffee or tea.
+Brush, floss, and scrape your tongue. Your mouth is gross after sleeping. Take 2 xylitol mints every time you go the the bathroom, to get to 6-10 grams of xylitol per day.
 
 Time: 3m
 
