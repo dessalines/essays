@@ -74,6 +74,11 @@
 - [Fidel Castro interviewed by Jas Gawronski [audiobook] by dessalines](magnet:?xt=urn:btih:ba81986fd991e675ec3215a723f38388bb5f64f6&dn=Fidel%20Castro%20-%20Fidel%20Castro%20interviewed%20by%20Jas%20Gawronski%20%5Baudiobook%5D%20by%20dessalines)
 - [Stansfield Smith - The United States has many political prisoners [audiobook] by dessalines](magnet:?xt=urn:btih:790967eb2cdf97d5ea824390bded939694a59919&dn=Stansfield%20Smith%20-%20The%20United%20States%20has%20many%20political%20prisoners%20%5Baudiobook%5D%20by%20dessalines)
 - [Stansfield Smith - US national security state censoring anti-imperialists to control compatible left [audiobook] by dessalines](magnet:?xt=urn:btih:328655d377b50de53379c4779670fd531508f1f5&dn=Stansfield%20Smith%20-%20US%20national%20security%20state%20censoring%20anti-imperialists%20to%20control%20compatible%20left%20%5Baudiobook%5D%20by%20dessalines)
+- [Xi Jinping - Regarding the Construction of Socialism with Chinese Characteristics [audiobook] by dessalines](magnet:?xt=urn:btih:7b2834fde4e0c7fe20bab848a7ab11f1b16a59cd&dn=Xi%20Jinping%20-%20Regarding%20the%20Construction%20of%20Socialism%20with%20Chinese%20Characteristics%20%5Baudiobook%5D%20by%20dessalines)
+- [Michael Roberts - The Modern Monetary Trick [audiobook] by dessalines](magnet:?xt=urn:btih:f26e98ffd9720791c74e6030db381a38095433f2&dn=Michael%20Roberts%20-%20The%20Modern%20Monetary%20Trick%20%5Baudiobook%5D%20by%20dessalines)
+- [Fred Clark - False Witnesses [audiobook] by dessalines](magnet:?xt=urn:btih:05dee4cd000a07120e6279a4ad556ee933bc7607&dn=Fred%20Clark%20-%20False%20Witnesses%20%5Baudiobook%5D%20by%20dessalines)
+- [Domenico Losurdo - Interview with Opera Magazine [audiobook] by dessalines](magnet:?xt=urn:btih:0e3280acc3e27f03595c5d9502be4a962005218c&dn=Domenico%20Losurdo%20-%20Interview%20with%20Opera%20Magazine%20%5Baudiobook%5D%20by%20dessalines)
+- [Deng Xiaoping - Marxism is a Science [audiobook] by dessalines](magnet:?xt=urn:btih:0e4dee479831603d61655866ddfe1ef167521e60&dn=Deng%20Xiaoping%20-%20Marxism%20is%20a%20Science%20%5Baudiobook%5D%20by%20dessalines)
 
 ## Read by others
 
