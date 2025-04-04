@@ -2,20 +2,20 @@
 
 ## Ingredients
 
-- 2 1/2 cups of Pinto Beans
-- Half of a brown onion
+- 2 cups of black
+- 8 cups water
+- 1 white onion
+- 4 cloves garlic
+- 2 bay leaves
+- 3-4 cilantro stems
 - 1 tablespoon of salt
-- 7 cups of water
-- 3 tablespoons canola oil
-- Bean smasher
 - Tall pot
-- 1 Tablespoon of chopped onions.
-- Cheese?
+- 
 
 ## Cooking
 
 - Wash beans in water.
-- Put beans in pot, add 7 cups of water.
+- Put beans in pot, add 8 cups of water.
 - Put on high heat, cut onion in half, put in.
 - Once boiling, low heat to min, put on lid.
 - Leave alone for 1 hour, then add salt.

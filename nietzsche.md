@@ -46,6 +46,8 @@ It shouldn't be surprising that this proto-incel, lover of masculinity and war, 
 
 > It is dangerous to try equality with a woman; she will not be content with that; she will be rather content with subordination if the man is a man. Above all, her perfection and happiness lie in motherhood.
 
+> If one wants slaves, it is foolish to educate them like masters.
+
 ## Anti-Socialism
 
 > Whom do I hate most among the rabble of today? The socialist rabble, the chandala apostles, who undermine the instinct, the pleasure, the worker’s sense of satisfaction with his small existence–who make him envious, who teach him revenge. The source of wrong is never unequal rights but the claim of “equal” rights.

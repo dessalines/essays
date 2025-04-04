@@ -40,6 +40,8 @@ The buddha made rules for monks to not engage in these things, making a negative
 
 https://buddhism.stackexchange.com/questions/10172/what-did-the-buddha-say-about-music
 
+would an enlightened bird still sing? 
+
 ## Why
 
 ## Defense of feudalism, and not challenging the power of kings, who keep most people subjugated.
@@ -52,3 +54,22 @@ Misogyny:
 - https://en.wikipedia.org/wiki/Women_in_Buddhism
 
 https://tricycle.org/magazine/buddhist-renunciation/
+
+## Buddhism and violence / bullying
+
+Whenever the buddha encountered bullies or violence (devadatta, ashoka, the serial killer who became a monk), its resolved via psychological tricks, never real-world solutions, because violence is required to fight back againstt bullies.
+
+Bullies inflict much suffering on the world, and no amount of compassion will entice them to give up their power, or reduce the suffering they inflict on their subjects. (link pacifism article).
+
+
+
+
+## Buddhism and inequality
+
+He never challenged the kings to give up power.
+
+In fact he helped king ajatasatu conquer the lichavee people, by advising him that the ppl could not be conquered while they were unified, so based on this advice, the king's ministers hatched a plan to disunify, and conquer them, and the rest of the confederacy. This story is told as a warning against gossip and unwise words, yet ironically the buddha's words proved here to be the unwisest, naively aiding a warlord and indirectly causing death and destruction.
+
+## Only monks can achieve enlightenment?
+
+In several places, the buddha says that lay people can become enlightened. In others, only celibate monks. In others, only the celibate.
