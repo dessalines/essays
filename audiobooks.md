@@ -79,6 +79,10 @@
 - [Fred Clark - False Witnesses [audiobook] by dessalines](magnet:?xt=urn:btih:05dee4cd000a07120e6279a4ad556ee933bc7607&dn=Fred%20Clark%20-%20False%20Witnesses%20%5Baudiobook%5D%20by%20dessalines)
 - [Domenico Losurdo - Interview with Opera Magazine [audiobook] by dessalines](magnet:?xt=urn:btih:0e3280acc3e27f03595c5d9502be4a962005218c&dn=Domenico%20Losurdo%20-%20Interview%20with%20Opera%20Magazine%20%5Baudiobook%5D%20by%20dessalines)
 - [Deng Xiaoping - Marxism is a Science [audiobook] by dessalines](magnet:?xt=urn:btih:0e4dee479831603d61655866ddfe1ef167521e60&dn=Deng%20Xiaoping%20-%20Marxism%20is%20a%20Science%20%5Baudiobook%5D%20by%20dessalines)
+- [Roland Boer - Let a Hundred Flowers Bloom [audiobook] by dessalines](magnet:?xt=urn:btih:678251550e185af63faa3eafd083433b0575eae5&dn=Roland%20Boer%20-%20Let%20a%20Hundred%20Flowers%20Bloom%20%5Baudiobook%5D%20by%20dessalines)
+- [Nia Frome - Tankies [audiobook] by dessalines](magnet:?xt=urn:btih:2b8982840b1cd9d9c8c64a87142464100524de25&dn=Nia%20Frome%20-%20Tankies%20%5Baudiobook%5D%20by%20dessalines)
+- [Mahasi Sayadaw - Question and Answer with Mahasi Sayadaw [audiobook] by dessalines](magnet:?xt=urn:btih:35ce15deda165b36ae8d617be9f3d4f67fe8e333&dn=Mahasi%20Sayadaw%20-%20Question%20and%20Answer%20with%20Mahasi%20Sayadaw%20%5Baudiobook%5D%20by%20dessalines)- [Joseph Stalin - Stalin on Churchill [audiobook] by dessalines](magnet:?xt=urn:btih:72620c61846ab4b346920d989bbacf7bce17891a&dn=Joseph%20Stalin%20-%20Stalin%20on%20Churchill%20%5Baudiobook%5D%20by%20dessalines)
+- [Alice Malone - Concessions [audiobook] by dessalines](magnet:?xt=urn:btih:3456507db9a1b1da62dc689f1c61863fc18c011d&dn=Alice%20Malone%20-%20Concessions%20%5Baudiobook%5D%20by%20dessalines)
 
 ## Read by others
 
@@ -121,3 +125,4 @@
 - [Quotations from Chairman Mao Tse-Tung [audible]](magnet:?xt=urn:btih:4ef97e58482bc6a48af28ffd86d1cfd269dfc194&dn=Quotations%20from%20Chairman%20Mao%20Tse-Tung%20%5Baudible%5D)
 - [William Blum - Killing Hope [audiobook] by hablini](magnet:?xt=urn:btih:386a3416b92a2c48adf0a2f547a4be3c841ded09&dn=William%20Blum%20-%20Killing%20Hope%20%5Baudiobook%5D%20by%20hablini)
 - [Malcolm Harris - Palo Alto](magnet:?xt=urn:btih:99856fbbe2662a1a8a3c149d4d8dd1d5a3f375d8&dn=Malcolm%20Harris%20-%20Palo%20Alto%20-%20mp3)
+- [Bhikkhu Bodhi - The Buddhas Teaching As It Is [audiobook]](magnet:?xt=urn:btih:b5a4037840def073c7b05dfbf6e47b05b5d991af&dn=Bhikkhu%20Bodhi%20-%20The%20Buddhas%20Teaching%20As%20It%20Is%20%5Baudiobook%5D)

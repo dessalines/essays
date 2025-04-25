@@ -30,5 +30,3 @@
 - pat into disks in flour bowl
 - roll thin, put on griddle
 - 10s on each side, another 10 on first side
-
-

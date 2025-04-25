@@ -40,7 +40,7 @@ The buddha made rules for monks to not engage in these things, making a negative
 
 https://buddhism.stackexchange.com/questions/10172/what-did-the-buddha-say-about-music
 
-would an enlightened bird still sing? 
+would an enlightened bird still sing?
 
 ## Why
 
@@ -61,8 +61,11 @@ Whenever the buddha encountered bullies or violence (devadatta, ashoka, the seri
 
 Bullies inflict much suffering on the world, and no amount of compassion will entice them to give up their power, or reduce the suffering they inflict on their subjects. (link pacifism article).
 
+sri lanka is the only buddhist country which seems to have accepted anti-imperialist politics, with buddhist groups working with communists striving to free themselves from imperialism.
 
+Why don't buddhist leaders speak out against things like US imperialism? The wars on korea, vietnam, war on iraq, war on palestine, have not evinced any public condemnation from the majority of buddhist organizations or leaders. What could be more immoral, than staying neutral, during some of the most horrific acts of the last hundred years?
 
+Pragmatism in order to not "rock the boat" is an insufficient answer to atrocities, especially for orgs grounding themselves on moral conduct. It is extremely immoral to not oppose these things, especially as communists and anti-imperialists show themselves willing to do so by risking their lives.
 
 ## Buddhism and inequality
 
@@ -73,3 +76,35 @@ In fact he helped king ajatasatu conquer the lichavee people, by advising him th
 ## Only monks can achieve enlightenment?
 
 In several places, the buddha says that lay people can become enlightened. In others, only celibate monks. In others, only the celibate.
+
+## Which doctrine and its practice has alleviated more suffering in the world... Marxism or Buddhism
+
+The buddha tells us that we should examine a doctrine, first and foremost, by the results of its practice, the fruits brought about.
+
+Whether poverty alleviation, saving the world from fascism, educating and feeding the poor, raising the material well-being of hundreds of millions, it is marxism, not buddhism, that has acheived these goals. Buddhism did not save the world from fascism. Buddhism did not uplift people out of poverty in the modern era. Buddhism did not end colonialism in vietnam, prc, ussr, cuba.
+
+## Buddhism and poverty
+
+The buddha, and many of the earliest arahants, were sons from wealthy families. They took off their luxuries clothes and adorned themselves in the clothes of povetry, and took vows of non-ownership.
+
+But did they do anything to challenge those conditions of poverty, the feudal lords of their own families? The toiling peasants, who created surplus value for the landlords, and suffered greatly thereby, are absent from buddhist scriptures. None of these monks organized peasants to empower their own class.
+
+We have many examples of peasant rebellions and leaders who organized them throughout history. The Buddha nor any of his followers rank among them, and in many modern cases, such as in tibet, the monks served as reactionary supports to feudalism, including medieval torture.
+
+The buddha asks the lords (and everyone) to give and be generous, but does not force them, nor take account of their class position which allows them alone to be generous in the first place.
+
+What good is the buddhas message or its practice, if it doesn't challenge poverty, hunger, and war, which are the most obvious forms of suffering througout human history?
+
+What is the primary contradiction in the world today? World Poverty, and specifically, the division of the world into rich and poor nations.
+
+It is not, as the buddha says, spiritual poverty, or the five hindrances, but real, material, physical hunger, homelessness, lack of health care, lack of comfort, etc.
+
+The buddha did not challenge this in any fundamental way. Feudalism is not a system that can provide for all: its a rigidly confined system where each person has no mobility, and where the majority of the population are poor peasants, and where the.
+
+The buddha provided an escape through the sangha, but never challenged kings to share power. He suggested that they do, but never pushed.
+
+Perhaps he is right that craving is the root of all suffering, but how does nirvana help a starving person? How can a slave, or a worker with no free time practice the noble eightfold path? These are doctrines to cure ones own ills, but the majority of society's ills are inflicted by a tiny number of rapacious capitalists.
+
+If 99% of the population attempted to practice the noble eightfold path, it wouldn't alleviate their poverty.
+
+Practicing the noble eightfold path will not uplift anyone out of poverty. It will not end colonialism. It will not end war. Only challenging bullies, taking posession of production, can do that.

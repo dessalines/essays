@@ -10,7 +10,7 @@
 - 3-4 cilantro stems
 - 1 tablespoon of salt
 - Tall pot
-- 
+-
 
 ## Cooking
 

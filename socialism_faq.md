@@ -212,7 +212,7 @@
 - [Red Phoenix - Pacifism - How to do the enemy's job for them](https://theredphoenixapl.org/2011/08/11/pacifism-how-to-do-the-enemys-job-for-them/). [Youtube Audiobook](https://youtube.com/watch?v=GxrO7p-6w_k&list=PL0-IkmzWbjoZ5IIhnzFBOImzySh827FyK)
 - [Halim Alrah - Why liberal democracies are a sham. ](https://youtube.com/watch?v=oYodY6o172A)
 - [What about social democracy / democratic socialism / the Nordic model? Isn't Sweden socialist?](https://youtube.com/watch?v=Jd03a8Pm1hs)
-- [On the unraveling of the Nordic welfare states: increasing inequality and forced austerity.](https://www.reddit.com/r/GenZhou/comments/pmtapr/does_anyone_have_works_on_the_erosion_of_the/hcmyub4/)
+- [On the unraveling of the Nordic welfare states: increasing inequality and forced austerity.](https://lemmygrad.ml/post/231058)
 - [Scandinavia's covert role in western imperialism](https://www.greenleft.org.au/content/scandinavias-covert-imperialist-role)
 - [Why can't you acheive socialism through voting in our current democracies?](https://www.reddit.com/r/LateStageCapitalism/comments/a9tgff/lsc_insulted_some_democrats/ecmjyjs/)
 - [Paul Cockshott - On Socialism and Democracy.](https://youtube.com/watch?v=bHN0foV4Ntk) [2](https://youtube.com/watch?v=98lvNhNfse4&t=1518s) [3](https://youtube.com/watch?v=EjKYVQd4r9E)
@@ -726,7 +726,7 @@
   - Despite claims of "erasing Uyghur culture", [they stated](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang): "I did not find any instance of forced labor or cultural and religious repression. The imams we met at the mosques and the students and teachers at the Xinjiang Islamic Institute told us that they enjoy freedom in practicing Islam and that the Chinese government extends support for maintenance of mosques all over Xinjiang. [...]The most visible sign of protection of Uyghur culture by the government is the government-run bilingual kindergarten schools where children learn Putonghua as well as Uyghur language and culture from a very young age."
   - The grandaughters of Rebiya Kadeer (Once the richest woman in Xinjiang, and now a member of the "Uyghur world congress", an org claiming that China is oppressing Uyghurs), [talking about how their grandmother is lying about Xinjiang.](https://youtube.com/watch?v=aeEFuGnbV-s)
 - [Egyptian media delegates provide a detailed insight of the situation in Xinjiang](https://www.thenews.com.pk/latest/430738-egyptian-media-delegates-provide-a-detailed-insight-of-the-situation-in-xinjiang)
- - [China's policies in the Xinjiang Uyghur autonomous region lift 1.85 million people out of poverty from 2014-2017.](http://www.xinhuanet.com/english/2018-10/24/c_137554986.htm?source=post_page---------------------------)
+- [China's policies in the Xinjiang Uyghur autonomous region lift 1.85 million people out of poverty from 2014-2017.](http://www.xinhuanet.com/english/2018-10/24/c_137554986.htm?source=post_page---------------------------)
 - [Dan Cohen - Is China committing genocide? Behind the US goverments propaganda campaign.](https://youtube.com/watch?v=Hjurb61SZgk)
 - [Redsails - The Xinjiang atrocity propaganda blitz](https://redsails.org/the-xinjiang-atrocity-propaganda-blitz/)
 - [RodericDay - A thread about the key sources for Uyghur Genocide (Especially Adrian Zenz).](https://threadreaderapp.com/thread/1287411708374454273.html)
