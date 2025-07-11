@@ -94,7 +94,7 @@ You probably don't need to shower every day, 2-3 times a week or anytime after y
 
 Do navy showers to save time. Start with the water very hot, close drain, shampoo and rinse hair, then turn off water. Condition hair, wash body, then sit down in the water and shave. Turn the water back on cold, and rinse off.
 
-Do [Ali Abdals routine](https://youtube.com/watch?v=OrElyY7MFVs), or [Dr Dray's Routine](https://youtube.com/watch?v=G8q08kY3zqY). Use moisturizer, then retinol, then sun-tan lotion. Do any makeup you need to after.
+Do [Ali Abdals routine](https://youtube.com/watch?v=OrElyY7MFVs), or [Dr Dray's Routine](https://youtube.com/watch?v=G8q08kY3zqY). Use moisturizer and sun-tan lotion. Do any makeup you need to after.
 
 Put on deodorant after clothes.
 
@@ -108,6 +108,9 @@ I like [this pomodoro app](https://f-droid.org/packages/com.apps.adrcotfas.goodt
 
 ## Night
 
+### Face care
+
+Put moisturizer and retinol on your face before bed.
 ### Get water
 
 You'll need water when you wake up, so fill a bottle and put it next to your bed.
@@ -127,6 +130,7 @@ Your willpower / energy to do daily tasks is like a tank, and needs to be replen
 ### Activities that fill the tank
 
 - 20-30m nap. This works best in the afternoon, after coffee, before 3pm.
+- 20-30m no screen or thinking break.
 - Meditating for any amount of time.
 - Go for a walk.
 
