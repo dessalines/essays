@@ -67,11 +67,23 @@ Why don't buddhist leaders speak out against things like US imperialism? The war
 
 Pragmatism in order to not "rock the boat" is an insufficient answer to atrocities, especially for orgs grounding themselves on moral conduct. It is extremely immoral to not oppose these things, especially as communists and anti-imperialists show themselves willing to do so by risking their lives.
 
+In Loving kindness it plain english, gunaratana tells a story about how the buddha did nothing to prevent a neighboring farmer from slaughtering pigs for 50 years. Nor did he ask king kosala, a powerful supporter, for help to stop this. Nor did he ever ask a king to abstain from wars out of compassion for the beings killed. Instead, gunaratana says that even these killers need our loving friendliness, and only do personal wishes / self-practice.
+
+> Metta is an individual practice that others cannot be forced to participate in. We may not have any power to stop them from killing living beings, but we ourselves should neither kill nor intentionally support the killing of living beings.
+
+Yet this contrasts directly with the story of the buddha intervening to prevent angulimala from killing more living beings. Why is there an inconsistency? Should we intervene it the world to stop killing, or not? Weapons, arms, lying, intelligence services are all needed to stop these atrocities. Look at the examples in latin america, operation condor, where right-wing governments massacred thousands of innocent people.
+
 ## Buddhism and inequality
 
 He never challenged the kings to give up power.
 
 In fact he helped king ajatasatu conquer the lichavee people, by advising him that the ppl could not be conquered while they were unified, so based on this advice, the king's ministers hatched a plan to disunify, and conquer them, and the rest of the confederacy. This story is told as a warning against gossip and unwise words, yet ironically the buddha's words proved here to be the unwisest, naively aiding a warlord and indirectly causing death and destruction.
+
+In another story, prince ajatasatu, lead by devadatta, attempts to kill his father, and the buddha. After being caught, the king gives his kingdom to his attempted killer, who then empowers devadatta with assassins to kill the buddha. The buddha then disarms them only with his presence, 16 soldiers in a row (utterly unthinkable).
+
+Then the devadatta tries to murder the buddha, nearly successful.
+
+He stops a man-killing elephant through loving kindness. Real weapons wielded by imperialists have no conscience to be receptive to such.
 
 ## Only monks can achieve enlightenment?
 
@@ -95,7 +107,7 @@ The buddha asks the lords (and everyone) to give and be generous, but does not f
 
 What good is the buddhas message or its practice, if it doesn't challenge poverty, hunger, and war, which are the most obvious forms of suffering througout human history?
 
-What is the primary contradiction in the world today? World Poverty, and specifically, the division of the world into rich and poor nations.
+What is the primary contradiction in the world today? World Poverty, inequality and specifically, the division of the world into rich and poor nations. Some people born on one plot of land have to work all the days of their lives, while other people get to live in idleness and ease.
 
 It is not, as the buddha says, spiritual poverty, or the five hindrances, but real, material, physical hunger, homelessness, lack of health care, lack of comfort, etc.
 
@@ -108,3 +120,18 @@ Perhaps he is right that craving is the root of all suffering, but how does nirv
 If 99% of the population attempted to practice the noble eightfold path, it wouldn't alleviate their poverty.
 
 Practicing the noble eightfold path will not uplift anyone out of poverty. It will not end colonialism. It will not end war. Only challenging bullies, taking posession of production, can do that.
+
+## No friends / loved ones
+
+The buddha talks to vesaka, and tells her that holy ones have no loved ones in the world. This was after she was attending her grandchild's funeral.
+
+In another story he talks about how dear ones bring only pain and suffering in their wake.
+
+Compare 4 noble truths, with the marxist noble truths.
+
+1. Suffering, yes.
+2. cause of suffering. Not selfish craving, but the selfish craving of a tiny minority of exploiters, and also those who help them get away with it (which includes religious leaders who advocate against violence, and class struggle). Who dares accuse someone working 10 hours a day, exploited by capitalists, no health care, no security, that the cause of their suffering is their own selfish craving? That the suffering of hunger is just their own selfish craving?
+3. nibbana? how about instead comfort, security, stability, health care, free time, friendship, comaradery, fun times.
+4. The path - proletarian revolution, which takes decades. Learning the history of class struggle. Ppl working 10 hours a day don't have time to meditate, and practice the precepts.
+
+capitalism / surplus value extraction is the greatest theft of all, stealing time, and lifetimes away. Theft is depriving another of a resource, the use of a resource.

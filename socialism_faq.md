@@ -716,6 +716,7 @@
 - [The US has more CCTV's per capita than China.](https://aithority.com/news/top-10-countries-and-cities-by-number-of-cctv-cameras/#:%7E:text=The%20United%20States%20has%2015.28,the%20United%20Kingdom%20with%207.5.&text=Russia%20has%20around%20196%2C000%20CCTV,Petersburg.)
 - The US's credit score system is vastly more influential and detrimental to a majority of its population than China's social credit system, [which largely doesn't even exist](https://foreignpolicy.com/2018/11/16/chinas-orwellian-social-credit-score-isnt-real/), and where it does exist it is [only used to target businesses](https://foreignpolicy.com/2021/09/15/china-social-credit-system-authoritarian/).
 - [numuves - How the US dominates tech](https://youtube.com/watch?v=EgzB4_Zw3RE)
+- [What about the "great firewall", isn't it repressive?](https://youtu.be/LAEwoYIYgJA)
 - [On the great firewall, and china not allowing US taech companies. ](https://mobile.twitter.com/Mango_Press_/status/1423263749302067202)
 
 ### What's going on with the Uyghurs?
@@ -810,7 +811,6 @@
 
 ### [Did Mao kill millions of people?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_mao_killed_millions_of_people)
 
-- [_Did Mao Really Kill Millions in the Great Leap Forward?_](http://monthlyreview.org/commentary/did-mao-really-kill-millions-in-the-great-leap-forward/) by Joseph Ball
 - [_Monster or Liberator?_](http://www.invent-the-future.org/2013/12/monster-liberator-legacy-mao-zedong/) by Carlos Martinez
 - [_The Battle for China's Past_](http://www.strongwindpress.com/pdfs/EBook/The_Battle_for_Chinas_Past.pdf) by Mobo Gao
 - [_Was Mao Really a Monster? The Academic Response to Chang and Halliday's "Mao: The Unknown Story"_](http://gen.lib.rus.ec/book/index.php?md5=b83ac8a7e6c2d8ce3f809842521965f1) by Benton and Chun
@@ -1466,10 +1466,10 @@ Much credit to [David Kinder's current affairs article, the rise of the Ruth Bad
 - [What is whataboutism?](https://blackagendareport.com/praise-whataboutism)
 - [A Marxist analysis of the 2008 financial crisis](https://twitter.com/LeninBol/status/1535120492775976967?t=VQXCwkpunYl4adK11n381A&s=19)
 - [Gabriel Boric](https://orinocotribune.com/gabriel-boric-lashes-out-at-cuba-and-venezuela-at-summit-of-the-americas/)
-
   - [Responding to a polcomp tweet in which he calls himself a libertarian socialist](https://mobile.twitter.com/gabrielboric/status/1249811334058979328)
   - [Demanding that the PCCh retract their support of Daniel Ortega, claiming he's an illegitimate president](https://m.elmostrador.cl/dia/2021/11/12/yo-invito-al-pc-a-retractarse-boric-sale-al-paso-de-la-declaracion-de-sus-socios-a-favor-de-daniel-ortega-por-elecciones-en-nicaragua/)
   - [Calling Venezuela a failure and a dictatorship](https://www.infobae.com/america/venezuela/2022/01/22/gabriel-boric-venezuela-es-una-experiencia-que-ha-fracasado-y-la-principal-demostracion-son-los-6-millones-de-venezolanos-en-diaspora/)
+- [BlackAgendaReport - Cory Booker](https://www.blackagendareport.com/cory-bookers-boot-licking-butt-kissing-and-buck-dancing-zionism)
 
   https://5pillarsuk.com/2018/02/23/black-panther-the-same-old-western-politics-with-a-black-face/
 

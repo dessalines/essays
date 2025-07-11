@@ -20,7 +20,7 @@
 
 ### Recipe
 
-- combine salt, flour, mix
+- combine salt, flour, water, mix
 - add butter
 - knead for a minute
 - let sit for 8m somewhere hot

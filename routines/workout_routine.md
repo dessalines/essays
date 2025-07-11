@@ -2,15 +2,15 @@
 
 ## Week
 
-Do abs, stretching, and posture everyday (5m)
+Do walks every day.
 
 | Day   | Workout | Time |
 | ----- | ------- | ---- |
-| Mon   | Cardio  | 15m  |
-| Tues  | Chest   | 20m  |
-| Wed   | Rest    |      |
-| Thurs | Cardio  | 15m  |
-| Fri   | Arms    | 20m  |
+| Mon   | Cardio  | 20m  |
+| Tues  | Chest   | 15m  |
+| Wed   | Yoga    | 20m  |
+| Thurs | Abs     | 10m  |
+| Fri   | Legs    | 20m  |
 
 ## Equipment
 
@@ -31,7 +31,11 @@ Use the android app XPlayer, a video player you can mute. You can then listen to
 ### Cardio
 
 - [Dr. Eric Berg - sprint interval training](https://youtube.com/watch?v=_eB3z1mhlBw) . [Studies](https://runrepeat.com/sprint-interval-training)
-  - Do 10-20s all-out sprint, 2m rest, 4-6 times in a session. Twice per week. (10m total)
+  - Do
+    - 15-20s all-out sprint
+    - 2m rest
+    - 4-8 times in a session. (10-15m per day)
+    - 2-3 times per week.
   - Mark's daily apple - [Sprint interval training](https://youtube.com/watch?v=2YogM9wXAJg)
   - [Guide.](https://experiencelife.lifetime.life/article/the-beginners-guide-to-sprint-interval-training/)
 - [FitnessBlender - 20 min Brutal HIIT Ladder Workout](https://youtube.com/watch?v=cZnsLVArIt8)
@@ -68,3 +72,14 @@ Use the android app XPlayer, a video player you can mute. You can then listen to
 
 - [Dr. Fung - Intermittent Fasting - the science and benefits](https://youtube.com/watch?v=7nJgHBbEgsE)
 - [Jeff Nippard - The smartest way to get lean](https://youtube.com/watch?v=d8V9ZaSq9Oc)
+
+## Six pack abs
+
+Unlike other muscles, such as arms, you can't simply do core exercises to get a six-pack. This is because even if you have ab muscles, they'll still be hidden under a layer of belly chest fat. Diet and cardio are more important than core exercises. To get a six pack, you have to:
+
+- Have _extremely low_ body fat.
+  - Doing Intermittent fasting is the most reliable way to acheive this.
+- Do Cardio to get your chest muscles lean.
+  - Sprint interval workouts are the best.
+- Do chest / weightlifting workouts.
+- (Optional) Do ab / core exercises.

@@ -4,8 +4,6 @@ This is a guide for good practices / daily routines.
 
 These routines should promote better long-term physical and mental health.
 
-During the non-thinking activities, such as working out, stretching, showering, etc, you can listen to audiobooks / podcasts.
-
 ## Recommended apps
 
 For creating recurring habits, use [habit-maker](https://github.com/dessalines/habit-maker), [loop habit tracker](https://loophabits.org/), or recurring tasks using tasks.org . The [don't break the chain](https://luxafor.com/dont-break-the-chain-explained/) method is a proven way to build habits gradually.
@@ -94,29 +92,19 @@ Get a fitness tracker like a Xiaomi Mi Band (They cost ~$30), or Huawei Band. Be
 
 You probably don't need to shower every day, 2-3 times a week or anytime after you sweat.
 
-Start with the water very hot, and shave in the shower to save time. Turn the water cold(to whatever temp you feel comfortable with, see above video for why) and wash + condition your hair.
+Do navy showers to save time. Start with the water very hot, close drain, shampoo and rinse hair, then turn off water. Condition hair, wash body, then sit down in the water and shave. Turn the water back on cold, and rinse off.
 
-Don't soap your skin or face, only soap folds: your armpits, and crotch.
-
-The colder the shower, the faster you'll be.
-
-Do [Ali Abdals routine](https://youtube.com/watch?v=OrElyY7MFVs), or [Dr Dray's Routine](https://youtube.com/watch?v=G8q08kY3zqY). Rinse / use cleanser, then moisturizer, then retinol, then sun-tan lotion. Do any makeup you need to after.
+Do [Ali Abdals routine](https://youtube.com/watch?v=OrElyY7MFVs), or [Dr Dray's Routine](https://youtube.com/watch?v=G8q08kY3zqY). Use moisturizer, then retinol, then sun-tan lotion. Do any makeup you need to after.
 
 Put on deodorant after clothes.
 
-Time: 15m
-
-### (Optional) Drinks
-
-Make coffee or tea only after these are done.
+Time: 10m
 
 ### Work
 
-Start work. Use the pomodoro method / timer (IE 25-50 minutes work, 5-15 minute no-screen break, 15 minute break every 4 sessions).
+Start work. Use the pomodoro method / timer (IE 25m-1.5h work, 5-30m minute break. I've found 1 hour work sessions, with no phone usage, then 15-30m no phone or brain-work breaks, to be best.
 
-Stretch, meditate, Take a 20-30m nap(before 3pm), or walk or just sit there during your short breaks. Use social media / other things during your 15 minute breaks.
-
-I like [this pomodoro app](https://f-droid.org/packages/com.apps.adrcotfas.goodtime/).
+I like [this pomodoro app](https://f-droid.org/packages/com.apps.adrcotfas.goodtime/), or use alarms / timers on your watch.
 
 ## Night
 
@@ -140,6 +128,7 @@ Your willpower / energy to do daily tasks is like a tank, and needs to be replen
 
 - 20-30m nap. This works best in the afternoon, after coffee, before 3pm.
 - Meditating for any amount of time.
+- Go for a walk.
 
 ### Things that empty the tank
 
@@ -154,7 +143,7 @@ Your willpower / energy to do daily tasks is like a tank, and needs to be replen
 
 Do IF (intermittent fasting). No, its [not bad for you... its good for your long-term health](https://youtube.com/watch?v=7nJgHBbEgsE), and can help you lose or gain weight depending on your goal.
 
-Start out with a **14-10** (14 hour fast, 10 hour eat), and work your way up to either a 20-4, or 22-2. Aim for eating one big meal a day, and snacking / eating whatever you want the rest of your window. I start eating at 4-5pm, and end at 8-9pm.
+Start out with a **14-10** (14 hour fast, 10 hour eat), and work your way up to either a 20-4, or 22-2. Aim for eating one big meal a day, and snacking / eating whatever you want the rest of your window. A large morning meal works best, then you're sated the rest of the day.
 
 Switch to a weekly schedule if you want to acheive your goals faster (IE 10-2, fasting 2 days a week, or alternate day fasting).
 
