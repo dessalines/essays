@@ -48,7 +48,6 @@ Taken from his book, [Towards a New Socialism](http://ricardo.ecn.wfu.edu/~cottr
   - This is the reverse of the USSR's system, which was to pay for imports in held dollars or marks, and restrict the export of its own currency.
 - Exports (or sales) to capitalist countries are either an exchange of goods, or labor vouchers they sell back to us.
 - Planners decide whether to import a good, or produce it locally, based on the offered price vs domestic cost.
-
   - Sell the good if the labor voucher price offered is higher than the actual labor-time cost, buy the good if its less than the domestic labor-time cost.
   - Example:
 

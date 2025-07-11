@@ -111,6 +111,7 @@ I like [this pomodoro app](https://f-droid.org/packages/com.apps.adrcotfas.goodt
 ### Face care
 
 Put moisturizer and retinol on your face before bed.
+
 ### Get water
 
 You'll need water when you wake up, so fill a bottle and put it next to your bed.
