@@ -83,6 +83,11 @@
 - [Nia Frome - Tankies [audiobook] by dessalines](magnet:?xt=urn:btih:2b8982840b1cd9d9c8c64a87142464100524de25&dn=Nia%20Frome%20-%20Tankies%20%5Baudiobook%5D%20by%20dessalines)
 - [Mahasi Sayadaw - Question and Answer with Mahasi Sayadaw [audiobook] by dessalines](magnet:?xt=urn:btih:35ce15deda165b36ae8d617be9f3d4f67fe8e333&dn=Mahasi%20Sayadaw%20-%20Question%20and%20Answer%20with%20Mahasi%20Sayadaw%20%5Baudiobook%5D%20by%20dessalines)- [Joseph Stalin - Stalin on Churchill [audiobook] by dessalines](magnet:?xt=urn:btih:72620c61846ab4b346920d989bbacf7bce17891a&dn=Joseph%20Stalin%20-%20Stalin%20on%20Churchill%20%5Baudiobook%5D%20by%20dessalines)
 - [Alice Malone - Concessions [audiobook] by dessalines](magnet:?xt=urn:btih:3456507db9a1b1da62dc689f1c61863fc18c011d&dn=Alice%20Malone%20-%20Concessions%20%5Baudiobook%5D%20by%20dessalines)
+- [Buddha - Middle Discourses 20 - How to Stop Thinking [trans Bhikku Sujato] [audiobook] by dessalines](magnet:?xt=urn:btih:0056f9dc4f46444231817e036f5c42e598f4df38&dn=Buddha%20-%20Middle%20Discourses%2020%20-%20How%20to%20Stop%20Thinking%20%5Btrans%20Bhikku%20Sujato%5D%20%5Baudiobook%5D%20by%20dessalines)
+- [Buddha - Middle Discourses 10 - Mindfulness Meditation [trans Bhikku Sujato] [audiobook] by dessalines](magnet:?xt=urn:btih:b6a1454daecfafbdb706328f4afec2efb6b27268&dn=Buddha%20-%20Middle%20Discourses%2010%20-%20Mindfulness%20Meditation%20%5Btrans%20Bhikku%20Sujato%5D%20%5Baudiobook%5D%20by%20dessalines)
+- [Jeff Brown - The Myth of Chinese Capitalism [audiobook] by dessalines](magnet:?xt=urn:btih:9e0d633037ff6feab896124a55672a7d0cc0d913&dn=Jeff%20Brown%20-%20The%20Myth%20of%20Chinese%20Capitalism%20%5Baudiobook%5D%20by%20dessalines)
+- [Domenico Losurdo - Western Marxism [audiobook] by dessalines](magnet:?xt=urn:btih:724294ba57ffbcd34d115f05ddd4fe67b1fb9572&dn=Domenico%20Losurdo%20-%20Western%20Marxism%20%5Baudiobook%5D%20by%20dessalines)
+- [Bhante Gunaratana - Loving-Kindness in Plain English [audiobook] by dessalines](magnet:?xt=urn:btih:e7ea562415a07dd591907170570a243ce7c61ac1&dn=Bhante%20Gunaratana%20-%20Loving-Kindness%20in%20Plain%20English%20%5Baudiobook%5D%20by%20dessalines)
 
 ## Read by others
 
@@ -93,6 +98,7 @@
 - [Robert Cialdini - The Psychology of Persuasion (New and Expanded)](magnet:?xt=urn:btih:e23a07e07eea40cb172625b03253b6484fb27e2f)
 - [Walter Rodney - How Europe underdeveloped Africa](magnet:?xt=urn:btih:C8EA24A6B93F427D17585CBDE9F31EE2F5ACF2EB&dn=Walter+Rodney+-+How+Europe+Underdeveloped+Africa+%5Baudiobook%5D+audible)
 - [Roxanne Dunbar-Ortiz - An indigenous peoples history of the US. ](magnet:?xt=urn:btih:1ae24bda86bd23da6edad32568ad5ff574663f88&dn=Roxanne%20Dunbar-Ortiz%20-%20An%20Indigenous%20Peoples'%20History%20of%20the%20United%20States.mp3)
+- [Roxanne Dunbar-Ortiz - La historia indígena de Estados Unidos (audible)](magnet:?xt=urn:btih:52c18ab11d6bf9e2bebf25882d9175d1f74da120&dn=Roxanne%20Dunbar-Ortiz%20-%20La%20historia%20ind%C3%ADgena%20de%20Estados%20Unidos%20%5Baudible%5D)
 - [Autobiography of Malcolm X - as told to Alex Haley](magnet:?xt=urn:btih:4e1ba39a81f987fddf7e6abf9e49e2a0c8490168&dn=Malcolm X - The Autobiography of Malcolm X)
 - [Daniel Immerwahr - How to hide an empire.](magnet:?xt=urn:btih:f9a1c6d9302b2a0de71ebe40eedf74ec0c3dbfff&dn=How%20to%20Hide%20an%20Empire%20by%20Daniel%20Immerwahr)
 - [Gerda Lerner - The Creation of the Patriarchy](magnet:?xt=urn:btih:F3B575BBD18FEC05B1838C9E9CA9532B462C24F2&dn=Gerda+Lerner+-+The+Creation+of+the+Patriarchy+%5Baudible%5D)

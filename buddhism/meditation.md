@@ -3,6 +3,7 @@
 ## Daily schedule
 
 - Pick at least 2 specific times every day, to meditate for 15-30m. Setting an alarm helps, for consistency. Find what works best for you.
+- 7m of concentration, 7m of insight, 7m of metta
 
 ## What doesn't work
 
@@ -19,6 +20,7 @@
 
 [Source](https://suttacentral.net/mn20/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)
 
+Acronym: ODISC
 - Focus on its opposite, or something else.
   - Sensual desire
     - The gross body, dead bodies, old bodies, rotting food, reguritated food, food inside the stomach.
@@ -39,7 +41,7 @@
   - Or devotional practices.
 - Examine its drawbacks / dangers (three marks). Keeping us entangled in suffering, and not doing good for ourselves and others.
 - Forget or ignore. Think of other things: breathing.
-- Analyze it deeply, still it and slow it down, see its causes, and see how it causes suffering.
+- Stop, still it and and slow it down, see its causes, and see how it causes suffering.
 - Crush them, reject them, expell them, with teeth clenched and tongue against roof of mouth.
 
 ## List of cravings
@@ -147,7 +149,7 @@
 - Right mindfuless
   - Awareness/attention to the present, without elaborating, judging, liking/disliking, grasping, or evaluating with a goal.
   - 4 foundations: body(breathing, postures, parts), feeling, states of mind, ideas/perceptions
-  - When enough concentration is built up to mindfulness, panna develops, direct seeing into the 4 noble truths, from moment to moment. Seeing qecomes direct and immediate.
+  - When enough concentration is built up to mindfulness, panna develops, direct seeing into the 4 noble truths, from moment to moment. Seeing becomes direct and immediate.
 - Right concentration
   - Wholesome one-pointedness, collected, stilled, focused, tranquil, without disturbances or hindrances.
   - 4 jhanas
