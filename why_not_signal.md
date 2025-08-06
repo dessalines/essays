@@ -38,8 +38,6 @@
 
 <!-- tocstop -->
 
-# Why not Signal?
-
 About me: While I'm no cryptography expert, I'm a software developer with 10+ years of experience, both in the professional and open source world. Currently I'm a lead developer for a popular open source federated software called [Lemmy](https://github.com/LemmyNet/lemmy). My perspective and recommendations here come from being an active participant in open source communities.
 
 ## The Problem
