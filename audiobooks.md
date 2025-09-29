@@ -88,6 +88,7 @@
 - [Jeff Brown - The Myth of Chinese Capitalism [audiobook] by dessalines](magnet:?xt=urn:btih:9e0d633037ff6feab896124a55672a7d0cc0d913&dn=Jeff%20Brown%20-%20The%20Myth%20of%20Chinese%20Capitalism%20%5Baudiobook%5D%20by%20dessalines)
 - [Domenico Losurdo - Western Marxism [audiobook] by dessalines](magnet:?xt=urn:btih:724294ba57ffbcd34d115f05ddd4fe67b1fb9572&dn=Domenico%20Losurdo%20-%20Western%20Marxism%20%5Baudiobook%5D%20by%20dessalines)
 - [Bhante Gunaratana - Loving-Kindness in Plain English [audiobook] by dessalines](magnet:?xt=urn:btih:e7ea562415a07dd591907170570a243ce7c61ac1&dn=Bhante%20Gunaratana%20-%20Loving-Kindness%20in%20Plain%20English%20%5Baudiobook%5D%20by%20dessalines)
+- [Gabriel Rockhill - The US did not defeat fascism in WWII, it discreetly internationalized it [audiobook] by dessalines](magnet:?xt=urn:btih:66b3f9d7fd171e1c9e70ba8120c9f29969986007&dn=Gabriel%20Rockhill%20-%20The%20US%20did%20not%20defeat%20fascism%20in%20WWII%2C%20it%20discreetly%20internationalized%20it%20%5Baudiobook%5D%20by%20dessalines&xl=42364281)
 
 ## Read by others
 
@@ -132,3 +133,5 @@
 - [William Blum - Killing Hope [audiobook] by hablini](magnet:?xt=urn:btih:386a3416b92a2c48adf0a2f547a4be3c841ded09&dn=William%20Blum%20-%20Killing%20Hope%20%5Baudiobook%5D%20by%20hablini)
 - [Malcolm Harris - Palo Alto](magnet:?xt=urn:btih:99856fbbe2662a1a8a3c149d4d8dd1d5a3f375d8&dn=Malcolm%20Harris%20-%20Palo%20Alto%20-%20mp3)
 - [Bhikkhu Bodhi - The Buddhas Teaching As It Is [audiobook]](magnet:?xt=urn:btih:b5a4037840def073c7b05dfbf6e47b05b5d991af&dn=Bhikkhu%20Bodhi%20-%20The%20Buddhas%20Teaching%20As%20It%20Is%20%5Baudiobook%5D)
+- [Margaret Kimberley - Prejudential - Black America and the Presidents](magnet:?xt=urn:btih:51d1ac6cba2a13d71030545f80a91db9ff179522&dn=Margaret%20Kimberley%20-%20Prejudential%20-%20Black%20America%20and%20the%20Presidents%20%5Baudible%5D&xl=307497410)
+- [Paul L. Williams - Operation Gladio [audible]](magnet:?xt=urn:btih:e92370d9f51043cfda1efa2cba0933bba6fdeed0&dn=Paul%20L.%20Williams%20-%20Operation%20Gladio%20%5Baudible%5D&xl=341764705)

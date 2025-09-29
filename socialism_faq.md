@@ -559,7 +559,7 @@
 - [Deng on why Mao's legacy must be upheld.](https://redsails.org/deng-and-fallaci/)
 - [Deng Xiaoping - a visionary marxist-leninist.](https://twitter.com/RodericDay/status/1353776771573948418?s=20)
 - [Deng - We will always side with the third world.](https://www.reddit.com/r/GenZedong/comments/p9d2zy/117_years_ago_a_national_hero_was_born/h9wxz32/)
-- [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](http://www.michaelparenti.org/Tibet.html) [audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoZjKom_Qj0jcDReaMb_r52z)
+- [What about Tibet? (95% of the population were slaves or feudal serfs before China invaded in 1959)](https://redsails.org/friendly-feudalism/) [audiobook](https://youtube.com/playlist?list=PL0-IkmzWbjoZjKom_Qj0jcDReaMb_r52z)
 - [Tibet, China, and the Violent reaction of a wealthy elite.](https://historicly.substack.com/p/tibet-china-and-the-violent-reaction)
 - [Mao's liberation of Tibet](https://stalinsmoustache.org/2018/09/19/maos-liberation-of-tibet/)
 - [Dalai Lama - Forgive Pinochet](https://www.cbc.ca/news/world/forgive-pinochet-says-dalai-lama-1.187150)
@@ -616,6 +616,7 @@
 - [What kind of democracy does China have, and how is it different from the west?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answers/81676052?share=0ac8c628&srid=JMzz)
 - In contrast to low US political approval ratings, 96% of Chinese are satisfied with the national government (Edelmans 2016). World Values Surveys says that 83% think the country is run for their benefit rather than for the benefit of special groups. [A Harvard research center study of long-term public opinion survey finds that > 95% of Chinese citizens approved their government.](https://news.harvard.edu/gazette/story/2020/07/long-term-survey-reveals-chinese-government-satisfaction/) [How is this possible in a one-party state? (TED talk by Eric X Li)](https://youtube.com/watch?v=s0YjL9rZyR0)
 - [How does China’s political system work?](https://youtube.com/watch?v=Qu4QTxl9GVw)
+- [Interview with Zhang WeiWei on China's political system, and its differences from the US](https://www.geopoliticaleconomy.report/p/china-model-zhang-weiwei-interview)
 - [How are Chinese leaders elected / chosen? How meristocratic is the system? How do elections differ from those in western bourgeois democracies?](https://youtube.com/watch?v=TgpQxVCekgw)
 - [Who runs China? Makeup of the national people's congress.](https://news.cgtn.com/event/2019/whorunschina/index.html)
 - [US policy-makers are misjudging popular support China's Government.](https://www.marketwatch.com/story/these-numbers-show-just-how-much-the-lives-of-everyday-chinese-have-improved-in-recent-decades-2019-10-02)
@@ -713,7 +714,7 @@
 - The US's credit score system is vastly more influential and detrimental to a majority of its population than China's social credit system, [which largely doesn't even exist](https://foreignpolicy.com/2018/11/16/chinas-orwellian-social-credit-score-isnt-real/), and where it does exist it is [only used to target businesses](https://foreignpolicy.com/2021/09/15/china-social-credit-system-authoritarian/).
 - [numuves - How the US dominates tech](https://youtube.com/watch?v=EgzB4_Zw3RE)
 - [What about the "great firewall", isn't it repressive?](https://youtu.be/LAEwoYIYgJA)
-- [On the great firewall, and china not allowing US taech companies. ](https://mobile.twitter.com/Mango_Press_/status/1423263749302067202)
+- [On the great firewall, and china not allowing US tech companies. ](https://mobile.twitter.com/Mango_Press_/status/1423263749302067202)
 
 ### What's going on with the Uyghurs?
 
