@@ -89,6 +89,9 @@
 - [Domenico Losurdo - Western Marxism [audiobook] by dessalines](magnet:?xt=urn:btih:724294ba57ffbcd34d115f05ddd4fe67b1fb9572&dn=Domenico%20Losurdo%20-%20Western%20Marxism%20%5Baudiobook%5D%20by%20dessalines)
 - [Bhante Gunaratana - Loving-Kindness in Plain English [audiobook] by dessalines](magnet:?xt=urn:btih:e7ea562415a07dd591907170570a243ce7c61ac1&dn=Bhante%20Gunaratana%20-%20Loving-Kindness%20in%20Plain%20English%20%5Baudiobook%5D%20by%20dessalines)
 - [Gabriel Rockhill - The US did not defeat fascism in WWII, it discreetly internationalized it [audiobook] by dessalines](magnet:?xt=urn:btih:66b3f9d7fd171e1c9e70ba8120c9f29969986007&dn=Gabriel%20Rockhill%20-%20The%20US%20did%20not%20defeat%20fascism%20in%20WWII%2C%20it%20discreetly%20internationalized%20it%20%5Baudiobook%5D%20by%20dessalines&xl=42364281)
+- [Swiss Policy Research - The Propaganda Multiplier [audiobook] by dessalines](magnet:?xt=urn:btih:e4e6466f1d84f610590f34ca1b53200b71346a1e&dn=Swiss%20Policy%20Research%20-%20The%20Propaganda%20Multiplier%20%5Baudiobook%5D%20by%20dessalines)
+- [Domenico Losurdo - Has China Turned to Capitalism [audiobook] by dessalines](magnet:?xt=urn:btih:2568e9f8632f7354f6edf315cfb270ffdf8995b9&dn=Domenico%20Losurdo%20-%20Has%20China%20Turned%20to%20Capitalism%20%5Baudiobook%5D%20by%20dessalines)
+- [Anna Louise Strong - The Stalin Era [audiobook] by dessalines](magnet:?xt=urn:btih:2c1880fa4615bad64d3ebf73451db46e3dbdabee&dn=Anna%20Louise%20Strong%20-%20The%20Stalin%20Era%20%5Baudiobook%5D%20by%20dessalines)
 
 ## Read by others
 
