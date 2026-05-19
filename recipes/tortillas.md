@@ -13,10 +13,10 @@
 
 ### Ingredients
 
-- 1 cup flour
-- 4 tbsp melted butter
-- 1/4th teaspoon salt
-- 1/3rd cup hot water
+- 1.5 cup flour
+- 3 tbsp melted butter
+- 1/3rd teaspoon salt
+- 1/2 cup hot water
 
 ### Recipe
 
@@ -24,7 +24,7 @@
 - add butter
 - knead for a minute
 - let sit for 8m somewhere hot
-- roll into 6-8 small balls
+- roll into 6 balls
 - let sit on counter for 8m, heat griddle
 - get bowl of flour
 - pat into disks in flour bowl

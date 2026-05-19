@@ -16,7 +16,7 @@
 
 - Wash beans in water.
 - Put beans in pot, add 8 cups of water.
-- Put on high heat, cut onion in half, put in.
+- Put on high heat, cut onion in half, put in, cilantro stems, bay leaves
 - Once boiling, low heat to min, put on lid.
 - Leave alone for 1 hour, then add salt.
 - Cook for another 1.5 hours.

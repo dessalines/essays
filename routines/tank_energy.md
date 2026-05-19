@@ -23,5 +23,5 @@ pomos: tank emptiers
 - Social media
 - Scrolling
 - Coding
-- Watching movies
+- Watching movies, videos
 - Reading books

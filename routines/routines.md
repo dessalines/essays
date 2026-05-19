@@ -40,16 +40,6 @@ Time: 3m
 
 Put on sunscreen. No need to clean / rinse face. Don't miss ears and neck.
 
-### Stretch
-
-Do [Jeremy Ethiers routine](https://youtube.com/watch?v=RqcOCBb4arc), especially the thoracic rotations. Your neck and back will thank you.
-
-Stretch knees and ankles if necessary.
-
-See [workout_routine](workout_routine.md) for more.
-
-Time: 2m
-
 ### Get dressed
 
 You'll need clothes for the next steps.

@@ -1,10 +1,21 @@
 # Mandarin Study Plan
 
-## Daily study
+<!--toc:start-->
+
+- [Mandarin Study Plan](#mandarin-study-plan)
+  - [Daily Study](#daily-study)
+  - [Immersion resources](#immersion-resources)
+  - [Apps](#apps)
+  - [Listening / Watching](#listening-watching)
+  - [Reading](#reading)
+  - [Content](#content)
+  <!--toc:end-->
+
+## Daily Study
 
 - At least 10m per day, but you need 2200 hours for fluency.
 
-## Immersion resources
+## Immersion Resources
 
 - [Comprehensible input wiki - Chinese videos](https://comprehensibleinputwiki.org/wiki/Chinese/Library)
 - [Refold mandarin main guide](https://docs.google.com/document/d/e/2PACX-1vS5Hri7NoO6bhY4rFpCGpkPCB46OS2ZCX7bpDiRU2dNA0CJnHwWKG885NdAbREzXVRkSnbVO8ODaVwv/pub)
@@ -19,10 +30,9 @@ Apps are mostly useless for the early stages, but the following will help you le
 
 ## Listening / Watching
 
-- [HIT Chinese (comprehensible input)](https://youtube.com/channel/UCv33mxPEDfd_Ee1pz1y8KLw)
-- [Unconventional Chinese with Keren](https://youtube.com/channel/UCxqLWT3swHvP9_4bv7Qssxw)
-- [Slow and clear Chinese](https://youtube.com/channel/UCdwdSGQsSbcapDmODtOr58g)
-- [Shuo Shuo Chinese](https://youtube.com/channel/UC_Aiv9xguPQxZ6msnNoz3HQ)
+- LazyChinese
+- vidioma
+- https://m.youtube.com/@xiaoguachinese/playlists
 
 ## Reading
 

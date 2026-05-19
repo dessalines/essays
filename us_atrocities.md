@@ -1,34 +1,32 @@
 # List of Atrocities committed by US authorities
 
+<!--toc:start-->
+
+- [List of Atrocities committed by US authorities](#list-of-atrocities-committed-by-us-authorities)
+  - [Imperialism](#imperialism)
+    - [Middle East](#middle-east)
+    - [Western hemisphere](#western-hemisphere)
+    - [Africa](#africa)
+    - [Asia](#asia)
+    - [Europe](#europe)
+  - [Internal Repression](#internal-repression)
+    - [Native Americans](#native-americans)
+    - [Black people](#black-people)
+    - [Latinos](#latinos)
+    - [Asians](#asians)
+    - [LGBTQ People](#lgbtq-people)
+    - [Women](#women)
+    - [Workers and the Poor](#workers-and-the-poor)
+    - [Children](#children)
+    - [Prisoners](#prisoners)
+    - [Religious minorities](#religious-minorities)
+    - [Pervasive](#pervasive)
+  - [Sources / Starting points](#sources-starting-points)
+  <!--toc:end-->
+
 _Definition: An extremely wicked or cruel act, typically one involving physical violence or injury._
 
 > "If there is a country that has committed unspeakable atrocities in the world, it is the United States of America. They don't care for human beings." - Nelson Mandela
-
-## Contents
-
-<!-- toc -->
-
-- [Imperialism](#imperialism)
-  - [Middle East](#middle-east)
-  - [Western hemisphere](#western-hemisphere)
-  - [Africa](#africa)
-  - [Asia](#asia)
-  - [Europe](#europe)
-- [Internal Repression](#internal-repression)
-  - [Native Americans](#native-americans)
-  - [Black people](#black-people)
-  - [Latinos](#latinos)
-  - [Asians](#asians)
-  - [LGBTQ People](#lgbtq-people)
-  - [Women](#women)
-  - [Workers and the Poor](#workers-and-the-poor)
-  - [Children](#children)
-  - [Prisoners](#prisoners)
-  - [Religious minorities](#religious-minorities)
-  - [Pervasive](#pervasive)
-- [Sources / Starting points](#sources--starting-points)
-
-<!-- tocstop -->
 
 Notes :
 

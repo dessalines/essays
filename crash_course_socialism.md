@@ -1,8 +1,6 @@
 # Crash Course Socialism
 
-## Contents
-
-<!-- toc -->
+<!--toc:start-->
 
 - [Crash Course Socialism](#crash-course-socialism)
   - [Surplus Value](#surplus-value)
@@ -34,10 +32,7 @@
   - [Channels](#channels)
 - [Organizations](#organizations)
   - [Online Communities](#online-communities)
-
-<!-- tocstop -->
-
-# Crash Course Socialism
+  <!--toc:end-->
 
 ## Surplus Value
 
@@ -210,7 +205,7 @@ Communists propose building alternatives alongside of bourgeois democracy, with 
 - Low levels of wealth and income inequality, often driven by a system of labor vouchers for compensation.
 - Experts (if any) elected by the working class through universal suffrage.
 - All representatives and officials (including police) are revocable at any time.
-- Public officials are paid workmen’s wages.
+- Public officials are paid worker's wages.
 
 ## Late Stage Capitalism
 
@@ -454,5 +449,6 @@ Past and present socialist societies include - The [Paris Commune](https://en.wi
 
 - [Lemmygrad](https://lemmygrad.ml)
 - [Hexbear.net](https://hexbear.net)
+- [lemmy.ml](https://lemmy.ml)
 
 _Credit to [/u/gab91](https://www.reddit.com/u/gab91), [/r/socialism](https://www.reddit.com/r/socialism/), [/r/socialism_101](https://www.reddit.com/r/Socialism_101/), [/r/communism101](https://www.reddit.com/r/communism101/)_

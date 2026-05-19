@@ -2,7 +2,8 @@
 
 - Lemmy
 - Recording audiobooks
-- Chinese
+- Buddhism
 - Fitness
+- Spanish
+- Chinese
 - Piano
-- Good husband / cat dad
