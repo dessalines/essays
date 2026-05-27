@@ -308,7 +308,7 @@ All phenomena, from microbes to empires to world systems to ideas, have these th
   - 3 types
     - Frequent - union with the unpleasant, separation from the pleasant, not getting what we want.
     - Occasional - birth, old age, sickness, death, sorrow, grief, lamentation, loss, pain, despair
-    - Constant - 5 aggregates of clinging. Even pleasurable things are suffering due to the three marks. Momentary events without any real core. 
+    - Constant - 5 aggregates of clinging. Even pleasurable things are suffering due to the three marks. Momentary events without any real core.
   - 3 levels (3 marks)
     - Ordinary suffering - experienced suffering, bodily or mental.
     - Suffering due to change - even pleasant experiences are unsatisfactory, since they are bound to pass away, and enjoying them creates the perversion of permanence.
