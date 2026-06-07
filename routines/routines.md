@@ -38,7 +38,10 @@ Time: 3m
 
 ### Face
 
-Put on sunscreen. No need to clean / rinse face. Don't miss ears and neck.
+1. Rinse with lukewarm water (or gentle cleanser if oily).
+2. Apply Vitamin C serum (optional for anti-aging).
+3. Apply moisturizer (if dry).
+4. Apply SPF 30+ (last step).
 
 ### Get dressed
 
@@ -100,7 +103,9 @@ I like [this pomodoro app](https://f-droid.org/packages/com.apps.adrcotfas.goodt
 
 ### Face care
 
-Put moisturizer and retinol on your face before bed.
+1. Cleanse with gentle face wash.
+2. Apply treatment (retinol or acne cream) – only 2-5 nights per week.
+3. Apply moisturizer.
 
 ### Get water
 

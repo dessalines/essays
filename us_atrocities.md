@@ -28,7 +28,7 @@ _Definition: An extremely wicked or cruel act, typically one involving physical 
 
 > "If there is a country that has committed unspeakable atrocities in the world, it is the United States of America. They don't care for human beings." - Nelson Mandela
 
-Notes :
+## Notes
 
 - Try to convey a sense of moral outrage.
 - This is a living document, it will be updated as new atrocities pour in.

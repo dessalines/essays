@@ -152,7 +152,7 @@
 ## On Ultra-leftism / Left-Communism
 
 - What about the USSR, wasn't it authoritarian? Watch this [brilliant talk by Micheal Parenti](https://youtube.com/watch?v=z7WmYEoNtPY), or read his article, [Left anticommunism, the unkindest cut](http://www.greanvillepost.com/2015/05/23/left-anticommunism-the-unkindest-cut/), [audiobook](https://youtube.com/watch?v=51KSe96VCuI)
-- [Why do most Marxists dislike ultra-lefts / left-communists (the "not real socialism" crowd) ?](https://medium.com/@leohezhao/left-communists-and-ultra-leftists-are-reactionaries-2d2fca4c991a)
+- [Why do most Marxists dislike ultra-lefts / left-communists (the "not real socialism" crowd) ?](https://archive.is/p7RX0
 - [Hakim - Why the USSR was socialist - A critique of left-communism.](https://youtube.com/watch?v=CKggZ22izDs)
 - [Cockshott - In what sense was the USSR socialist?](https://youtube.com/watch?v=Nu85byBBddY)
 - [Cockshott - Socialism and surplus - Why the USSR was socialist.](https://youtube.com/watch?v=C-T-Fr6DvFw)
@@ -405,12 +405,15 @@
 ## On Trotskyism
 
 - [Taimur Rahman - Why I am not a Trotskyist.](https://youtube.com/watch?v=QQ9O5UPqcOE)
-- [Primarily to the trotskyists: Can you explain the theories of the degenerated workers state, the deformed workers state and state capitalism and can these theories co-exist in the same country?](https://www.reddit.com/r/communism101/comments/2x5m39/primarily_to_the_trotskyists_can_you_explain_the/)
-- [What are the main Marxist analyses of fascism? and a question regarding Trotsky's](https://www.reddit.com/r/communism101/comments/2p7ozi/what_are_the_main_marxist_analyses_of_fascism_and/)
 - [Did Stalin 'betray' the revolution? (repost of deleted question)](https://www.reddit.com/r/communism101/comments/1dp6qw/did_stalin_betray_the_revolution_repost_of/)
 - [Why was "Lenin's testament" suppressed by the Party after Lenin's death?](https://www.reddit.com/r/communism101/comments/2lfc5f/why_was_lenins_testament_suppressed_by_the_party/)
 - [Why was Trotsky assassinated?](https://internationalstalinsociety.wordpress.com/trotsky-the-anti-communist/)
-- https://www.marxists.org/history/etol/document/vietnam/pirani/hochiminh.htm
+- [Castro on Trotskyism](https://xony.org/fidel-castro/trotskyism/). [2](www.marxists.org/history/cuba/archive/castro/1966/01/15.htm)
+- [Che Guevara on Trotskyism](https://marxistleninists.org/Trotskyism/Trotskyism%20and%20Che.htm)
+- [Ho Chi Minh on Trotskyism](https://espressostalinist.com/2011/07/30/ho-chi-minh-on-trotskyites/)
+- [Lu Xun (CPC) on Trotskyism](https://redsails.org/reply-to-trotskyites/)
+- [Tito on Trotskyism](https://www.marxists.org/archive/tito/1939/x01/x01.htm)
+- [Stalin on Trotskyism](https://www.marxists.org/reference/archive/stalin/works/subject/trotskyism/index.htm)
 
 ## On India
 
@@ -708,10 +711,11 @@
 ### What's going on with the Uyghurs?
 
 - [What's going on with the Uyghurs / Xinjiang province?](https://archive.is/DqRCn)
-- [XinJiang: Facts vs Fiction.](https://medium.com/@leohezhao/xinjiang-facts-vs-fiction-bdc2aa403c91)
+- [XinJiang: Facts vs Fiction.](https://archive.is/q1dnh)
+- [Debuking America’s slopaganda about the Uyghurs in China](https://www.youtube.com/watch?v=x--iH9bB-1Q)
 - [A Pakistani Diplomat given full access to “re-education camps” and this is what she found](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang).
-  - Despite claims of "erasing Uyghur culture", [they stated](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang): "I did not find any instance of forced labor or cultural and religious repression. The imams we met at the mosques and the students and teachers at the Xinjiang Islamic Institute told us that they enjoy freedom in practicing Islam and that the Chinese government extends support for maintenance of mosques all over Xinjiang. [...]The most visible sign of protection of Uyghur culture by the government is the government-run bilingual kindergarten schools where children learn Putonghua as well as Uyghur language and culture from a very young age."
-  - The grandaughters of Rebiya Kadeer (Once the richest woman in Xinjiang, and now a member of the "Uyghur world congress", an org claiming that China is oppressing Uyghurs), [talking about how their grandmother is lying about Xinjiang.](https://youtube.com/watch?v=aeEFuGnbV-s)
+  - Despite claims of "erasing Uyghur culture", [they stated](https://www.thenews.com.pk/latest/422970-pakistani-diplomat-narrates-visit-to-chinas-xinjiang): "I did not find any instance of forced labor or cultural and religious repression. The imams we met at the mosques and the students and teachers at the Xinjiang Islamic Institute told us that they enjoy freedom in practicing Islam and that the Chinese government extends support for maintenance of mosques all over Xinjiang. The most visible sign of protection of Uyghur culture by the government is the government-run bilingual kindergarten schools where children learn Putonghua as well as Uyghur language and culture from a very young age."
+- The grandaughters of Rebiya Kadeer (Once the richest woman in Xinjiang, and now a member of the "Uyghur world congress", a Washington DC headquartered org claiming that China is oppressing Uyghurs), [talking about how their grandmother is lying about Xinjiang.](https://youtube.com/watch?v=aeEFuGnbV-s)
 - [Egyptian media delegates provide a detailed insight of the situation in Xinjiang](https://www.thenews.com.pk/latest/430738-egyptian-media-delegates-provide-a-detailed-insight-of-the-situation-in-xinjiang)
 - [China's policies in the Xinjiang Uyghur autonomous region lift 1.85 million people out of poverty from 2014-2017.](http://www.xinhuanet.com/english/2018-10/24/c_137554986.htm?source=post_page---------------------------)
 - [Dan Cohen - Is China committing genocide? Behind the US goverments propaganda campaign.](https://youtube.com/watch?v=Hjurb61SZgk)

@@ -304,11 +304,14 @@ All phenomena, from microbes to empires to world systems to ideas, have these th
       - Reaches disintegration / destruction.
       - Repeat
     - Subtle -- TODO
+    - Like trying to grab onto a waterfall for security.
 - Suffering / unsatisfactoriness
   - 3 types
     - Frequent - union with the unpleasant, separation from the pleasant, not getting what we want.
     - Occasional - birth, old age, sickness, death, sorrow, grief, lamentation, loss, pain, despair
     - Constant - 5 aggregates of clinging. Even pleasurable things are suffering due to the three marks. Momentary events without any real core.
+    - Conditioned things are a poison, a disease, addictions, a dart.
+    - Habits create the illusion / perversion of permanence.
   - 3 levels (3 marks)
     - Ordinary suffering - experienced suffering, bodily or mental.
     - Suffering due to change - even pleasant experiences are unsatisfactory, since they are bound to pass away, and enjoying them creates the perversion of permanence.
@@ -435,7 +438,7 @@ Acronym: BoFeSL (body, feelings, states of mind, laws)
 - Teachings / Dhamma / Universal laws
   - 5 hindrances
   - 7 factors of enlightenment
-  - 6 senses
+  - 6 senses (STEEMiN, Skin, Tongue, Ear, Eye, Mind, Nose)
   - 10 fetters
   - 5 aggregates of clinging
   - 4 noble truths - suffering, its origin, its cessation, and the way to its cessation

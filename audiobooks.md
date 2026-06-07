@@ -92,6 +92,11 @@
 - [Swiss Policy Research - The Propaganda Multiplier [audiobook] by dessalines](magnet:?xt=urn:btih:e4e6466f1d84f610590f34ca1b53200b71346a1e&dn=Swiss%20Policy%20Research%20-%20The%20Propaganda%20Multiplier%20%5Baudiobook%5D%20by%20dessalines)
 - [Domenico Losurdo - Has China Turned to Capitalism [audiobook] by dessalines](magnet:?xt=urn:btih:2568e9f8632f7354f6edf315cfb270ffdf8995b9&dn=Domenico%20Losurdo%20-%20Has%20China%20Turned%20to%20Capitalism%20%5Baudiobook%5D%20by%20dessalines)
 - [Anna Louise Strong - The Stalin Era [audiobook] by dessalines](magnet:?xt=urn:btih:2c1880fa4615bad64d3ebf73451db46e3dbdabee&dn=Anna%20Louise%20Strong%20-%20The%20Stalin%20Era%20%5Baudiobook%5D%20by%20dessalines)
+- [Bhikkhu Analayo - Satipatthana Meditation - A Practice Guide [audiobook] by dessalines](magnet:?xt=urn:btih:9a5a0be9419b83599da35195467fbaa0516bf79d&dn=Bhikkhu%20Analayo%20-%20Satipatthana%20Meditation%20-%20A%20Practice%20Guide%20%5Baudiobook%5D%20by%20dessalines&xl=795514299)
+- [Bhikkhu Cintita - Rethinking Satipatthana [audiobook] by dessalines](magnet:?xt=urn:btih:057572f039c9a2c6717604d9bd0dfe978751a6c5&dn=Bhikkhu%20Cintita%20-%20Rethinking%20Satipatthana%20%5Baudiobook%5D%20by%20dessalines&xl=675213593)
+- [Nicolaievsky, Maenchen-Helfen - Karl Marx - Man and Fighter [audiobook] by dessalines](magnet:?xt=urn:btih:01df5e6ba309804a5311837b084a729c5310a446&dn=Nicolaievsky%2C%20Maenchen-Helfen%20-%20Karl%20Marx%20-%20Man%20and%20Fighter%20%5Baudiobook%5D%20by%20dessalines&xl=1555139199)
+- [Nyanaponika Thera - The Five Mental Hindrances and Their Conquest [audiobook] by dessalines](magnet:?xt=urn:btih:2bb6153b9842fc40c449cac780ace957af95a77d&dn=Nyanaponika%20Thera%20-%20The%20Five%20Mental%20Hindrances%20and%20Their%20Conquest%20%5Baudiobook%5D%20by%20dessalines&xl=102017108)
+- [The Buddha - Sigalaka Sutta [audiobook] by dessalines](magnet:?xt=urn:btih:f0c740d60ab118ae1f2c9110e6f55fb82da3c188&dn=The%20Buddha%20-%20Sigalaka%20Sutta%20%5Baudiobook%5D%20by%20dessalines&xl=33376273)
 
 ## Read by others
 
