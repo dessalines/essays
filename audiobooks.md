@@ -1,5 +1,7 @@
 # Audiobooks
 
+These are all torrent audiobooks. You may need to add [these trackers](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt) as defaults to your torrent client.
+
 ## Read by Dessalines
 
 - [Youtube Channel](https://youtube.com/channel/UC7HJWIFGGeMiJi2h3k18CrQ)
@@ -140,6 +142,6 @@
 - [Quotations from Chairman Mao Tse-Tung [audible]](magnet:?xt=urn:btih:4ef97e58482bc6a48af28ffd86d1cfd269dfc194&dn=Quotations%20from%20Chairman%20Mao%20Tse-Tung%20%5Baudible%5D)
 - [William Blum - Killing Hope [audiobook] by hablini](magnet:?xt=urn:btih:386a3416b92a2c48adf0a2f547a4be3c841ded09&dn=William%20Blum%20-%20Killing%20Hope%20%5Baudiobook%5D%20by%20hablini)
 - [Malcolm Harris - Palo Alto](magnet:?xt=urn:btih:99856fbbe2662a1a8a3c149d4d8dd1d5a3f375d8&dn=Malcolm%20Harris%20-%20Palo%20Alto%20-%20mp3)
-- [Bhikkhu Bodhi - The Buddhas Teaching As It Is [audiobook]](magnet:?xt=urn:btih:b5a4037840def073c7b05dfbf6e47b05b5d991af&dn=Bhikkhu%20Bodhi%20-%20The%20Buddhas%20Teaching%20As%20It%20Is%20%5Baudiobook%5D)
+- [Bhikkhu Bodhi - The Buddhas Teaching As It Is [audiobook] v2](magnet:?xt=urn:btih:845d915f76e7b57b146e180e30d9a6ac87ccbefc&dn=Bhikkhu%20Bodhi%20-%20The%20Buddhas%20Teaching%20As%20It%20Is%20%5Baudiobook%5D%20v2)
 - [Margaret Kimberley - Prejudential - Black America and the Presidents](magnet:?xt=urn:btih:51d1ac6cba2a13d71030545f80a91db9ff179522&dn=Margaret%20Kimberley%20-%20Prejudential%20-%20Black%20America%20and%20the%20Presidents%20%5Baudible%5D&xl=307497410)
 - [Paul L. Williams - Operation Gladio [audible]](magnet:?xt=urn:btih:e92370d9f51043cfda1efa2cba0933bba6fdeed0&dn=Paul%20L.%20Williams%20-%20Operation%20Gladio%20%5Baudible%5D&xl=341764705)
