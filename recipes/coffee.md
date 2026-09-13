@@ -48,6 +48,19 @@ Too Fast/Acidic = Finer
 
 Too Slow/Bitter = Coarser
 
+# 5 pour
+
+- 1:15 ratio
+- 3m-3:30m draw down
+- 5 pours
+- Wait until coffee drains out until you do next pour.
+
+| Clicks | Draw down time |
+| ------ | -------------- |
+| 22C    | 2:40m          |
+
+3m-3:30m
+
 # Hario Tetsuo 4-6 300g
 
 - 18g medium coarse

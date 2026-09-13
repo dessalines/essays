@@ -206,7 +206,6 @@
 - [LeftVoice - Bourgeois Democracy - What do Marxists mean by this term?](https://www.hamptonthink.org/read/bourgeois-democracy-what-do-marxists-mean-by-this-term)
 - [W.E.B. Dubois - Why I don't vote](http://www.hartford-hwp.com/archives/45a/298.html)
 - [What about harm reduction?](http://www.indigenousaction.org/voting-is-not-harm-reduction-an-indigenous-perspective/)
-- [What's wrong with the DSA / Democratic socialism?](https://struggle-sessions.com/2020/04/20/dsa-are-capitalist-pigs/)
 - [How do socialists feel about elections? What about democratic socialism?](https://isreview.org/issue/13/marxists-and-elections)
 - [Can a one-party state really be a democracy?](https://www.quora.com/What-kind-of-democracy-does-the-China-have/answer/Godfree-Roberts?share=0ac8c628&srid=JMzz)
 - [Why is Chinas one party system outperforming western democracies that have abysmal approval ratings?](https://youtube.com/watch?v=s0YjL9rZyR0)
@@ -858,14 +857,13 @@
 - [South Korea boosts reward for defectors to $860k USD](https://www.bbc.com/news/world-asia-39170614).
 - [Are north korean defectors really paid to lie by the south? A short documentary.](https://youtube.com/watch?v=ktE_3PrJZO0)
 - [What is everyday life like? A conversation with a North Korean Citizen.](https://archive.is/kKfIr)
-- [Why do some communists support the DPRK?](https://www.reddit.com/r/communism101/comments/1ypwmd/why_do_some_communists_support_the_dprk/)
 - [What exactly is Juche?](https://www.reddit.com/r/communism101/comments/1y172i/what_exactly_is_juche/)
 - [Is the DPRK socialist?](https://www.reddit.com/r/communism101/comments/1ygskq/is_the_dprk_socialist/)
 - [How do elections work in the DPRK?](https://www.reddit.com/r/communism101/comments/1zzeri/how_do_elections_work_in_the_dprk/)
 - [Human rights and the DPRK](https://www.reddit.com/r/communism101/comments/1tb5ho/human_rights_and_the_dprk/)
 - [What evidence is there than DPRK is not engaged in gross violations of human rights?](https://www.reddit.com/r/communism101/comments/2mfq2m/what_evidence_is_there_than_dprk_is_not_engaged/)
 - [Can someone explain Songbun (Caste system) of the DPRK to me?](https://www.reddit.com/r/communism101/comments/2dqtn3/can_someone_explain_songbun_caste_system_of_the/)
-- [What about Otto Warmbier?](https://nypost.com/2017/09/26/coroners-report-for-otto-warmbier-shows-no-signs-of-torture/)[2](https://www.reddit.com/r/communism101/comments/awuok8/with_all_of_the_news_about_north_korea_going/)
+- [What about Otto Warmbier?](https://nypost.com/2017/09/26/coroners-report-for-otto-warmbier-shows-no-signs-of-torture/), [2](https://www.reddit.com/r/communism101/comments/awuok8/with_all_of_the_news_about_north_korea_going/)
 
 ### [Do North Koreans believe in unicorns and think Kim Jong-Un is immortal?](https://www.reddit.com/r/communism/wiki/debunk#wiki_anti-communist_myth_number_1.3A_north_koreans_believe_in_unicorns_and_they_think_kim_jong-un_is_immortal)
 
@@ -1095,7 +1093,7 @@ https://web.archive.org/web/20221222165322/https://www.mkgandhi.org/mynonviolenc
 - [Wore a "tax the rich" dress at the 2021 Met Gala in New York city (a fundraiser held by New York elites), while protesters were arrested and beaten outside by police.](https://www.yahoo.com/lifestyle/alexandria-ocasio-cortez-met-gala-tax-the-rich-003540608.html) Afterwards, she sells ["Tax the Rich" merchandise on her store.](https://archive.is/IbUtn)
 - [Claims that socialist theory is only for privileged few with college educated parents, and that working class people aren't capable of understanding theory. Is unaware of the Spanish-speaking socialist tradition. ](https://medium.com/@marko_v_kobak/sharpening-the-mind-a-response-to-alexandria-ocasio-cortez-24babecac9c5?fbclid=IwAR2I8uYX9ZUvPyd5MZxKiIEeXgbgnfzulR4qjzOGF1hxK6SEX7oqkFmyBIc)
 
-### What's wrong with Elizabeth Warren?
+### What's wrong with Elizabeth Warren
 
 - [She supports Capitalism. ](https://www.cnbc.com/2018/07/23/elizabeth-warren-i-am-a-capitalist-but-markets-need-rules.html)
 - [She was a republican most of her adult life, during the Vietnam and Reagan eras... until 1996. She does not talk about her republican past in her autobiography, or speeches. She became a democrat to support free markets: "I was a Republican because I thought that those were the people who best supported markets. I think that is not true anymore"](https://www.politico.com/magazine/story/2019/04/12/elizabeth-warren-profile-young-republican-2020-president-226613) [2](https://www.washingtonexaminer.com/news/elizabeth-warren-confronted-by-her-republican-past)
