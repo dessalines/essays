@@ -1,3 +1,7 @@
+---
+custom_js: "/assets/js/main.js"
+---
+
 # Crash Course Socialism
 
 <!--toc:start-->
@@ -50,7 +54,12 @@ Socialists call this difference the [surplus](https://en.wikipedia.org/wiki/Surp
 
 `Wage Theft = Worker Value Added - Wage Paid`
 
-![image](https://i.imgur.com/Dsmp9Jy.png)
+```mermaid
+pie showData
+title Worker Value Added (hours)
+    "Wage theft" : 3.2
+    "Wage paid" : 4.8
+```
 
 Unlike workers, Capitalists make their living, not by clocking in and being paid a certain fixed wage per hour, but through [absentee ownership](https://www.reddit.com/r/communism101/comments/a0mwut/what_exactly_is_capitalism/eaj3b4a/). **Their wealth is earned while sleeping, playing golf, or visiting the mailbox** to collect pieces of this wage theft, often in the form of stock dividends. A worker's wealth is dependent on the number of hours they can work; a Capitalist's wealth is based on how much absentee property they can accumulate, and as such can multiply indefinitely. Some Capitalists earn an average worker's yearly salary in a single night's sleep.
 
