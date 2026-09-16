@@ -1,0 +1,11 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var script = document.createElement("script");
+    script.src = "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js";
+    script.onload = function () {
+      mermaid.initialize({ theme: "default" }); // Or "dark", "forest", etc.
+      mermaid.run({ nodes: document.querySelectorAll(".mermaid") });
+    };
+    document.head.appendChild(script);
+  });
+</script>
