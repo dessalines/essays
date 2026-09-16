@@ -1,7 +1,3 @@
----
-custom_js: "/assets/js/main.js"
----
-
 # Crash Course Socialism
 
 <!--toc:start-->
