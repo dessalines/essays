@@ -4,7 +4,7 @@
     script.src = "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js";
     script.onload = function () {
       mermaid.initialize({ theme: "default" }); // Or "dark", "forest", etc.
-      mermaid.run({ nodes: document.querySelectorAll(".mermaid") });
+      mermaid.run({ nodes: document.querySelectorAll(".language-mermaid") });
     };
     document.head.appendChild(script);
   });
