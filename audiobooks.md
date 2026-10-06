@@ -103,7 +103,7 @@ These are all torrent audiobooks. You may need to add [these trackers](https://r
 ## Read by others
 
 - [Howard Zinn - A People's History of the United States](magnet:?xt=urn:btih:dcd60768a9eb59cfa71eca4f5645ba34a3bebb0b&dn=Howard+Zinn+-+A+People%5C%27s+History+of+the+United+States+%5BUnabridg)
-- [Eduardo Galeano - Open Veins of Latin America, Five Centuries of the Pillage of a Continent](magnet:?xt=urn:btih:3cc58222c97db89a139260f0ca11368671bea60)
+- [Eduardo Galeano - Open Veins of Latin America, Five Centuries of the Pillage of a Continent](magnet:?xt=urn:btih:3cc58222c97db89a139260f0ca11368671bea609)
 - [Marx and Engels - The Communist Manifesto](magnet:?xt=urn:btih:7428b83a5f9a51885e12166c0895a41f7f05396a&dn=Audiobook+The+Communist+Manifesto+by+Karl+Marx+and+Friedrich+Eng)
 - [Fidel Castro - My Life](magnet:?xt=urn:btih:22156961fcefdb4b9cc4ab458f4c60b0fd186761&dn=Fidel%20Castro%20-%20My%20Life)
 - [Robert Cialdini - The Psychology of Persuasion (New and Expanded)](magnet:?xt=urn:btih:e23a07e07eea40cb172625b03253b6484fb27e2f)
