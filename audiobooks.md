@@ -99,6 +99,11 @@ These are all torrent audiobooks. You may need to add [these trackers](https://r
 - [Nicolaievsky, Maenchen-Helfen - Karl Marx - Man and Fighter (audiobook) by dessalines](magnet:?xt=urn:btih:01df5e6ba309804a5311837b084a729c5310a446&dn=Nicolaievsky%2C%20Maenchen-Helfen%20-%20Karl%20Marx%20-%20Man%20and%20Fighter%20%5Baudiobook%5D%20by%20dessalines&xl=1555139199)
 - [Nyanaponika Thera - The Five Mental Hindrances and Their Conquest (audiobook) by dessalines](magnet:?xt=urn:btih:2bb6153b9842fc40c449cac780ace957af95a77d&dn=Nyanaponika%20Thera%20-%20The%20Five%20Mental%20Hindrances%20and%20Their%20Conquest%20%5Baudiobook%5D%20by%20dessalines&xl=102017108)
 - [The Buddha - Sigalaka Sutta (audiobook) by dessalines](magnet:?xt=urn:btih:f0c740d60ab118ae1f2c9110e6f55fb82da3c188&dn=The%20Buddha%20-%20Sigalaka%20Sutta%20%5Baudiobook%5D%20by%20dessalines&xl=33376273)
+- [Victor Marchetti - The CIA and the Cult of Intelligence [audiobook] by dessalines](magnet:?xt=urn:btih:ffe0f639bacb1aaf85f9c9492bc7ac16d3cd701c&dn=Victor%20Marchetti%20-%20The%20CIA%20and%20the%20Cult%20of%20Intelligence%20%5Baudiobook%5D%20by%20dessalines&xl=382062251)
+- [Gabriel Rockhill - Who Paid the Pipers of Western Marxism [audiobook] by dessalines](magnet:?xt=urn:btih:5c139f728b8a0bfe0ec22c76cb81872723a19087&dn=Gabriel%20Rockhill%20-%20Who%20Paid%20the%20Pipers%20of%20Western%20Marxism%20%5Baudiobook%5D%20by%20dessalines&xl=329839554)
+- [Domenico Losurdo - Class Struggle [audiobook] by dessalines](magnet:?xt=urn:btih:68aa0c251e1cb810fb287edb088a7b9d412bb38b&dn=Domenico%20Losurdo%20-%20Class%20Struggle%20%5Baudiobook%5D%20by%20dessalines&xl=376686652)
+- [Bhikkhu Bodhi - The Buddhas Teachings on Social and Communal Harmony [audiobook] by dessalines](magnet:?xt=urn:btih:685e039c732c16bf5fcd09c23e1ab6a566020483&dn=Bhikkhu%20Bodhi%20-%20The%20Buddhas%20Teachings%20on%20Social%20and%20Communal%20Harmony%20%5Baudiobook%5D%20by%20dessalines&xl=184658879)
+- [Bhante Gunaratana - Buddhist Suttas for Recitation [audiobook] by dessalines](magnet:?xt=urn:btih:0fa43719034f5f4c3137b5cf09df00997483d13f&dn=Bhante%20Gunaratana%20-%20Buddhist%20Suttas%20for%20Recitation%20%5Baudiobook%5D%20by%20dessalines&xl=69584731)
 
 ## Read by others
 
